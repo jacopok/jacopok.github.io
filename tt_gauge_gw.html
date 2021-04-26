@@ -134,11 +134,12 @@ evaluate(h_def, n_vals + qdot_def + delta_vals, rhsonly=True);</div><div class='
 \)</div><div class='input_form'><div class="source donthyphenate">h_{i j} = \components_{i j}({{x, x} =  1/16 (16((\sin(\theta))**2 (\cos(\varphi))**2-1)**2-(\sin(2\theta-\varphi) + \sin(2\theta + \varphi))**2 + 8(\sin(\theta))**4 (\sin(\varphi))**4-8(\sin(\theta))**4 (\sin(\varphi))**2-8(\sin(\theta))**4 (\cos(\varphi))**2 + 8) \cos(2\omega t), {x, y} =  3/2 (-(\sin(\theta))**2 (\sin(\varphi))**2 + (\sin(\theta))**2-1) (\sin(\theta))**2 \sin(\varphi) \cos(\varphi) \cos(2\omega t), {x, z} =  3/2 (-(\cos(\theta))**2 (\cos(\varphi))**2 + (\cos(\varphi))**2-1) \sin(\theta) \cos(\theta) \cos(\varphi) \cos(2\omega t), {y, x} =  3/2 (-(\sin(\theta))**2 (\sin(\varphi))**2 + (\sin(\theta))**2-1) (\sin(\theta))**2 \sin(\varphi) \cos(\varphi) \cos(2\omega t), {y, y} =  3/2 (-(\sin(\theta))**4 (\sin(\varphi))**4 + (\sin(\theta))**4 (\sin(\varphi))**2 + (\sin(\theta))**2-1) \cos(2\omega t), {y, z} =  3/2 (-(\sin(\theta))**2 (\sin(\varphi))**2 + (\sin(\theta))**2 + 1) \sin(\theta) \sin(\varphi) \cos(\theta) \cos(2\omega t), {z, x} =  3/2 (-(\cos(\theta))**2 (\cos(\varphi))**2 + (\cos(\varphi))**2-1) \sin(\theta) \cos(\theta) \cos(\varphi) \cos(2\omega t), {z, y} =  3/2 (-(\sin(\theta))**2 (\sin(\varphi))**2 + (\sin(\theta))**2 + 1) \sin(\theta) \sin(\varphi) \cos(\theta) \cos(2\omega t), {z, z} =  1/8 ( 1/2 (1-\cos(2\theta))**2 \cos(2\varphi) -  3/2 (1-\cos(2\theta))**2-\cos(4\theta) \cos(2\varphi) + 3\cos(2\varphi)-\cos(2\theta-2\varphi)-\cos(2\theta + 2\varphi)) \cos(2\omega t)})</div></div>
 </div>
 </div>
-<div class='latex'></div>
+<div class='latex'><div class='latex_view hyphenate'><div class="source donthyphenate">We can check that the trace is zero.</div></div>
+</div>
 <div class='python'><div class="source donthyphenate">trace := h = h_{i i};
 substitute(trace, h_def);
 
-evaluate(trace, n_vals + q_def + delta_vals, rhsonly=True);</div><div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}h = h_{i i}\)</div><div class='input_form'><div class="source donthyphenate">h = h_{i i}</div></div>
+evaluate(trace, n_vals + qdot_def + delta_vals, rhsonly=True);</div><div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}h = h_{i i}\)</div><div class='input_form'><div class="source donthyphenate">h = h_{i i}</div></div>
 </div>
 <div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}h = \square{}_{i}{}_{i}\left\{\begin{aligned}\square{}_{x}{}_{x}& = \frac{1}{16}\left(16{\left({\left(\sin{\theta}\right)}^{2} {\cos\left(\varphi\right)}^{2}-1\right)}^{2}-{\left(\sin\left(2\theta-\varphi\right)+\sin\left(2\theta+\varphi\right)\right)}^{2}+8{\left(\sin{\theta}\right)}^{4} {\sin\left(\varphi\right)}^{4}-8{\left(\sin{\theta}\right)}^{4} {\sin\left(\varphi\right)}^{2}-8{\left(\sin{\theta}\right)}^{4} {\cos\left(\varphi\right)}^{2}+8\right) \cos\left(2\omega t\right)\\[-.5ex]
 \square{}_{x}{}_{y}& = \frac{3}{2}\left(-{\left(\sin{\theta}\right)}^{2} {\sin\left(\varphi\right)}^{2}+{\left(\sin{\theta}\right)}^{2}-1\right) {\left(\sin{\theta}\right)}^{2} \sin\left(\varphi\right) \cos\left(\varphi\right) \cos\left(2\omega t\right)\\[-.5ex]
@@ -155,17 +156,44 @@ evaluate(trace, n_vals + q_def + delta_vals, rhsonly=True);</div><div class='lat
 <div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}h = 0\)</div><div class='input_form'><div class="source donthyphenate">h = 0</div></div>
 </div>
 </div>
-<div class='python'><div class='error'><div class="source donthyphenate">{\color{red}{<pre class='output'>RuntimeError: Cannot yet evaluate this expression.
+<div class='python'><div class="source donthyphenate">theta_vec := {m_x = \cos(\theta) \cos(\varphi),
+				 m_y = \cos(\theta) \sin(\varphi),
+				 m_z = - \sin(\theta)
+};
 
-At:
-  &lt;string>(2): &lt;module>
-</pre>}}</div></div>
+phi_vec := {l_x = - \sin(\varphi),
+			l_y = \cos(\varphi),
+			l_z = 0
+};</div><div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}\left[m_{x} = \cos{\theta} \cos\left(\varphi\right),  m_{y} = \cos{\theta} \sin\left(\varphi\right),  m_{z} = -\sin{\theta}\right]\)</div><div class='input_form'><div class="source donthyphenate">{m_{x} = \cos(\theta) \cos(\varphi), m_{y} = \cos(\theta) \sin(\varphi), m_{z} = -\sin(\theta)}</div></div>
 </div>
-<div class='python'><div class='error'><div class="source donthyphenate">{\color{red}{<pre class='output'>RuntimeError: evaluate: Do not know values of index p.
+<div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}\left[l_{x} = -\sin\left(\varphi\right),  l_{y} = \cos\left(\varphi\right),  l_{z} = 0\right]\)</div><div class='input_form'><div class="source donthyphenate">{l_{x} = -\sin(\varphi), l_{y} = \cos(\varphi), l_{z} = 0}</div></div>
+</div>
+</div>
+<div class='python'><div class="source donthyphenate">hplus := a = h_{i j} m_{i} m_{j};
+hcross := b = h_{i j} m_{i} l_{j};
 
-At:
-  &lt;string>(2): &lt;module>
-</pre>}}</div></div>
+# denoting them as a and b because indices are meaningful --- there is a way to solve this, will do in the future
+
+substitute(hplus, h_def),
+substitute(hcross, h_def),
+
+evaluate(hplus, theta_vec+h_def);
+evaluate(hcross, theta_vec+phi_vec+h_def);</div><div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}a = h_{i j} m_{i} m_{j}\)</div><div class='input_form'><div class="source donthyphenate">a = h_{i j} m_{i} m_{j}</div></div>
+</div>
+<div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}b = h_{i j} m_{i} l_{j}\)</div><div class='input_form'><div class="source donthyphenate">b = h_{i j} m_{i} l_{j}</div></div>
+</div>
+<div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}a = \frac{1}{16}\left(-48\left(-{\left(\sin{\theta}\right)}^{2} {\sin\left(\varphi\right)}^{2}+{\left(\sin{\theta}\right)}^{2}+1\right) {\left(\sin{\theta}\right)}^{2} {\sin\left(\varphi\right)}^{2} {\left(\cos{\theta}\right)}^{2}-48\left({\left(\sin{\theta}\right)}^{2} {\sin\left(\varphi\right)}^{2}-{\left(\sin{\theta}\right)}^{2}+1\right) {\left(\sin{\theta}\right)}^{2} {\sin\left(\varphi\right)}^{2} {\left(\cos{\theta}\right)}^{2} {\cos\left(\varphi\right)}^{2}+48\left({\left(\cos{\theta}\right)}^{2} {\cos\left(\varphi\right)}^{2}-{\cos\left(\varphi\right)}^{2}+1\right) {\left(\sin{\theta}\right)}^{2} {\left(\cos{\theta}\right)}^{2} {\cos\left(\varphi\right)}^{2}-24\left({\left(\sin{\theta}\right)}^{4} {\sin\left(\varphi\right)}^{4}-{\left(\sin{\theta}\right)}^{4} {\sin\left(\varphi\right)}^{2}-{\left(\sin{\theta}\right)}^{2}+1\right) {\sin\left(\varphi\right)}^{2} {\left(\cos{\theta}\right)}^{2}-24\left({\left(\cos{\theta}\right)}^{4} {\cos\left(\varphi\right)}^{2}-{\left(\cos{\theta}\right)}^{2}-{\cos\left(\varphi\right)}^{2}+1\right) {\left(\sin{\theta}\right)}^{2}+\left(16{\left({\left(\sin{\theta}\right)}^{2} {\cos\left(\varphi\right)}^{2}-1\right)}^{2}-{\left(\sin\left(2\theta-\varphi\right)+\sin\left(2\theta+\varphi\right)\right)}^{2}+8{\left(\sin{\theta}\right)}^{4} {\sin\left(\varphi\right)}^{4}-8{\left(\sin{\theta}\right)}^{4} {\sin\left(\varphi\right)}^{2}-8{\left(\sin{\theta}\right)}^{4} {\cos\left(\varphi\right)}^{2}+8\right) {\left(\cos{\theta}\right)}^{2} {\cos\left(\varphi\right)}^{2}\right) \cos\left(2\omega t\right)\)</div><div class='input_form'><div class="source donthyphenate">a =  1/16 (-48(-(\sin(\theta))**2 (\sin(\varphi))**2 + (\sin(\theta))**2 + 1) (\sin(\theta))**2 (\sin(\varphi))**2 (\cos(\theta))**2-48((\sin(\theta))**2 (\sin(\varphi))**2-(\sin(\theta))**2 + 1) (\sin(\theta))**2 (\sin(\varphi))**2 (\cos(\theta))**2 (\cos(\varphi))**2 + 48((\cos(\theta))**2 (\cos(\varphi))**2-(\cos(\varphi))**2 + 1) (\sin(\theta))**2 (\cos(\theta))**2 (\cos(\varphi))**2-24((\sin(\theta))**4 (\sin(\varphi))**4-(\sin(\theta))**4 (\sin(\varphi))**2-(\sin(\theta))**2 + 1) (\sin(\varphi))**2 (\cos(\theta))**2-24((\cos(\theta))**4 (\cos(\varphi))**2-(\cos(\theta))**2-(\cos(\varphi))**2 + 1) (\sin(\theta))**2 + (16((\sin(\theta))**2 (\cos(\varphi))**2-1)**2-(\sin(2\theta-\varphi) + \sin(2\theta + \varphi))**2 + 8(\sin(\theta))**4 (\sin(\varphi))**4-8(\sin(\theta))**4 (\sin(\varphi))**2-8(\sin(\theta))**4 (\cos(\varphi))**2 + 8) (\cos(\theta))**2 (\cos(\varphi))**2) \cos(2\omega t)</div></div>
+</div>
+<div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}b = 3\left(2{\sin\left(\omega t\right)}^{2}-1\right) \sin\left(\varphi\right) \cos{\theta} \cos\left(\varphi\right)\)</div><div class='input_form'><div class="source donthyphenate">b = 3(2(\sin(\omega t))**2-1) \sin(\varphi) \cos(\theta) \cos(\varphi)</div></div>
+</div>
+</div>
+<div class='python'><div class="source donthyphenate">map_sympy(hplus, 'expand'),
+map_sympy(hplus, 'simplify'),
+map_sympy(hplus, 'factor');
+map_sympy(hcross, 'trigsimp');</div><div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}a = 3\left(2{\cos\left(\omega t\right)}^{2}-1\right) \left(\frac{1}{2}{\left(\cos{\theta}\right)}^{2} {\cos\left(\varphi\right)}^{2}+\frac{1}{2}{\cos\left(\varphi\right)}^{2} - \frac{1}{2}\right)\)</div><div class='input_form'><div class="source donthyphenate">a = 3(2(\cos(\omega t))**2-1) ( 1/2 (\cos(\theta))**2 (\cos(\varphi))**2 +  1/2 (\cos(\varphi))**2 -  1/2 )</div></div>
+</div>
+<div class='latex_view hyphenate'><div class="source donthyphenate">\(\displaystyle{}b = -3\sin\left(\varphi\right) \cos{\theta} \cos\left(\varphi\right) \cos\left(2\omega t\right)\)</div><div class='input_form'><div class="source donthyphenate">b = -3\sin(\varphi) \cos(\theta) \cos(\varphi) \cos(2\omega t)</div></div>
+</div>
 </div>
 <div class='python'></div>
 </body>
