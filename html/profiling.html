@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Profiling the model evaluation &mdash; mlgw_bns 0.0.2-alpha.0 documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Installation" href="install.html" />
+    <link rel="prev" title="Usage guides" href="overview.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="index.html" class="icon icon-home"> mlgw_bns
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="contact.html">Contact</a></li>
+<li class="toctree-l1"><a class="reference internal" href="overview.html">Usage guides</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Profiling the model evaluation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="install.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="model.html">Package documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dataset_generation.html">Management of a training and validation dataset</a></li>
+<li class="toctree-l1"><a class="reference internal" href="downsampling_interpolation.html">Downsampling and interpolation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="data_management.html">Data management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="principal_component_analysis.html">Principal Component Analysis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hyperparameter_optimization.html">Hyperparameter Optimization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="model_validation.html">Model Validation</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">mlgw_bns</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>Profiling the model evaluation</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/profiling.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="profiling-the-model-evaluation">
+<h1>Profiling the model evaluation<a class="headerlink" href="#profiling-the-model-evaluation" title="Permalink to this headline"></a></h1>
+<p>Within the test suite for <code class="docutils literal notranslate"><span class="pre">mlgw_bns</span></code> the evaluation time for<br />
+a prediction by a trained model is checked thanks to <code class="docutils literal notranslate"><span class="pre">pytest-benchmark</span></code>;
+however one might wish to get more granular information
+about which functions are taking the longest to run.</p>
+<p>In order to achieve this, we can make use of the <code class="docutils literal notranslate"><span class="pre">cProfile</span></code> module, combined
+with the <code class="docutils literal notranslate"><span class="pre">snakeviz</span></code> visualization tool.
+Both of these dependencies should be installed when running the command</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>poetry install
+</pre></div>
+</div>
+<p>without the <code class="docutils literal notranslate"><span class="pre">--no-dev</span></code> option.</p>
+<p>We write a script with the following imports:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">mlgw_bns</span> <span class="kn">import</span> <span class="n">Model</span>
+<span class="kn">from</span> <span class="nn">mlgw_bns.model</span> <span class="kn">import</span> <span class="n">ExtendedWaveformParameters</span>
+
+<span class="kn">import</span> <span class="nn">cProfile</span>
+<span class="kn">import</span> <span class="nn">pstats</span>
+</pre></div>
+</div>
+<p>and define a utility function for the profilation of a function’s execution:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">profile</span><span class="p">(</span><span class="n">func</span><span class="p">,</span> <span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+    
+    <span class="k">with</span> <span class="n">cProfile</span><span class="o">.</span><span class="n">Profile</span><span class="p">()</span> <span class="k">as</span> <span class="n">pr</span><span class="p">:</span>
+        <span class="n">func</span><span class="p">(</span><span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+    
+    <span class="n">stats</span> <span class="o">=</span> <span class="n">pstats</span><span class="o">.</span><span class="n">Stats</span><span class="p">(</span><span class="n">pr</span><span class="p">)</span>
+    <span class="n">stats</span><span class="o">.</span><span class="n">sort_stats</span><span class="p">(</span><span class="n">pstats</span><span class="o">.</span><span class="n">SortKey</span><span class="o">.</span><span class="n">TIME</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">stats</span>
+</pre></div>
+</div>
+<p>Now, we are ready to start profiling:
+we need a trained model, so we can either do</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">m</span> <span class="o">=</span> <span class="n">Model</span><span class="p">(</span><span class="s1">&#39;your_model_name&#39;</span><span class="p">)</span>
+<span class="n">m</span><span class="o">.</span><span class="n">load</span><span class="p">()</span>
+</pre></div>
+</div>
+<p>if the model was already generated previously, or</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">m</span> <span class="o">=</span> <span class="n">Model</span><span class="p">(</span><span class="s1">&#39;first_test&#39;</span><span class="p">)</span>
+<span class="n">m</span><span class="o">.</span><span class="n">generate</span><span class="p">()</span>
+<span class="n">m</span><span class="o">.</span><span class="n">set_hyper_and_train_nn</span><span class="p">()</span>
+</pre></div>
+</div>
+<p>where the default values for the size of the generated dataset are used.</p>
+<p>We also need a set of parameters for the generated waveform:
+an example set is given here.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">params</span> <span class="o">=</span> <span class="n">ExtendedWaveformParameters</span><span class="p">(</span>
+    <span class="n">mass_ratio</span><span class="o">=</span><span class="mf">1.0</span><span class="p">,</span>
+    <span class="n">lambda_1</span><span class="o">=</span><span class="mi">500</span><span class="p">,</span>
+    <span class="n">lambda_2</span><span class="o">=</span><span class="mi">50</span><span class="p">,</span>
+    <span class="n">chi_1</span><span class="o">=</span><span class="mf">0.1</span><span class="p">,</span>
+    <span class="n">chi_2</span><span class="o">=-</span><span class="mf">0.1</span><span class="p">,</span>
+    <span class="n">dataset</span><span class="o">=</span><span class="n">m</span><span class="o">.</span><span class="n">dataset</span><span class="p">,</span>
+    <span class="n">distance_mpc</span><span class="o">=</span><span class="mf">1.0</span><span class="p">,</span>
+    <span class="n">inclination</span><span class="o">=</span><span class="mf">0.0</span><span class="p">,</span>
+    <span class="n">reference_phase</span><span class="o">=</span><span class="mf">0.0</span><span class="p">,</span>
+    <span class="n">time_shift</span><span class="o">=</span><span class="mf">0.0</span><span class="p">,</span>
+    <span class="n">total_mass</span><span class="o">=</span><span class="mf">2.8</span><span class="p">,</span>
+<span class="p">)</span>
+</pre></div>
+</div>
+<p>We also need an array of frequencies at which the new waveform will need to be computed:
+the standard, FFT-grid frequency set is provided by
+<code class="docutils literal notranslate"><span class="pre">m.dataset.frequencies_hz</span></code>, so we can use this as a baseline.
+Its only issue is that it is very dense, so we can downsample by a certain amount,
+for example defining</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">m</span><span class="o">.</span><span class="n">dataset</span><span class="o">.</span><span class="n">frequencies_hz</span><span class="p">[::</span><span class="mi">1024</span><span class="p">]</span>
+</pre></div>
+</div>
+<p>We are almost ready to profile:
+one issue is the fact that several functions in the
+prediction pipeline are decorated to make use of <code class="docutils literal notranslate"><span class="pre">numba</span></code>’s just-in-time compilation,
+or they employ caching, therefore the first run of the prediction function will
+be very slow (on the order of a few seconds) compared to the speed
+the pipeline can achieve.</p>
+<p>To account for this, we need to make a dry run of the prediction function before
+profiling it.
+The profilation code will therefore look like:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">m</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">frequencies</span><span class="p">,</span> <span class="n">params</span><span class="p">)</span>
+
+<span class="n">stats</span> <span class="o">=</span> <span class="n">profile</span><span class="p">(</span><span class="n">m</span><span class="o">.</span><span class="n">predict</span><span class="p">,</span> <span class="n">frequencies</span><span class="p">,</span> <span class="n">params</span><span class="p">)</span>
+<span class="n">stats</span><span class="o">.</span><span class="n">dump_stats</span><span class="p">(</span><span class="s1">&#39;prediction_profile.prof&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>This will generate a profile file which is not human-readable,
+but it can be nicely visualized with the <code class="docutils literal notranslate"><span class="pre">snakeviz</span></code> utility:
+simply run</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>poetry run snakeviz prediction_profile.prof 
+</pre></div>
+</div>
+<p>from the command line, and a local webpage containing an interactive visualization
+of the execution times of the various internal functions.</p>
+<p>The expected result, if the length of the required frequencies
+is of the order of a few thousands (as is needed, for example, with reduced order quadratures),
+is that:</p>
+<ul class="simple">
+<li><p>most of the time will be taken by interpolation: the internal function
+is called <code class="docutils literal notranslate"><span class="pre">model.cartesian_waveforms_at_frequencies</span></code>, which calls
+<code class="docutils literal notranslate"><span class="pre">downsampling_interpolation.resample</span></code> twice (once for amplitude, once for phase),
+and which in turns calls the scipy low-level functions <code class="docutils literal notranslate"><span class="pre">splrep</span></code> and <code class="docutils literal notranslate"><span class="pre">splev</span></code>;</p></li>
+<li><p>some time is taken by the prediction of the waveforms (<code class="docutils literal notranslate"><span class="pre">model.Model.predict_waveforms_bulk</span></code>), of which</p>
+<ul>
+<li><p>some time (about half) is taken by the prediction of the residuals with the neural network and PCA:
+<code class="docutils literal notranslate"><span class="pre">model.Model.predict_residuals_bulk</span></code>;</p></li>
+<li><p>some time (about half) is taken by the evaluation of the post-Newtonian amplitude and phase:
+<code class="docutils literal notranslate"><span class="pre">dataset_generation.Dataset.recompose_residuals</span></code>;</p></li>
+</ul>
+</li>
+<li><p>any remaining time required should be comparatively small.</p></li>
+</ul>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="overview.html" class="btn btn-neutral float-left" title="Usage guides" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="install.html" class="btn btn-neutral float-right" title="Installation" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2021, Jacopo Tissino.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Principal Component Analysis &mdash; mlgw_bns 0.0.2-alpha.0 documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Hyperparameter Optimization" href="hyperparameter_optimization.html" />
+    <link rel="prev" title="Data management" href="data_management.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="index.html" class="icon icon-home"> mlgw_bns
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="contact.html">Contact</a></li>
+<li class="toctree-l1"><a class="reference internal" href="overview.html">Usage guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="profiling.html">Profiling the model evaluation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="install.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="model.html">Package documentation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dataset_generation.html">Management of a training and validation dataset</a></li>
+<li class="toctree-l1"><a class="reference internal" href="downsampling_interpolation.html">Downsampling and interpolation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="data_management.html">Data management</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Principal Component Analysis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hyperparameter_optimization.html">Hyperparameter Optimization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="model_validation.html">Model Validation</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">mlgw_bns</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>Principal Component Analysis</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/principal_component_analysis.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="module-mlgw_bns.principal_component_analysis">
+<span id="principal-component-analysis"></span><h1>Principal Component Analysis<a class="headerlink" href="#module-mlgw_bns.principal_component_analysis" title="Permalink to this headline"></a></h1>
+<p>Functionality for the PCA-decomposition of arbitrary data.</p>
+<p>The classes defined here are meant to be lightweight: they do not store
+the data, instead deferring its management to the higher-level <code class="xref py py-class docutils literal notranslate"><span class="pre">Model</span></code> class.</p>
+<dl class="py class">
+<dt class="sig sig-object py" id="mlgw_bns.principal_component_analysis.PrincipalComponentTraining">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">PrincipalComponentTraining</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">dataset</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="dataset_generation.html#mlgw_bns.dataset_generation.Dataset" title="mlgw_bns.dataset_generation.Dataset"><span class="pre">mlgw_bns.dataset_generation.Dataset</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">downsampling_indices</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="data_management.html#mlgw_bns.data_management.DownsamplingIndices" title="mlgw_bns.data_management.DownsamplingIndices"><span class="pre">mlgw_bns.data_management.DownsamplingIndices</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">number_of_components</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><span class="pre">int</span></a></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/mlgw_bns/principal_component_analysis.html#PrincipalComponentTraining"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.principal_component_analysis.PrincipalComponentTraining" title="Permalink to this definition"></a></dt>
+<dd><p>Training and usage of a Principal Component Analysis models.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>dataset</strong> (<a class="reference internal" href="dataset_generation.html#mlgw_bns.dataset_generation.Dataset" title="mlgw_bns.dataset_generation.Dataset"><em>Dataset</em></a>) – Used to generate the data to be used for training.</p></li>
+<li><p><strong>downsampling_indices</strong> – </p></li>
+<li><p><strong>number_of_components</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><em>int</em></a>) – Number of components to keep when reducing the dimensionality
+of the data.</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="mlgw_bns.principal_component_analysis.PrincipalComponentAnalysisModel">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">PrincipalComponentAnalysisModel</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">number_of_components</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><span class="pre">int</span></a></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/mlgw_bns/principal_component_analysis.html#PrincipalComponentAnalysisModel"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.principal_component_analysis.PrincipalComponentAnalysisModel" title="Permalink to this definition"></a></dt>
+<dd><dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.principal_component_analysis.PrincipalComponentAnalysisModel.fit">
+<span class="sig-name descname"><span class="pre">fit</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">data</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="data_management.html#mlgw_bns.data_management.PrincipalComponentData" title="mlgw_bns.data_management.PrincipalComponentData"><span class="pre">mlgw_bns.data_management.PrincipalComponentData</span></a></span></span><a class="reference internal" href="_modules/mlgw_bns/principal_component_analysis.html#PrincipalComponentAnalysisModel.fit"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.principal_component_analysis.PrincipalComponentAnalysisModel.fit" title="Permalink to this definition"></a></dt>
+<dd><p>Fit the PCA model to this dataset.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>dataset</strong> (<em>np.ndarray</em>) – Data to fit. Does not need to have zero mean.
+Should have shape
+<code class="docutils literal notranslate"><span class="pre">(number_of_datapoints,</span> <span class="pre">number_of_dimensions)</span></code></p>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>Data describing the trained PCA model.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p><a class="reference internal" href="data_management.html#mlgw_bns.data_management.PrincipalComponentData" title="mlgw_bns.data_management.PrincipalComponentData">PrincipalComponentData</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.principal_component_analysis.PrincipalComponentAnalysisModel.reconstruct_data">
+<em class="property"><span class="pre">static</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">reconstruct_data</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">reduced_data</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">pca_data</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="data_management.html#mlgw_bns.data_management.PrincipalComponentData" title="mlgw_bns.data_management.PrincipalComponentData"><span class="pre">mlgw_bns.data_management.PrincipalComponentData</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></span></span><a class="reference internal" href="_modules/mlgw_bns/principal_component_analysis.html#PrincipalComponentAnalysisModel.reconstruct_data"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.principal_component_analysis.PrincipalComponentAnalysisModel.reconstruct_data" title="Permalink to this definition"></a></dt>
+<dd><p>Reconstruct the data.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>reduced_data</strong> (<em>np.ndarray</em>) – With shape <code class="docutils literal notranslate"><span class="pre">(number_of_points,</span> <span class="pre">number_of_components)</span></code>.</p></li>
+<li><p><strong>pca_data</strong> (<a class="reference internal" href="data_management.html#mlgw_bns.data_management.PrincipalComponentData" title="mlgw_bns.data_management.PrincipalComponentData"><em>PrincipalComponentData</em></a>) – To use in the reconstruction.</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><strong>reconstructed_data</strong> – With shape <code class="docutils literal notranslate"><span class="pre">(number_of_points,</span> <span class="pre">number_of_dimensions)</span></code>.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>np.ndarray</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.principal_component_analysis.PrincipalComponentAnalysisModel.reduce_data">
+<em class="property"><span class="pre">static</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">reduce_data</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">data</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">pca_data</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="data_management.html#mlgw_bns.data_management.PrincipalComponentData" title="mlgw_bns.data_management.PrincipalComponentData"><span class="pre">mlgw_bns.data_management.PrincipalComponentData</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></span></span><a class="reference internal" href="_modules/mlgw_bns/principal_component_analysis.html#PrincipalComponentAnalysisModel.reduce_data"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.principal_component_analysis.PrincipalComponentAnalysisModel.reduce_data" title="Permalink to this definition"></a></dt>
+<dd><p>Reduce a dataset to its principal-component representation.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>data</strong> (<em>np.ndarray</em>) – With shape <code class="docutils literal notranslate"><span class="pre">(number_of_points,</span> <span class="pre">number_of_dimensions)</span></code>.</p></li>
+<li><p><strong>pca_data</strong> (<a class="reference internal" href="data_management.html#mlgw_bns.data_management.PrincipalComponentData" title="mlgw_bns.data_management.PrincipalComponentData"><em>PrincipalComponentData</em></a>) – To use in the reduction.</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><strong>reduced_data</strong> – With shape <code class="docutils literal notranslate"><span class="pre">(number_of_points,</span> <span class="pre">number_of_components)</span></code>.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>np.ndarray</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="data_management.html" class="btn btn-neutral float-left" title="Data management" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="hyperparameter_optimization.html" class="btn btn-neutral float-right" title="Hyperparameter Optimization" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2021, Jacopo Tissino.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

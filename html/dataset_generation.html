@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Management of a training and validation dataset &mdash; mlgw_bns 0.0.2-alpha.0 documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Downsampling and interpolation" href="downsampling_interpolation.html" />
+    <link rel="prev" title="Package documentation" href="model.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="index.html" class="icon icon-home"> mlgw_bns
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="contact.html">Contact</a></li>
+<li class="toctree-l1"><a class="reference internal" href="overview.html">Usage guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="profiling.html">Profiling the model evaluation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="install.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="model.html">Package documentation</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Management of a training and validation dataset</a></li>
+<li class="toctree-l1"><a class="reference internal" href="downsampling_interpolation.html">Downsampling and interpolation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="data_management.html">Data management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="principal_component_analysis.html">Principal Component Analysis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="hyperparameter_optimization.html">Hyperparameter Optimization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="model_validation.html">Model Validation</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">mlgw_bns</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+      <li>Management of a training and validation dataset</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/dataset_generation.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="module-mlgw_bns.dataset_generation">
+<span id="management-of-a-training-and-validation-dataset"></span><h1>Management of a training and validation dataset<a class="headerlink" href="#module-mlgw_bns.dataset_generation" title="Permalink to this headline"></a></h1>
+<p>Functionality for the generation of a training dataset.</p>
+<dl class="py class">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformParameters">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">WaveformParameters</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">mass_ratio</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">lambda_1</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">lambda_2</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">chi_1</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">chi_2</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">dataset</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#mlgw_bns.dataset_generation.Dataset" title="mlgw_bns.dataset_generation.Dataset"><span class="pre">mlgw_bns.dataset_generation.Dataset</span></a></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#WaveformParameters"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformParameters" title="Permalink to this definition"></a></dt>
+<dd><p>Parameters for a single waveform.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>mass_ratio</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a>) – Mass ratio of the system, <span class="math notranslate nohighlight">\(q = m_1 / m_2\)</span>,
+where <span class="math notranslate nohighlight">\(m_1 \geq m_2\)</span>, so <span class="math notranslate nohighlight">\(q \geq 1\)</span>.</p></li>
+<li><p><strong>lambda_1</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a>) – Tidal polarizability of the larger star.
+In papers it is typically denoted as <span class="math notranslate nohighlight">\(\Lambda_1\)</span>;
+for a definition see for example section D of
+<a class="reference external" href="http://arxiv.org/abs/1805.11579">this paper</a>.</p></li>
+<li><p><strong>lambda_2</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a>) – Tidal polarizability of the smaller star.</p></li>
+<li><p><strong>chi_1</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a>) – Aligned dimensionless spin component of the larger star.
+The dimensionless spin is defined as
+<span class="math notranslate nohighlight">\(\chi_i = S_i / m_i^2\)</span> in
+<span class="math notranslate nohighlight">\(c = G = 1\)</span> natural units, where
+<span class="math notranslate nohighlight">\(S_i\)</span> is the <span class="math notranslate nohighlight">\(z\)</span> component
+of the dimensionful spin vector.
+The <span class="math notranslate nohighlight">\(z\)</span> axis is defined as the one which is
+parallel to the orbital angular momentum of the binary.</p></li>
+<li><p><strong>chi_2</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a>) – Aligned spin component of the smaller star.</p></li>
+</ul>
+</dd>
+<dt class="field-even">Class Attributes</dt>
+<dd class="field-even"><p><strong>number_of_parameters</strong> (<em>int</em>) – How many intrinsic parameters are modelled.
+This class variable should equal the number of other
+floating-point attributes the class has,
+it is included for convenience.</p>
+</dd>
+</dl>
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformParameters.almost_equal_to">
+<span class="sig-name descname"><span class="pre">almost_equal_to</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">other</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#object" title="(in Python v3.10)"><span class="pre">object</span></a></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#WaveformParameters.almost_equal_to"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformParameters.almost_equal_to" title="Permalink to this definition"></a></dt>
+<dd><p>Check for equality with another set of parameters,
+accounting for imprecise floats.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformParameters.dlambda">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">dlambda</span></span><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformParameters.dlambda" title="Permalink to this definition"></a></dt>
+<dd><p>Antisymmetrized tidal deformability parameter <span class="math notranslate nohighlight">\(\delta \widetilde\Lambda\)</span>,
+which gives the next-to-largest contribution to the waveform phase.
+For the precise definition see equation 27 of <a class="reference external" href="http://arxiv.org/abs/2102.00017">this paper</a>.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformParameters.eta">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">eta</span></span><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformParameters.eta" title="Permalink to this definition"></a></dt>
+<dd><p>Symmetric mass ratio of the binary.</p>
+<p>It is defined as <span class="math notranslate nohighlight">\(\eta = \mu / M\)</span>, where
+<span class="math notranslate nohighlight">\(\mu  = (1 / m_1 + 1/ m_2)^{-1}\)</span>
+and <span class="math notranslate nohighlight">\(M = m_1 + m_2\)</span>.</p>
+<p>It can also be expressed as
+<span class="math notranslate nohighlight">\(\eta = m_1 m_2 / (m_1 + m_2)^2 = q / (1+q)^2\)</span>,
+where <span class="math notranslate nohighlight">\(q = m_1 / m_2\)</span> is the mass ratio.</p>
+<p>It is also sometimes denoted as <span class="math notranslate nohighlight">\(\nu\)</span>.
+It goes from 0 in the test-mass limit (one mass vanishing)
+to <span class="math notranslate nohighlight">\(1/4\)</span> in the equal-mass limit.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformParameters.lambdatilde">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">lambdatilde</span></span><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformParameters.lambdatilde" title="Permalink to this definition"></a></dt>
+<dd><p>Symmetrized tidal deformability parameter <span class="math notranslate nohighlight">\(\widetilde\Lambda\)</span>,
+which gives the largest contribution to the waveform phase.
+For the precise definition see equation 5 of <a class="reference external" href="http://arxiv.org/abs/1805.11579">this paper</a>.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformParameters.m_1">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">m_1</span></span><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformParameters.m_1" title="Permalink to this definition"></a></dt>
+<dd><p>Mass of the heavier star in the system, in solar masses.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformParameters.m_2">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">m_2</span></span><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformParameters.m_2" title="Permalink to this definition"></a></dt>
+<dd><p>Mass of the lighter star in the system, in solar masses.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformParameters.taylor_f2">
+<span class="sig-name descname"><span class="pre">taylor_f2</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">frequencies</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#dict" title="(in Python v3.10)"><span class="pre">dict</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">typing.Union</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><span class="pre">int</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#WaveformParameters.taylor_f2"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformParameters.taylor_f2" title="Permalink to this definition"></a></dt>
+<dd><p>Parameter dictionary in a format compatible with
+the custom implemnentation of TaylorF2 implemented within <code class="docutils literal notranslate"><span class="pre">mlgw_bns</span></code>.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>frequencies</strong> (<em>np.ndarray</em>) – The frequencies where to compute the
+waveform, to be given in natural units</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformParameters.teobresums">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">teobresums</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#dict" title="(in Python v3.10)"><span class="pre">dict</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">typing.Union</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><span class="pre">int</span></a><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></em><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformParameters.teobresums" title="Permalink to this definition"></a></dt>
+<dd><p>Parameter dictionary in a format compatible with
+TEOBResumS.</p>
+<p>The parameters are all converted to natural units.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.Dataset">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">Dataset</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">initial_frequency_hz:</span> <span class="pre">float</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">srate_hz:</span> <span class="pre">float</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">delta_f_hz:</span> <span class="pre">Optional[float]</span> <span class="pre">=</span> <span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">waveform_generator:</span> <span class="pre">mlgw_bns.dataset_generation.WaveformGenerator</span> <span class="pre">=</span> <span class="pre">&lt;mlgw_bns.dataset_generation.BarePostNewtonianGenerator</span> <span class="pre">object&gt;</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">parameter_generator_class:</span> <span class="pre">Type[mlgw_bns.dataset_generation.ParameterGenerator]</span> <span class="pre">=</span> <span class="pre">&lt;class</span> <span class="pre">'mlgw_bns.dataset_generation.UniformParameterGenerator'&gt;</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">parameter_generator_kwargs:</span> <span class="pre">Optional[dict[str</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">typing.Any]]</span> <span class="pre">=</span> <span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">seed:</span> <span class="pre">int</span> <span class="pre">=</span> <span class="pre">42</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#Dataset"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.Dataset" title="Permalink to this definition"></a></dt>
+<dd><p>Metadata for a dataset.</p>
+<p># TODO: the name of this class is misleading,
+as it contains all information contained to generate
+the dataset but not the data itself.</p>
+<p>The amplitude residuals are defined as
+<span class="math notranslate nohighlight">\(\log(A _{\text{EOB}} / A_{\text{PN}})\)</span>,
+while the phase residuals are defined as
+<span class="math notranslate nohighlight">\(\phi _{\text{EOB}} - \phi_{\text{PN}}\)</span>.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>initial_frequency_hz</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a>) – Initial frequency from which the waveforms in this dataset
+should be generated by the effective one body model.</p></li>
+<li><p><strong>srate_hz</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a>) – Sampling rate in the time domain.
+The maximum frequency of the generated time-domain waveforms will be
+half of this value (see
+<a class="reference external" href="https://en.wikipedia.org/wiki/Nyquist_frequency">Nyquist frequency</a>).</p></li>
+<li><p><strong>delta_f_hz</strong> (<em>Optional</em><em>[</em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>]</em>) – Frequency spacing for the generated waveforms.
+If it is not given, it defaults to the one computed through
+<a class="reference internal" href="#mlgw_bns.dataset_generation.Dataset.optimal_df_hz" title="mlgw_bns.dataset_generation.Dataset.optimal_df_hz"><code class="xref py py-func docutils literal notranslate"><span class="pre">Dataset.optimal_df_hz()</span></code></a>.</p></li>
+<li><p><strong>waveform_generator</strong> (<a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformGenerator" title="mlgw_bns.dataset_generation.WaveformGenerator"><em>WaveformGenerator</em></a>) – Waveform generator to be used.
+Defaults to TEOBResumSGenerator, which uses TEOB for
+the EOB waveform an a TaylorF2 approximant, with 3.5PN-correct
+amplitude and 5.5PN-correct phase.</p></li>
+<li><p><strong>parameter_generator_class</strong> (<em>Type</em><em>[</em><a class="reference internal" href="#mlgw_bns.dataset_generation.ParameterGenerator" title="mlgw_bns.dataset_generation.ParameterGenerator"><em>ParameterGenerator</em></a><em>]</em>) – Parameter generator class to be used.
+Should be a subclass of ParameterGenerator; the argument is
+the class as opposed to an instance since the parameter generator
+needs to reference the dataset and therefure must be created after it.
+Defaults to UniformParameterGenerator.</p></li>
+<li><p><strong>parameter_generator_kwargs</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#dict" title="(in Python v3.10)"><em>dict</em></a><em>[</em><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.10)"><em>str</em></a><em>, </em><em>Any</em><em>]</em>) – </p></li>
+<li><p><strong>seed</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><em>int</em></a>) – Seed for the random number generator used when generating
+waveforms for the training.
+Defaults to 42.</p></li>
+</ul>
+</dd>
+</dl>
+<p class="rubric">Examples</p>
+<div class="doctest highlight-default notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="n">dataset</span> <span class="o">=</span> <span class="n">Dataset</span><span class="p">(</span><span class="n">initial_frequency_hz</span><span class="o">=</span><span class="mf">20.</span><span class="p">,</span> <span class="n">srate_hz</span><span class="o">=</span><span class="mf">4096.</span><span class="p">)</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">print</span><span class="p">(</span><span class="n">dataset</span><span class="o">.</span><span class="n">delta_f_hz</span><span class="p">)</span> <span class="c1"># should be 1/256 Hz, doctest: +NUMBER</span>
+<span class="go">0.00390625</span>
+</pre></div>
+</div>
+<dl class="field-list simple">
+<dt class="field-odd">Class Attributes</dt>
+<dd class="field-odd"><p><strong>total_mass</strong> (<em>float</em>) – Total mass of the reference binary, in solar masses (class attribute).
+Defaults to 2.8; this does not typically need to be changed.</p>
+</dd>
+</dl>
+<dl class="py property">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.Dataset.frequencies">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">frequencies</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></em><a class="headerlink" href="#mlgw_bns.dataset_generation.Dataset.frequencies" title="Permalink to this definition"></a></dt>
+<dd><p>Frequency array corresponding to this dataset,
+in natural units.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.Dataset.frequencies_hz">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">frequencies_hz</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></em><a class="headerlink" href="#mlgw_bns.dataset_generation.Dataset.frequencies_hz" title="Permalink to this definition"></a></dt>
+<dd><p>Frequency array corresponding to this dataset,
+in Hz.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.Dataset.generate_residuals">
+<span class="sig-name descname"><span class="pre">generate_residuals</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">size</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><span class="pre">int</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">downsampling_indices</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Optional</span><span class="p"><span class="pre">[</span></span><a class="reference internal" href="data_management.html#mlgw_bns.data_management.DownsamplingIndices" title="mlgw_bns.data_management.DownsamplingIndices"><span class="pre">mlgw_bns.data_management.DownsamplingIndices</span></a><span class="p"><span class="pre">]</span></span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">flatten_phase</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#bool" title="(in Python v3.10)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">True</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">mlgw_bns.dataset_generation.ParameterSet</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference internal" href="data_management.html#mlgw_bns.data_management.Residuals" title="mlgw_bns.data_management.Residuals"><span class="pre">mlgw_bns.data_management.Residuals</span></a><span class="p"><span class="pre">]</span></span></span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#Dataset.generate_residuals"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.Dataset.generate_residuals" title="Permalink to this definition"></a></dt>
+<dd><p>Generate a set of waveform residuals.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>size</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><em>int</em></a>) – Number of waveforms to generate.</p></li>
+<li><p><strong>downsampling_indices</strong> (<em>Optional</em><em>[</em><a class="reference internal" href="data_management.html#mlgw_bns.data_management.DownsamplingIndices" title="mlgw_bns.data_management.DownsamplingIndices"><em>DownsamplingIndices</em></a><em>]</em>) – If provided, return the waveform only at these indices,
+which can be different between phase and amplitude.
+Defaults to None.</p></li>
+<li><p><strong>flatten_phase</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#bool" title="(in Python v3.10)"><em>bool</em></a>) – Whether to subtract a linear term from the phase
+such that it is roughly constant in its first section
+(through the method <code class="xref py py-func docutils literal notranslate"><span class="pre">Residuals.flatten_phase()</span></code>).
+Defaults to True,
+but it is always set to False if the downsampling indices
+are not provided.</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><ul class="simple">
+<li><p><strong>frequencies</strong> (<em>np.ndarray,</em>) – Frequencies at which the waveforms are computed,
+in natural units. This array should have shape
+<code class="docutils literal notranslate"><span class="pre">(number_of_sample_points,</span> <span class="pre">)</span></code>.</p></li>
+<li><p><strong>parameters</strong> (<em>ParameterSet</em>)</p></li>
+<li><p><strong>residuals</strong> (<em>Residuals</em>)</p></li>
+</ul>
+</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.Dataset.mlgw_bns_prefactor">
+<span class="sig-name descname"><span class="pre">mlgw_bns_prefactor</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">eta</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">total_mass</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Optional</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">]</span></span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#Dataset.mlgw_bns_prefactor"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.Dataset.mlgw_bns_prefactor" title="Permalink to this definition"></a></dt>
+<dd><p>Prefactor by which to multiply the waveform
+generated by <cite>mlgw_bns</cite>.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>eta</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a>) – Mass ratio of the binary</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.Dataset.optimal_df_hz">
+<span class="sig-name descname"><span class="pre">optimal_df_hz</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">power_of_two</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#bool" title="(in Python v3.10)"><span class="pre">bool</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">True</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">margin_percent</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">8.0</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#Dataset.optimal_df_hz"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.Dataset.optimal_df_hz" title="Permalink to this definition"></a></dt>
+<dd><p>Frequency spacing required for the condition
+<span class="math notranslate nohighlight">\(\Delta f &lt; 1/T\)</span>, where <span class="math notranslate nohighlight">\(T\)</span> is the seglen
+(length of the signal).</p>
+<p>The optimal frequency spacing <cite>df</cite> is the inverse of the seglen
+(length of the signal) rounded up to the next power of 2.</p>
+<p>The seglen has a closed-form expression in the Newtonian limit,
+see e.g. Maggiore (2007), eq. 4.21:</p>
+<p><span class="math notranslate nohighlight">\(t = 5/256 (\pi f)^{-8/3} (G M \eta^{3/5} / c^3)^{-5/3}\)</span></p>
+<p>The symmetric mass ratio <span class="math notranslate nohighlight">\(\eta\)</span> changes across our dataset,
+so we take the upper limit with <span class="math notranslate nohighlight">\(\eta = 1/4\)</span>.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>power_of_two</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#bool" title="(in Python v3.10)"><em>bool</em></a>) – whether to return a frequency spacing which is a round power of two.
+Defaults to True.</p></li>
+<li><p><strong>margin_percent</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a>) – <p>percent of margin to be added to the seglen, so that
+<span class="math notranslate nohighlight">\(\Delta f &lt; 1 / (T + \delta T)\)</span> holds for
+<span class="math notranslate nohighlight">\(\delta T \leq T (\text{margin} / 100)\)</span>.</p>
+<p>This should not be too low, since varying the waveform parameters
+can perturb the seglen and make it a bit higher than the
+Newtonian approximation used in this formula.</p>
+</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><strong>delta_f_hz</strong> – Frequency spacing, in Hz.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)">float</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.Dataset.recompose_residuals">
+<span class="sig-name descname"><span class="pre">recompose_residuals</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">residuals</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="data_management.html#mlgw_bns.data_management.Residuals" title="mlgw_bns.data_management.Residuals"><span class="pre">mlgw_bns.data_management.Residuals</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">params</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">mlgw_bns.dataset_generation.ParameterSet</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">downsampling_indices</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Optional</span><span class="p"><span class="pre">[</span></span><a class="reference internal" href="data_management.html#mlgw_bns.data_management.DownsamplingIndices" title="mlgw_bns.data_management.DownsamplingIndices"><span class="pre">mlgw_bns.data_management.DownsamplingIndices</span></a><span class="p"><span class="pre">]</span></span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference internal" href="data_management.html#mlgw_bns.data_management.FDWaveforms" title="mlgw_bns.data_management.FDWaveforms"><span class="pre">mlgw_bns.data_management.FDWaveforms</span></a></span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#Dataset.recompose_residuals"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.Dataset.recompose_residuals" title="Permalink to this definition"></a></dt>
+<dd><p>Recompose a set of residuals into true waveforms.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>residuals</strong> (<a class="reference internal" href="data_management.html#mlgw_bns.data_management.Residuals" title="mlgw_bns.data_management.Residuals"><em>Residuals</em></a>) – Residuals to recompose.</p></li>
+<li><p><strong>params</strong> (<em>ParameterSet</em>) – Parameters of the waveforms corresponding to the residuals.</p></li>
+<li><p><strong>downsampling_indices</strong> (<a class="reference internal" href="data_management.html#mlgw_bns.data_management.DownsamplingIndices" title="mlgw_bns.data_management.DownsamplingIndices"><em>DownsamplingIndices</em></a><em>, </em><em>optional</em>) – Indices at which to sample the waveforms.
+Defaults to None, which means to use the whole sampling</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>Reconstructed waveforms; these may differ from the original ones
+by a linear phase term (corresponding to a time shift) even if no manipulation
+has been done, because of how the <code class="xref py py-class docutils literal notranslate"><span class="pre">Residuals</span></code> are stored.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p><a class="reference internal" href="data_management.html#mlgw_bns.data_management.FDWaveforms" title="mlgw_bns.data_management.FDWaveforms">FDWaveforms</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.Dataset.taylor_f2_prefactor">
+<span class="sig-name descname"><span class="pre">taylor_f2_prefactor</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">eta</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a></span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#Dataset.taylor_f2_prefactor"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.Dataset.taylor_f2_prefactor" title="Permalink to this definition"></a></dt>
+<dd><p>Prefactor by which to multiply the waveform
+generated by TaylorF2.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>eta</strong> (<a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a>) – Mass ratio of the binary</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.ParameterGenerator">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">ParameterGenerator</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">dataset</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#mlgw_bns.dataset_generation.Dataset" title="mlgw_bns.dataset_generation.Dataset"><span class="pre">mlgw_bns.dataset_generation.Dataset</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">seed</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Optional</span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><span class="pre">int</span></a><span class="p"><span class="pre">]</span></span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#ParameterGenerator"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.ParameterGenerator" title="Permalink to this definition"></a></dt>
+<dd><p>Generic generator of parameters for new waveforms
+to be used for training.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>dataset</strong> (<a class="reference internal" href="#mlgw_bns.dataset_generation.Dataset" title="mlgw_bns.dataset_generation.Dataset"><em>Dataset</em></a>) – Dataset to which the generated parameters will refer.
+This parameter is required because the parameters must include
+things such as the initial frequency, which are properties of the dataset.</p></li>
+<li><p><strong>seed</strong> (<em>Optional</em><em>[</em><a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><em>int</em></a><em>]</em>) – Seed for the random number generator, optional.
+If it is not given, the <code class="xref py py-attr docutils literal notranslate"><span class="pre">Dataset.seed_sequence</span></code> of the
+dataset is used.</p></li>
+</ul>
+</dd>
+<dt class="field-even">Class Attributes</dt>
+<dd class="field-even"><p><strong>number_of_free_parameters</strong> (<em>int</em>) – Number of parameter which will vary during the random parameter generation.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">UniformParameterGenerator</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">q_range</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">]</span></span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">(1.0,</span> <span class="pre">2.0)</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">lambda1_range</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">]</span></span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">(5.0,</span> <span class="pre">5000.0)</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">lambda2_range</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">]</span></span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">(5.0,</span> <span class="pre">5000.0)</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">chi1_range</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">]</span></span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">(-</span> <span class="pre">0.5,</span> <span class="pre">0.5)</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">chi2_range</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><span class="pre">float</span></a><span class="p"><span class="pre">]</span></span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">(-</span> <span class="pre">0.5,</span> <span class="pre">0.5)</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#UniformParameterGenerator"><span class="viewcode-link"><span class="pre">[source]</span></span></a></dt>
+<dd><p>Generator of parameters according to a uniform distribution
+over their allowed ranges.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>q_range</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><em>tuple</em></a><em>[</em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>, </em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>]</em>) – Range of valid mass ratios.
+Defaults to (1., 2.).</p></li>
+<li><p><strong>lambda1_range</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><em>tuple</em></a><em>[</em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>, </em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>]</em>) – Range of valid tidal deformabilities parameters for the larger star.
+Defaults to (5., 5000.): the lower bound is not zero because that
+may create some issues with TEOB crashing.</p></li>
+<li><p><strong>lambda2_range</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><em>tuple</em></a><em>[</em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>, </em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>]</em>) – Range of valid tidal deformabilities parameters for the smaller star.
+Defaults to (5., 5000.).</p></li>
+<li><p><strong>chi1_range</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><em>tuple</em></a><em>[</em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>, </em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>]</em>) – Range of valid dimensionless aligned spins for the larger star.
+Defaults to (-.5, .5).</p></li>
+<li><p><strong>chi2_range</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><em>tuple</em></a><em>[</em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>, </em><a class="reference external" href="https://docs.python.org/3/library/functions.html#float" title="(in Python v3.10)"><em>float</em></a><em>]</em>) – Range of valid dimensionless aligned spins for the smaller star.
+Defaults to (-.5, .5).</p></li>
+</ul>
+</dd>
+<dt class="field-even">Keyword Arguments</dt>
+<dd class="field-even"><ul class="simple">
+<li><p><strong>dataset</strong> (<a class="reference internal" href="#mlgw_bns.dataset_generation.Dataset" title="mlgw_bns.dataset_generation.Dataset"><em>Dataset</em></a>) – See the documentation for the initialization of a
+<a class="reference internal" href="#mlgw_bns.dataset_generation.ParameterGenerator" title="mlgw_bns.dataset_generation.ParameterGenerator"><code class="xref py py-class docutils literal notranslate"><span class="pre">ParameterGenerator</span></code></a>.</p></li>
+<li><p><strong>seed</strong> (<em>Optional</em><em>[</em><a class="reference external" href="https://docs.python.org/3/library/functions.html#int" title="(in Python v3.10)"><em>int</em></a><em>]</em>) – See the documentation for the initialization of a
+<a class="reference internal" href="#mlgw_bns.dataset_generation.ParameterGenerator" title="mlgw_bns.dataset_generation.ParameterGenerator"><code class="xref py py-class docutils literal notranslate"><span class="pre">ParameterGenerator</span></code></a>.</p></li>
+</ul>
+</dd>
+</dl>
+<p class="rubric">Examples</p>
+<div class="doctest highlight-default notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="n">generator</span> <span class="o">=</span> <span class="n">UniformParameterGenerator</span><span class="p">(</span><span class="n">dataset</span><span class="o">=</span><span class="n">Dataset</span><span class="p">(</span><span class="mf">20.</span><span class="p">,</span> <span class="mf">4096.</span><span class="p">))</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">params</span> <span class="o">=</span> <span class="nb">next</span><span class="p">(</span><span class="n">generator</span><span class="p">)</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">params</span><span class="p">))</span>
+<span class="go">&lt;class &#39;mlgw_bns.dataset_generation.WaveformParameters&#39;&gt;</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">print</span><span class="p">(</span><span class="n">params</span><span class="o">.</span><span class="n">mass_ratio</span><span class="p">)</span> 
+<span class="go">1.96</span>
+</pre></div>
+</div>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformGenerator">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">WaveformGenerator</span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#WaveformGenerator"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformGenerator" title="Permalink to this definition"></a></dt>
+<dd><p>Generator of theoretical waveforms
+according to some pre-existing model.</p>
+<p>This is an abstract class: users may extend <code class="docutils literal notranslate"><span class="pre">mlgw_bns</span></code> by
+subclassing this and training a networks using that new waveform generator.</p>
+<p>This can be accomplished by implementing the methods
+<a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_amplitude" title="mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_amplitude"><code class="xref py py-meth docutils literal notranslate"><span class="pre">post_newtonian_amplitude()</span></code></a>,
+<a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_phase" title="mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_phase"><code class="xref py py-meth docutils literal notranslate"><span class="pre">post_newtonian_phase()</span></code></a> and
+<a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformGenerator.effective_one_body_waveform" title="mlgw_bns.dataset_generation.WaveformGenerator.effective_one_body_waveform"><code class="xref py py-meth docutils literal notranslate"><span class="pre">effective_one_body_waveform()</span></code></a>.</p>
+<p>Users may wish to leave the Post-Newtonian model already implemented here
+and only switch TEOBResumS to another waveform template:
+the easiest way to accomplish this is to subclass TEOBResumSGenerator
+and only override its <a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformGenerator.effective_one_body_waveform" title="mlgw_bns.dataset_generation.WaveformGenerator.effective_one_body_waveform"><code class="xref py py-meth docutils literal notranslate"><span class="pre">effective_one_body_waveform()</span></code></a> method.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformGenerator.effective_one_body_waveform">
+<em class="property"><span class="pre">abstract</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">effective_one_body_waveform</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">params</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters" title="mlgw_bns.dataset_generation.WaveformParameters"><span class="pre">mlgw_bns.dataset_generation.WaveformParameters</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a><span class="p"><span class="pre">]</span></span></span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#WaveformGenerator.effective_one_body_waveform"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformGenerator.effective_one_body_waveform" title="Permalink to this definition"></a></dt>
+<dd><p>Waveform</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>params</strong> (<a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters" title="mlgw_bns.dataset_generation.WaveformParameters"><em>WaveformParameters</em></a>) – Parameters of the binary system for which to generate the waveform.</p>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><ul class="simple">
+<li><p><strong>frequencies</strong> (<em>np.ndarray</em>) – Frequencies at which the waveform is given, in natural units:
+the quantity here is <span class="math notranslate nohighlight">\(Mf\)</span> (with <span class="math notranslate nohighlight">\(G = c = 1\)</span>).</p></li>
+<li><p><strong>cartesian_waveform</strong> (<em>np.ndarray</em>) – Cartesian form of the plus-polarized waveform.
+The normalization for the amplitude is the same as discussed
+in <a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_amplitude" title="mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_amplitude"><code class="xref py py-func docutils literal notranslate"><span class="pre">post_newtonian_amplitude()</span></code></a>.</p></li>
+</ul>
+</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformGenerator.generate_residuals">
+<span class="sig-name descname"><span class="pre">generate_residuals</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">params</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters" title="mlgw_bns.dataset_generation.WaveformParameters"><span class="pre">mlgw_bns.dataset_generation.WaveformParameters</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">downsampling_indices</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Optional</span><span class="p"><span class="pre">[</span></span><a class="reference internal" href="data_management.html#mlgw_bns.data_management.DownsamplingIndices" title="mlgw_bns.data_management.DownsamplingIndices"><span class="pre">mlgw_bns.data_management.DownsamplingIndices</span></a><span class="p"><span class="pre">]</span></span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a><span class="p"><span class="pre">]</span></span></span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#WaveformGenerator.generate_residuals"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformGenerator.generate_residuals" title="Permalink to this definition"></a></dt>
+<dd><p>Compute the residuals of the <a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformGenerator.effective_one_body_waveform" title="mlgw_bns.dataset_generation.WaveformGenerator.effective_one_body_waveform"><code class="xref py py-func docutils literal notranslate"><span class="pre">effective_one_body_waveform()</span></code></a>
+from the Post-Newtonian one computed with
+<a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_amplitude" title="mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_amplitude"><code class="xref py py-func docutils literal notranslate"><span class="pre">post_newtonian_amplitude()</span></code></a> and
+<a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_phase" title="mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_phase"><code class="xref py py-func docutils literal notranslate"><span class="pre">post_newtonian_phase()</span></code></a>.</p>
+<p>Residuals are defined as discussed in <a class="reference internal" href="#mlgw_bns.dataset_generation.Dataset" title="mlgw_bns.dataset_generation.Dataset"><code class="xref py py-class docutils literal notranslate"><span class="pre">Dataset</span></code></a>.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>params</strong> (<a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters" title="mlgw_bns.dataset_generation.WaveformParameters"><em>WaveformParameters</em></a>) – Parameters for which to compute the residuals.</p></li>
+<li><p><strong>downsampling_indices</strong> (<em>Optional</em><em>[</em><a class="reference internal" href="data_management.html#mlgw_bns.data_management.DownsamplingIndices" title="mlgw_bns.data_management.DownsamplingIndices"><em>DownsamplingIndices</em></a><em>]</em>) – Indices at which to compute the residuals.
+If not provided (default) the waveform is given at
+all indices corresponding to the default FFT grid.</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>Amplitude residuals and phase residuals.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)">tuple</a>[np.ndarray, np.ndarray]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_amplitude">
+<em class="property"><span class="pre">abstract</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">post_newtonian_amplitude</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">params</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters" title="mlgw_bns.dataset_generation.WaveformParameters"><span class="pre">mlgw_bns.dataset_generation.WaveformParameters</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">frequencies</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#WaveformGenerator.post_newtonian_amplitude"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_amplitude" title="Permalink to this definition"></a></dt>
+<dd><p>Amplitude of the Fourier transform of the waveform computed
+at arbitrary frequencies.
+This should be implemented in some fast, closed-form way.
+The speed of the overall model relies on the evaluation
+of this function not taking too long.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>params</strong> (<a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters" title="mlgw_bns.dataset_generation.WaveformParameters"><em>WaveformParameters</em></a>) – Parameters of the binary system for which to generate the waveform.</p></li>
+<li><p><strong>frequencies</strong> (<em>np.ndarray</em>) – Array of frequencies at which to compute the amplitude.
+Should be given in mass-rescaled natural units; they will be
+passed to <a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters.taylor_f2" title="mlgw_bns.dataset_generation.WaveformParameters.taylor_f2"><code class="xref py py-func docutils literal notranslate"><span class="pre">WaveformParameters.taylor_f2()</span></code></a>.</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><strong>amplitude</strong> – Amplitude of the Fourier transform of the waveform,
+given with the natural-units convention
+<span class="math notranslate nohighlight">\(|\widetilde{h}_+(f)| r \eta / M^2\)</span>,
+where we are using <span class="math notranslate nohighlight">\(c=  G = 1\)</span> natural units,
+<span class="math notranslate nohighlight">\(r\)</span> is the distance to the binary,
+<span class="math notranslate nohighlight">\(\eta\)</span> is the symmetric mass ratio,
+<span class="math notranslate nohighlight">\(M\)</span> is the total mass of the binary.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>np.ndarray</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_phase">
+<em class="property"><span class="pre">abstract</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">post_newtonian_phase</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">params</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters" title="mlgw_bns.dataset_generation.WaveformParameters"><span class="pre">mlgw_bns.dataset_generation.WaveformParameters</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">frequencies</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a></span></span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#WaveformGenerator.post_newtonian_phase"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#mlgw_bns.dataset_generation.WaveformGenerator.post_newtonian_phase" title="Permalink to this definition"></a></dt>
+<dd><p>Phase of the Fourier transform of the waveform computed
+at arbitrary frequencies.
+This should be implemented in some fast, closed-form way.
+The speed of the overall model relies on the evaluation
+of this not taking too long.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>params</strong> (<a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters" title="mlgw_bns.dataset_generation.WaveformParameters"><em>WaveformParameters</em></a>) – Parameters of the binary system for which to generate the waveform.</p></li>
+<li><p><strong>frequencies</strong> (<em>np.ndarray</em>) – Array of frequencies at which to compute the phase.
+Should be given in mass-rescaled natural units; they will be
+passed to <a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters.taylor_f2" title="mlgw_bns.dataset_generation.WaveformParameters.taylor_f2"><code class="xref py py-func docutils literal notranslate"><span class="pre">WaveformParameters.taylor_f2()</span></code></a>.</p></li>
+</ul>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><strong>phase</strong> – Phase of the Fourier transform of the waveform,
+specifically the phase of the plus polarization in radians.
+At the <span class="math notranslate nohighlight">\((\ell = 2, m =2)\)</span> multipole,
+the phase of the cross-polarization will simply by <span class="math notranslate nohighlight">\(\pi/2\)</span>
+plus this one.</p>
+</dd>
+<dt class="field-odd">Return type</dt>
+<dd class="field-odd"><p>np.ndarray</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">TEOBResumSGenerator</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">eobrun_callable</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">Callable</span><span class="p"><span class="pre">[</span></span><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#dict" title="(in Python v3.10)"><span class="pre">dict</span></a><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#tuple" title="(in Python v3.10)"><span class="pre">tuple</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://numpy.org/devdocs/reference/generated/numpy.ndarray.html#numpy.ndarray" title="(in NumPy v1.23.dev0)"><span class="pre">numpy.ndarray</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#TEOBResumSGenerator"><span class="viewcode-link"><span class="pre">[source]</span></span></a></dt>
+<dd><p>Generate waveforms using the
+TEOBResumS effective-one-body code</p>
+<dl class="py method">
+<dt class="sig sig-object py">
+<span class="sig-name descname"><span class="pre">effective_one_body_waveform</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">params</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#mlgw_bns.dataset_generation.WaveformParameters" title="mlgw_bns.dataset_generation.WaveformParameters"><span class="pre">mlgw_bns.dataset_generation.WaveformParameters</span></a></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/mlgw_bns/dataset_generation.html#TEOBResumSGenerator.effective_one_body_waveform"><span class="viewcode-link"><span class="pre">[source]</span></span></a></dt>
+<dd><p>Generate an EOB waveform with TEOB.</p>
+<p class="rubric">Examples</p>
+<div class="doctest highlight-default notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="kn">from</span> <span class="nn">EOBRun_module</span> <span class="kn">import</span> <span class="n">EOBRunPy</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">tg</span> <span class="o">=</span> <span class="n">TEOBResumSGenerator</span><span class="p">(</span><span class="n">EOBRunPy</span><span class="p">)</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">p</span> <span class="o">=</span> <span class="n">WaveformParameters</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">300</span><span class="p">,</span> <span class="mi">300</span><span class="p">,</span> <span class="mf">.3</span><span class="p">,</span> <span class="o">-</span><span class="mf">.3</span><span class="p">,</span> <span class="n">Dataset</span><span class="p">(</span><span class="mf">20.</span><span class="p">,</span> <span class="mf">4096.</span><span class="p">))</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="n">f</span><span class="p">,</span> <span class="n">waveform</span> <span class="o">=</span> <span class="n">tg</span><span class="o">.</span><span class="n">effective_one_body_waveform</span><span class="p">(</span><span class="n">p</span><span class="p">)</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">waveform</span><span class="p">))</span>
+<span class="go">519169</span>
+<span class="gp">&gt;&gt;&gt; </span><span class="nb">print</span><span class="p">(</span><span class="n">waveform</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span> 
+<span class="go">(4679.9+3758.8j)</span>
+</pre></div>
+</div>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="model.html" class="btn btn-neutral float-left" title="Package documentation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="downsampling_interpolation.html" class="btn btn-neutral float-right" title="Downsampling and interpolation" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2021, Jacopo Tissino.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

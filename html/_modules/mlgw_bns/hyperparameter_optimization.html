@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>mlgw_bns.hyperparameter_optimization &mdash; mlgw_bns 0.0.2-alpha.0 documentation</title>
+      <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../index.html" class="icon icon-home"> mlgw_bns
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contact</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../contact.html">Contact</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Usage guides</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../usage_guides/install.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../usage_guides/overview.html">Overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../usage_guides/profiling.html">Profiling the model evaluation</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Package reference</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../package_reference/index.html">Package reference</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">mlgw_bns</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../index.html">Module code</a> &raquo;</li>
+      <li>mlgw_bns.hyperparameter_optimization</li>
+      <li class="wy-breadcrumbs-aside">
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <h1>Source code for mlgw_bns.hyperparameter_optimization</h1><div class="highlight"><pre>
+<span></span><span class="kn">import</span> <span class="nn">datetime</span>
+<span class="kn">import</span> <span class="nn">logging</span>
+<span class="kn">from</span> <span class="nn">dataclasses</span> <span class="kn">import</span> <span class="n">dataclass</span>
+<span class="kn">from</span> <span class="nn">time</span> <span class="kn">import</span> <span class="n">perf_counter</span>
+<span class="kn">from</span> <span class="nn">typing</span> <span class="kn">import</span> <span class="n">Callable</span><span class="p">,</span> <span class="n">ClassVar</span><span class="p">,</span> <span class="n">Optional</span>
+
+<span class="kn">import</span> <span class="nn">joblib</span>  <span class="c1"># type: ignore</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="kn">import</span> <span class="nn">optuna</span>
+<span class="kn">from</span> <span class="nn">optuna.visualization</span> <span class="kn">import</span> <span class="p">(</span>
+    <span class="n">plot_parallel_coordinate</span><span class="p">,</span>
+    <span class="n">plot_param_importances</span><span class="p">,</span>
+    <span class="n">plot_pareto_front</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="kn">from</span> <span class="nn">sklearn.neural_network</span> <span class="kn">import</span> <span class="n">MLPRegressor</span>  <span class="c1"># type: ignore</span>
+
+<span class="kn">from</span> <span class="nn">.data_management</span> <span class="kn">import</span> <span class="n">Residuals</span>
+<span class="kn">from</span> <span class="nn">.model</span> <span class="kn">import</span> <span class="n">Hyperparameters</span><span class="p">,</span> <span class="n">Model</span><span class="p">,</span> <span class="n">best_trial_under_n</span>
+
+
+<div class="viewcode-block" id="HyperparameterOptimization"><a class="viewcode-back" href="../../package_reference/hyperparameter_optimization.html#mlgw_bns.hyperparameter_optimization.HyperparameterOptimization">[docs]</a><span class="k">class</span> <span class="nc">HyperparameterOptimization</span><span class="p">:</span>
+    <span class="sd">&quot;&quot;&quot;Manager for the optimization of the hyperparameters</span>
+<span class="sd">    corresponding to a certain :class:`Model`.</span>
+
+<span class="sd">    The optimization performed is over two variables:</span>
+<span class="sd">    the reconstruction accuracy and the training time.</span>
+
+<span class="sd">    **Reconstruction accuracy** is quantified by looking at the average</span>
+<span class="sd">    square error in the reconstruction of the residuals;</span>
+<span class="sd">    spefifically, the average is taken over both amplitude and phase residuals,</span>
+<span class="sd">    and the value returned by the :meth:`objective` function is the base-10</span>
+<span class="sd">    logarithm of this.</span>
+
+<span class="sd">    **Training time** accounts for both the time required to train the</span>
+<span class="sd">    neural network and the estimated time required to generate the waveforms</span>
+<span class="sd">    needed for the training.</span>
+<span class="sd">    This can vary, since one of the hyperparameters varied in the training</span>
+<span class="sd">    is the number of waveforms in the training dataset.</span>
+
+<span class="sd">    Including it is convenient since having more waveforms ---</span>
+<span class="sd">    a finer sampling of the waveform space ---</span>
+<span class="sd">    means the optimal network might be different.</span>
+
+<span class="sd">    However, only ever training networks with as large a number of waveforms</span>
+<span class="sd">    as we might wish to use in the end gets expensive;</span>
+<span class="sd">    therefore, we vary the number of training waveforms in the optimization,</span>
+<span class="sd">    so that the optuna study is able to learn the basic region of parameter space</span>
+<span class="sd">    which it is best to explore, and then extend that knowledge to the</span>
+<span class="sd">    new region of the parameter space with more training waveforms.</span>
+
+<span class="sd">    The inclusion of this cost term is needed since, typically,</span>
+<span class="sd">    using more waveforms will yield a better fit.</span>
+<span class="sd">    So, we do multi-parameter optimization: see, for example,</span>
+<span class="sd">    `Multiobjective tree-structured parzen estimator</span>
+<span class="sd">    for computationally expensive optimization problems &lt;https://doi.org/10.1145/3377930.3389817&gt;`_</span>
+<span class="sd">    by Ozaki et al.</span>
+
+<span class="sd">    To visualize the Pareto front of the optimization, one can use the</span>
+<span class="sd">    :meth:`plot_pareto` method after an optimization run.</span>
+
+<span class="sd">    Parameters</span>
+<span class="sd">    ----------</span>
+<span class="sd">    model: Model</span>
+<span class="sd">            Reference model for the optimization.</span>
+<span class="sd">    optimization_seed: int, optional</span>
+<span class="sd">            Seed for the random number to be used in the optimization.</span>
+<span class="sd">            Defaults to 42.</span>
+<span class="sd">    hyper_validation_fraction: float</span>
+<span class="sd">            Fraction of the data to be used in validation</span>
+<span class="sd">            during the optimization.</span>
+<span class="sd">    study: optuna.Study, optional</span>
+<span class="sd">            Pre-made study to use.</span>
+<span class="sd">            Defaults to None; if not provided,</span>
+<span class="sd">            the initializer looks for a file with the correct name</span>
+<span class="sd">            in the local directory and uses it,</span>
+<span class="sd">            and it creates a new study if it cannot find it.</span>
+
+<span class="sd">    Class Attributes</span>
+<span class="sd">    waveform_gen_time: float</span>
+<span class="sd">            Reference generation time for a single waveform,</span>
+<span class="sd">            to be used in the computation of the effective time</span>
+<span class="sd">            in the :meth:`objective`.</span>
+<span class="sd">            Defaults to 0.1.</span>
+<span class="sd">    save_every_n_minutes: float</span>
+<span class="sd">            When running the optimization through :meth:`optimize`,</span>
+<span class="sd">            every how many minutes to save the study.</span>
+<span class="sd">            Defaults to 30.</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+
+    <span class="n">waveform_gen_time</span><span class="p">:</span> <span class="nb">float</span> <span class="o">=</span> <span class="mf">0.1</span>
+
+    <span class="n">save_every_n_minutes</span><span class="p">:</span> <span class="nb">float</span> <span class="o">=</span> <span class="mf">30.0</span>
+
+    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span>
+        <span class="bp">self</span><span class="p">,</span>
+        <span class="n">model</span><span class="p">:</span> <span class="n">Model</span><span class="p">,</span>
+        <span class="n">optimization_seed</span><span class="p">:</span> <span class="nb">int</span> <span class="o">=</span> <span class="mi">42</span><span class="p">,</span>
+        <span class="n">hyper_validation_fraction</span><span class="p">:</span> <span class="nb">float</span> <span class="o">=</span> <span class="mf">0.1</span><span class="p">,</span>
+        <span class="n">study</span><span class="p">:</span> <span class="n">Optional</span><span class="p">[</span><span class="n">optuna</span><span class="o">.</span><span class="n">Study</span><span class="p">]</span> <span class="o">=</span> <span class="kc">None</span><span class="p">,</span>
+    <span class="p">):</span>
+
+        <span class="k">assert</span> <span class="n">model</span><span class="o">.</span><span class="n">auxiliary_data_available</span>
+        <span class="k">assert</span> <span class="n">model</span><span class="o">.</span><span class="n">training_dataset_available</span>
+
+        <span class="bp">self</span><span class="o">.</span><span class="n">model</span> <span class="o">=</span> <span class="n">model</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">rng</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">default_rng</span><span class="p">(</span><span class="n">seed</span><span class="o">=</span><span class="n">optimization_seed</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">hyper_validation_fraction</span> <span class="o">=</span> <span class="n">hyper_validation_fraction</span>
+
+        <span class="k">if</span> <span class="n">study</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+            <span class="k">try</span><span class="p">:</span>
+                <span class="bp">self</span><span class="o">.</span><span class="n">study</span><span class="p">:</span> <span class="n">optuna</span><span class="o">.</span><span class="n">Study</span> <span class="o">=</span> <span class="n">joblib</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">study_filename</span><span class="p">)</span>
+                <span class="n">logging</span><span class="o">.</span><span class="n">info</span><span class="p">(</span><span class="s2">&quot;Loading study from </span><span class="si">%s</span><span class="s2">&quot;</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">study_filename</span><span class="p">)</span>
+            <span class="k">except</span> <span class="ne">FileNotFoundError</span><span class="p">:</span>
+                <span class="bp">self</span><span class="o">.</span><span class="n">study</span> <span class="o">=</span> <span class="n">optuna</span><span class="o">.</span><span class="n">create_study</span><span class="p">(</span>
+                    <span class="n">directions</span><span class="o">=</span><span class="p">[</span><span class="s2">&quot;minimize&quot;</span><span class="p">,</span> <span class="s2">&quot;minimize&quot;</span><span class="p">],</span> <span class="n">study_name</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">filename</span>
+                <span class="p">)</span>
+                <span class="n">logging</span><span class="o">.</span><span class="n">info</span><span class="p">(</span><span class="s2">&quot;Creating new study&quot;</span><span class="p">)</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">study</span> <span class="o">=</span> <span class="n">study</span>
+
+    <span class="nd">@property</span>
+    <span class="k">def</span> <span class="nf">training_data_number</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">int</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Number of available training waveforms.&quot;&quot;&quot;</span>
+        <span class="k">assert</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">training_dataset</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span>
+        <span class="k">return</span> <span class="nb">len</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">training_dataset</span><span class="p">)</span>
+
+    <span class="nd">@property</span>
+    <span class="k">def</span> <span class="nf">study_filename</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">str</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Name of the file to save the study to.&quot;&quot;&quot;</span>
+        <span class="k">return</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">filename</span><span class="si">}</span><span class="s2">_study.pkl&quot;</span>
+
+<div class="viewcode-block" id="HyperparameterOptimization.objective"><a class="viewcode-back" href="../../package_reference/hyperparameter_optimization.html#mlgw_bns.hyperparameter_optimization.HyperparameterOptimization.objective">[docs]</a>    <span class="k">def</span> <span class="nf">objective</span><span class="p">(</span>
+        <span class="bp">self</span><span class="p">,</span>
+        <span class="n">trial</span><span class="p">:</span> <span class="n">optuna</span><span class="o">.</span><span class="n">Trial</span><span class="p">,</span>
+    <span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">tuple</span><span class="p">[</span><span class="nb">float</span><span class="p">,</span> <span class="nb">float</span><span class="p">]:</span>
+        <span class="sd">&quot;&quot;&quot;Objective function to be used when optimizing the hyperparameters</span>
+<span class="sd">        for the neural network and PCA.</span>
+
+<span class="sd">        Parameters</span>
+<span class="sd">        ----------</span>
+<span class="sd">        trial : optuna.Trial</span>
+<span class="sd">                This object is required to generate the parameters</span>
+<span class="sd">                according to the rules of the :module:``optuna`` optimizer used.</span>
+
+<span class="sd">        Returns</span>
+<span class="sd">        -------</span>
+<span class="sd">        tuple[float, float]</span>
+<span class="sd">                Base-10 logarithm of the accuracy and training time, respectively.</span>
+
+<span class="sd">                The accuracy is defined as the average of the square differences between</span>
+<span class="sd">                the true and estimated residuals.</span>
+
+<span class="sd">                The training time includes both the training of the network and,</span>
+<span class="sd">                roughly, the generation of the waveforms used for training.</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+        <span class="k">assert</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">training_dataset</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span>
+        <span class="k">assert</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">training_parameters</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span>
+
+        <span class="c1"># train network on a subset of the data</span>
+        <span class="n">validation_data_number</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">hyper_validation_fraction</span> <span class="o">*</span> <span class="bp">self</span><span class="o">.</span><span class="n">training_data_number</span>
+        <span class="p">)</span>
+
+        <span class="n">hyper</span> <span class="o">=</span> <span class="n">Hyperparameters</span><span class="o">.</span><span class="n">from_trial</span><span class="p">(</span>
+            <span class="n">trial</span><span class="p">,</span> <span class="n">n_train_max</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">training_data_number</span> <span class="o">-</span> <span class="n">validation_data_number</span>
+        <span class="p">)</span>
+
+        <span class="k">assert</span> <span class="n">hyper</span><span class="o">.</span><span class="n">n_train</span> <span class="o">+</span> <span class="n">validation_data_number</span> <span class="o">&lt;=</span> <span class="bp">self</span><span class="o">.</span><span class="n">training_data_number</span>
+
+        <span class="n">shuffled_indices</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">rng</span><span class="o">.</span><span class="n">choice</span><span class="p">(</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">training_data_number</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">training_data_number</span><span class="p">,</span> <span class="n">replace</span><span class="o">=</span><span class="kc">False</span>
+        <span class="p">)</span>
+        <span class="n">training_indices</span> <span class="o">=</span> <span class="n">shuffled_indices</span><span class="p">[:</span> <span class="n">hyper</span><span class="o">.</span><span class="n">n_train</span><span class="p">]</span>
+        <span class="n">validation_indices</span> <span class="o">=</span> <span class="n">shuffled_indices</span><span class="p">[</span><span class="o">-</span><span class="n">validation_data_number</span><span class="p">:]</span>
+
+        <span class="n">start_time</span> <span class="o">=</span> <span class="n">perf_counter</span><span class="p">()</span>
+        <span class="n">nn</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">train_nn</span><span class="p">(</span><span class="n">hyper</span><span class="p">,</span> <span class="n">training_indices</span><span class="p">)</span>
+        <span class="n">end_time</span> <span class="o">=</span> <span class="n">perf_counter</span><span class="p">()</span>
+
+        <span class="n">effective_time</span> <span class="o">=</span> <span class="p">(</span>
+            <span class="n">end_time</span> <span class="o">-</span> <span class="n">start_time</span>
+        <span class="p">)</span> <span class="o">+</span> <span class="bp">self</span><span class="o">.</span><span class="n">waveform_gen_time</span> <span class="o">*</span> <span class="n">hyper</span><span class="o">.</span><span class="n">n_train</span>
+
+        <span class="c1"># validate on another subset of the data</span>
+        <span class="n">predicted_residuals</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">predict_residuals_bulk</span><span class="p">(</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">training_parameters</span><span class="p">[</span><span class="n">validation_indices</span><span class="p">],</span> <span class="n">nn</span><span class="p">,</span> <span class="n">hyper</span>
+        <span class="p">)</span>
+
+        <span class="n">accuracy</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">residuals_difference</span><span class="p">(</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">training_dataset</span><span class="p">[</span><span class="n">validation_indices</span><span class="p">],</span> <span class="n">predicted_residuals</span>
+        <span class="p">)</span>
+
+        <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">log10</span><span class="p">(</span><span class="n">accuracy</span><span class="p">),</span> <span class="n">np</span><span class="o">.</span><span class="n">log10</span><span class="p">(</span><span class="n">effective_time</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="HyperparameterOptimization.residuals_difference"><a class="viewcode-back" href="../../package_reference/hyperparameter_optimization.html#mlgw_bns.hyperparameter_optimization.HyperparameterOptimization.residuals_difference">[docs]</a>    <span class="nd">@staticmethod</span>
+    <span class="k">def</span> <span class="nf">residuals_difference</span><span class="p">(</span><span class="n">residuals_1</span><span class="p">:</span> <span class="n">Residuals</span><span class="p">,</span> <span class="n">residuals_2</span><span class="p">:</span> <span class="n">Residuals</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">float</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Compare two sets of :class:`Residuals`.</span>
+
+<span class="sd">        Parameters</span>
+<span class="sd">        ----------</span>
+<span class="sd">        residuals_1 : Residuals</span>
+<span class="sd">            First set of residuals to be compared.</span>
+<span class="sd">        residuals_2 : Residuals</span>
+<span class="sd">            Second set of residuals to be compared.</span>
+
+<span class="sd">        Returns</span>
+<span class="sd">        -------</span>
+<span class="sd">        float</span>
+<span class="sd">            The average square-difference between the two residual sets.</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+
+        <span class="n">amp_square_differences</span> <span class="o">=</span> <span class="p">(</span>
+            <span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">residuals_1</span><span class="o">.</span><span class="n">amplitude_residuals</span> <span class="o">-</span> <span class="n">residuals_2</span><span class="o">.</span><span class="n">amplitude_residuals</span><span class="p">)</span>
+            <span class="o">**</span> <span class="mi">2</span>
+        <span class="p">)</span>
+        <span class="n">phi_square_differences</span> <span class="o">=</span> <span class="p">(</span>
+            <span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">residuals_1</span><span class="o">.</span><span class="n">phase_residuals</span> <span class="o">-</span> <span class="n">residuals_2</span><span class="o">.</span><span class="n">phase_residuals</span><span class="p">)</span> <span class="o">**</span> <span class="mi">2</span>
+        <span class="p">)</span>
+
+        <span class="k">return</span> <span class="p">(</span>
+            <span class="n">np</span><span class="o">.</span><span class="n">average</span><span class="p">(</span><span class="n">amp_square_differences</span><span class="p">)</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">average</span><span class="p">(</span><span class="n">phi_square_differences</span><span class="p">)</span>
+        <span class="p">)</span> <span class="o">/</span> <span class="mf">2.0</span></div>
+
+<div class="viewcode-block" id="HyperparameterOptimization.optimize"><a class="viewcode-back" href="../../package_reference/hyperparameter_optimization.html#mlgw_bns.hyperparameter_optimization.HyperparameterOptimization.optimize">[docs]</a>    <span class="k">def</span> <span class="nf">optimize</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">timeout_min</span><span class="p">:</span> <span class="nb">float</span> <span class="o">=</span> <span class="mf">5.0</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Run the optimization ---</span>
+<span class="sd">        this is a wrapper around :meth:`optuna.Study.optimize` ---</span>
+<span class="sd">        for a certain amount of minutes.</span>
+
+<span class="sd">        Parameters</span>
+<span class="sd">        ----------</span>
+<span class="sd">        timeout_min : float, optional</span>
+<span class="sd">            Number of minutes to run for, by default 5</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+
+        <span class="n">obj</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">trial</span><span class="p">:</span> <span class="bp">self</span><span class="o">.</span><span class="n">objective</span><span class="p">(</span><span class="n">trial</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">study</span><span class="o">.</span><span class="n">optimize</span><span class="p">(</span><span class="n">obj</span><span class="p">,</span> <span class="n">timeout</span><span class="o">=</span><span class="n">timeout_min</span> <span class="o">*</span> <span class="mi">60</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="HyperparameterOptimization.optimize_and_save"><a class="viewcode-back" href="../../package_reference/hyperparameter_optimization.html#mlgw_bns.hyperparameter_optimization.HyperparameterOptimization.optimize_and_save">[docs]</a>    <span class="k">def</span> <span class="nf">optimize_and_save</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">timeout_hr</span><span class="p">:</span> <span class="nb">float</span> <span class="o">=</span> <span class="mf">1.0</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Run the optimization ---</span>
+<span class="sd">        this is a wrapper around :meth:`optuna.Study.optimize`.</span>
+<span class="sd">        This command can take an arbitrary amount of time, therefore</span>
+<span class="sd">        its timeout is provided as a parameter.</span>
+<span class="sd">        Typically, good results can be achieved within a few hours.</span>
+
+<span class="sd">        The interval between which to save is determined by the class attribute</span>
+<span class="sd">        :attr:`save_every_n_minutes`.</span>
+
+<span class="sd">        Parameters</span>
+<span class="sd">        ----------</span>
+<span class="sd">        timeout_hr : float, optional</span>
+<span class="sd">            Number of hours to run for, by default 1.</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+
+        <span class="n">iterations</span><span class="p">:</span> <span class="nb">int</span> <span class="o">=</span> <span class="nb">max</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">timeout_hr</span> <span class="o">*</span> <span class="mi">60</span> <span class="o">/</span> <span class="bp">self</span><span class="o">.</span><span class="n">save_every_n_minutes</span><span class="p">),</span> <span class="mi">1</span><span class="p">)</span>
+
+        <span class="n">expected_datetime_end</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">datetime</span><span class="o">.</span><span class="n">now</span><span class="p">()</span> <span class="o">+</span> <span class="n">datetime</span><span class="o">.</span><span class="n">timedelta</span><span class="p">(</span>
+            <span class="n">hours</span><span class="o">=</span><span class="n">timeout_hr</span>
+        <span class="p">)</span>
+        <span class="n">logging</span><span class="o">.</span><span class="n">info</span><span class="p">(</span>
+            <span class="s2">&quot;Starting to train at </span><span class="si">%s</span><span class="s2">, will end at </span><span class="si">%s</span><span class="s2">&quot;</span><span class="p">,</span>
+            <span class="p">(</span><span class="n">datetime</span><span class="o">.</span><span class="n">datetime</span><span class="o">.</span><span class="n">now</span><span class="p">(),</span> <span class="n">expected_datetime_end</span><span class="o">.</span><span class="n">isoformat</span><span class="p">()),</span>
+        <span class="p">)</span>
+
+        <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">iterations</span><span class="p">):</span>
+
+            <span class="n">remaining_minutes</span><span class="p">:</span> <span class="nb">float</span> <span class="o">=</span> <span class="p">(</span>
+                <span class="n">expected_datetime_end</span> <span class="o">-</span> <span class="n">datetime</span><span class="o">.</span><span class="n">datetime</span><span class="o">.</span><span class="n">now</span><span class="p">()</span>
+            <span class="p">)</span> <span class="o">/</span> <span class="n">datetime</span><span class="o">.</span><span class="n">timedelta</span><span class="p">(</span><span class="n">minutes</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+
+            <span class="k">if</span> <span class="n">remaining_minutes</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">:</span>
+                <span class="k">return</span>
+
+            <span class="n">iterations_left</span><span class="p">:</span> <span class="nb">int</span> <span class="o">=</span> <span class="n">iterations</span> <span class="o">-</span> <span class="n">n</span>
+
+            <span class="n">timeout_min</span><span class="p">:</span> <span class="nb">float</span> <span class="o">=</span> <span class="n">remaining_minutes</span> <span class="o">/</span> <span class="n">iterations_left</span>
+
+            <span class="bp">self</span><span class="o">.</span><span class="n">optimize</span><span class="p">(</span><span class="n">timeout_min</span><span class="o">=</span><span class="n">timeout_min</span><span class="p">)</span>
+
+            <span class="n">joblib</span><span class="o">.</span><span class="n">dump</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">study</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">study_filename</span><span class="p">)</span>
+            <span class="n">logging</span><span class="o">.</span><span class="n">info</span><span class="p">(</span><span class="s2">&quot;Saved to file.&quot;</span><span class="p">)</span></div>
+
+<div class="viewcode-block" id="HyperparameterOptimization.plot_pareto"><a class="viewcode-back" href="../../package_reference/hyperparameter_optimization.html#mlgw_bns.hyperparameter_optimization.HyperparameterOptimization.plot_pareto">[docs]</a>    <span class="k">def</span> <span class="nf">plot_pareto</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Plot the Pareto front of the bivariate optimization.&quot;&quot;&quot;</span>
+        <span class="n">fig</span> <span class="o">=</span> <span class="n">plot_pareto_front</span><span class="p">(</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">study</span><span class="p">,</span>
+            <span class="n">target_names</span><span class="o">=</span><span class="p">[</span>
+                <span class="s2">&quot;Error [log10(average square error)] &quot;</span><span class="p">,</span>
+                <span class="s2">&quot;time [log10(time in seconds)]&quot;</span><span class="p">,</span>
+            <span class="p">],</span>
+        <span class="p">)</span>
+        <span class="n">fig</span><span class="o">.</span><span class="n">show</span><span class="p">()</span></div>
+
+    <span class="k">def</span> <span class="nf">plot_parallel</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+        <span class="n">to_plot</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">trial</span><span class="p">:</span> <span class="n">trial</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+        <span class="n">fig</span> <span class="o">=</span> <span class="n">plot_parallel_coordinate</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">study</span><span class="p">,</span> <span class="n">target_name</span><span class="o">=</span><span class="n">to_plot</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+        <span class="n">fig</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+
+    <span class="k">def</span> <span class="nf">plot_param_importance</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="n">fig</span> <span class="o">=</span> <span class="n">plot_param_importances</span><span class="p">(</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">study</span><span class="p">,</span> <span class="n">target</span><span class="o">=</span><span class="k">lambda</span> <span class="n">t</span><span class="p">:</span> <span class="n">t</span><span class="o">.</span><span class="n">values</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">target_name</span><span class="o">=</span><span class="s2">&quot;Error&quot;</span>
+        <span class="p">)</span>
+        <span class="n">fig</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+
+<div class="viewcode-block" id="HyperparameterOptimization.best_hyperparameters"><a class="viewcode-back" href="../../package_reference/hyperparameter_optimization.html#mlgw_bns.hyperparameter_optimization.HyperparameterOptimization.best_hyperparameters">[docs]</a>    <span class="k">def</span> <span class="nf">best_hyperparameters</span><span class="p">(</span>
+        <span class="bp">self</span><span class="p">,</span> <span class="n">training_number</span><span class="p">:</span> <span class="n">Optional</span><span class="p">[</span><span class="nb">int</span><span class="p">]</span> <span class="o">=</span> <span class="kc">None</span>
+    <span class="p">)</span> <span class="o">-&gt;</span> <span class="n">Hyperparameters</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Return the best hyperparameters found using less than</span>
+<span class="sd">        a certain number of training waveforms.</span>
+
+<span class="sd">        Parameters</span>
+<span class="sd">        ----------</span>
+<span class="sd">        training_number : int, optional</span>
+<span class="sd">            Number of training waveforms; by default None,</span>
+<span class="sd">            in which case return the hyperparameters</span>
+<span class="sd">            for as many waveforms as the current model has available.</span>
+
+<span class="sd">        Returns</span>
+<span class="sd">        -------</span>
+<span class="sd">        Hyperparameters</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+
+        <span class="n">best_trials</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">study</span><span class="o">.</span><span class="n">best_trials</span>
+
+        <span class="k">if</span> <span class="n">training_number</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+            <span class="n">training_number</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">training_data_number</span>
+
+        <span class="k">return</span> <span class="n">best_trial_under_n</span><span class="p">(</span><span class="n">best_trials</span><span class="p">,</span> <span class="n">training_number</span><span class="p">)</span></div>
+
+    <span class="k">def</span> <span class="nf">save_best_trials_to_file</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">filename</span><span class="p">:</span> <span class="nb">str</span> <span class="o">=</span> <span class="s2">&quot;best_trials&quot;</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="n">joblib</span><span class="o">.</span><span class="n">dump</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">study</span><span class="o">.</span><span class="n">best_trials</span><span class="p">,</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">filename</span><span class="si">}</span><span class="s2">.pkl&quot;</span><span class="p">)</span>
+
+    <span class="k">def</span> <span class="nf">total_training_time</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">datetime</span><span class="o">.</span><span class="n">timedelta</span><span class="p">:</span>
+        <span class="k">return</span> <span class="nb">sum</span><span class="p">(</span>
+            <span class="p">((</span><span class="n">t</span><span class="o">.</span><span class="n">datetime_complete</span> <span class="o">-</span> <span class="n">t</span><span class="o">.</span><span class="n">datetime_start</span><span class="p">)</span> <span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">study</span><span class="o">.</span><span class="n">trials</span><span class="p">),</span>  <span class="c1"># type: ignore</span>
+            <span class="n">datetime</span><span class="o">.</span><span class="n">timedelta</span><span class="p">(),</span>
+        <span class="p">)</span></div>
+        <span class="c1"># Trial.datetime_complete (and _start) are defined as optional in the</span>
+        <span class="c1"># FrozenTrial type, but here they will always be set</span>
+</pre></div>
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2021, Jacopo Tissino.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

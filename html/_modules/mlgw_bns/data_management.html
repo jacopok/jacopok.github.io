@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>mlgw_bns.data_management &mdash; mlgw_bns 0.0.2-alpha.0 documentation</title>
+      <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../index.html" class="icon icon-home"> mlgw_bns
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contact</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../contact.html">Contact</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Usage guides</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../usage_guides/install.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../usage_guides/overview.html">Overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../usage_guides/profiling.html">Profiling the model evaluation</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Package reference</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../package_reference/index.html">Package reference</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">mlgw_bns</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../index.html" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../index.html">Module code</a> &raquo;</li>
+      <li>mlgw_bns.data_management</li>
+      <li class="wy-breadcrumbs-aside">
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <h1>Source code for mlgw_bns.data_management</h1><div class="highlight"><pre>
+<span></span><span class="sd">&quot;&quot;&quot;Management of data which can be saved </span>
+<span class="sd">in an h5 file.</span>
+
+<span class="sd">The idea of these data structures is to &quot;&quot;&quot;</span>
+<span class="kn">from</span> <span class="nn">__future__</span> <span class="kn">import</span> <span class="n">annotations</span>
+
+<span class="kn">import</span> <span class="nn">logging</span>
+<span class="kn">from</span> <span class="nn">abc</span> <span class="kn">import</span> <span class="n">ABC</span><span class="p">,</span> <span class="n">abstractmethod</span>
+<span class="kn">from</span> <span class="nn">dataclasses</span> <span class="kn">import</span> <span class="n">dataclass</span><span class="p">,</span> <span class="n">fields</span>
+<span class="kn">from</span> <span class="nn">typing</span> <span class="kn">import</span> <span class="n">Any</span><span class="p">,</span> <span class="n">ClassVar</span><span class="p">,</span> <span class="n">Iterable</span><span class="p">,</span> <span class="n">Iterator</span><span class="p">,</span> <span class="n">Optional</span><span class="p">,</span> <span class="n">Type</span><span class="p">,</span> <span class="n">TypeVar</span><span class="p">,</span> <span class="n">Union</span>
+
+<span class="kn">import</span> <span class="nn">h5py</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+
+<span class="c1"># make type hinting available for</span>
+<span class="n">TYPE_DATA</span> <span class="o">=</span> <span class="n">TypeVar</span><span class="p">(</span><span class="s2">&quot;TYPE_DATA&quot;</span><span class="p">,</span> <span class="n">bound</span><span class="o">=</span><span class="s2">&quot;SavableData&quot;</span><span class="p">)</span>
+
+<span class="c1"># mypy does not like abstract dataclasses, see https://github.com/python/mypy/issues/5374</span>
+<div class="viewcode-block" id="SavableData"><a class="viewcode-back" href="../../package_reference/data_management.html#mlgw_bns.data_management.SavableData">[docs]</a><span class="nd">@dataclass</span>  <span class="c1"># type: ignore</span>
+<span class="k">class</span> <span class="nc">SavableData</span><span class="p">:</span>
+    <span class="sd">&quot;&quot;&quot;Generic container for data which might need to be saved to file.</span>
+
+<span class="sd">    Subclasses should also be decorated with ``@dataclass``.</span>
+
+
+<span class="sd">    &quot;&quot;&quot;</span>
+
+    <span class="nd">@property</span>
+    <span class="nd">@abstractmethod</span>
+    <span class="k">def</span> <span class="nf">group_name</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">str</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Name of the group this data should be saved as.&quot;&quot;&quot;</span>
+
+    <span class="nd">@classmethod</span>
+    <span class="k">def</span> <span class="nf">_arrays_list</span><span class="p">(</span><span class="bp">cls</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">list</span><span class="p">[</span><span class="nb">str</span><span class="p">]:</span>
+        <span class="sd">&quot;&quot;&quot;A list of the names of the arrays contained within</span>
+<span class="sd">        a class.</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+        <span class="k">return</span> <span class="p">[</span><span class="n">field</span><span class="o">.</span><span class="n">name</span> <span class="k">for</span> <span class="n">field</span> <span class="ow">in</span> <span class="n">fields</span><span class="p">(</span><span class="bp">cls</span><span class="p">)]</span>
+
+    <span class="k">def</span> <span class="fm">__iter__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">Iterator</span><span class="p">[</span><span class="n">Any</span><span class="p">]:</span>
+        <span class="sa">r</span><span class="sd">&quot;&quot;&quot;The implementation of this method allows for</span>
+<span class="sd">        the unpacking of a subclass of this object.</span>
+
+<span class="sd">        Examples</span>
+<span class="sd">        --------</span>
+
+<span class="sd">        &gt;&gt;&gt; @dataclass</span>
+<span class="sd">        ... class ExampleData(SavableData):</span>
+<span class="sd">        ...    item1 : int</span>
+<span class="sd">        ...    item2 : int</span>
+<span class="sd">        &gt;&gt;&gt; ex = ExampleData(1, 2)</span>
+<span class="sd">        &gt;&gt;&gt; item1, item2 = ex</span>
+<span class="sd">        &gt;&gt;&gt; print(item1)</span>
+<span class="sd">        1</span>
+
+<span class="sd">        Here we are giving these items a datatype of int for simplicity,</span>
+<span class="sd">        while in real applications they will typically be ``np.ndarray``s.</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+
+        <span class="k">for</span> <span class="n">array_name</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">_arrays_list</span><span class="p">():</span>
+            <span class="k">yield</span> <span class="nb">getattr</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">array_name</span><span class="p">)</span>
+
+<div class="viewcode-block" id="SavableData.save_to_file"><a class="viewcode-back" href="../../package_reference/data_management.html#mlgw_bns.data_management.SavableData.save_to_file">[docs]</a>    <span class="k">def</span> <span class="nf">save_to_file</span><span class="p">(</span>
+        <span class="bp">self</span><span class="p">,</span>
+        <span class="n">file</span><span class="p">:</span> <span class="n">h5py</span><span class="o">.</span><span class="n">File</span><span class="p">,</span>
+    <span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Save the data to a group in an h5 file.&quot;&quot;&quot;</span>
+        <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">group_name</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">file</span><span class="p">:</span>
+            <span class="n">file</span><span class="o">.</span><span class="n">create_group</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">group_name</span><span class="p">)</span>
+
+        <span class="k">for</span> <span class="n">array_name</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">_arrays_list</span><span class="p">():</span>
+            <span class="n">array_path</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">group_name</span><span class="si">}</span><span class="s2">/</span><span class="si">{</span><span class="n">array_name</span><span class="si">}</span><span class="s2">&quot;</span>
+            <span class="n">array</span> <span class="o">=</span> <span class="nb">getattr</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">array_name</span><span class="p">)</span>
+
+            <span class="c1"># convert to numpy array here in order to be able to get</span>
+            <span class="c1"># the shape of lists as well</span>
+            <span class="n">shape</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">(</span><span class="n">array</span><span class="p">)</span><span class="o">.</span><span class="n">shape</span>
+
+            <span class="k">if</span> <span class="n">array_path</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">file</span><span class="p">:</span>
+                <span class="c1"># the purpose of &quot;maxshape=None&quot; is to make the size variable</span>
+                <span class="n">file</span><span class="o">.</span><span class="n">create_dataset</span><span class="p">(</span>
+                    <span class="n">array_path</span><span class="p">,</span>
+                    <span class="n">data</span><span class="o">=</span><span class="n">array</span><span class="p">,</span>
+                    <span class="n">maxshape</span><span class="o">=</span><span class="nb">tuple</span><span class="p">(</span><span class="kc">None</span> <span class="k">for</span> <span class="n">_</span> <span class="ow">in</span> <span class="n">shape</span><span class="p">),</span>
+                <span class="p">)</span>
+
+            <span class="k">else</span><span class="p">:</span>
+                <span class="n">file</span><span class="p">[</span><span class="n">array_path</span><span class="p">]</span><span class="o">.</span><span class="n">resize</span><span class="p">(</span><span class="n">shape</span><span class="p">)</span>
+                <span class="n">file</span><span class="p">[</span><span class="n">array_path</span><span class="p">][:]</span> <span class="o">=</span> <span class="n">array</span></div>
+
+    <span class="nd">@classmethod</span>
+    <span class="k">def</span> <span class="nf">from_file</span><span class="p">(</span>
+        <span class="bp">cls</span><span class="p">:</span> <span class="n">Type</span><span class="p">[</span><span class="n">TYPE_DATA</span><span class="p">],</span>
+        <span class="n">file</span><span class="p">:</span> <span class="n">h5py</span><span class="o">.</span><span class="n">File</span><span class="p">,</span>
+        <span class="n">group_name</span><span class="p">:</span> <span class="n">Optional</span><span class="p">[</span><span class="nb">str</span><span class="p">]</span> <span class="o">=</span> <span class="kc">None</span><span class="p">,</span>
+        <span class="n">ignore_warnings</span><span class="p">:</span> <span class="nb">bool</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span>
+    <span class="p">)</span> <span class="o">-&gt;</span> <span class="n">Optional</span><span class="p">[</span><span class="n">TYPE_DATA</span><span class="p">]:</span>
+
+        <span class="k">if</span> <span class="n">group_name</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+            <span class="n">group_name</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="bp">cls</span><span class="o">.</span><span class="n">group_name</span><span class="p">)</span>
+
+        <span class="k">def</span> <span class="nf">arrays_in_file</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="n">Optional</span><span class="p">[</span><span class="nb">list</span><span class="p">[</span><span class="n">np</span><span class="o">.</span><span class="n">ndarray</span><span class="p">]]:</span>
+            <span class="k">try</span><span class="p">:</span>
+                <span class="n">array_list</span> <span class="o">=</span> <span class="p">[]</span>
+                <span class="k">for</span> <span class="n">array_name</span> <span class="ow">in</span> <span class="bp">cls</span><span class="o">.</span><span class="n">_arrays_list</span><span class="p">():</span>
+                    <span class="n">array_path</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="si">{</span><span class="n">group_name</span><span class="si">}</span><span class="s2">/</span><span class="si">{</span><span class="n">array_name</span><span class="si">}</span><span class="s2">&quot;</span>
+                    <span class="n">array_list</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">file</span><span class="p">[</span><span class="n">array_path</span><span class="p">][</span><span class="o">...</span><span class="p">])</span>
+                <span class="k">return</span> <span class="n">array_list</span>
+            <span class="k">except</span> <span class="ne">KeyError</span><span class="p">:</span>
+                <span class="k">if</span> <span class="ow">not</span> <span class="n">ignore_warnings</span><span class="p">:</span>
+                    <span class="n">logging</span><span class="o">.</span><span class="n">warning</span><span class="p">(</span><span class="s2">&quot;Some of the arrays in </span><span class="si">%s</span><span class="s2"> not found&quot;</span><span class="p">,</span> <span class="n">group_name</span><span class="p">)</span>
+                <span class="k">return</span> <span class="kc">None</span>
+
+        <span class="k">if</span> <span class="n">arrays_in_file</span><span class="p">()</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+            <span class="k">return</span> <span class="bp">cls</span><span class="p">(</span><span class="o">*</span><span class="n">arrays_in_file</span><span class="p">())</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="k">return</span> <span class="kc">None</span></div>
+
+
+<div class="viewcode-block" id="DownsamplingIndices"><a class="viewcode-back" href="../../package_reference/data_management.html#mlgw_bns.data_management.DownsamplingIndices">[docs]</a><span class="nd">@dataclass</span>
+<span class="k">class</span> <span class="nc">DownsamplingIndices</span><span class="p">(</span><span class="n">SavableData</span><span class="p">):</span>
+    <span class="n">amplitude_indices</span><span class="p">:</span> <span class="nb">list</span><span class="p">[</span><span class="nb">int</span><span class="p">]</span>
+    <span class="n">phase_indices</span><span class="p">:</span> <span class="nb">list</span><span class="p">[</span><span class="nb">int</span><span class="p">]</span>
+
+    <span class="n">group_name</span><span class="p">:</span> <span class="n">ClassVar</span><span class="p">[</span><span class="nb">str</span><span class="p">]</span> <span class="o">=</span> <span class="s2">&quot;downsampling&quot;</span>
+
+    <span class="nd">@property</span>
+    <span class="k">def</span> <span class="nf">amp_length</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="nb">len</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">amplitude_indices</span><span class="p">)</span>
+
+    <span class="nd">@property</span>
+    <span class="k">def</span> <span class="nf">phi_length</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="nb">len</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">phase_indices</span><span class="p">)</span>
+
+    <span class="nd">@property</span>
+    <span class="k">def</span> <span class="nf">length</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">amp_length</span> <span class="o">+</span> <span class="bp">self</span><span class="o">.</span><span class="n">phi_length</span>
+
+    <span class="nd">@property</span>
+    <span class="k">def</span> <span class="nf">numbers_of_points</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">amp_length</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">phi_length</span></div>
+
+
+<div class="viewcode-block" id="Residuals"><a class="viewcode-back" href="../../package_reference/data_management.html#mlgw_bns.data_management.Residuals">[docs]</a><span class="nd">@dataclass</span>
+<span class="k">class</span> <span class="nc">Residuals</span><span class="p">(</span><span class="n">SavableData</span><span class="p">):</span>
+    <span class="sd">&quot;&quot;&quot;Dataclass which contains a set of sample frequencies</span>
+<span class="sd">    as well as amplitude and phase residuals.</span>
+
+
+<span class="sd">    Parameters</span>
+<span class="sd">    ----------</span>
+<span class="sd">    amplitude_residuals: np.ndarray</span>
+<span class="sd">            Amplitude residuals. This array should have shape</span>
+<span class="sd">            ``(number_of_waveforms, number_of_amplitude_sample_points)``.</span>
+<span class="sd">    phase_residuals: np.ndarray</span>
+<span class="sd">            Phase residuals. This array should have shape</span>
+<span class="sd">            ``(number_of_waveforms, number_of_phase_sample_points)``.</span>
+
+<span class="sd">    Class Attributes</span>
+<span class="sd">    ----------------</span>
+<span class="sd">    group_name: str = &quot;residuals&quot;</span>
+<span class="sd">            Name of the group in the h5 file these will be saved in.</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+
+    <span class="n">amplitude_residuals</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span>
+    <span class="n">phase_residuals</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span>
+
+    <span class="n">group_name</span><span class="p">:</span> <span class="n">ClassVar</span><span class="p">[</span><span class="nb">str</span><span class="p">]</span> <span class="o">=</span> <span class="s2">&quot;residuals&quot;</span>
+
+    <span class="k">def</span> <span class="nf">__post_init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">assert</span> <span class="bp">self</span><span class="o">.</span><span class="n">amplitude_residuals</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">==</span> <span class="bp">self</span><span class="o">.</span><span class="n">phase_residuals</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+
+    <span class="k">def</span> <span class="fm">__len__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">amplitude_residuals</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+
+    <span class="k">def</span> <span class="fm">__getitem__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">key</span><span class="p">:</span> <span class="n">Union</span><span class="p">[</span><span class="nb">slice</span><span class="p">,</span> <span class="nb">list</span><span class="p">[</span><span class="nb">int</span><span class="p">]]):</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="vm">__class__</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">amplitude_residuals</span><span class="p">[</span><span class="n">key</span><span class="p">],</span> <span class="bp">self</span><span class="o">.</span><span class="n">phase_residuals</span><span class="p">[</span><span class="n">key</span><span class="p">])</span>
+
+    <span class="k">def</span> <span class="fm">__hash__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="nb">hash</span><span class="p">(</span>
+            <span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">amplitude_residuals</span><span class="o">.</span><span class="n">tobytes</span><span class="p">(),</span> <span class="bp">self</span><span class="o">.</span><span class="n">phase_residuals</span><span class="o">.</span><span class="n">tobytes</span><span class="p">())</span>
+        <span class="p">)</span>
+
+    <span class="nd">@property</span>
+    <span class="k">def</span> <span class="nf">combined</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Combine the amplitude and phase residuals</span>
+<span class="sd">        into a single array, with shape</span>
+<span class="sd">        ``(number_of_waveforms, number_of_amplitude_sample_points+number_of_phase_sample_points)``.</span>
+
+<span class="sd">        Returns</span>
+<span class="sd">        -------</span>
+<span class="sd">        np.ndarray</span>
+<span class="sd">            Combined residuals.</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+
+        <span class="k">return</span> <span class="n">np</span><span class="o">.</span><span class="n">concatenate</span><span class="p">((</span><span class="bp">self</span><span class="o">.</span><span class="n">amplitude_residuals</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">phase_residuals</span><span class="p">),</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+
+<div class="viewcode-block" id="Residuals.from_combined_residuals"><a class="viewcode-back" href="../../package_reference/data_management.html#mlgw_bns.data_management.Residuals.from_combined_residuals">[docs]</a>    <span class="nd">@classmethod</span>
+    <span class="k">def</span> <span class="nf">from_combined_residuals</span><span class="p">(</span>
+        <span class="bp">cls</span><span class="p">,</span> <span class="n">combined_residuals</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span><span class="p">,</span> <span class="n">numbers_of_points</span><span class="p">:</span> <span class="nb">tuple</span><span class="p">[</span><span class="nb">int</span><span class="p">,</span> <span class="nb">int</span><span class="p">]</span>
+    <span class="p">)</span> <span class="o">-&gt;</span> <span class="s2">&quot;Residuals&quot;</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Generate object from a ``np.ndarray``</span>
+<span class="sd">        containing the combined residuals: amplitude and phase</span>
+<span class="sd">        appended to each other.</span>
+
+<span class="sd">        The number of points these will each contain is given as the argument</span>
+<span class="sd">        ``numbers_of_points == (amp_points, phase_points)``.</span>
+
+<span class="sd">        &quot;&quot;&quot;</span>
+
+        <span class="n">amp_points</span><span class="p">,</span> <span class="n">phase_points</span> <span class="o">=</span> <span class="n">numbers_of_points</span>
+
+        <span class="k">assert</span> <span class="n">combined_residuals</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">==</span> <span class="n">amp_points</span> <span class="o">+</span> <span class="n">phase_points</span>
+
+        <span class="k">return</span> <span class="bp">cls</span><span class="p">(</span>
+            <span class="n">combined_residuals</span><span class="p">[:,</span> <span class="p">:</span><span class="n">amp_points</span><span class="p">],</span> <span class="n">combined_residuals</span><span class="p">[:,</span> <span class="o">-</span><span class="n">phase_points</span><span class="p">:]</span>
+        <span class="p">)</span></div>
+
+<div class="viewcode-block" id="Residuals.flatten_phase"><a class="viewcode-back" href="../../package_reference/data_management.html#mlgw_bns.data_management.Residuals.flatten_phase">[docs]</a>    <span class="k">def</span> <span class="nf">flatten_phase</span><span class="p">(</span>
+        <span class="bp">self</span><span class="p">,</span> <span class="n">frequencies</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span><span class="p">,</span> <span class="n">first_section_flat</span><span class="p">:</span> <span class="nb">float</span> <span class="o">=</span> <span class="mf">0.2</span>
+    <span class="p">)</span> <span class="o">-&gt;</span> <span class="kc">None</span><span class="p">:</span>
+        <span class="sd">&quot;&quot;&quot;Subtract a linear term from the phase,</span>
+<span class="sd">        such that it is often close to 0.</span>
+
+<span class="sd">        Parameters</span>
+<span class="sd">        ----------</span>
+<span class="sd">        frequencies: np.ndarray</span>
+<span class="sd">                Frequencies to which the phase points correspond.</span>
+<span class="sd">                Required for the linear term subtraction.</span>
+<span class="sd">        first_section_flat: float</span>
+<span class="sd">                The linear term is chosen so that the first</span>
+<span class="sd">                phase residual is zero, and so is the one corresponding</span>
+<span class="sd">                to this fraction of the frequencies.</span>
+<span class="sd">                Defaults to .1.</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+
+        <span class="n">number_of_points</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">phase_residuals</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+
+        <span class="n">index</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">first_section_flat</span> <span class="o">*</span> <span class="n">number_of_points</span><span class="p">)</span>
+
+        <span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">phase_arr</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">phase_residuals</span><span class="p">):</span>
+            <span class="n">slope</span> <span class="o">=</span> <span class="p">(</span><span class="n">phase_arr</span><span class="p">[</span><span class="n">index</span><span class="p">]</span> <span class="o">-</span> <span class="n">phase_arr</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span> <span class="o">/</span> <span class="p">(</span>
+                <span class="n">frequencies</span><span class="p">[</span><span class="n">index</span><span class="p">]</span> <span class="o">-</span> <span class="n">frequencies</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+            <span class="p">)</span>
+            <span class="bp">self</span><span class="o">.</span><span class="n">phase_residuals</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">=</span> <span class="p">(</span>
+                <span class="n">phase_arr</span> <span class="o">-</span> <span class="n">slope</span> <span class="o">*</span> <span class="p">(</span><span class="n">frequencies</span> <span class="o">-</span> <span class="n">frequencies</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span> <span class="o">-</span> <span class="n">phase_arr</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+            <span class="p">)</span></div></div>
+
+
+<div class="viewcode-block" id="PrincipalComponentData"><a class="viewcode-back" href="../../package_reference/data_management.html#mlgw_bns.data_management.PrincipalComponentData">[docs]</a><span class="nd">@dataclass</span>
+<span class="k">class</span> <span class="nc">PrincipalComponentData</span><span class="p">(</span><span class="n">SavableData</span><span class="p">):</span>
+    <span class="sa">r</span><span class="sd">&quot;&quot;&quot;Dataclass which contains all the data required for a</span>
+<span class="sd">    PCA model to work: eigenvalues and eigenvectors</span>
+<span class="sd">    of the covariance matrix, mean of the data,</span>
+<span class="sd">    and reference scaling for the principal component reperesentation.</span>
+
+<span class="sd">    In the parameter definitions, the number of dimensions is the</span>
+<span class="sd">    :math:`N` such that each data point belongs to :math:`\mathbb{R}^N`,</span>
+<span class="sd">    while the number of components, typically denoted as :math:`K`, is the</span>
+<span class="sd">    number of the principal components we choose to keep when</span>
+<span class="sd">    reducing the dimensionality of the data.</span>
+
+<span class="sd">    Parameters</span>
+<span class="sd">    ----------</span>
+<span class="sd">    eigenvectors: np.ndarray</span>
+<span class="sd">            Eigenvectors from the PCA. This array should have shape</span>
+<span class="sd">            ``(number_of_dimensions, number_of_components)``.</span>
+<span class="sd">    eigenvalues: np.ndarray</span>
+<span class="sd">            Eigenvalues from the PCA. This array should have shape</span>
+<span class="sd">            ``(number_of_components, )``.</span>
+<span class="sd">    mean: np.ndarray</span>
+<span class="sd">            Mean subtracted from the data before decomposing</span>
+<span class="sd">            the covariance matrix. This array should have shape</span>
+<span class="sd">            ``(number_of_dimensions, )``.</span>
+<span class="sd">    principal_components_scaling: np.ndarray</span>
+<span class="sd">            Scale by which to divide the principal components,</span>
+<span class="sd">            typically computed as the maximum of each in the training.</span>
+<span class="sd">            Dividing the eigenvalues by this allows for the scale of the</span>
+<span class="sd">            principal components to always be between 0 and 1.</span>
+<span class="sd">            This array should have shape</span>
+<span class="sd">            ``(number_of_components, )``.</span>
+
+<span class="sd">    &quot;&quot;&quot;</span>
+
+    <span class="n">eigenvectors</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span>
+    <span class="n">eigenvalues</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span>
+    <span class="n">mean</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span>
+    <span class="n">principal_components_scaling</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span>
+
+    <span class="n">group_name</span><span class="p">:</span> <span class="n">ClassVar</span><span class="p">[</span><span class="nb">str</span><span class="p">]</span> <span class="o">=</span> <span class="s2">&quot;principal_component_analysis&quot;</span></div>
+
+
+<div class="viewcode-block" id="FDWaveforms"><a class="viewcode-back" href="../../package_reference/data_management.html#mlgw_bns.data_management.FDWaveforms">[docs]</a><span class="nd">@dataclass</span>
+<span class="k">class</span> <span class="nc">FDWaveforms</span><span class="p">(</span><span class="n">SavableData</span><span class="p">):</span>
+    <span class="sd">&quot;&quot;&quot;Dataclass which contains a set of sample frequencies</span>
+<span class="sd">    as well as the amplitude and phase of frequency-domain waveforms.</span>
+
+<span class="sd">    Parameters</span>
+<span class="sd">    ----------</span>
+<span class="sd">    amplitudes: np.ndarray</span>
+<span class="sd">            Amplitude residuals.</span>
+<span class="sd">            An array with shape</span>
+<span class="sd">            ``(n_waveforms, n_samples_amp)``.</span>
+<span class="sd">    phases: np.ndarray</span>
+<span class="sd">            Phase residuals.</span>
+<span class="sd">            An array with shape</span>
+<span class="sd">            ``(n_waveforms, n_samples_phi)``.</span>
+
+<span class="sd">    Class Attributes</span>
+<span class="sd">    ----------------</span>
+<span class="sd">    group_name: str</span>
+<span class="sd">        Defaults to &quot;waveforms&quot;.</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+
+    <span class="n">amplitudes</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span>
+    <span class="n">phases</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span>
+
+    <span class="n">group_name</span><span class="p">:</span> <span class="n">ClassVar</span><span class="p">[</span><span class="nb">str</span><span class="p">]</span> <span class="o">=</span> <span class="s2">&quot;waveforms&quot;</span></div>
+
+
+<div class="viewcode-block" id="phase_unwrapping"><a class="viewcode-back" href="../../package_reference/data_management.html#mlgw_bns.data_management.phase_unwrapping">[docs]</a><span class="k">def</span> <span class="nf">phase_unwrapping</span><span class="p">(</span>
+    <span class="n">waveform_cartesian</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span><span class="p">,</span> <span class="n">eps</span><span class="p">:</span> <span class="nb">float</span> <span class="o">=</span> <span class="mf">1e-2</span><span class="p">,</span> <span class="n">set_zero_at_start</span><span class="p">:</span> <span class="nb">bool</span> <span class="o">=</span> <span class="kc">True</span>
+<span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">tuple</span><span class="p">[</span><span class="n">np</span><span class="o">.</span><span class="n">ndarray</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">ndarray</span><span class="p">]:</span>
+    <span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">    Starting from an array of cartesian-form complex numbers,</span>
+<span class="sd">    returns two real arrays: amplitude and phase.</span>
+<span class="sd">    &quot;&quot;&quot;</span>
+
+    <span class="n">phidot</span> <span class="o">=</span> <span class="p">(</span>
+        <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">diff</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">angle</span><span class="p">(</span><span class="n">waveform_cartesian</span><span class="p">),</span> <span class="n">axis</span><span class="o">=-</span><span class="mi">1</span><span class="p">,</span> <span class="n">prepend</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span> <span class="o">+</span> <span class="n">eps</span><span class="p">)</span> <span class="o">%</span> <span class="p">(</span><span class="mi">2</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">pi</span><span class="p">)</span>
+    <span class="p">)</span> <span class="o">-</span> <span class="n">eps</span>
+
+    <span class="n">phase</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">cumsum</span><span class="p">(</span><span class="n">phidot</span><span class="p">,</span> <span class="n">axis</span><span class="o">=-</span><span class="mi">1</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">set_zero_at_start</span><span class="p">:</span>
+        <span class="n">phase</span> <span class="o">-=</span> <span class="n">phase</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+
+    <span class="k">return</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">waveform_cartesian</span><span class="p">),</span> <span class="n">phase</span><span class="p">)</span></div>
+</pre></div>
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2021, Jacopo Tissino.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
