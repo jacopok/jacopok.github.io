@@ -378,14 +378,13 @@
 
         <span class="n">par_dict</span><span class="p">:</span> <span class="nb">dict</span> <span class="o">=</span> <span class="n">params</span><span class="o">.</span><span class="n">teobresums</span>
 
-        <span class="n">n_additional</span> <span class="o">=</span> <span class="mi">256</span>
-
         <span class="c1"># tweak initial frequency backward by a few samples</span>
         <span class="c1"># this is needed because of a bug in TEOBResumS</span>
         <span class="c1"># causing the phase evolution not to behave properly</span>
         <span class="c1"># at the beginning of integration</span>
         <span class="c1"># TODO remove this once the TEOB bug is fixed</span>
 
+        <span class="n">n_additional</span> <span class="o">=</span> <span class="mi">256</span>
         <span class="n">f_0</span> <span class="o">=</span> <span class="n">par_dict</span><span class="p">[</span><span class="s2">&quot;initial_frequency&quot;</span><span class="p">]</span>
         <span class="n">delta_f</span> <span class="o">=</span> <span class="n">par_dict</span><span class="p">[</span><span class="s2">&quot;df&quot;</span><span class="p">]</span>
         <span class="n">new_f0</span> <span class="o">=</span> <span class="n">f_0</span> <span class="o">-</span> <span class="n">delta_f</span> <span class="o">*</span> <span class="n">n_additional</span>

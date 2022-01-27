@@ -142,8 +142,17 @@
 
     <span class="k">def</span> <span class="nf">predicted_waveforms</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">param_set</span><span class="p">:</span> <span class="n">ParameterSet</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">FDWaveforms</span><span class="p">:</span>
 
-        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">predict_waveforms_bulk</span><span class="p">(</span>
-            <span class="n">param_set</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">nn</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">hyper</span>
+        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">predict_waveforms_bulk</span><span class="p">(</span><span class="n">param_set</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">nn</span><span class="p">)</span>
+
+    <span class="k">def</span> <span class="nf">post_newtonian_waveforms</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">param_set</span><span class="p">:</span> <span class="n">ParameterSet</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">FDWaveforms</span><span class="p">:</span>
+
+        <span class="k">assert</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">nn</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span>
+        <span class="n">residuals</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">predict_residuals_bulk</span><span class="p">(</span><span class="n">param_set</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">nn</span><span class="p">)</span>
+        <span class="n">residuals</span><span class="o">.</span><span class="n">amplitude_residuals</span><span class="p">[:]</span> <span class="o">=</span> <span class="mi">0</span>
+        <span class="n">residuals</span><span class="o">.</span><span class="n">phase_residuals</span><span class="p">[:]</span> <span class="o">=</span> <span class="mi">0</span>
+
+        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">dataset</span><span class="o">.</span><span class="n">recompose_residuals</span><span class="p">(</span>
+            <span class="n">residuals</span><span class="p">,</span> <span class="n">param_set</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">downsampling_indices</span>
         <span class="p">)</span>
 
 <div class="viewcode-block" id="ValidateModel.validation_mismatches"><a class="viewcode-back" href="../../package_reference/model_validation.html#mlgw_bns.model_validation.ValidateModel.validation_mismatches">[docs]</a>    <span class="k">def</span> <span class="nf">validation_mismatches</span><span class="p">(</span>
@@ -151,6 +160,7 @@
         <span class="n">number_of_validation_waveforms</span><span class="p">:</span> <span class="nb">int</span><span class="p">,</span>
         <span class="n">seed</span><span class="p">:</span> <span class="n">Optional</span><span class="p">[</span><span class="nb">int</span><span class="p">]</span> <span class="o">=</span> <span class="kc">None</span><span class="p">,</span>
         <span class="n">true_waveforms</span><span class="p">:</span> <span class="n">Optional</span><span class="p">[</span><span class="n">FDWaveforms</span><span class="p">]</span> <span class="o">=</span> <span class="kc">None</span><span class="p">,</span>
+        <span class="n">zero_residuals</span><span class="p">:</span> <span class="nb">bool</span> <span class="o">=</span> <span class="kc">False</span><span class="p">,</span>
     <span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">list</span><span class="p">[</span><span class="nb">float</span><span class="p">]:</span>
         <span class="sd">&quot;&quot;&quot;Validate the model by computing the mismatch between</span>
 <span class="sd">        theoretical waveforms and waveforms reconstructed by the model.</span>
@@ -172,7 +182,10 @@
         <span class="k">if</span> <span class="n">true_waveforms</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
             <span class="n">true_waveforms</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">true_waveforms</span><span class="p">(</span><span class="n">param_set</span><span class="p">)</span>
 
-        <span class="n">predicted_waveforms</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">predicted_waveforms</span><span class="p">(</span><span class="n">param_set</span><span class="p">)</span>
+        <span class="k">if</span> <span class="n">zero_residuals</span><span class="p">:</span>
+            <span class="n">predicted_waveforms</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">post_newtonian_waveforms</span><span class="p">(</span><span class="n">param_set</span><span class="p">)</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">predicted_waveforms</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">predicted_waveforms</span><span class="p">(</span><span class="n">param_set</span><span class="p">)</span>
 
         <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">mismatch_array</span><span class="p">(</span><span class="n">true_waveforms</span><span class="p">,</span> <span class="n">predicted_waveforms</span><span class="p">)</span></div>
 

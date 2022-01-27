@@ -92,7 +92,7 @@ Both of these dependencies should be installed when running the command</p>
 <p>without the <code class="docutils literal notranslate"><span class="pre">--no-dev</span></code> option.</p>
 <p>We write a script with the following imports:</p>
 <div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">mlgw_bns</span> <span class="kn">import</span> <span class="n">Model</span>
-<span class="kn">from</span> <span class="nn">mlgw_bns.model</span> <span class="kn">import</span> <span class="n">ExtendedWaveformParameters</span>
+<span class="kn">from</span> <span class="nn">mlgw_bns.model</span> <span class="kn">import</span> <span class="n">ParametersWithExtrinsic</span>
 
 <span class="kn">import</span> <span class="nn">cProfile</span>
 <span class="kn">import</span> <span class="nn">pstats</span>
@@ -116,25 +116,26 @@ we need a trained model, so we can either do</p>
 </pre></div>
 </div>
 <p>if the model was already generated previously, or</p>
-<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">m</span> <span class="o">=</span> <span class="n">Model</span><span class="p">(</span><span class="s1">&#39;first_test&#39;</span><span class="p">)</span>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">m</span> <span class="o">=</span> <span class="n">Model</span><span class="p">(</span><span class="s1">&#39;your_model_name&#39;</span><span class="p">)</span>
 <span class="n">m</span><span class="o">.</span><span class="n">generate</span><span class="p">()</span>
 <span class="n">m</span><span class="o">.</span><span class="n">set_hyper_and_train_nn</span><span class="p">()</span>
 </pre></div>
 </div>
-<p>where the default values for the size of the generated dataset are used.</p>
+<p>where the default values for the size of the generated dataset are used, or</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">m</span> <span class="o">=</span> <span class="n">Model</span><span class="o">.</span><span class="n">default</span><span class="p">(</span><span class="s1">&#39;your_model_name&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>to make use of the default model provided with the package.</p>
 <p>We also need a set of parameters for the generated waveform:
 an example set is given here.</p>
-<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">params</span> <span class="o">=</span> <span class="n">ExtendedWaveformParameters</span><span class="p">(</span>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">params</span> <span class="o">=</span> <span class="n">ParametersWithExtrinsic</span><span class="p">(</span>
     <span class="n">mass_ratio</span><span class="o">=</span><span class="mf">1.0</span><span class="p">,</span>
     <span class="n">lambda_1</span><span class="o">=</span><span class="mi">500</span><span class="p">,</span>
     <span class="n">lambda_2</span><span class="o">=</span><span class="mi">50</span><span class="p">,</span>
     <span class="n">chi_1</span><span class="o">=</span><span class="mf">0.1</span><span class="p">,</span>
     <span class="n">chi_2</span><span class="o">=-</span><span class="mf">0.1</span><span class="p">,</span>
-    <span class="n">dataset</span><span class="o">=</span><span class="n">m</span><span class="o">.</span><span class="n">dataset</span><span class="p">,</span>
     <span class="n">distance_mpc</span><span class="o">=</span><span class="mf">1.0</span><span class="p">,</span>
     <span class="n">inclination</span><span class="o">=</span><span class="mf">0.0</span><span class="p">,</span>
-    <span class="n">reference_phase</span><span class="o">=</span><span class="mf">0.0</span><span class="p">,</span>
-    <span class="n">time_shift</span><span class="o">=</span><span class="mf">0.0</span><span class="p">,</span>
     <span class="n">total_mass</span><span class="o">=</span><span class="mf">2.8</span><span class="p">,</span>
 <span class="p">)</span>
 </pre></div>
