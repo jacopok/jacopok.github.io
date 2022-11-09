@@ -58,7 +58,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/jacopok/mlgw_bns">`mlgw_bns`</a>
+    - title: <a href="https://github.com/jacopok/mlgw_bns">mlgw_bns</a>
       year: 2021-now
       description: A fast gravitational wave surrogate approximant for binary neutron stars.
 
