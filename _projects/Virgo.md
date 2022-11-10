@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Virgo
-description: O4 work.
+description: Working on the fourth observing run!
 # img: assets/img/12.jpg
 importance: 1
 category: work
