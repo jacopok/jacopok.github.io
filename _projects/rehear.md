@@ -4,7 +4,7 @@ title: Rehear
 description: A continuously-updating pipeline for GW analysis.
 # img: assets/img/12.jpg
 importance: 1
-category: work
+category: research
 ---
 
 Current data analysis pipelines assume the entirety of a gravitational wave

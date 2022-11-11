@@ -4,7 +4,7 @@ title: Virgo
 description: Working on the fourth observing run!
 # img: assets/img/12.jpg
 importance: 1
-category: work
+category: research
 ---
 
 The LIGO-Virgo-KAGRA collaboration will start its fourth observing run,

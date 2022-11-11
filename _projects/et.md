@@ -3,7 +3,7 @@ layout: page
 title: Einstein Telescope
 description: The next generation of ground-based GW detection.
 importance: 1
-category: work
+category: research
 ---
 
 Einstein Telescope ([webpage](https://www.et-gw.eu/), [Wikipedia](https://en.wikipedia.org/wiki/Einstein_Telescope))

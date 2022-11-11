@@ -3,7 +3,7 @@ layout: page
 title: LGWA
 description: Lunar Gravitational Wave Antenna
 importance: 2
-category: work
+category: research
 ---
 
 LGWA is a proposal for a gravitational wave detector one the Moon {% cite harmsLunarGravitationalwaveAntenna2021 %},
