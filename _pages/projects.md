@@ -9,20 +9,15 @@ display_categories: [research, hobbies]
 horizontal: false
 ---
 
-<!-- ### Currently working on -->
+### Currently working on 
 
-<!--
-- Building `rehear`
- - O4 chores
-- Improving `mlgw_bns`
-  - HOM
-  - Precessing spins
-  - Eccentricity
-- Improving `GWFish`
-- Fellowship of Clean Code
-- GRB intensity mapping classification
-- DWD and NS-WD detectability studies with decihertz GW detectors
--  -->
+1. Graduating with the [Galilean school](http://www.unipd-scuolagalileiana.it/) with a thesis about clean coding practices
+1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
+1. Re-starting the [Fellowship of Clean Code](focc)
+1. Improving `GWFish`
+1. GRB intensity mapping classification
+
+### Long-term projects
 
 <!-- pages/projects.md -->
 <div class="projects">
