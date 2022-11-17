@@ -2,7 +2,7 @@
 layout: page
 title: Virgo
 description: Working on the fourth observing run!
-# img: assets/img/12.jpg
+img: assets/img/virgo.png
 importance: 1
 category: research
 ---

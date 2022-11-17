@@ -4,6 +4,7 @@ title: Fellowship of Clean Code
 description: A group to discuss clean coding practices in!
 importance: 2
 category: research
+img: assets/img/zen_of_python.png
 ---
 
 The [Fellowship of Clean Code](https://github.com/fellowship-of-clean-code) is a 

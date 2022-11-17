@@ -2,7 +2,7 @@
 layout: page
 title: Rehear
 description: A continuously-updating pipeline for GW analysis.
-# img: assets/img/12.jpg
+img: assets/img/gw170817.png
 importance: 1
 category: research
 ---
