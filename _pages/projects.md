@@ -9,13 +9,24 @@ display_categories: [research, hobbies]
 horizontal: false
 ---
 
-### Currently working on 
+### Working on 
+
+#### At the moment
+
+This is a list of things I'm currently working on, within a timescale around a week.
 
 1. Graduating with the [Galilean school](http://www.unipd-scuolagalileiana.it/) with a thesis about clean coding practices
-1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
+1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
 1. Re-starting the [Fellowship of Clean Code](focc)
-1. Improving `GWFish`
+
+#### Will get to
+
+This is a list of tasks that I plan to get to in a timescale of a couple of months.
+
+1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
+1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
 1. GRB intensity mapping classification
+1. Starting a GSSI D&D campaign
 
 ### Long-term projects
 
