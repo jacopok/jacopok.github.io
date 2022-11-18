@@ -1,4 +1,19 @@
-# "Adams":
-#   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-#     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Gamba":
+  - firstname: ["Rossella", "R."]
+    url: https://roxgamba.github.io
+"Breschi":
+  - firstname: ["Matteo", "M."]
+    url: https://orcid.org/0000-0002-3327-3676
+"Carullo":
+  - firstname: ["Gregorio", "G.", "Greg"]
+    url: https://orcid.org/0000-0001-9090-1862
+"Harms":
+  - firstname: ["Jan", "J."]
+    url: https://orcid.org/0000-0002-7332-9806
+"Dupletsa":
+  - firstname: ["Ulyana", "U."]
+    url: https://orcid.org/0000-0003-2766-247X
+"Banerjee":
+  - firstname: ["Biswajit", "B."]
+    url: https://orcid.org/0000-0002-8008-2485
 
