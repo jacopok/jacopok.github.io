@@ -15,7 +15,7 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Graduating with the [Galilean school](http://www.unipd-scuolagalileiana.it/) with a thesis about clean coding practices
+1. Graduating at the [Galilean school](http://www.unipd-scuolagalileiana.it/) with a thesis about clean coding practices
 1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
 1. Re-starting the [Fellowship of Clean Code](focc)
 
