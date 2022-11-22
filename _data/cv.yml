@@ -21,10 +21,10 @@
       ongoing: true
     - title: Master's degree in Astrophysics and Cosmology
       institution: <a href=https://www.unipd.it/>University of Padua</a>, Italy
-      description: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/3903>Machine Learning Gravitational Waveforms for Binary Neutron Star mergers</a>"
+      extra: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/3903>Machine Learning Gravitational Waveforms for Binary Neutron Star mergers</a>"
       year: 2019 - 2021
     - title: Bachelor's degree in Physics
-      description: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/22272>Relativistic non-ideal flows</a>"
+      extra: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/22272>Relativistic non-ideal flows</a>"
       institution: <a href=https://www.unipd.it/>University of Padua</a>, Italy
       year: 2016 - 2019
 
