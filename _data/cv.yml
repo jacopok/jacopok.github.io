@@ -11,15 +11,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Astroparticle Physics - ongoing
-      institution: Gran Sasso Science Institute, Italy
-      year: 2021 - 2025
+    - title: PhD in Astroparticle Physics
+      institution: "<a href=https://www.gssi.it/>Gran Sasso Science Institute</a>, L'Aquila, Italy"
+      year: 2021 - now (2025)
+    - title: Galileian school diploma
+      institution: "<a href=http://www.unipd-scuolagalileiana.it/>Galileian school of higher studies</a>, Padua, Italy"
+      year: 2016 - now (2022)
     - title: Master's degree in Astrophysics and Cosmology
-      institution: University of Padua, Italy
+      institution: <a href=https://www.unipd.it/>University of Padua</a>, Italy
+      description: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/3903>Machine Learning Gravitational Waveforms for Binary Neutron Star mergers</a>"
       year: 2019 - 2021
-      description:
     - title: Bachelor's degree in Physics
-      institution: University of Padua, Italy
+      description: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/22272>Relativistic non-ideal flows</a>"
+      institution: <a href=https://www.unipd.it/>University of Padua</a>, Italy
       year: 2016 - 2019
 
 # - title: Experience
