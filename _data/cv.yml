@@ -14,17 +14,22 @@
     - title: PhD in Astroparticle Physics
       institution: "<a href=https://www.gssi.it/>Gran Sasso Science Institute</a>, L'Aquila, Italy"
       year: 2021 - now (~2025)
+      extra: "Advisor: Prof. Jan Harms (GSSI)"
       ongoing: true
     - title: Galileian school diploma
       institution: "<a href=http://www.unipd-scuolagalileiana.it/>Galileian school of higher studies</a>, Padua, Italy"
-      year: 2016 - now (~2022)
-      ongoing: true
+      extra: "Thesis: <a href=https://github.com/jacopok/clean-coding-thesis>Scientific coding best practices: a case study</a><br>
+        Advisor: Prof. Luca Heltai (SISSA)"
+      year: 2016 - 2022
     - title: Master's degree in Astrophysics and Cosmology
       institution: <a href=https://www.unipd.it/>University of Padua</a>, Italy
-      extra: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/3903>Machine Learning Gravitational Waveforms for Binary Neutron Star mergers</a>"
+      extra: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/3903>Machine Learning Gravitational Waveforms for Binary Neutron Star mergers</a><br>
+        Advisors: Profs. Michela Mapelli (UniPD), Sebastiano Bernuzzi (TPI, Jena)"
       year: 2019 - 2021
     - title: Bachelor's degree in Physics
-      extra: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/22272>Relativistic non-ideal flows</a>"
+      extra: 
+        "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/22272>Relativistic non-ideal flows</a><br>
+        Advisor: Prof. Roberto Turolla (UniPD)"
       institution: <a href=https://www.unipd.it/>University of Padua</a>, Italy
       year: 2016 - 2019
 
