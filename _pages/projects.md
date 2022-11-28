@@ -9,27 +9,6 @@ display_categories: [research, hobbies]
 horizontal: false
 ---
 
-### Working on 
-
-#### At the moment
-
-This is a list of things I'm currently working on, within a timescale around a week.
-
-1. Graduating at the [Galilean school](http://www.unipd-scuolagalileiana.it/) with a thesis about clean coding practices
-1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
-1. Re-starting the [Fellowship of Clean Code](focc)
-
-#### Will get to
-
-This is a list of tasks that I plan to get to in a timescale of a couple of months.
-
-1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
-1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-1. GRB intensity mapping classification
-1. Starting a GSSI D&D campaign
-
-### Long-term projects
-
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -77,3 +56,25 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
   {%- endif -%}
 {%- endif -%}
 </div>
+
+### Working on 
+
+#### At the moment
+
+This is a list of things I'm currently working on, within a timescale around a week.
+
+1. Re-starting the [Fellowship of Clean Code](focc)
+1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
+
+#### Will get to
+
+This is a list of tasks that I plan to get to in a timescale of a couple of months.
+
+1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
+1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
+1. GRB intensity mapping classification
+1. Starting a [GSSI D&D campaign](DnD)
+
+#### Already did
+
+1. Graduating at the [Galilean school](http://www.unipd-scuolagalileiana.it/) with a [thesis about clean coding practices](https://github.com/jacopok/clean-coding-thesis)
