@@ -65,6 +65,7 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
 1. Re-starting the [Fellowship of Clean Code](FoCC)
+1. Making visualizations for EOB orbits with [`eob-visualizer`](https://github.com/jacopok/eob-visualizer)
 
 #### Will get to
 
