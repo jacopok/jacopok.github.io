@@ -65,7 +65,10 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
 1. Re-starting the [Fellowship of Clean Code](FoCC)
-1. Making visualizations for EOB orbits with [`eob-visualizer`](https://github.com/jacopok/eob-visualizer)
+
+##### Questions
+
+1. How does DINGO-IS work exactly?
 
 #### Will get to
 
@@ -76,7 +79,17 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
 1. GRB intensity mapping classification
 1. Starting a [GSSI D&D campaign](DnD)
+1. Making a systematic study of the effect of the inclusion of high-order parameters 
+  in (BNS) waveforms
+
+##### Questions
+
+1. Can we incorporate modelling uncertainties in GW PE?
+1. How can we include the Earth's motion in PE?
+1. How can we train "instant-posterior" models (e.g. DINGO) on longer signals
+  such as BNS ones?
 
 #### Already did
 
 1. Graduating at the [Galilean school](http://www.unipd-scuolagalileiana.it/) with a [thesis about clean coding practices](https://github.com/jacopok/clean-coding-thesis)
+1. Making visualizations for EOB orbits with [`eob-visualizer`](https://github.com/jacopok/eob-visualizer)
