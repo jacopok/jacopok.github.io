@@ -91,6 +91,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. How can we include the Earth's motion in PE?
 1. How can we train "instant-posterior" models (e.g. DINGO) on longer signals
   such as BNS ones?
+1. How does [`jax`](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) work?
 
 #### Already did
 
