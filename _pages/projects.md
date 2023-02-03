@@ -63,10 +63,12 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Contributing to the [Einstein Telescope](ET) Blue Book
-1. Contributing to the ISSI conference proceedings
-1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Helping out with some O4 [Virgo](Virgo) chores
+1. Learning how BAYESTAR works and whether we can use it for [Einstein Telescope](ET)
+    1. Can we include higher order modes?
+1. Contributing to the ISSI conference proceedings
+1. Making a presentation for how [GWFish](https://github.com/janosch314/GWFish) works
+1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 
 ##### Questions
 
@@ -76,6 +78,7 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
+1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
 1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
 1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
@@ -96,6 +99,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 #### Already did
 
 1. Re-starting the [Fellowship of Clean Code](FoCC)
+1. Contributing to the [Einstein Telescope](ET) Blue Book
 1. Graduating at the [Galilean school](http://www.unipd-scuolagalileiana.it/) with a [thesis about clean coding practices](https://github.com/jacopok/clean-coding-thesis)
 1. Making visualizations for EOB orbits with [`eob-visualizer`](https://github.com/jacopok/eob-visualizer)
 1. Roughly learning how Stable Diffusion works
