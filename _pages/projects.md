@@ -80,6 +80,9 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
 1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
+1. Working on cosmology with GWs
+  1. Measuring $H(z)$
+  1. Tracing small-scale $P(k)$ with BBH
 1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
 1. GRB intensity mapping classification
