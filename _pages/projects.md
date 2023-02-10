@@ -65,9 +65,9 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 1. Making a presentation for the GSSI science fair
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-  1. Implementing antenna patterns
-  1. Studying how it compares, at low SNR, to BAYESTAR / GWTC3 in localization
-  1. New documentation for waveform generation
+    1. Implementing antenna patterns
+    1. Studying how it compares, at low SNR, to BAYESTAR / GWTC3 in localization
+    1. New documentation for waveform generation
 1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
 1. Helping out with some O4 [Virgo](Virgo) chores
 1. Contributing to the ISSI conference proceedings
