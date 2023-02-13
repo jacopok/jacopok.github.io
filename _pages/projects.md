@@ -75,7 +75,6 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 ##### Questions
 
-1. How does DINGO-IS work exactly?
 
 #### Will get to
 
@@ -102,6 +101,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
   such as BNS ones?
 1. How does [`jax`](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) work?
 1. How does multi-task gaussian process regression work ([Harisdau+2018](http://arxiv.org/abs/1805.03595))?
+1. How does DINGO-IS work exactly?
 
 #### Already did
 
