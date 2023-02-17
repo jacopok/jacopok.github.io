@@ -63,7 +63,6 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Making a presentation for the GSSI science fair
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Implementing antenna patterns
     1. Studying how it compares, at low SNR, to BAYESTAR / GWTC3 in localization
@@ -111,3 +110,4 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Graduating at the [Galilean school](http://www.unipd-scuolagalileiana.it/) with a [thesis about clean coding practices](https://github.com/jacopok/clean-coding-thesis)
 1. Making visualizations for EOB orbits with [`eob-visualizer`](https://github.com/jacopok/eob-visualizer)
 1. Roughly learning how Stable Diffusion works
+1. Making a presentation for the GSSI science fair about [LGWA](LGWA)
