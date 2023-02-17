@@ -3,6 +3,8 @@ github_users:
 
 github_repos:
   - jacopok/mlgw_bns
-  - jacopok/notes
+  - jacopok/gw-landscape
+  - jacopok/eob-visualizer
   - janosch314/GWFish
   - gwastro/pycbc
+  - scipy/scipy
