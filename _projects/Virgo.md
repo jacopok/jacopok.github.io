@@ -14,3 +14,6 @@ observing run.
 
 Specifically, I'm working to automate the waveform review process,
 hopefully allowing for the use of eccentric waveforms before the end of O4.
+
+Look out for the [observing plans](https://observing.docs.ligo.org/plan/)!
+
