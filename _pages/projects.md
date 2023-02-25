@@ -63,6 +63,8 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
+1. Getting the `mlgw_bns` paper published
+1. Keeping the [Fellowship of Clean Code](FoCC) going with some more sessions about python projects
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Implementing antenna patterns
     1. Studying how it compares, at low SNR, to BAYESTAR / GWTC3 in localization
@@ -71,6 +73,7 @@ This is a list of things I'm currently working on, within a timescale around a w
 1. Helping out with some O4 [Virgo](Virgo) chores
 1. Contributing to the ISSI conference proceedings
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
+1. Learning to play bass
 
 ##### Questions
 
@@ -79,6 +82,7 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
+1. Contributing to the [LGWA](LGWA) whitepaper
 1. Learning how BAYESTAR works and whether we can use it for [Einstein Telescope](ET)
     1. Can we include higher order modes?
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
