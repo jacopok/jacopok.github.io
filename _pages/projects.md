@@ -64,7 +64,6 @@ horizontal: false
 This is a list of things I'm currently working on, within a timescale around a week.
 
 1. Getting the `mlgw_bns` paper published
-1. Keeping the [Fellowship of Clean Code](FoCC) going with some more sessions about python projects
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Implementing antenna patterns
     1. Studying how it compares, at low SNR, to BAYESTAR / GWTC3 in localization
