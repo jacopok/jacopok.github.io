@@ -64,6 +64,8 @@ horizontal: false
 This is a list of things I'm currently working on, within a timescale around a week.
 
 1. Getting the `mlgw_bns` paper published
+1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
+    1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Implementing antenna patterns
     1. Studying how it compares, at low SNR, to BAYESTAR / GWTC3 in localization
@@ -72,7 +74,9 @@ This is a list of things I'm currently working on, within a timescale around a w
 1. Helping out with some O4 [Virgo](Virgo) chores
 1. Contributing to the ISSI conference proceedings
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
+1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 1. Learning to play bass
+1. Secret project (IG)
 
 ##### Questions
 
@@ -84,14 +88,12 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Contributing to the [LGWA](LGWA) whitepaper
 1. Learning how BAYESTAR works and whether we can use it for [Einstein Telescope](ET)
     1. Can we include higher order modes?
-1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
 1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
 1. Working on cosmology with GWs
   1. Measuring $H(z)$
   1. Tracing small-scale $P(k)$ with BBH
 1. GRB intensity mapping classification
 1. Starting a [GSSI D&D campaign](DnD)
-1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 1. Making a systematic study of the effect of the inclusion of high-order parameters 
   in (BNS) waveforms
 
