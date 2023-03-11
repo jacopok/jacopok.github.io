@@ -77,6 +77,7 @@ This is a list of things I'm currently working on, within a timescale around a w
 1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 1. Learning to play bass
 1. Secret project (IG)
+    1. Getting access to the Virgo data at EGO
 
 ##### Questions
 
