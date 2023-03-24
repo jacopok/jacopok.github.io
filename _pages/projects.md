@@ -63,16 +63,17 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Getting the `mlgw_bns` paper published
 1. Making a presentation on [LGWA](LGWA) for the [IFAE meeting](https://agenda.infn.it/event/34702/)
     1. Remaking plots with new sensitivities
     1. Including Mt. Etna references
 1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Implementing antenna patterns
+    1. Making a function to compute optimal source placement
+    1. Implementing Markov chain network duty factor
 1. Helping out with some O4 [Virgo](Virgo) chores
-1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 1. Contributing to the ISSI conference proceedings
+1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Learning to play bass
 1. Secret project (IG)
@@ -112,6 +113,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 
 #### Already did
 
+1. Getting the `mlgw_bns` paper published
 1. Getting access to the Virgo data at EGOs
 1. Making a presentation for how [GWFish](https://github.com/janosch314/GWFish) works
 1. Re-starting the [Fellowship of Clean Code](FoCC)
