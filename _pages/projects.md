@@ -84,6 +84,8 @@ This is a list of things I'm currently working on, within a timescale around a w
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
+1. Writing a simple article detailing the science case for multimessenger observations; 
+  specifically focusing on what we can get from a combined PE
 1. Contributing to the [LGWA](LGWA) whitepaper
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. New documentation for waveform generation
