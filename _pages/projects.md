@@ -68,9 +68,7 @@ This is a list of things I'm currently working on, within a timescale around a w
     1. Including Mt. Etna references
 1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-    1. Implementing antenna patterns
-    1. Making a function to compute optimal source placement
-    1. Implementing Markov chain network duty factor
+    1. Making a PR with horizon-finding improvements
 1. Helping out with some O4 [Virgo](Virgo) chores
 1. Contributing to the ISSI conference proceedings
 1. Learning to be a Keeper for [Call of Cthulhu](CoC)
@@ -89,6 +87,8 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Contributing to the [LGWA](LGWA) whitepaper
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. New documentation for waveform generation
+    1. Implementing antenna patterns
+    1. Implementing Markov chain network duty factor
 1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
 1. Learning how BAYESTAR works and whether we can use it for [Einstein Telescope](ET)
     1. Can we include higher order modes?
