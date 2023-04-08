@@ -65,10 +65,10 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 1. Making a presentation on [LGWA](LGWA) for the [IFAE meeting](https://agenda.infn.it/event/34702/)
     1. Remaking plots with new sensitivities
-    1. Including Mt. Etna references
-1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
+1. Getting the `mlgw_bns` paper published
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Making a PR with horizon-finding improvements
+1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
 1. Helping out with some O4 [Virgo](Virgo) chores
 1. Contributing to the ISSI conference proceedings
 1. Learning to be a Keeper for [Call of Cthulhu](CoC)
@@ -115,7 +115,6 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 
 #### Already did
 
-1. Getting the `mlgw_bns` paper published
 1. Getting access to the Virgo data at EGOs
 1. Making a presentation for how [GWFish](https://github.com/janosch314/GWFish) works
 1. Re-starting the [Fellowship of Clean Code](FoCC)
