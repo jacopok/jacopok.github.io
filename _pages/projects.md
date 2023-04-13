@@ -99,6 +99,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Starting a [GSSI D&D campaign](DnD)
 1. Making a systematic study of the effect of the inclusion of high-order parameters 
   in (BNS) waveforms
+1. Seeing whether the upgraded version of RES-NOVA can measure neutrino mass through delays with failed SNe
 
 ##### Questions
 
