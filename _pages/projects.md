@@ -63,10 +63,11 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
+1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts) (by mid-May)
+1. Helping out with some O4 [Virgo](Virgo) chores
+    1. Interfacing TEOBResumS-DALI with the NWI (by mid-May)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Making a PR with horizon-finding improvements
-1. Helping out with some O4 [Virgo](Virgo) chores
 1. Contributing to the ISSI conference proceedings
 1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
@@ -110,6 +111,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. How does [`jax`](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) work?
 1. How does multi-task gaussian process regression work ([Harisdau+2018](http://arxiv.org/abs/1805.03595))?
 1. How does DINGO-IS work exactly?
+1. How do the burst search efficiencies compare to matched-filtering SNRs? 
 
 #### Already did
 
