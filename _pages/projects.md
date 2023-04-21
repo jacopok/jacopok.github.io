@@ -68,6 +68,7 @@ This is a list of things I'm currently working on, within a timescale around a w
     1. Interfacing TEOBResumS-DALI with the NWI (by mid-May)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Making a PR with horizon-finding improvements
+    1. Computing some horizons for O5 detectors
 1. Contributing to the ISSI conference proceedings
 1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
@@ -87,7 +88,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Contributing to the [LGWA](LGWA) whitepaper
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. New documentation for waveform generation
-    1. Implementing antenna patterns
+    1. Implementing antenna patterns (make tests with comparison to pycbc!)
     1. Implementing Markov chain network duty factor
 1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
 1. Learning how BAYESTAR works and whether we can use it for [Einstein Telescope](ET)
@@ -101,6 +102,8 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Making a systematic study of the effect of the inclusion of high-order parameters 
   in (BNS) waveforms
 1. Seeing whether the upgraded version of RES-NOVA can measure neutrino mass through delays with failed SNe
+1. Improving the execution time of [`pycbc.detector.time_delay_from_earth_center`](https://github.com/gwastro/pycbc/blob/0f0ac264ef032566e995df570dbf689fa696bc36/pycbc/detector.py#L340), which would be helpful for [PyGRB](https://tds.virgo-gw.eu/?content=3&r=21832) (?)
+
 
 ##### Questions
 
