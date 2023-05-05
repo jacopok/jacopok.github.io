@@ -63,10 +63,11 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts) (by mid-May)
 1. Helping out with some O4 [Virgo](Virgo) chores
     1. Interfacing TEOBResumS-DALI with the NWI (by mid-May)
+1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts) (by mid-May)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
+    1. Investigating some Fisher discrepancies
     1. Making a PR with horizon-finding improvements
     1. Computing some horizons for O5 detectors
 1. Contributing to the ISSI conference proceedings
