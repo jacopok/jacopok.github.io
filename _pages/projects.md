@@ -65,19 +65,19 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 1. Helping out with some O4 [Virgo](Virgo) chores
     1. Interfacing TEOBResumS-DALI with the NWI (by mid-May)
-1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts) (by mid-May)
+    1. Learning how to be a RRT shifter
+1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
+    1. How does the center of the skymap move with time?
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-    1. Investigating some Fisher discrepancies
     1. Making a PR with horizon-finding improvements
-    1. Computing some horizons for O5 detectors
+    1. Updating the `pypi` release of the code
 1. Contributing to the ISSI conference proceedings
 1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
-1. Learning to play bass
-1. Secret project (IG)
 
 ##### Questions
 
+1. How does one do injections with BAYESTAR?
 
 #### Will get to
 
@@ -104,12 +104,15 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
   in (BNS) waveforms
 1. Seeing whether the upgraded version of RES-NOVA can measure neutrino mass through delays with failed SNe
 1. Improving the execution time of [`pycbc.detector.time_delay_from_earth_center`](https://github.com/gwastro/pycbc/blob/0f0ac264ef032566e995df570dbf689fa696bc36/pycbc/detector.py#L340), which would be helpful for [PyGRB](https://tds.virgo-gw.eu/?content=3&r=21832) (?)
+1. Learning to play bass
+1. Secret project (IG)
 
 
 ##### Questions
 
 1. Can we incorporate modelling uncertainties in GW PE?
 1. How can we include the Earth's motion in PE?
+    1. Justin Janquart did it based on how it's done in Iacovelli+22, but only for the 22 mode
 1. How can we train "instant-posterior" models (e.g. DINGO) on longer signals
   such as BNS ones?
 1. How does [`jax`](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) work?
