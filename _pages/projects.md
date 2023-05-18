@@ -66,13 +66,12 @@ This is a list of things I'm currently working on, within a timescale around a w
 1. Helping out with some O4 [Virgo](Virgo) chores
     1. Interfacing TEOBResumS-DALI with the NWI (by mid-May)
     1. Learning how to be a RRT shifter
-1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
-    1. How does the center of the skymap move with time?
+1. Contributing to the [LGWA](LGWA) whitepaper
+    1. Improving the way reference frames are handled for extraterrestial detectors
+    1. Presenting BNS multibanding at Aussois
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Making a PR with horizon-finding improvements
     1. Updating the `pypi` release of the code
-1. Contributing to the ISSI conference proceedings
-1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 
 ##### Questions
@@ -83,10 +82,12 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
+1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
+    1. How does the center of the skymap move with time?
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
+    1. Comparing CTA slewing strategies
 1. Writing a simple article detailing the science case for multimessenger observations; 
   specifically focusing on what we can get from a combined PE
-1. Contributing to the [LGWA](LGWA) whitepaper
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. New documentation for waveform generation
     1. Implementing antenna patterns (make tests with comparison to pycbc!)
@@ -106,6 +107,9 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Improving the execution time of [`pycbc.detector.time_delay_from_earth_center`](https://github.com/gwastro/pycbc/blob/0f0ac264ef032566e995df570dbf689fa696bc36/pycbc/detector.py#L340), which would be helpful for [PyGRB](https://tds.virgo-gw.eu/?content=3&r=21832) (?)
 1. Learning to play bass
 1. Secret project (IG)
+1. Contributing to the ISSI conference proceedings
+1. Learning to be a Keeper for [Call of Cthulhu](CoC)
+
 
 
 ##### Questions
