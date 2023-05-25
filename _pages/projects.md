@@ -63,20 +63,22 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Helping out with some O4 [Virgo](Virgo) chores
-    1. Interfacing TEOBResumS-DALI with the NWI (by mid-May)
-    1. Learning how to be a RRT shifter
 1. Contributing to the [LGWA](LGWA) whitepaper
     1. Improving the way reference frames are handled for extraterrestial detectors
-    1. Presenting BNS multibanding at Aussois
+    1. Presenting BNS multibanding poster for Aussois
+1. Helping out with some O4 [Virgo](Virgo) chores
+    1. Getting the review of TEOBResumS-DALI within the NWI started
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Making a PR with horizon-finding improvements
     1. Updating the `pypi` release of the code
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
+1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
+1. Making a fit for the phenomenology of hyperbolic encounters as a function of energy and angular momentum
 
 ##### Questions
 
 1. How does one do injections with BAYESTAR?
+1. Does updating the prior each time fix the Bayes factor multiplication bias described by Isi Farr and Chatziiannou?
 
 #### Will get to
 
@@ -122,7 +124,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. How does [`jax`](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) work?
 1. How does multi-task gaussian process regression work ([Harisdau+2018](http://arxiv.org/abs/1805.03595))?
 1. How does DINGO-IS work exactly?
-1. How do the burst search efficiencies compare to matched-filtering SNRs? 
+1. How do the burst search efficiencies compare to matched-filtering SNRs?
 
 #### Already did
 
