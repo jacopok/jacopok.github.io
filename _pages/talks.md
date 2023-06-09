@@ -9,10 +9,10 @@ nav_order: 1
 
 ## Upcoming
 
-- 2023-06-05: [GWsNS](https://indico.in2p3.fr/event/28236/) poster about early-warning localization of NS binaries, [repo](https://github.com/jacopok/lgwa-skyloc) with poster and more!
 
 ## Past
 
+- 2023-06-05: [GWsNS](https://indico.in2p3.fr/event/28236/) poster about early-warning localization of NS binaries with [LGWA](../projects/LGWA), [repo](https://github.com/jacopok/lgwa-skyloc) with poster and more
 - 2023-05-16: [ET symposium](https://indico.ego-gw.it/event/562) introduction to Fisher matrix forecasting, [repo](https://github.com/FrancescoIacovelli/XIII_ET_Symposium_Hackathon) with slides, notes and notebooks 
 - 2023-04-12: [Incontri di Fisica delle Alte Energie](https://agenda.infn.it/event/34702/), Catania: talk about the [LGWA](../projects/LGWA), [contribution page with slides](https://agenda.infn.it/event/34702/contributions/194982/)
 - 2023-03-02: [Fellowship of Clean Code](../projects/FoCC) talk about "How to manage big projects in python", [Indico](https://indico.gssi.it/event/488/), [recording](https://www.youtube.com/watch?v=vBkQmXMGJfg)
