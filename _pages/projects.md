@@ -63,13 +63,11 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Helping on a paper about Lunar gravitational wave detection
-    1. What are the localization capabilities for a lunar detector?
+1. Doing shifts in the level-0 rapid response team
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
     1. Comparing CTA slewing strategies
 1. Helping out with some O4 [Virgo](Virgo) chores
     1. Getting the review of TEOBResumS-DALI within the NWI started
-    1. Doing shifts in the level-0 rapid response team
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
 
@@ -119,6 +117,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 ##### Questions
 
 1. Can we incorporate modelling uncertainties in GW PE?
+  1. What are the localization capabilities for a lunar detector? can we do a PE run for LGWA?
 1. How can we include the Earth's motion in PE?
     1. Justin Janquart did it based on how it's done in Iacovelli+22, but only for the 22 mode
 1. How can we train "instant-posterior" models (e.g. DINGO) on longer signals
@@ -130,6 +129,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 
 #### Already did
 
+1. Helping on a paper about Lunar gravitational wave detection
 1. Getting the `mlgw_bns` paper published
 1. Making a presentation on [LGWA](LGWA) for the [IFAE meeting](https://agenda.infn.it/event/34702/)
 1. Getting access to the Virgo data at EGOs
