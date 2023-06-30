@@ -63,13 +63,13 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Doing shifts in the level-0 rapid response team
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
-    1. Comparing CTA slewing strategies
+    1. Comparing CTA slewing strategies with divergent pointing
 1. Helping out with some O4 [Virgo](Virgo) chores
     1. Getting the review of TEOBResumS-DALI within the NWI started
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
+1. Doing shifts in the level-0 rapid response team (on pause until August)
 
 ##### Questions
 
