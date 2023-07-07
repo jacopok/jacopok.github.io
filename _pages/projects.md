@@ -65,36 +65,40 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
     1. Comparing CTA slewing strategies with divergent pointing
+1. Working on the inclination angle posterior feature for BAYESTAR
 1. Helping out with some O4 [Virgo](Virgo) chores
     1. Getting the review of TEOBResumS-DALI within the NWI started
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
-1. Doing shifts in the level-0 rapid response team (on pause until August)
+1. Learning to do glacier mountaineering with [Luca Vallata](https://www.samatari.it/)
 
 ##### Questions
 
 1. How does one do injections with BAYESTAR?
 1. Does updating the prior each time fix the Bayes factor multiplication bias described by Isi, Farr and Chatziiannou?
+1. How does the center of the skymap move with time?
 
 #### Will get to
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
+1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
+1. Doing shifts in the level-0 rapid response team (on pause until August)
 1. Checking whether the placement of templates according to a greedy algorithm is a good choice for NR informativeness
 1. Checking how fast we can make a truncated template bank for updating inference ([rehear](../projects/rehear))
 1. Making a fit for the phenomenology of hyperbolic encounters as a function of energy and angular momentum
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Making a PR with horizon-finding improvements
+        1. Horizon-finding in the case of long-lived signals: when is the optimal time to detect them?
     1. Updating the `pypi` release of the code
-1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
-    1. How does the center of the skymap move with time?
-1. Contributing to the [LGWA](LGWA) whitepaper and reviewing the ISSI conference proceedings
-1. Writing a simple article detailing the science case for multimessenger observations; 
-  specifically focusing on what we can get from a combined PE
-1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. New documentation for waveform generation
     1. Implementing antenna patterns (make tests with comparison to pycbc!)
     1. Implementing Markov chain network duty factor
+    1. Improving user-friendliness for simple tasks
+1. Contributing to the [LGWA](LGWA) whitepaper and reviewing the ISSI conference proceedings
+    1. Doing a full PE run for a BNS as seen by LGWA
+1. Writing a simple article detailing the science case for multimessenger observations; 
+  specifically focusing on what we can get from a combined PE
 1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
 1. Learning how BAYESTAR works and whether we can use it for [Einstein Telescope](ET)
     1. Can we include higher order modes?
@@ -111,8 +115,6 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Learning to play bass
 1. Secret project (IG)
 1. Learning to be a Keeper for [Call of Cthulhu](CoC)
-
-
 
 ##### Questions
 
