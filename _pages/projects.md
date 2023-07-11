@@ -111,7 +111,8 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Making a systematic study of the effect of the inclusion of high-order parameters 
   in (BNS) waveforms
 1. Seeing whether the upgraded version of RES-NOVA can measure neutrino mass through delays with failed SNe
-1. Improving the execution time of [`pycbc.detector.time_delay_from_earth_center`](https://github.com/gwastro/pycbc/blob/0f0ac264ef032566e995df570dbf689fa696bc36/pycbc/detector.py#L340), which would be helpful for [PyGRB](https://tds.virgo-gw.eu/?content=3&r=21832) (?)
+1. Can we build a time-domain evidence integrand for GW inference?
+    1. Is it somehow computable from to the SNR TD integrand with the waveform reconstruction?
 1. Learning to play bass
 1. Secret project (IG)
 1. Learning to be a Keeper for [Call of Cthulhu](CoC)
