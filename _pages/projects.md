@@ -63,7 +63,7 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Contributing to the [LGWA](LGWA) whitepaper and reviewing the ISSI conference proceedings
+1. Contributing to the [LGWA](LGWA) whitepaper
     1. Doing a full PE run for a BNS as seen by LGWA
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Making a PR with horizon-finding improvements
@@ -77,6 +77,8 @@ This is a list of things I'm currently working on, within a timescale around a w
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
     1. Comparing CTA slewing strategies with divergent pointing
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
+1. Starting a [GSSI D&D campaign](DnD) in the West Marches style
+
 
 ##### Questions
 
@@ -89,7 +91,6 @@ This is a list of things I'm currently working on, within a timescale around a w
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
 1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
-1. Starting a [GSSI D&D campaign](DnD) in the West Marches style
 1. Helping out with some O4 [Virgo](Virgo) chores
     1. Getting the review of TEOBResumS-DALI within the NWI started
 1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
