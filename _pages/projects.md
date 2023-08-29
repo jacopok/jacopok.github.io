@@ -63,6 +63,7 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
+1. Doing peer review
 1. Contributing to the [LGWA](LGWA) whitepaper
     1. Doing a full PE run for a BNS as seen by LGWA
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
@@ -77,7 +78,7 @@ This is a list of things I'm currently working on, within a timescale around a w
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
     1. Comparing CTA slewing strategies with divergent pointing
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
-1. Starting a [GSSI D&D campaign](DnD) in the West Marches style
+1. Starting a [D&D campaign](DnD) in the West Marches style
 
 
 ##### Questions
