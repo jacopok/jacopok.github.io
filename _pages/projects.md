@@ -63,7 +63,6 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Doing peer review
 1. Contributing to the [LGWA](LGWA) whitepaper
     1. Doing a full PE run for a BNS as seen by LGWA
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
@@ -144,3 +143,4 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Making visualizations for EOB orbits with [`eob-visualizer`](https://github.com/jacopok/eob-visualizer)
 1. Roughly learning how Stable Diffusion works
 1. Making a presentation for the GSSI science fair about [LGWA](LGWA)
+1. Doing peer review
