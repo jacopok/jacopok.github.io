@@ -72,6 +72,7 @@ This is a list of things I'm currently working on, within a timescale around a w
         1. With documentation!
     1. Consistent ephemeris computation for all detectors
     1. Updating the `pypi` release of the code
+1. Working on the multiband paper
 1. Helping out with some O4 [Virgo](Virgo) chores
     1. Doing the review of TEOBResumS-DALI within the NWI
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
