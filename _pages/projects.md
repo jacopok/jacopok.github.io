@@ -64,16 +64,14 @@ horizontal: false
 This is a list of things I'm currently working on, within a timescale around a week.
 
 1. Contributing to the [LGWA](LGWA) whitepaper
+    1. Writing some preliminary info about localization
+    1. Doing some Fisher runs on massive BBH
     1. Doing a full PE run for a BNS as seen by LGWA
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-    1. Consistent ephemeris computation for all detectors
-    1. Making a PR with horizon-finding improvements
-        1. Horizon-finding in the case of long-lived signals: when is the optimal time to detect them?
-    1. Updating the `pypi` release of the code
-    1. New documentation for waveform generation
-    1. Implementing antenna patterns (make tests with comparison to pycbc!)
-    1. Implementing Markov chain network duty factor
     1. Improving user-friendliness for simple tasks
+        1. With documentation!
+    1. Consistent ephemeris computation for all detectors
+    1. Updating the `pypi` release of the code
 1. Helping out with some O4 [Virgo](Virgo) chores
     1. Doing the review of TEOBResumS-DALI within the NWI
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
@@ -98,6 +96,12 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Doing shifts in the level-0 rapid response team (on pause until August)
 1. Checking whether the placement of templates according to a greedy algorithm is a good choice for NR informativeness
 1. Checking how fast we can make a truncated template bank for updating inference ([rehear](../projects/rehear))
+1. GWFish long-term things
+    1. Making a PR with horizon-finding improvements
+        1. Horizon-finding in the case of long-lived signals: when is the optimal time to detect them?
+    1. New documentation for waveform generation
+    1. Implementing antenna patterns (make tests with comparison to pycbc!)
+    1. Implementing Markov chain network duty factor
 1. Making a fit for the phenomenology of hyperbolic encounters as a function of energy and angular momentum
 1. Writing a simple article detailing the science case for multimessenger observations; 
   specifically focusing on what we can get from a combined PE
