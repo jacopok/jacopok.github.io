@@ -77,6 +77,7 @@ This is a list of things I'm currently working on, within a timescale around a w
     1. Doing the review of TEOBResumS-DALI within the NWI
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
 1. Starting a [D&D campaign](DnD) in the West Marches style
+1. Training by running + climbing + aerial silks
 
 
 ##### Questions
