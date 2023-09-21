@@ -63,22 +63,38 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
+1. Working on the inclination angle posterior feature for BAYESTAR
+    1. Figuring out how to test the C code
+    1. Making plots about the convergence of different integration schemes
+1. Doing the review of TEOBResumS-DALI within the NWI
+    1. Adapting the v5 review tests
+    1. Then, adopting better parametrization and property-based stuff
 1. Contributing to the [LGWA](LGWA) whitepaper
     1. Writing some preliminary info about localization
-    1. Doing some Fisher runs on massive BBH
+    1. Doing some Fisher runs on massive BBH, multiband
     1. Doing a full PE run for a BNS as seen by LGWA
-1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-    1. Improving user-friendliness for simple tasks
-        1. With documentation!
-    1. Consistent ephemeris computation for all detectors
-    1. Updating the `pypi` release of the code
+1. [rehear](rehear): injection studies with ASTRI
+    1. Implementing a simplified model for the IRF of ASTRI
+    1. Testing it with a very simple emission model
+    1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
 1. Working on the multiband paper
-1. Helping out with some O4 [Virgo](Virgo) chores
-    1. Doing the review of TEOBResumS-DALI within the NWI
-1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
+    1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
+      1. Improving user-friendliness for simple tasks
+          1. With documentation!
+      1. Consistent ephemeris computation for all detectors
+      1. Updating the `pypi` release of the code
+1. O4 [Virgo](Virgo): participating in the Rapid Response Team
 1. Starting a [D&D campaign](DnD) in the West Marches style
+1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
+1. Preparing a document and a presentation for the year passage at GSSI
+    1. New title ASAP
+    1. Document by the end of September
+    1. Presentation by the 20th of October
+1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
+1. Preparing a presentation for the Catania meeting: all that's discussed in the Royal society paper
 1. Training by running + climbing + aerial silks
-
+    1. [14K trail race](https://gransasso.onehundred.run/en/2/italy) on the 8th of October
+    1. [Half-marathon](https://www.rome21k.com/en/21k-info-eng/) on the 13th of November
 
 ##### Questions
 
@@ -90,12 +106,9 @@ This is a list of things I'm currently working on, within a timescale around a w
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
-1. Working on the inclination angle posterior feature for BAYESTAR
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
     1. Comparing CTA slewing strategies with divergent pointing
-1. DMing a DnD campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
-1. Doing shifts in the level-0 rapid response team (on pause until August)
 1. Checking whether the placement of templates according to a greedy algorithm is a good choice for NR informativeness
 1. Checking how fast we can make a truncated template bank for updating inference ([rehear](../projects/rehear))
 1. GWFish long-term things
@@ -108,8 +121,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Writing a simple article detailing the science case for multimessenger observations; 
   specifically focusing on what we can get from a combined PE
 1. DWD and NS-WD detectability studies with [decihertz GW detectors](LGWA)
-1. Learning how BAYESTAR works and whether we can use it for [Einstein Telescope](ET)
-    1. Can we include higher order modes?
+1. Including higher order modes in BAYESTAR for [Einstein Telescope](ET)
 1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
 1. Working on cosmology with GWs
   1. Measuring $H(z)$
@@ -121,7 +133,6 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Can we build a time-domain evidence integrand for GW inference?
     1. Is it somehow computable from to the SNR TD integrand with the waveform reconstruction?
 1. Learning to play bass
-1. Secret project (IG)
 1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 
 ##### Questions
