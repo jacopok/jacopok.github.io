@@ -9,6 +9,8 @@ nav_order: 1
 
 ## Upcoming
 
+- 2023-10-10: [LGWA meeting](https://www.ct.ingv.it/lgwa2023) talk about different concepts for lunar gravitational wave detection (Royal Society paper)
+- 2023-10-20: [GSSI talk](https://indico.gssi.it/event/555/timetable/) to enter the third year, about my work in general
 
 ## Past
 
