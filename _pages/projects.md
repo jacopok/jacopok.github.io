@@ -63,25 +63,24 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
+1. Contributing to the [LGWA](LGWA) whitepaper
+    1. Writing some preliminary info about localization
+    1. Doing some Fisher runs on massive BBH, multiband
+    1. Doing a full PE run for a BNS as seen by LGWA
 1. Working on the inclination angle posterior feature for BAYESTAR
     1. Figuring out how to test the C code
     1. Making plots about the convergence of different integration schemes
 1. Doing the review of TEOBResumS-DALI within the NWI
     1. Adapting the v5 review tests
     1. Then, adopting better parametrization and property-based stuff
-1. Contributing to the [LGWA](LGWA) whitepaper
-    1. Writing some preliminary info about localization
-    1. Doing some Fisher runs on massive BBH, multiband
-    1. Doing a full PE run for a BNS as seen by LGWA
 1. [rehear](rehear): injection studies with ASTRI
     1. Implementing a simplified model for the IRF of ASTRI
     1. Testing it with a very simple emission model
     1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
 1. Working on the multiband paper
     1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-      1. Improving user-friendliness for simple tasks
-          1. With documentation!
-      1. Consistent ephemeris computation for all detectors
+      1. Writing down the list of changes in `io-refactor` for review
+      1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper
       1. Updating the `pypi` release of the code
 1. O4 [Virgo](Virgo): participating in the Rapid Response Team
 1. Starting a [D&D campaign](DnD) in the West Marches style
