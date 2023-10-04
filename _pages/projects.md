@@ -63,37 +63,36 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Contributing to the [LGWA](LGWA) whitepaper
+1. Preparing a presentation for the Catania meeting: all that's discussed in the Royal society paper (deadline: __8th of October__)
+1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people (deadline: __19th of October__ to prepare next session)
+1. Preparing a document and a presentation for the year passage at GSSI (deadline: __20th of October__ hard, but hopefully earlier to send to supervisors)
+1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
+    1. Writing down the list of changes in `io-refactor` for review
+    1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper
+    1. Add frequency vector checks, enable simulation of DWD (deadline: __22nd of October__ roughly)
+    1. Updating the `pypi` release of the code
+1. Finishing to GM the [Call of Cthulhu](CoC) "two shot" at GSSI
+1. Contributing to the [LGWA](LGWA) whitepaper (deadline: __end of November__)
     1. Writing some preliminary info about localization
     1. Doing some Fisher runs on massive BBH, multiband
     1. Doing a full PE run for a BNS as seen by LGWA
-1. Working on the inclination angle posterior feature for BAYESTAR
+1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
     1. Figuring out how to test the C code
     1. Making plots about the convergence of different integration schemes
 1. Doing the review of TEOBResumS-DALI within the NWI
-    1. Adapting the v5 review tests
+    1. Adapting the v5 review tests (deadline: __17th of October__)
     1. Then, adopting better parametrization and property-based stuff
-1. [rehear](rehear): injection studies with ASTRI
+1. [rehear](rehear): injection studies with ASTRI (deadline: not specified)
     1. Implementing a simplified model for the IRF of ASTRI
     1. Testing it with a very simple emission model
     1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
 1. Working on the multiband paper
-    1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-      1. Writing down the list of changes in `io-refactor` for review
-      1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper
-      1. Updating the `pypi` release of the code
-1. O4 [Virgo](Virgo): participating in the Rapid Response Team
-1. Starting a [D&D campaign](DnD) in the West Marches style
-1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
-1. Preparing a document and a presentation for the year passage at GSSI
-    1. New title ASAP
-    1. Document by the end of September
-    1. Presentation by the 20th of October
+1. Starting a [D&D campaign](DnD) in the West Marches style with Lorenzo
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
-1. Preparing a presentation for the Catania meeting: all that's discussed in the Royal society paper
+1. O4 [Virgo](Virgo): participating in the Rapid Response Team
 1. Training by running + climbing + aerial silks
-    1. [14K trail race](https://gransasso.onehundred.run/en/2/italy) on the 8th of October
-    1. [Half-marathon](https://www.rome21k.com/en/21k-info-eng/) on the 13th of November
+    1. [14K trail race](https://gransasso.onehundred.run/en/2/italy) on the __8th of October__
+    1. [Half-marathon](https://www.rome21k.com/en/21k-info-eng/) on the __13th of November__
 
 ##### Questions
 
@@ -132,7 +131,6 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Can we build a time-domain evidence integrand for GW inference?
     1. Is it somehow computable from to the SNR TD integrand with the waveform reconstruction?
 1. Learning to play bass
-1. Learning to be a Keeper for [Call of Cthulhu](CoC)
 
 ##### Questions
 
@@ -146,6 +144,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. How does multi-task gaussian process regression work ([Harisdau+2018](http://arxiv.org/abs/1805.03595))?
 1. How does DINGO-IS work exactly?
 1. How do the burst search efficiencies compare to matched-filtering SNRs?
+1. What causes the [Virgo $1 / \sqrt{f}$ noise](https://wiki.virgo-gw.eu/Commissioning/MysteryOneOverSqrtFnoise)? 
 
 #### Already did
 
