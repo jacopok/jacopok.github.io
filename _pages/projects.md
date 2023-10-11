@@ -61,7 +61,7 @@ horizontal: false
 
 #### At the moment
 
-This is a list of things I'm currently working on, within a timescale around a week.
+This is a list of things I'm currently working on, within a timescale around a month.
 
 1. Doing the review of TEOBResumS-DALI within the NWI
     1. Adapting the v5 review tests (deadline: __17th of October__)
