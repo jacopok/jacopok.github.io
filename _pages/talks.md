@@ -9,11 +9,11 @@ nav_order: 1
 
 ## Upcoming
 
-- 2023-10-10: [LGWA meeting](https://www.ct.ingv.it/lgwa2023) talk about different concepts for lunar gravitational wave detection (Royal Society paper)
 - 2023-10-20: [GSSI talk](https://indico.gssi.it/event/555/timetable/) to enter the third year, about my work in general
 
 ## Past
 
+- 2023-10-10: [LGWA meeting](https://www.ct.ingv.it/lgwa2023) talk about different concepts for lunar gravitational wave detection (Royal Society paper)
 - 2023-07-10: [GWPopNext](https://sites.google.com/unimib.it/gwpopnext/home?authuser=0) three-minute talk about VHE detection, [slides](https://docs.google.com/presentation/d/1dT45HZ33XZEi5t-IcsjYHdqBawxi8R5HN2AVndLpZKQ/edit?usp=sharing)
 - 2023-06-05: [GWsNS](https://indico.in2p3.fr/event/28236/) poster about early-warning localization of NS binaries with [LGWA](../projects/LGWA), [repo](https://github.com/jacopok/lgwa-skyloc) with poster and more
 - 2023-05-16: [ET symposium](https://indico.ego-gw.it/event/562) introduction to Fisher matrix forecasting, [repo](https://github.com/FrancescoIacovelli/XIII_ET_Symposium_Hackathon) with slides, notes and notebooks 

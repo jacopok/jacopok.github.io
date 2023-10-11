@@ -63,7 +63,9 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a week.
 
-1. Preparing a presentation for the Catania meeting: all that's discussed in the Royal society paper (deadline: __8th of October__)
+1. Doing the review of TEOBResumS-DALI within the NWI
+    1. Adapting the v5 review tests (deadline: __17th of October__)
+    1. Then, adopting better parametrization and property-based stuff
 1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people (deadline: __19th of October__ to prepare next session)
 1. Preparing a document and a presentation for the year passage at GSSI (deadline: __20th of October__ hard, but hopefully earlier to send to supervisors)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
@@ -71,7 +73,7 @@ This is a list of things I'm currently working on, within a timescale around a w
     1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper
     1. Add frequency vector checks, enable simulation of DWD (deadline: __22nd of October__ roughly)
     1. Updating the `pypi` release of the code
-1. Finishing to GM the [Call of Cthulhu](CoC) "two shot" at GSSI
+1. Preparing to finish the [Call of Cthulhu](CoC) "two shot" at GSSI (deadline: __23rd of October__)
 1. Contributing to the [LGWA](LGWA) whitepaper (deadline: __end of November__)
     1. Writing some preliminary info about localization
     1. Doing some Fisher runs on massive BBH, multiband
@@ -79,9 +81,6 @@ This is a list of things I'm currently working on, within a timescale around a w
 1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
     1. Figuring out how to test the C code
     1. Making plots about the convergence of different integration schemes
-1. Doing the review of TEOBResumS-DALI within the NWI
-    1. Adapting the v5 review tests (deadline: __17th of October__)
-    1. Then, adopting better parametrization and property-based stuff
 1. [rehear](rehear): injection studies with ASTRI (deadline: not specified)
     1. Implementing a simplified model for the IRF of ASTRI
     1. Testing it with a very simple emission model
@@ -145,6 +144,8 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. How does DINGO-IS work exactly?
 1. How do the burst search efficiencies compare to matched-filtering SNRs?
 1. What causes the [Virgo $1 / \sqrt{f}$ noise](https://wiki.virgo-gw.eu/Commissioning/MysteryOneOverSqrtFnoise)? 
+1. Moon climbing: are there places to do it? How is the rock quality? How do the grades convert?
+  Quick [reference](https://physicsworld.com/a/mountain-climbing-on-the-moon/), but need one on lunar topography. By April 1st 2024.
 
 #### Already did
 
