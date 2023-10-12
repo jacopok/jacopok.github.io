@@ -57,7 +57,7 @@ horizontal: false
 {%- endif -%}
 </div>
 
-### Working on 
+### Working on
 
 #### At the moment
 
@@ -72,6 +72,7 @@ This is a list of things I'm currently working on, within a timescale around a m
     1. Writing down the list of changes in `io-refactor` for review
     1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper
     1. Add frequency vector checks, enable simulation of DWD (deadline: __22nd of October__ roughly)
+        1. Maybe with the help of a master's student in Rome?
     1. Updating the `pypi` release of the code
 1. Preparing to finish the [Call of Cthulhu](CoC) "two shot" at GSSI (deadline: __23rd of October__)
 1. Contributing to the [LGWA](LGWA) whitepaper (deadline: __end of November__)
@@ -129,7 +130,9 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Seeing whether the upgraded version of RES-NOVA can measure neutrino mass through delays with failed SNe
 1. Can we build a time-domain evidence integrand for GW inference?
     1. Is it somehow computable from to the SNR TD integrand with the waveform reconstruction?
+    1. Can the methodology [here](https://arxiv.org/abs/2310.01544) be also applied to the hyperbolic analyses of GW190521?
 1. Learning to play bass
+1. Secret project with Filippo
 
 ##### Questions
 
