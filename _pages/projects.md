@@ -64,10 +64,10 @@ horizontal: false
 This is a list of things I'm currently working on, within a timescale around a month.
 
 1. Doing the review of TEOBResumS-DALI within the NWI
+    1. Moving the code to lalsuite
     1. Adapting the v5 review tests (deadline: __17th of October__)
     1. Then, adopting better parametrization and property-based stuff
 1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people (deadline: __19th of October__ to prepare next session)
-1. Preparing a document and a presentation for the year passage at GSSI (deadline: __20th of October__ hard, but hopefully earlier to send to supervisors)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Writing down the list of changes in `io-refactor` for review
     1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper
@@ -91,14 +91,11 @@ This is a list of things I'm currently working on, within a timescale around a m
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
 1. O4 [Virgo](Virgo): participating in the Rapid Response Team
 1. Training by running + climbing + aerial silks
-    1. [14K trail race](https://gransasso.onehundred.run/en/2/italy) on the __8th of October__
     1. [Half-marathon](https://www.rome21k.com/en/21k-info-eng/) on the __13th of November__
 
 ##### Questions
 
-1. How does one do injections with BAYESTAR?
-1. Does updating the prior each time fix the Bayes factor multiplication bias described by Isi, Farr and Chatziiannou?
-1. How does the center of the skymap move with time?
+1. How do we do Fisher matrix forecasting with coordinates in the SSB?
 
 #### Will get to
 
@@ -147,8 +144,9 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. How does DINGO-IS work exactly?
 1. How do the burst search efficiencies compare to matched-filtering SNRs?
 1. What causes the [Virgo $1 / \sqrt{f}$ noise](https://wiki.virgo-gw.eu/Commissioning/MysteryOneOverSqrtFnoise)? 
-1. Moon climbing: are there places to do it? How is the rock quality? How do the grades convert?
-  Quick [reference](https://physicsworld.com/a/mountain-climbing-on-the-moon/), but need one on lunar topography. By April 1st 2024.
+1. How does one do injections with BAYESTAR?
+1. Does updating the prior each time fix the Bayes factor multiplication bias described by Isi, Farr and Chatziiannou?
+1. How does the center of the skymap move with time?
 
 #### Already did
 
@@ -164,3 +162,5 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Roughly learning how Stable Diffusion works
 1. Making a presentation for the GSSI science fair about [LGWA](LGWA)
 1. Doing peer review
+1. Races
+    1. [14K trail race](https://gransasso.onehundred.run/en/2/italy) on the __8th of October__
