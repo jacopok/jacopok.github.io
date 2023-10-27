@@ -65,33 +65,31 @@ This is a list of things I'm currently working on, within a timescale around a m
 
 1. Doing the review of TEOBResumS-DALI within the NWI
     1. Moving the code to lalsuite
-    1. Adapting the v5 review tests (deadline: __17th of October__)
+    1. Adapting the v5 review tests
     1. Then, adopting better parametrization and property-based stuff
-1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people (deadline: __19th of October__ to prepare next session)
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Writing down the list of changes in `io-refactor` for review
     1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper
-    1. Add frequency vector checks, enable simulation of DWD (deadline: __22nd of October__ roughly)
-        1. Maybe with the help of a master's student in Rome?
+    1. Add frequency vector checks, enable simulation of DWD (deadline: __end of October__ roughly)
     1. Updating the `pypi` release of the code
-1. Preparing to finish the [Call of Cthulhu](CoC) "two shot" at GSSI (deadline: __23rd of October__)
+1. Preparing to finish the [Call of Cthulhu](CoC) "two shot" at GSSI
 1. Contributing to the [LGWA](LGWA) whitepaper (deadline: __end of November__)
     1. Writing some preliminary info about localization
     1. Doing some Fisher runs on massive BBH, multiband
     1. Doing a full PE run for a BNS as seen by LGWA
 1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
-    1. Figuring out how to test the C code
-    1. Making plots about the convergence of different integration schemes
 1. [rehear](rehear): injection studies with ASTRI (deadline: not specified)
     1. Implementing a simplified model for the IRF of ASTRI
     1. Testing it with a very simple emission model
     1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
 1. Working on the multiband paper
-1. Starting a [D&D campaign](DnD) in the West Marches style with Lorenzo
+1. Preparing a [D&D campaign](DnD) in the West Marches style with Lorenzo
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
+1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people (deadline: __31st of October__ to prepare next session)
+1. Supervising a student about DWD/NSWD detection with LGWA
 1. O4 [Virgo](Virgo): participating in the Rapid Response Team
 1. Training by running + climbing + aerial silks
-    1. [Half-marathon](https://www.rome21k.com/en/21k-info-eng/) on the __13th of November__
+    1. [Half-marathon](https://www.rome21k.com/en/21k-info-eng/) on the __19th of November__
 
 ##### Questions
 
