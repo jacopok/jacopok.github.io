@@ -69,23 +69,17 @@ This is a list of things I'm currently working on, within a timescale around a m
     1. Then, adopting better parametrization and property-based stuff
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Writing down the list of changes in `io-refactor` for review
-    1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper
     1. Add frequency vector checks, enable simulation of DWD (deadline: __end of October__ roughly)
     1. Updating the `pypi` release of the code
-1. Preparing to finish the [Call of Cthulhu](CoC) "two shot" at GSSI
-1. Contributing to the [LGWA](LGWA) whitepaper (deadline: __end of November__)
-    1. Writing some preliminary info about localization
-    1. Doing some Fisher runs on massive BBH, multiband
-    1. Doing a full PE run for a BNS as seen by LGWA
 1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
 1. [rehear](rehear): injection studies with ASTRI (deadline: not specified)
     1. Implementing a simplified model for the IRF of ASTRI
     1. Testing it with a very simple emission model
     1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
-1. Working on the multiband paper
 1. Preparing a [D&D campaign](DnD) in the West Marches style with Lorenzo
+1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people (deadline: __10th of October__ to prepare next session)
+1. Organizing sessions on data visualization for the Fellowship of Clean Code
 1. Supervising a student about [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
-1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people (deadline: __31st of October__ to prepare next session)
 1. Supervising a student about DWD/NSWD detection with LGWA
 1. O4 [Virgo](Virgo): participating in the Rapid Response Team
 1. Training by running + climbing + aerial silks
@@ -99,6 +93,14 @@ This is a list of things I'm currently working on, within a timescale around a m
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
+1. Working on the multiband paper
+    1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper
+1. Preparing to finish the [Call of Cthulhu](CoC) "two shot" at GSSI (deadline: __21st of November__)
+1. Contributing to the [LGWA](LGWA) whitepaper (deadline: __end of November__)
+    1. Writing some preliminary info about localization
+    1. Doing some Fisher runs on massive BBH, multiband
+    1. Doing a full PE run for a BNS as seen by LGWA
+1. Contributing to the proceedings of the Catania conference (deadline: __15th of November__)
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
     1. Comparing CTA slewing strategies with divergent pointing
 1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
@@ -128,6 +130,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
     1. Can the methodology [here](https://arxiv.org/abs/2310.01544) be also applied to the hyperbolic analyses of GW190521?
 1. Learning to play bass
 1. Secret project with Filippo
+1. Preparing a murder mystery TTRPG session to play with grandma over the holidays
 
 ##### Questions
 
