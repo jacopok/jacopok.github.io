@@ -63,14 +63,14 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a month.
 
-1. Doing the review of TEOBResumS-DALI within the NWI
-    1. Moving the code to lalsuite
-    1. Adapting the v5 review tests
-    1. Then, adopting better parametrization and property-based stuff
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Writing down the list of changes in `io-refactor` for review
     1. Add frequency vector checks, enable simulation of DWD (deadline: __end of October__ roughly)
     1. Updating the `pypi` release of the code
+1. Doing the review of TEOBResumS-DALI within the NWI
+    1. Moving the code to lalsuite
+    1. Adapting the v5 review tests
+    1. Then, adopting better parametrization and property-based stuff
 1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
 1. [rehear](rehear): injection studies with ASTRI (deadline: not specified)
     1. Implementing a simplified model for the IRF of ASTRI
@@ -88,6 +88,13 @@ This is a list of things I'm currently working on, within a timescale around a m
 ##### Questions
 
 1. How do we do Fisher matrix forecasting with coordinates in the SSB?
+1. What are the necessary improvements to the computing infrastructure
+  to implement `rehear`? 
+  1. Real-time reanalysis, 
+  1. more EW frequency thresholds, 
+  1. a fast communication system for updates without "polluting" the environment with 
+    too many GCNs?
+  1. timings
 
 #### Will get to
 
