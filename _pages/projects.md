@@ -63,14 +63,15 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a month.
 
+1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
+    1. Enable simulation of DWD and other low-frequency-derivative signals
+    1. Document new features
+    1. Set Earth-based detectors _not_ in the SSB and check backwards compatibility
+    1. Updating the `pypi` release of the code
 1. Helping standardize waveform review tests for the LVK, by helping as a reviewee of TEOBResumS-DALI
     1. Writing a README for the tests
     1. Implementing more of the v5 review tests as well as [these ones](https://git.ligo.org/waveforms/1-main/-/issues/10#note_851322)
     1. Adopting better parametrization (and maybe property-based stuff)
-1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-    1. Writing down the list of changes in `io-refactor` for review
-    1. Add frequency vector checks, enable simulation of DWD
-    1. Updating the `pypi` release of the code
 1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
 1. [rehear](rehear): injection studies with ASTRI (deadline: not specified)
     1. Implementing a simplified model for the IRF of ASTRI
@@ -78,6 +79,7 @@ This is a list of things I'm currently working on, within a timescale around a m
     1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
     1. Running the same tests with the O3 replay MDC
 1. Preparing a [D&D campaign](DnD) in the West Marches style with Lorenzo
+1. Preparing a Christmas one-shot to run with Grandma 
 1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people 
 1. Organizing sessions on data visualization for the Fellowship of Clean Code
 1. Supervising master's students about: 
