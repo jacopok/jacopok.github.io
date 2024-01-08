@@ -63,6 +63,7 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a month.
 
+1. Reviewing a section of the LGWA whitepaper
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Enable simulation of DWD and other low-frequency-derivative signals
     1. Document new features
@@ -73,6 +74,8 @@ This is a list of things I'm currently working on, within a timescale around a m
     1. Implementing more of the v5 review tests as well as [these ones](https://git.ligo.org/waveforms/1-main/-/issues/10#note_851322)
     1. Adopting better parametrization (and maybe property-based stuff)
 1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
+    1. Finishing to remove the min/max inclination angle features
+    1. Computing realistic inclination angle integrands
 1. [rehear](rehear): injection studies with ASTRI (deadline: not specified)
     1. Implementing a simplified model for the IRF of ASTRI
     1. Testing it with a very simple emission model
@@ -87,6 +90,7 @@ This is a list of things I'm currently working on, within a timescale around a m
     1. DWD/NSWD detection with LGWA
 1. O4 [Virgo](Virgo): participating in the Rapid Response Team
 1. Training by running + climbing + aerial silks
+    1. Rome Marathon on the __17th of March 2023__ 
 
 ##### Questions
 
@@ -109,7 +113,6 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
     1. Writing some preliminary info about localization
     1. Doing some Fisher runs on massive BBH, multiband
     1. Doing a full PE run for a BNS as seen by LGWA
-1. Contributing to the proceedings of the Catania conference (deadline: __15th of November__)
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
     1. Comparing CTA slewing strategies with divergent pointing
 1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
@@ -139,7 +142,6 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
     1. Can the methodology [here](https://arxiv.org/abs/2310.01544) be also applied to the hyperbolic analyses of GW190521?
 1. Learning to play bass
 1. Secret project with Filippo
-1. Preparing a murder mystery TTRPG session to play with grandma over the holidays
 
 ##### Questions
 
@@ -173,6 +175,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Making a presentation for the GSSI science fair about [LGWA](LGWA)
 1. Doing peer review
 1. Running [Call of Cthulhu](CoC) at GSSI (so far, "The Haunting")
+1. Preparing a murder mystery TTRPG session to play with grandma over the holidays
 1. Races
     1. [14K trail race](https://gransasso.onehundred.run/en/2/italy) on the __8th of October__
     1. [Half-marathon](https://www.rome21k.com/en/21k-info-eng/) on the __19th of November__

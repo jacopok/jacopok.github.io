@@ -9,6 +9,7 @@ nav_order: 1
 
 ## Upcoming
 
+- 2024-02-21: GWFish tutorial at the ET meeting
 - 2024-??-??: GRB group talk about rehear
 - 2024-06-??: Scotland lunar symposium talk about LGWA
 
