@@ -63,29 +63,23 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a month.
 
-1. Reviewing a section of the LGWA whitepaper
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-    1. Enable simulation of DWD and other low-frequency-derivative signals
-    1. Document new features
-    1. Set Earth-based detectors _not_ in the SSB and check backwards compatibility
+    1. Making the small interface fixes requested
     1. Updating the `pypi` release of the code
 1. Helping standardize waveform review tests for the LVK, by helping as a reviewee of TEOBResumS-DALI
-    1. Writing a README for the tests
-    1. Implementing more of the v5 review tests as well as [these ones](https://git.ligo.org/waveforms/1-main/-/issues/10#note_851322)
-    1. Adopting better parametrization (and maybe property-based stuff)
+    1. Making an example of mode generation
 1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
-    1. Finishing to remove the min/max inclination angle features
     1. Computing realistic inclination angle integrands
+    1. Writing the paper section
 1. [rehear](rehear): injection studies with ASTRI (deadline: not specified)
     1. Implementing a simplified model for the IRF of ASTRI
     1. Testing it with a very simple emission model
     1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
     1. Running the same tests with the O3 replay MDC
 1. Preparing a [D&D campaign](DnD) in the West Marches style with Lorenzo
-1. Preparing a Christmas one-shot to run with Grandma 
 1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people 
 1. Organizing sessions on data visualization for the Fellowship of Clean Code
-1. Supervising master's students about: 
+1. Helping in the supervision of master's students about: 
     1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
     1. DWD/NSWD detection with LGWA
 1. O4 [Virgo](Virgo): participating in the Rapid Response Team
@@ -108,13 +102,16 @@ This is a list of things I'm currently working on, within a timescale around a m
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
 1. Working on the multiband paper
-    1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper
+    1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper, or from Wen+Chen 2010
+    1. Enable simulation of DWD and other low-frequency-derivative signals
 1. Contributing to the [LGWA](LGWA) whitepaper (deadline: __end of November__)
     1. Writing some preliminary info about localization
     1. Doing some Fisher runs on massive BBH, multiband
     1. Doing a full PE run for a BNS as seen by LGWA
 1. Improving the way early-warning signals are handled and sent to observatories ([rehear](rehear))
     1. Comparing CTA slewing strategies with divergent pointing
+1. Working on NWI tests 
+    1. Implementing more of the v5 review tests as well as [these ones](https://git.ligo.org/waveforms/1-main/-/issues/10#note_851322)
 1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
 1. Checking whether the placement of templates according to a greedy algorithm is a good choice for NR informativeness
 1. Checking how fast we can make a truncated template bank for updating inference ([rehear](../projects/rehear))
@@ -162,6 +159,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 
 #### Already did
 
+1. Reviewing a section of the LGWA whitepaper
 1. Helping on a paper about Lunar gravitational wave detection
 1. Getting the `mlgw_bns` paper published
 1. Making a presentation on [LGWA](LGWA) for the [IFAE meeting](https://agenda.infn.it/event/34702/)
@@ -175,7 +173,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Making a presentation for the GSSI science fair about [LGWA](LGWA)
 1. Doing peer review
 1. Running [Call of Cthulhu](CoC) at GSSI (so far, "The Haunting")
-1. Preparing a murder mystery TTRPG session to play with grandma over the holidays
+1. Running a TTRPG session with grandma over the holidays
 1. Races
     1. [14K trail race](https://gransasso.onehundred.run/en/2/italy) on the __8th of October__
     1. [Half-marathon](https://www.rome21k.com/en/21k-info-eng/) on the __19th of November__
