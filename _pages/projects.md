@@ -66,11 +66,12 @@ This is a list of things I'm currently working on, within a timescale around a m
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Making the small interface fixes requested
     1. Updating the `pypi` release of the code
-1. Helping standardize waveform review tests for the LVK, by helping as a reviewee of TEOBResumS-DALI
-    1. Making an example of mode generation
+1. Writing abstracts for talks to give at conferences
+1. Making a poster for the GSSI science fair
 1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
     1. Computing realistic inclination angle integrands
     1. Writing the paper section
+1. Helping standardize waveform review tests for the LVK, by helping as a reviewee of TEOBResumS-DALI
 1. [rehear](rehear): injection studies with ASTRI (deadline: not specified)
     1. Implementing a simplified model for the IRF of ASTRI
     1. Testing it with a very simple emission model
