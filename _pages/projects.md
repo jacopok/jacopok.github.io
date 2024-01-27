@@ -79,13 +79,13 @@ This is a list of things I'm currently working on, within a timescale around a m
     1. Running the same tests with the O3 replay MDC
 1. Preparing a [D&D campaign](DnD) in the West Marches style with Lorenzo
 1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people 
-1. Organizing sessions on data visualization for the Fellowship of Clean Code
 1. Helping in the supervision of master's students about: 
     1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
     1. DWD/NSWD detection with LGWA
 1. O4 [Virgo](Virgo): participating in the Rapid Response Team
 1. Training by running + climbing + aerial silks
     1. Rome Marathon on the __17th of March 2023__ 
+1. Learning to play some De André songs
 
 ##### Questions
 
@@ -102,6 +102,7 @@ This is a list of things I'm currently working on, within a timescale around a m
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
+1. Organizing sessions on data visualization for the Fellowship of Clean Code
 1. Working on the multiband paper
     1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper, or from Wen+Chen 2010
     1. Enable simulation of DWD and other low-frequency-derivative signals
