@@ -9,7 +9,8 @@ nav_order: 1
 
 ## Upcoming
 
-- 2024-02-08: GSSI science fair poster about LGWA
+- 2024-02-08: [GSSI science fair talk+poster](https://indico.gssi.it/event/619/): the talk's about being in collaborations (ET, LVK, LGWA, LISA, PTA), the poster is about LGWA specifically
+- 2024-02-16: PhTea talk about the history of role-playing games, [slides](https://docs.google.com/presentation/d/1jwfzek--7HnkB3n1y9xN3oxhlnsLwD6Rq50OpcVXXCs)
 - 2024-02-21: GWFish tutorial at the ET meeting
 - 2024-??-??: GRB group talk about rehear
 - 2024-03-??: Moriond talk about rehear (?)

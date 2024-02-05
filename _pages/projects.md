@@ -67,7 +67,6 @@ This is a list of things I'm currently working on, within a timescale around a m
     1. Making the small interface fixes requested
     1. Updating the `pypi` release of the code
 1. Writing abstracts for talks to give at conferences
-1. Making a poster for the GSSI science fair
 1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
     1. Computing realistic inclination angle integrands
     1. Writing the paper section
@@ -78,7 +77,7 @@ This is a list of things I'm currently working on, within a timescale around a m
     1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
     1. Running the same tests with the O3 replay MDC
 1. Preparing a [D&D campaign](DnD) in the West Marches style with Lorenzo
-1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people 
+1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Helping in the supervision of master's students about: 
     1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
     1. DWD/NSWD detection with LGWA

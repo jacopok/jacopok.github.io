@@ -7,13 +7,12 @@ importance: 1
 category: research
 ---
 
-The LIGO-Virgo-KAGRA collaboration will start its fourth observing run,
-O4, in spring 2023 (hopefully).
-I recently joined the collaboration, and I will help in this 
-observing run.
+The LIGO-Virgo-KAGRA collaboration has started its fourth observing run,
+O4, in spring 2023, and it will continue until late 2025 (see the [observing plan](https://observing.docs.ligo.org/plan/)), with Virgo joining in March 2024.
 
-Specifically, I'm working to automate the waveform review process,
-hopefully allowing for the use of eccentric waveforms before the end of O4.
 
-Look out for the [observing plans](https://observing.docs.ligo.org/plan/)!
+As part of the LVK collaboration, I'm 
 
+- helping out in waveform review, 
+- participating in the Rapid Response Team,
+- helping with the development of [BAYESTAR](https://lscsoft.docs.ligo.org/ligo.skymap/#localization).
