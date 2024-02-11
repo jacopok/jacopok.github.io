@@ -143,6 +143,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
     1. Can the methodology [here](https://arxiv.org/abs/2310.01544) be also applied to the hyperbolic analyses of GW190521?
 1. Learning to play bass
 1. Secret project with Filippo
+1. Make a page on this website with matplotlib tips and tricks
 
 ##### Questions
 
@@ -160,6 +161,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. How does one do injections with BAYESTAR?
 1. Does updating the prior each time fix the Bayes factor multiplication bias described by Isi, Farr and Chatziiannou?
 1. How does the center of the skymap move with time?
+1. 
 
 #### Already did
 
