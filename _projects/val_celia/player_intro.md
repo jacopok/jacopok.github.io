@@ -8,13 +8,7 @@ permalink: /player_intro/
 
 # Val Celia e la Burlanija
 
-<!-- {% include figure.html path="assets/img/val_celia/Testa_di_Morin.png" width=1000 %} -->
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/val_celia/Testa_di_Morin.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+{% include figure.liquid path="assets/img/val_celia/Testa_di_Morin.png" class="img-fluid rounded z-depth-1" zoomable=true align_right=true width="50%" %}
 
 Alte montagne incombono sulla pianura del regno di **Burlanija**, e fra di esse c’è una spaccatura: la forra della **Val Celia**, un profondo canyon che serpeggia fra irte pareti.
 
