@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Vampire
+permalink: /projects/Vampire/
 description: A fun game for groups in city centers!
 importance: 2
-category: hobbies
-# img: assets/img/medieval_outpost.png
+category: none
 ---
 
 A game for fairly large groups of people, fun to do in city centers!
