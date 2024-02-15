@@ -1,17 +1,18 @@
 ---
-layout: page
 title: Val Celia
 description: A West Marches Dungeons and Dragons campaign.
-importance: 1
 permalink: /player_intro/
+layout: dnd
+importance: 1
 toc:
     sidebar: left
+print_title: false
 ---
 
 # Val Celia e la Burlanija
 
 {% include figure.liquid path="assets/img/val_celia/Testa_di_Morin.png
-" class="img-fluid rounded z-depth-1" zoomable=true align_right=true width="50%" %}
+" class="img-fluid rounded float-right" zoomable=true width="50%" %}
 
 Alte montagne incombono sulla pianura del regno di **Burlanija**, e fra di esse c’è una spaccatura: la forra della **Val Celia**, un profondo canyon che serpeggia fra irte pareti.
 
@@ -26,7 +27,7 @@ Anche altre voci girano: specie per chi viene da questa regione, è noto che una
 ## Celina
 
 {% include figure.liquid path="assets/img/val_celia/Celina.png
-" class="img-fluid rounded z-depth-1" zoomable=true align_right=true width="50%" %}
+" class="img-fluid rounded float-right" zoomable=true width="50%" %}
 
 Celina è una piccola cittadina che conta poco più di mille abitanti. Situata ai piedi delle montagne, si trova al confine del regno di Burlanija.
 
@@ -52,34 +53,6 @@ Per chi volesse interpretare chierici, paladini o altri personaggi particolarmen
 La magia, ad eccezione di quella adoperata dai Lumi, è vietata all’interno del regno: 
 
 Tuttavia, è stato forgiato un accordo informale fra Rodoaldo Venturoso e i Lumi, per il quale la presenza di utenti di magia sarà tollerata a Celina, e potranno anche fare pieno uso dei propri poteri durante le missioni.
-
-# Struttura di una sessione
-
-In questa campagna, lo spunto per le sessioni parte dai giocatori.
-
-Questi si organizzano in un **party** (da 3-5 persone), che può essere **diverso ogni missione**, e trovano insieme al DM una data per giocare.
-
-Nel farlo, dicono anche al DM **dove** hanno intenzione di andare, decidendolo in base alle missioni proposte dal Visconte, o guardando la mappa, o magari anche basandosi sulle storie narrate da avventurieri che erano stati nella Valle in precedenza.
-
-In questo modo, anche al DM è data occasione di preparare quella regione della mappa nel dettaglio necessario.
-
-La **durata** della missione prestabilita corrisponde alle provviste che gli avventurieri si porteranno dietro, e anche alla durata concordata con il Visconte. 
-
-Con un poco di meta-gaming, facciamo corrispondere questa durata anche al tempo che possiamo fisicamente passare al tavolo a giocare. Se questo tempo finisce ma i personaggi sono ancora nei monti, potranno tornare “automaticamente”, con annessi dei rischi (vedi Fuga e Ritirata), in quanto sono troppo stanchi, affamati o assetati per andare avanti.
-
-Inizialmente, la durata sarà sempre di **una sessione**. In futuro, sarà possibile sperimentare con due o tre sessioni se necessario.
-
-Alla **fine della sessione**, dunque, gli avventurieri superstiti tornano in paese dove è garantita la sicurezza. Parte di ciò per cui il Visconte paga è un **resoconto** di ciò che hanno visto e trovato: il party può trovare uno **scriba** che stili un racconto (romanzato? non del tutto fattuale? va benissimo…), che sarà condiviso con tutti gli altri giocatori (specialmente coloro che non erano presenti).
-
-In questo modo, si potrà sviluppare una conoscenza condivisa fra tutti gli avventurieri di Celina, permettendo anche agli altri di fare tesoro dei pericoli incontrati da chi è venuto prima.
-
-Punti bonus: un rapporto per il Visconte, e una versione diversa a rappresentare i racconti all’osteria la sera dopo il ritorno.
-
-Gli scribi riceveranno ricompense aggiuntive all’interno del gioco!
-
-Con le loro esplorazioni, i personaggi potranno guadagnare **ricchezze ed esperienza**, salendo così di livello. I livelli di un party che si avvia ad un’avventura possono essere diversi fra di loro - questo significa anche che un personaggio di basso livello che si aggrega ad un gruppo più esperto acquisirà molto velocemente esperienza.
-
-Il **tempo** scorre grossomodo allo stesso ritmo fra la Burlanija e il mondo reale: le stagioni saranno le stesse, e anche il calendario. Anche quando non ci sono avventurieri nei dintorni, il mondo procede lo stesso! 
 
 # Creare un personaggio
 
