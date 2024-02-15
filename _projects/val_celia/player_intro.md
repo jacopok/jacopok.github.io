@@ -4,17 +4,20 @@ title: Val Celia
 description: A West Marches Dungeons and Dragons campaign.
 importance: 1
 permalink: /player_intro/
+toc:
+    sidebar: left
 ---
 
 # Val Celia e la Burlanija
 
-{% include figure.liquid path="assets/img/val_celia/Testa_di_Morin.png" class="img-fluid rounded z-depth-1" zoomable=true align_right=true width="50%" %}
+{% include figure.liquid path="assets/img/val_celia/Testa_di_Morin.png
+" class="img-fluid rounded z-depth-1" zoomable=true align_right=true width="50%" %}
 
 Alte montagne incombono sulla pianura del regno di **Burlanija**, e fra di esse c’è una spaccatura: la forra della **Val Celia**, un profondo canyon che serpeggia fra irte pareti.
 
 Poco oltre lo sbocco della forra in un fiume, inerpicato sul versante meridionale di una collina, si vede la cittadina di Celina, piccolo abitato di confine. Il regno si estende solo fino a lì, perché da generazioni ormai nessuno si avventura più nelle montagne.
 
-Di recente, però, il [[Visconte Rodoaldo Venturoso]], nobiluomo figlio del Conte in carica a Celina, ha iniziato a diffondere un editto secondo il quale finanzierà e supporterà ogni gruppo di avventurieri abbastanza coraggiosi da esplorare la Val Celia. Gira anche voce che la Candela del villaggio, ovvero il sacerdote locale della Chiesa della Santa Luce, sia disposta a chiudere un occhio sull’utilizzo della magia al di là dei confini di Burlanija, seppure questo sia ufficialmente vietato.
+Di recente, però, il Visconte Rodoaldo Venturoso, nobiluomo figlio del Conte in carica a Celina, ha iniziato a diffondere un editto secondo il quale finanzierà e supporterà ogni gruppo di avventurieri abbastanza coraggiosi da esplorare la Val Celia. Gira anche voce che la Candela del villaggio, ovvero il sacerdote locale della Chiesa della Santa Luce, sia disposta a chiudere un occhio sull’utilizzo della magia al di là dei confini di Burlanija, seppure questo sia ufficialmente vietato.
 
 L’editto parla di grandi **tesori** sepolti anticamente dai **nani**, e fantastica su come potrebbe essere esaltata la Burlanija dal rinvenire i frutti dell’artigianato nanico, ben al di là di qualunque cosa possa essere prodotta al giorno d’oggi.
 
@@ -22,11 +25,15 @@ Anche altre voci girano: specie per chi viene da questa regione, è noto che una
 
 ## Celina
 
+{% include figure.liquid path="assets/img/val_celia/Celina.png
+" class="img-fluid rounded z-depth-1" zoomable=true align_right=true width="50%" %}
+
 Celina è una piccola cittadina che conta poco più di mille abitanti. Situata ai piedi delle montagne, si trova al confine del regno di Burlanija.
 
-Il conte [[Berengario Venturoso]] la 
+È qui che tutti gli avventurieri interessati ad esplorare la Val Celia soggiornano: 
+Rodoaldo Venturoso ha stabilito una convenzione con la locanda "Il Sale e la Terra", che ospita tutti coloro che si impegnano a rispondere all'appello. 
 
-#da-fare finire paragrafo celina
+La Candela in carica a Celina da qualche anno si chiama Candida Ottavia, che seppur giovane ha delle idea "vecchio stampo" sulla religione.
 
 ## Religione in Burlanija
 
@@ -38,15 +45,13 @@ Il verbo della sacra luce è complesso e si è evoluto ed aggiornato notevolment
 2. Irradia la Luce Sacra verso gli altri, per scaldare il loro spirito.
 3. Illumina il sentiero dei giusti ed eradica l’oscurità dal mondo.
 
-Ai wannabe chierici, paladini o altri personaggi particolarmente religiosi, o ancora a chi si vuole informare su questa religione, si consiglia la lettura del relativo documento. 
+Per chi volesse interpretare chierici, paladini o altri personaggi particolarmente religiosi: chiedete e vi sarà fornito un documento con più dettagli! 
 
 ## Magia in Burlanija
 
-La magia, ad eccezione di quella adoperata dai Lumi, è vietata all’interno del regno.
+La magia, ad eccezione di quella adoperata dai Lumi, è vietata all’interno del regno: 
 
-Tuttavia, 
-#da-fare finire paragrafo magia e religione
-
+Tuttavia, è stato forgiato un accordo informale fra Rodoaldo Venturoso e i Lumi, per il quale la presenza di utenti di magia sarà tollerata a Celina, e potranno anche fare pieno uso dei propri poteri durante le missioni.
 
 # Struttura di una sessione
 
@@ -60,7 +65,7 @@ In questo modo, anche al DM è data occasione di preparare quella regione della 
 
 La **durata** della missione prestabilita corrisponde alle provviste che gli avventurieri si porteranno dietro, e anche alla durata concordata con il Visconte. 
 
-Con un poco di meta-gaming, facciamo corrispondere questa durata anche al tempo che possiamo fisicamente passare al tavolo a giocare. Se questo tempo finisce ma i personaggi sono ancora nei monti, potranno tornare “automaticamente”, con annessi dei rischi (vedi [[Introduzione per i giocatori#^6ba8bf|altre regole]] --> *fuga e ritirata* ), in quanto sono troppo stanchi, affamati o assetati per andare avanti.
+Con un poco di meta-gaming, facciamo corrispondere questa durata anche al tempo che possiamo fisicamente passare al tavolo a giocare. Se questo tempo finisce ma i personaggi sono ancora nei monti, potranno tornare “automaticamente”, con annessi dei rischi (vedi Fuga e Ritirata), in quanto sono troppo stanchi, affamati o assetati per andare avanti.
 
 Inizialmente, la durata sarà sempre di **una sessione**. In futuro, sarà possibile sperimentare con due o tre sessioni se necessario.
 
@@ -86,7 +91,7 @@ Si tratta delle ricompense in denaro e dei grandi tesori promessi dal Visconte?�
 È forse una curiosità insaziabile di scoprire se le leggende sulla Val Celia siano vere? 
 O si tratta di un’altra ragione ancora?
 
-È anche importante che il tuo personaggio sia in grado di lavorare in squadra per la missione - il “lupo solitario” non funziona bene all’interno di un party all’avventura, ci deve essere un livello di base di fiducia reciproca (i.e. **no PvP**).
+È anche importante che il tuo personaggio sia in grado di lavorare in squadra per la missione - il “lupo solitario” non funziona bene all’interno di un party all’avventura, ci deve essere un livello di base di fiducia reciproca (e non ci sarà combattimento fra giocatori).
 
 Avendo chiari in mente questi capisaldi, è arrivato il momento di creare il proprio personaggio! Per farlo bisogna sceglierne:
 
@@ -124,7 +129,6 @@ Altre razze, ancora meno comuni, possono essere: [mezz'elfi](http://dnd5e.wikido
 
 ### Varianti di razza
 
-^1370de
 
 Molte delle razze precedentemente elencate hanno delle varianti tra cui poter scegliere. Come regola generale, verranno accettate in automatico le varianti proposte nel *player handbook*. Questo non significa che le altre varianti verranno scartate a priori, ma che il DM di fiducia studierà la tua proposta in maggiore dettaglio prima di dare il via libera.
 
@@ -134,7 +138,7 @@ Le classi non sono altro che i "mestieri" di un avventuriero. Qui non ci sono pa
 
 ### Sottoclassi
 
-Ad un certo punto della progressione del personaggio, a seconda della classe, si potrà scegliere una sottoclasse, ovvero una particolare specializzazione all'interno della classe scelta. Similmente a quanto visto per le [[Introduzione per i giocatori#^1370de|varianti di razza]], tutte le sottoclassi presenti nel *player handbook* sono automaticamente accettate. Per le altre, ci sarà prima un'attenta analisi da parte dei DM: l'idea potrà essere accettata in toto, scartata completamente, oppure modificata in qualche sua parte.
+Ad un certo punto della progressione del personaggio, a seconda della classe, si potrà scegliere una sottoclasse, ovvero una particolare specializzazione all'interno della classe scelta. Similmente a quanto visto per le Introduzione per i giocatori#^1370de|varianti di razza, tutte le sottoclassi presenti nel *player handbook* sono automaticamente accettate. Per le altre, ci sarà prima un'attenta analisi da parte dei DM: l'idea potrà essere accettata in toto, scartata completamente, oppure modificata in qualche sua parte.
 
 ### Multiclassare
 
@@ -145,6 +149,7 @@ Quando i personaggi inizieranno ad acquisire qualche livello, ai giocatori più 
 Il background è la storia del tuo personaggio fino al momento in cui inizi a giocarlo. Come accennato in precedenza, è molto importante per il suo roleplay: ne determina la personalità, i traumi, il modo di comportarsi.
 
 #da-fare Aggiungere paragrafino qua con le domande a cui rispondere per definire una storia e una personalità tridimensionale al PG.
+
 
 Oltre a questo, esistono anche degli "archetipi" di background che forniscono dei precisi vantaggi per quanto riguarda abilità, linguaggi conosciuti, oggetti che si possiedono all'inizio della partita. Puoi scegliere uno qualsiasi di questi archetipi che, a tuo parere, si sposi bene con la storia che avevi in mente per il tuo personaggio. 
 
@@ -161,3 +166,7 @@ Oltre a questo, puoi decidere di vendere qualsiasi oggetto tra quelli a tua disp
 Finito anche questo, il tuo personaggio è pronto per essere giocato! Ricorda: per qualsiasi dubbio, chiarimento o richiesta, sentiti libero di contattare il tuo DM di fiducia.
 
 # Altre regole
+
+
+Vedi Fuga e Ritirata
+
