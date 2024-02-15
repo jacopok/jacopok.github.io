@@ -107,9 +107,9 @@ Se è la tua prima esperienza in DnD o in generale nei giochi di ruolo, sappi ch
 
 
 Per chi non si sente pronto a creare da solo un personaggio, per chi non vuole investire tempo nella scelta di classi, background e compagnia bella, per chi vuole provare il brivido del caos ci sono anche queste possibilità:
-- crea il tuo personaggio assieme al DM --> tu gli spieghi cosa vuoi, lui ti propone qualcosa e infine trovate un compromesso accettabile!
+- crea il tuo personaggio assieme al DM: tu gli spieghi cosa vuoi, lui ti propone qualcosa e infine trovate un compromesso accettabile!
 - scegli il tuo personaggio da una lista di PG prefatti, sulla base di un'accurata (ma non iperdettagliata) descrizione. Volendo si possono anche modificare.
-- fai scegliere il caso! --> lascia che i dadi scelgano per te! Razza, classe , background: tutto randomico o solo in parte. Probabilmente non sarà un personaggio molto ottimizzato, ma sicuramente sarà divertente da giocare!
+- fai scegliere il caso!  lascia che i dadi scelgano per te! Razza, classe , background: tutto randomico o solo in parte. Probabilmente non sarà un personaggio molto ottimizzato, ma sicuramente sarà divertente da giocare!
 
 ## Razze in Burlanija
 
@@ -138,7 +138,7 @@ Le classi non sono altro che i "mestieri" di un avventuriero. Qui non ci sono pa
 
 ### Sottoclassi
 
-Ad un certo punto della progressione del personaggio, a seconda della classe, si potrà scegliere una sottoclasse, ovvero una particolare specializzazione all'interno della classe scelta. Similmente a quanto visto per le Introduzione per i giocatori#^1370de|varianti di razza, tutte le sottoclassi presenti nel *player handbook* sono automaticamente accettate. Per le altre, ci sarà prima un'attenta analisi da parte dei DM: l'idea potrà essere accettata in toto, scartata completamente, oppure modificata in qualche sua parte.
+Ad un certo punto della progressione del personaggio, a seconda della classe, si potrà scegliere una sottoclasse, ovvero una particolare specializzazione all'interno della classe scelta. Similmente a quanto visto per le varianti di razza, tutte le sottoclassi presenti nel *player handbook* sono automaticamente accettate. Per le altre, ci sarà prima un'attenta analisi da parte dei DM: l'idea potrà essere accettata in toto, scartata completamente, oppure modificata in qualche sua parte.
 
 ### Multiclassare
 
