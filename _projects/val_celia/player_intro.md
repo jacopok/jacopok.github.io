@@ -1,7 +1,7 @@
 ---
 title: Val Celia
 description: A West Marches Dungeons and Dragons campaign.
-permalink: /player_intro/
+permalink: /val_celia/player_intro/
 layout: dnd
 importance: 1
 toc:
