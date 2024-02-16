@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="post">
+    {% if page.print_title %}
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <p class="post-description">{{ page.description }}</p>
+        </header>
+    {% endif %}
+
+    <article>
+        {{ content }}
+    </article>
+
+</div>

@@ -11,51 +11,60 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
+{% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+  {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
     </div>
   </div>
-  {%- else -%}
+  {% else %}
   <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
   </div>
-  {%- endif -%}
+  {% endif %}
   {% endfor %}
 
-{%- else -%}
+{% else %}
+
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+
+{% assign sorted_projects = site.projects | sort: "importance" %}
+
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+
+{% if page.horizontal %}
+
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
     </div>
   </div>
-  {%- else -%}
+  {% else %}
   <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
   </div>
-  {%- endif -%}
-{%- endif -%}
+  {% endif %}
+{% endif %}
 </div>
+
+<br/>
 
 ### Working on
 
@@ -63,26 +72,26 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a month.
 
+It's too many! I know, and a big project of mine is to stop starting new things and start finishing them.
+
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Making the small interface fixes requested
     1. Updating the `pypi` release of the code
     1. Preparing the introduction for the Assisi school
-1. Working on some weird statistical methods for the BOAT
-1. Working on the inclination angle posterior feature for BAYESTAR (deadline: __short term__ hopefully)
+1. Working on the inclination angle posterior feature for BAYESTAR
     1. Computing realistic inclination angle integrands
     1. Writing the paper section
-1. Helping as a reviewee of TEOBResumS-DALI
 1. [rehear](rehear): injection studies with ASTRI (deadline: not specified)
     1. Implementing a simplified model for the IRF of ASTRI
     1. Testing it with a very simple emission model
     1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
     1. Running the same tests with the O3 replay MDC
-1. Preparing a [D&D campaign](DnD) in the West Marches style with Lorenzo
+1. Helping as a reviewee of TEOBResumS-DALI
+1. Running a [D&D campaign](DnD) in the West Marches style with Lorenzo
 1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Helping in the supervision of master's students about: 
     1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
     1. DWD/NSWD detection with LGWA
-1. O4 [Virgo](Virgo): participating in the Rapid Response Team
 1. Training by running + aerial silks (+ climbing and cycling sometimes)
     1. Rome Marathon on the __17th of March 2023__ 
 1. Learning to play some De André songs
@@ -102,6 +111,9 @@ This is a list of things I'm currently working on, within a timescale around a m
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
+1. Cosmological coupling of Black Holes
+1. Working on some weird statistical methods for the BOAT
+1. O4 [Virgo](Virgo): participating in the Rapid Response Team
 1. Helping standardize waveform review tests for the LVK
 1. Improving the NWI's approach to parameter checking
 1. Organizing sessions on data visualization for the Fellowship of Clean Code
