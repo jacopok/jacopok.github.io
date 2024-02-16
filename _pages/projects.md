@@ -64,11 +64,15 @@ horizontal: false
 {% endif %}
 </div>
 
+<br/>
+
 ### Working on
 
 #### At the moment
 
 This is a list of things I'm currently working on, within a timescale around a month.
+
+It's too many! I know, and a big project of mine is to stop starting new things and start finishing them.
 
 1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
     1. Making the small interface fixes requested
