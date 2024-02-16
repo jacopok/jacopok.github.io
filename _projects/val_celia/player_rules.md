@@ -12,7 +12,7 @@ print_title: false
 # Regole
 
 La campagna sarà giocata con le regole di Dungeons and Dragons, 5a edizione, con alcune modifiche. 
-La [Struttura di una sessione](#struttura-di-una-sessione) sarà diversa 
+La [Struttura di una sessione sarà diversa da quella di una tradizionale campagna, in quanto si partirà e finirà sempre da Celina](#struttura-di-una-sessione-sarà-diversa-da-quella-di-una-tradizionale-campagna,-in-quanto-si-partirà-e-finirà-sempre-da-celina). Per questo, ci sono anche delle regole specifiche su come chiudere la sessione: vedi [Fuga e ritirata](#fuga-e-ritirata).
 
 ## Struttura di una sessione
 
