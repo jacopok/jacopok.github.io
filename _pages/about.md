@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Jacopo, a PhD student at [GSSI](http://www.gssi.it/people/students/students-physics/item/15633-tissino-jacopo), working on gravitational wave data analysis and astrophysics.
+Hi! I'm Jacopo, a PhD student at the [Gran Sasso Science Institute](http://www.gssi.it/people/students/students-physics/item/15633-tissino-jacopo), working on gravitational wave data analysis and astrophysics.
 
 My aim, academically, is to help in developing the techniques we will need in order to analyze the data coming from
 the next generation of gravitational wave detectors, such as [Einstein Telescope](/projects/ET), [LGWA](/projects/LGWA) and LISA.
