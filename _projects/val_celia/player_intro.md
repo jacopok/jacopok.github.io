@@ -11,7 +11,7 @@ print_title: false
 
 # Val Celia e la Burlanija
 
-{% include figure.liquid path="assets/img/val_celia/Testa_di_Morin.png
+{% include figure.liquid path="assets/img/val_celia/Testa_di_Morin_scn.png
 " class="img-fluid rounded float-right" zoomable=true width="50%" %}
 
 Alte montagne incombono sulla pianura del regno di **Burlanija**, e fra di esse c’è una spaccatura: la forra della **Val Celia**, un profondo canyon che serpeggia fra irte pareti. Al suo ingresso, una gigantesca testa di pietra bianca sbarra il passaggio.
@@ -26,7 +26,7 @@ Anche altre voci girano: specie per chi viene da questa regione, è noto che una
 
 ## Celina
 
-{% include figure.liquid path="assets/img/val_celia/Celina.png
+{% include figure.liquid path="assets/img/val_celia/celina_scn.png
 " class="img-fluid rounded float-right" zoomable=true width="50%" %}
 
 Celina è una piccola cittadina che conta poco più di mille abitanti. Situata ai piedi delle montagne, si trova al confine del regno di Burlanija. Nata come piccolo villaggio in tempi remoti, ha vissuto un periodo d'oro qualche secolo fa, in concomitanza con il grande regno nanico. 
@@ -38,7 +38,7 @@ La Candela in carica a Celina da qualche anno si chiama Candida Ottavia, che sep
 
 ## Religione in Burlanija
 
-La religione praticata in Burlanija, come anche nel Serenissimo Impero a ovest, è il culto della Sacra Luce. Tutte le altre religioni sono proibite, almeno sulla carta: secondo il culto la sacra luce è l’unico dio, e tutte le altre divinità non sono altro che un riflesso della luce stessa, una sua interpretazione falsata e parziale. La comunità dei fedeli che professano il culto della sacra luce è nota come chiesa dei lumini e ha radici in tutti le città e i villaggi del regno di Burlanija come anche del Serenissimo Impero.
+La religione praticata in Burlanija, come anche nel Serenissimo Impero a ovest, è il culto della Sacra Luce. Tutte le altre religioni sono proibite, almeno sulla carta: secondo il culto la sacra luce è l’unico dio, e tutte le altre divinità non sono altro che un riflesso della luce stessa, una sua interpretazione falsata e parziale. La comunità dei fedeli che professano il culto della sacra luce è nota come chiesa dei lumini e ha radici in tutte le città e i villaggi del regno di Burlanija, come anche del Serenissimo Impero.
 
 Il verbo della sacra luce è complesso e si è evoluto ed aggiornato notevolmente con il passare dei secoli, ma si basa su tre comandamenti, conosciuti come i tre bianchi pilastri, che non sono mai stati modificati:
 
@@ -52,7 +52,7 @@ Per chi volesse interpretare chierici, paladini o altri personaggi particolarmen
 
 La magia, ad eccezione di quella adoperata dai Lumi, è vietata all’interno del regno: 
 
-Tuttavia, è stato forgiato un accordo informale fra Rodoaldo Venturoso e i Lumi, per il quale la presenza di utenti di magia sarà tollerata a Celina, e potranno anche fare pieno uso dei propri poteri durante le missioni.
+Tuttavia, è stato forgiato un accordo informale fra Rodoaldo Venturoso e i Lumi, per il quale la presenza di utenti di magia sarà tollerata a Celina, e questi ultimi potranno anche fare pieno uso dei propri poteri durante le missioni.
 
 # Creare un personaggio
 
