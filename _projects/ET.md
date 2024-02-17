@@ -27,4 +27,4 @@ some are [technical improvements](https://github.com/jacopok/mlgw_bns/issues?q=i
 ## Parameter estimation reframing
 
 Can we change our approach to the analysis of long signals?
-Perhaps, [`rehear`](../rehear) might help!
+Perhaps, [`rehear`](/projects/rehear) might help!

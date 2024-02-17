@@ -128,9 +128,6 @@ return x \* x;
 
 You can add interative plots using plotly + iframes :framed_picture:
 
-<div class="l-page">
-  <iframe src="{{ '/assets/plotly/demo.html' | relative_url }}" frameborder='0' scrolling='no' height="500px" width="100%" style="border: 1px dashed grey;"></iframe>
-</div>
 
 The plot must be generated separately and saved into an HTML file.
 To generate the plot that you see above, you can use the following code snippet:
