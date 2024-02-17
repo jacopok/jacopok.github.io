@@ -21,3 +21,14 @@ In this website you will be able to find
 Everything's in Italian at the moment, sorry! 
 We're working on a translation, it will be available soon, hopefully.
 
+## DM availability
+
+### Jacopo
+
+Typically, I'm free on Tuesday, Thursday and Friday through Sunday on evenings.
+
+I will be away:
+
+- From the 19th to the 24th of February 
+- On the weekend of the 16th-17th of March
+- From the 23rd of March to the 1st of April
