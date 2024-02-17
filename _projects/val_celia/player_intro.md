@@ -12,7 +12,7 @@ print_title: false
 # Val Celia e la Burlanija
 
 {% include figure.liquid path="assets/img/val_celia/Testa_di_Morin_scn.png
-" class="img-fluid rounded float-right" zoomable=true width="50%" %}
+" class="img-fluid rounded float-right z-depth-0" zoomable=true width="50%" %}
 
 Alte montagne incombono sulla pianura del regno di **Burlanija**, e fra di esse c’è una spaccatura: la forra della **Val Celia**, un profondo canyon che serpeggia fra irte pareti. Al suo ingresso, una gigantesca testa di pietra bianca sbarra il passaggio.
 
@@ -27,7 +27,7 @@ Anche altre voci girano: specie per chi viene da questa regione, è noto che una
 ## Celina
 
 {% include figure.liquid path="assets/img/val_celia/celina_scn.png
-" class="img-fluid rounded float-right" zoomable=true width="50%" %}
+" class="img-fluid rounded float-right z-depth-0" zoomable=true width="50%" %}
 
 Celina è una piccola cittadina che conta poco più di mille abitanti. Situata ai piedi delle montagne, si trova al confine del regno di Burlanija. Nata come piccolo villaggio in tempi remoti, ha vissuto un periodo d'oro qualche secolo fa, in concomitanza con il grande regno nanico. 
 

@@ -12,7 +12,7 @@ print_title: false
 # Missioni disponibili
 
 {% include figure.liquid path="assets/img/val_celia/maifredo_ronzo.png
-" class="img-fluid rounded float-right" zoomable=true width="50%" %}
+" class="img-fluid rounded float-right z-depth-0" zoomable=true width="50%" %}
 
 Rodoaldo Venturoso ha trovato una copia del vecchio libro, il *Fedelissimo Resoconto di un Viaggio Peculiare alla Scoperta della Meraviglia sotto la Montagna* dell'halfling esploratore **Farco Brolo**, vissuto un paio di secoli fa.
 Il libro è mangiato dalle tarme, ma se ne evincono comunque molte storie interessanti! 
