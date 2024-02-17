@@ -34,6 +34,5 @@ A vampire stalks the population, and can turn unsuspecting citizens into its ilk
 - The **original vampire** gets _2 points_ for each human they (directly) capture
 - **Second generation vampires** get _1 point_ for each human they capture
 
-
 {% include figure.liquid path="assets/img/castello_map.png
 " class="img-fluid rounded z-depth-0" zoomable=true width="100%" %}
