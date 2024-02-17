@@ -2,7 +2,7 @@
 layout: page
 title: Call of Cthulhu
 description: Learning to be a Keeper for Call of Cthulhu.
-importance: 1
+importance: 2
 category: hobbies
 img: assets/img/CoC_master.jpg
 ---
