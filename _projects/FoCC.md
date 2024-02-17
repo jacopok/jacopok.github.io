@@ -7,7 +7,7 @@ category: research
 img: assets/img/zen_of_python.png
 ---
 
-The [Fellowship of Clean Code](https://github.com/fellowship-of-clean-code) is a 
+The [Fellowship of Clean Code](https://github.com/fellowship-of-clean-code) is a
 project started by me and professor Carmelo Evoli.
 
 It is a discussion / learning group for scientists to improve their coding

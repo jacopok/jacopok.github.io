@@ -2,30 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: prof_pic.png
   image_cicular: true # crops the image to make it circular
-  address: 
+  address:
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi! I'm Jacopo, a PhD student at [GSSI](https://www.gssi.it/people/students/students-physics/item/15633-tissino-jacopo), working on gravitational wave data analysis and astrophysics.
 
-My aim, academically, is to help in developing the techniques we will need in order to analyze the data coming from 
+My aim, academically, is to help in developing the techniques we will need in order to analyze the data coming from
 the next generation of gravitational wave detectors, such as [Einstein Telescope](../projects/et), [LGWA](../projects/LGWA) and LISA.
 
 I am also involved in the [LIGO-Virgo-KAGRA collaboration](../projects/Virgo), in order to learn about the state of the art for gravitational waves, and help in the wonderful effort of measuring them as best as we can.
 
 The [papers](../publications) I've published so far are related to fast waveform generation and lunar gravitational wave detection, but [more are coming](../projects)!
 Also, here you can find information about my upcoming [talks](../talks).
-
-
 
 I like making **videos**: some of them are related to physics, like [this visualization of Effective One Body eccentric/hyperbolic orbits](https://www.youtube.com/watch?v=xRF-Gc0voik) or [this visual explanation of the different ways to parametrize an eccentric orbit](https://www.youtube.com/watch?v=Mr9t7SLo0I0).
 

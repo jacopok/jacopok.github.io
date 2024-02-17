@@ -23,12 +23,12 @@
       year: 2016 - 2022
     - title: Master's degree in Astrophysics and Cosmology
       institution: <a href=https://www.unipd.it/>University of Padua</a>, Italy
-      extra: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/3903>Machine Learning Gravitational Waveforms for Binary Neutron Star mergers</a><br>
+      extra:
+        "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/3903>Machine Learning Gravitational Waveforms for Binary Neutron Star mergers</a><br>
         Advisors: Profs. Michela Mapelli (UniPD), Sebastiano Bernuzzi (TPI, Jena)"
       year: 2019 - 2021
     - title: Bachelor's degree in Physics
-      extra: 
-        "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/22272>Relativistic non-ideal flows</a><br>
+      extra: "Thesis: <a href=https://thesis.unipd.it/handle/20.500.12608/22272>Relativistic non-ideal flows</a><br>
         Advisor: Prof. Roberto Turolla (UniPD)"
       institution: <a href=https://www.unipd.it/>University of Padua</a>, Italy
       year: 2016 - 2019
@@ -53,18 +53,18 @@
 #         - Description 1.
 #         - Description 2.
 
-    # - title: Director
-    #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-    #   year: 1917-1933
+# - title: Director
+#   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#   year: 1917-1933
 
-    # - title: Professor of Theoretical Physics
-    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
-    #   year: 1911 - 1917
-    #   description:
+# - title: Professor of Theoretical Physics
+#   institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#   year: 1911 - 1917
+#   description:
 
-    # - title: Associate Professor of Theoretical Physics
-    #   institution: University of Zurich, Zurich, Switzerland
-    #   year: 1909 - 1911
+# - title: Associate Professor of Theoretical Physics
+#   institution: University of Zurich, Zurich, Switzerland
+#   year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
@@ -77,27 +77,26 @@
 #   type: time_table
 #   contents:
 #     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
+#       items:
+#         - Nobel Prize in Physics
 #         - Matteucci Medal
 #     - year: 2029
-#       items: 
+#       items:
 #         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Gravitational Wave Astrophysics
-      items: 
+      items:
         - Fast data analysis techniques
         - Forecasting for future detectors
         - "Decihertz GW sources: DWDs, NS-WDs"
-        - EM Follow-up strategies 
+        - EM Follow-up strategies
     - title: Machine Learning
       # items:
       #   - Description 1.
       #   - Description 2.
-
 # - title: Other Interests
 #   type: list
 #   contents:

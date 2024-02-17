@@ -5,7 +5,7 @@ permalink: /val_celia/player_intro/
 layout: dnd
 importance: 1
 toc:
-    sidebar: left
+  sidebar: left
 print_title: false
 ---
 
@@ -29,10 +29,10 @@ Anche altre voci girano: specie per chi viene da questa regione, è noto che una
 {% include figure.liquid path="assets/img/val_celia/celina_scn.png
 " class="img-fluid rounded float-right z-depth-0" zoomable=true width="50%" %}
 
-Celina è una piccola cittadina che conta poco più di mille abitanti. Situata ai piedi delle montagne, si trova al confine del regno di Burlanija. Nata come piccolo villaggio in tempi remoti, ha vissuto un periodo d'oro qualche secolo fa, in concomitanza con il grande regno nanico. 
+Celina è una piccola cittadina che conta poco più di mille abitanti. Situata ai piedi delle montagne, si trova al confine del regno di Burlanija. Nata come piccolo villaggio in tempi remoti, ha vissuto un periodo d'oro qualche secolo fa, in concomitanza con il grande regno nanico.
 
-È qui che tutti gli avventurieri interessati ad esplorare la Val Celia soggiornano: 
-Rodoaldo Venturoso ha stabilito una convenzione con la locanda "Il Sale e la Terra", che ospita tutti coloro che si impegnano a rispondere all'appello. 
+È qui che tutti gli avventurieri interessati ad esplorare la Val Celia soggiornano:
+Rodoaldo Venturoso ha stabilito una convenzione con la locanda "Il Sale e la Terra", che ospita tutti coloro che si impegnano a rispondere all'appello.
 
 La Candela in carica a Celina da qualche anno si chiama Candida Ottavia, che seppur giovane ha delle idee "vecchio stampo" sulla religione.
 
@@ -46,11 +46,11 @@ Il verbo della sacra luce è complesso e si è evoluto ed aggiornato notevolment
 2. Irradia la Luce Sacra verso gli altri, per scaldare il loro spirito.
 3. Illumina il sentiero dei giusti ed eradica l’oscurità dal mondo.
 
-Per chi volesse interpretare chierici, paladini o altri personaggi particolarmente religiosi: chiedete e vi sarà fornito un documento con più dettagli! 
+Per chi volesse interpretare chierici, paladini o altri personaggi particolarmente religiosi: chiedete e vi sarà fornito un documento con più dettagli!
 
 ### Magia in Burlanija
 
-La magia, ad eccezione di quella adoperata dai Lumi, è vietata all’interno del regno: 
+La magia, ad eccezione di quella adoperata dai Lumi, è vietata all’interno del regno:
 
 Tuttavia, è stato forgiato un accordo informale fra Rodoaldo Venturoso e i Lumi, per il quale la presenza di utenti di magia sarà tollerata a Celina, e questi ultimi potranno anche fare pieno uso dei propri poteri durante le missioni.
 
@@ -76,14 +76,15 @@ Avendo chiari in mente questi capisaldi, è arrivato il momento di creare il pro
 Per il momento, tutti i personaggi **inizieranno al livello 1**, in futuro può essere che si inizi a livelli più alti (chiedere al DM).
 Se **hai già un'idea** di chi potrebbe essere il tuo personaggio, mandacela in modo tale che possiamo dare indicazioni su come renderla compatibile con la Burlanija, in quanto molte cose (e.g. le divinità) non sono le stesse che in altre ambientazioni di DnD - inoltre, così è possibile che si formino dei collegamenti con aspetti dell'ambientazione non ancora rivelati.
 
-Se è la tua **prima esperienza** in DnD o in generale nei giochi di ruolo, sappi che stai per addentrarti in un mare di possibilità tra cui scegliere, ma non avere paura! 
-Non serve leggere tutte le razze, tutte le classi e sottoclassi e capirne subito le meccaniche. Prova invece a creare un personaggio semplicemente sulla base di ciò che ti piacerebbe interpretare durante le serate al tavolo con i tuoi compagni. 
-Per ogni dubbio sulla creazione del personaggio, puoi consultare il *player handbook* (se ne trovano facilmente PDF su internet), le [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) (un sottoinsieme delle opzioni disponibile ufficialmente in modo gratuito) o anche rivolgerti direttamente al tuo DM di fiducia.
+Se è la tua **prima esperienza** in DnD o in generale nei giochi di ruolo, sappi che stai per addentrarti in un mare di possibilità tra cui scegliere, ma non avere paura!
+Non serve leggere tutte le razze, tutte le classi e sottoclassi e capirne subito le meccaniche. Prova invece a creare un personaggio semplicemente sulla base di ciò che ti piacerebbe interpretare durante le serate al tavolo con i tuoi compagni.
+Per ogni dubbio sulla creazione del personaggio, puoi consultare il _player handbook_ (se ne trovano facilmente PDF su internet), le [Basic Rules](https://www.dndbeyond.com/sources/basic-rules) (un sottoinsieme delle opzioni disponibile ufficialmente in modo gratuito) o anche rivolgerti direttamente al tuo DM di fiducia.
 
 Per chi non si sente pronto a creare da solo un personaggio, per chi non vuole investire tempo nella scelta di classi, background e compagnia bella, per chi vuole provare il brivido del caos ci sono anche queste possibilità:
+
 - crea il tuo personaggio assieme al DM: tu spieghi cosa vuoi, lui ti propone qualcosa e infine trovate un compromesso accettabile!
 - scegli il tuo personaggio da una lista di PG preconfezionati, magari modificandolo in alcuni modi.
-- fai scegliere il caso!  lascia che i dadi scelgano per te! Razza, classe, background: tutto randomico o solo in parte. Nel Probabilmente non sarà un personaggio molto ottimizzato, ma sicuramente sarà divertente da giocare!
+- fai scegliere il caso! lascia che i dadi scelgano per te! Razza, classe, background: tutto randomico o solo in parte. Nel Probabilmente non sarà un personaggio molto ottimizzato, ma sicuramente sarà divertente da giocare!
 
 Un modo semplice di creare una scheda personaggio in pratica è [DnD Beyond](https://www.dndbeyond.com/characters/builder): nella versione gratuita permette solo di utilizzare le regole di base (limitando quindi le opzioni), ma è molto user-friendly e può evitare qualche mal di testa per quanto riguarda gli aspetti tecnici (punteggi, modificatori etc.)
 
@@ -93,27 +94,27 @@ Il regno di Burlanija è principalmente popolato da umani. Il Serenissimo Impero
 
 Un avventuriero potrà appartenere ad una delle seguenti razze:
 
-- [Umani](http://dnd5e.wikidot.com/human): La razza più numerosa, costituisce la classe dirigente in Burlanija. Popolano anche buona parte dell’Impero. 
+- [Umani](http://dnd5e.wikidot.com/human): La razza più numerosa, costituisce la classe dirigente in Burlanija. Popolano anche buona parte dell’Impero.
 - [Nani](http://dnd5e.wikidot.com/lineage:dwarf): Ce ne sono pochi, sparpagliati in tutti i paesi del ducato. È noto che alcuni secoli fa nella Valle c’era un potente clan nanico, ma da molto tempo nessuno ne sa più nulla.
 - [Elfi](http://dnd5e.wikidot.com/lineage:elf): La classe dirigente nell’Impero (elfi alti principalmente), presenti in discreti numeri in Burlanija (elfi dei boschi principalmente). Non vi sono invece elfi scuri.
-- [Halfling](http://dnd5e.wikidot.com/lineage:halfling): Rari in Burlanija, oltre i confini orientali se ne trovano dei villaggi. Info: *Player Handbook* pag. 26
-- [Gnomi](http://dnd5e.wikidot.com/lineage:gnome) e [svirfneblin](http://dnd5e.wikidot.com/lineage:deep-gnome): In generale rari, ma il villaggo di Pajolo poco a sud di Celina è popolato esclusivamente di loro. 
+- [Halfling](http://dnd5e.wikidot.com/lineage:halfling): Rari in Burlanija, oltre i confini orientali se ne trovano dei villaggi. Info: _Player Handbook_ pag. 26
+- [Gnomi](http://dnd5e.wikidot.com/lineage:gnome) e [svirfneblin](http://dnd5e.wikidot.com/lineage:deep-gnome): In generale rari, ma il villaggo di Pajolo poco a sud di Celina è popolato esclusivamente di loro.
 
-Altre razze, ancora meno comuni, possono essere: [mezz'elfi](http://dnd5e.wikidot.com/lineage:half-elf), [mezz'orchi](http://dnd5e.wikidot.com/lineage:half-orc) e  [tiefling](http://dnd5e.wikidot.com/lineage:tiefling). Se qualcuna tra queste ultime (o anche una non citata) ti interessa particolarmente parlane prima con il tuo DM di fiducia, spiegandogli l'idea che hai per il tuo personaggio. 
+Altre razze, ancora meno comuni, possono essere: [mezz'elfi](http://dnd5e.wikidot.com/lineage:half-elf), [mezz'orchi](http://dnd5e.wikidot.com/lineage:half-orc) e [tiefling](http://dnd5e.wikidot.com/lineage:tiefling). Se qualcuna tra queste ultime (o anche una non citata) ti interessa particolarmente parlane prima con il tuo DM di fiducia, spiegandogli l'idea che hai per il tuo personaggio.
 
 <u>Attenzione</u>: idee troppo esotiche di personaggio potrebbero non essere accettate. Un personaggio deve poter essere compatibile con il mondo di Burlanija e della Val Celia per entrarne a far parte!
 
 ### Varianti di razza
 
-Molte delle razze precedentemente elencate hanno delle varianti tra cui poter scegliere. Come regola generale, verranno accettate in automatico le varianti proposte nel *player handbook*. Questo non significa che le altre varianti verranno scartate a priori, ma che il DM di fiducia studierà la tua proposta in maggiore dettaglio prima di dare il via libera.
+Molte delle razze precedentemente elencate hanno delle varianti tra cui poter scegliere. Come regola generale, verranno accettate in automatico le varianti proposte nel _player handbook_. Questo non significa che le altre varianti verranno scartate a priori, ma che il DM di fiducia studierà la tua proposta in maggiore dettaglio prima di dare il via libera.
 
 ## Classi in Burlanija
 
-Le classi non sono altro che i "mestieri" di un avventuriero. Qui non ci sono particolari limitazioni: potete scegliere una qualsiasi classe presente nel *Player Handbook*: [barbaro](http://dnd5e.wikidot.com/barbarian), [bardo](http://dnd5e.wikidot.com/bard), [chierico](http://dnd5e.wikidot.com/cleric), [druido](http://dnd5e.wikidot.com/druid), [fighter](http://dnd5e.wikidot.com/fighter), [monaco](http://dnd5e.wikidot.com/monk), [paladino](http://dnd5e.wikidot.com/paladin), [ranger](http://dnd5e.wikidot.com/ranger), [ladro](http://dnd5e.wikidot.com/rogue), [stregone](http://dnd5e.wikidot.com/sorcerer), [warlock](http://dnd5e.wikidot.com/warlock), [mago](http://dnd5e.wikidot.com/wizard) e anche il famigerato [artificiere](http://dnd5e.wikidot.com/artificer). 
+Le classi non sono altro che i "mestieri" di un avventuriero. Qui non ci sono particolari limitazioni: potete scegliere una qualsiasi classe presente nel _Player Handbook_: [barbaro](http://dnd5e.wikidot.com/barbarian), [bardo](http://dnd5e.wikidot.com/bard), [chierico](http://dnd5e.wikidot.com/cleric), [druido](http://dnd5e.wikidot.com/druid), [fighter](http://dnd5e.wikidot.com/fighter), [monaco](http://dnd5e.wikidot.com/monk), [paladino](http://dnd5e.wikidot.com/paladin), [ranger](http://dnd5e.wikidot.com/ranger), [ladro](http://dnd5e.wikidot.com/rogue), [stregone](http://dnd5e.wikidot.com/sorcerer), [warlock](http://dnd5e.wikidot.com/warlock), [mago](http://dnd5e.wikidot.com/wizard) e anche il famigerato [artificiere](http://dnd5e.wikidot.com/artificer).
 
 ### Sottoclassi
 
-Ad un certo punto della progressione del personaggio, a seconda della classe, si potrà scegliere una sottoclasse, ovvero una particolare specializzazione all'interno della classe scelta. Similmente a quanto visto per le [Varianti di razza](#varianti-di-razza), tutte le sottoclassi presenti nel *player handbook* sono automaticamente accettate. Per le altre, ci sarà prima un'attenta analisi da parte dei DM: l'idea potrà essere accettata in toto, scartata completamente, oppure modificata in qualche sua parte.
+Ad un certo punto della progressione del personaggio, a seconda della classe, si potrà scegliere una sottoclasse, ovvero una particolare specializzazione all'interno della classe scelta. Similmente a quanto visto per le [Varianti di razza](#varianti-di-razza), tutte le sottoclassi presenti nel _player handbook_ sono automaticamente accettate. Per le altre, ci sarà prima un'attenta analisi da parte dei DM: l'idea potrà essere accettata in toto, scartata completamente, oppure modificata in qualche sua parte.
 
 ### Multiclassare
 
@@ -123,24 +124,26 @@ Quando i personaggi inizieranno ad acquisire qualche livello, ai giocatori più 
 
 Il background è la storia del tuo personaggio fino al momento in cui inizi a giocarlo. Come accennato in precedenza, è molto importante per il suo roleplay: ne determina la personalità, i traumi, il modo di comportarsi.
 
-Esistono degli "archetipi" di background che forniscono dei precisi vantaggi per quanto riguarda abilità, linguaggi conosciuti, oggetti che si possiedono all'inizio della partita. 
-Puoi scegliere uno qualsiasi di questi archetipi che, a tuo parere, si sposi bene con la storia che avevi in mente per il tuo personaggio. 
+Esistono degli "archetipi" di background che forniscono dei precisi vantaggi per quanto riguarda abilità, linguaggi conosciuti, oggetti che si possiedono all'inizio della partita.
+Puoi scegliere uno qualsiasi di questi archetipi che, a tuo parere, si sposi bene con la storia che avevi in mente per il tuo personaggio.
 
-Puoi trovare un'ampia lista di archetipi di background su [wikidot](http://dnd5e.wikidot.com/#toc3), oppure una più ristretta nelle [basic rules](https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Backgrounds). 
+Puoi trovare un'ampia lista di archetipi di background su [wikidot](http://dnd5e.wikidot.com/#toc3), oppure una più ristretta nelle [basic rules](https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Backgrounds).
 
 #### Caratterizzare il personaggio
 
 I giochi di ruolo permettono di interpretare chiunque si voglia, ma alla fine saremo sempre noi a prendere le decisioni per il nostro personaggio! È un po' come mettere una lastra di vetro colorato di fronte a noi: può esaltare un colore, può essere curva e distorcere le forme o anche capovolgerle, ma l'immagine di base che va a modificare è comunque la nostra faccia.
 
 Con questo in mente, ecco alcune domande alle quali rispondere mentre pensi a chi è il tuo personaggio:
+
 - come dicevamo in [Creare un personaggio](#creare-un-personaggio): **perché** il tuo personaggio vuole lasciare la sicurezza della pianura per avventurarsi nella Val Celia, rischiando la vita?
-- a cosa **tiene** il tuo personaggio? possono essere persone, giuramenti, oggetti... nella scheda in inglese questo si chiama **Bond**; 
+- a cosa **tiene** il tuo personaggio? possono essere persone, giuramenti, oggetti... nella scheda in inglese questo si chiama **Bond**;
 - qual'è stata la **storia** del tuo personaggio?
 - quali difetti ha il tuo personaggio, ovvero in quali aspetti può **crescere**? Nella scheda in inglese questo si chiama **Flaw**.
 
 ## Inventario
 
 L'inventario iniziale del tuo personaggio è deriva dalle scelte che hai fatto fino a questo momento, in particolare:
+
 - il tuo background ti assicura alcuni oggetti iniziali
 - la tua classe stabilisce il numero iniziale di monete che hai.
 
