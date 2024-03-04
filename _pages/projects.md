@@ -71,30 +71,24 @@ horizontal: false
 #### At the moment
 
 This is a list of things I'm currently working on, within a timescale around a month.
+It's too many! I know.
 
-It's too many! I know, and a big project of mine is to stop starting new things and start finishing them.
-
-1. Improving [`GWFish`](https://github.com/janosch314/GWFish)
-   1. Making the small interface fixes requested
-   1. Updating the `pypi` release of the code
-   1. Preparing the introduction for the Assisi school
 1. Working on the inclination angle posterior feature for BAYESTAR
    1. Computing realistic inclination angle integrands
    1. Writing the paper section
 1. [rehear](/rehear): injection studies with ASTRI (deadline: not specified)
    1. Implementing a simplified model for the IRF of ASTRI
-   1. Testing it with a very simple emission model
+   1. Testing it with a simple emission model
    1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
    1. Running the same tests with the O3 replay MDC
 1. Helping as a reviewee of TEOBResumS-DALI
-1. Running a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
-1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Helping in the supervision of master's students about:
    1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
    1. DWD/NSWD detection with LGWA
+1. Running a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
+1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Training by running + aerial silks (+ climbing and cycling sometimes)
    1. Rome Marathon on the **17th of March 2023**
-1. Learning to play some De André songs
 
 ##### Questions
 
@@ -111,6 +105,9 @@ It's too many! I know, and a big project of mine is to stop starting new things 
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
+1. Maintaining [`GWFish`](https://github.com/janosch314/GWFish)
+   1. Making the small interface fixes requested
+   1. Updating the `pypi` release of the code
 1. Cosmological coupling of Black Holes
 1. Working on some weird statistical methods for the BOAT
 1. O4 [Virgo](/projects/Virgo): participating in the Rapid Response Team
