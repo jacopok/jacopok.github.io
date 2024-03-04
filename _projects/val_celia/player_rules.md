@@ -130,11 +130,38 @@ Possibilità di effetti negativi anche seri. Tira 1d12 e aggiungi il tuo modific
 
 ## Oggetti magici
 
-Alla fine di ogni missione assegnata da Rodoaldo Venturoso, il suo notabile Maifredo Ronzo chiede conto di eventuali oggetti preziosi trovati.
+Alla fine di ogni missione assegnata da Rodoaldo Venturoso, il suo notabile Maifredo Ronzo chiede conto di eventuali oggetti preziosi (e/o magici) trovati.
 
-Le regole sono le seguenti: per ogni oggetto magico dichiarato, verrà stimato il suo valore e ci saranno due possibilità:
+Le regole sono le seguenti: per ogni oggetto dichiarato, verrà stimato il suo valore e ci saranno due possibilità:
 
 - l'oggetto può rimanere nelle mani degli avventurieri che lo hanno trovato, se questi pagano una tassa pari al 30% del suo valore
 - l'oggetto può essere venduto al Visconte, che d'ufficio pagherà il 50% del suo valore.
 
 È naturalmente anche possibile non dichiarare un oggetto trovato. In tal caso, all'inizio della sessione successiva a cui parteciperà il personaggio in possesso della merce verrà stabilito se e quali conseguenze ci saranno per questa infrazione (se scoperta).
+
+## Downtime
+
+Durante le settimane in cui non giocano, gli avventurieri si muovono comunque per Celina e possono compiere attività di vario genere. Queste vengono determinate e risolte all'inizio della successiva session a cui quel giocatore partecipa (anche se avvisare prima i master di cosa si ha intenzione di fare è utile).
+
+Seguiamo le regole di _Xanathar's Guide to Everything_ con qualche variante.
+Se volete fare qualcosa che non si incastra esattamente in queste categorie si può decidere insieme come!
+Le possibilità di base sono le seguenti:
+
+- Un lavoro ordinario
+- Allenarsi per raggiungere la competenza con uno strumento o linguaggio (10 settimane di sforzo, 25gp l'una di costo)
+- Vendere un oggetto magico \*
+- Trascrivere un incantesimo su una pergamena \*
+- Infondere una pozione di cura \*
+- Ricercare informazioni
+- Rilassarsi al _Sale e la Terra_ di Mina - questa è l'opzione di default
+- Combattere per soldi (boxe, wrestling...)
+- Giocare d'azzardo
+- Dedicarsi al crimine
+- Fabbricare un oggetto
+  - per un oggetto non magico, questo è generalmente possibile data la competenza necessaria
+  - un oggetto magico, ad eccezione di pozioni di cura e pergamene, è necessaria una ricetta, oltre a materiali specifici \*
+- Far festa in taverna - questo può portare a nuovi contatti interessanti, che siano alleati o nemici, e permette di diffondere voci
+- Comprare un oggetto magico \*
+- Pregare secondo il rito della Sacra Luce
+
+\*: in quanto la magia è proibita in Burlanija, il rischio di complicazioni legato a queste attività è alzato dal 10% al 30%.

@@ -10,6 +10,9 @@ toc:
 print_title: false
 ---
 
+Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
+Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
+
 ## Prima sessione
 
 Avventurieri: Gherb, Aravine, Fern Gunnhildr, Ekkyon, Rut.
