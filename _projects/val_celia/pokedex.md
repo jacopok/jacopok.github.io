@@ -6,7 +6,7 @@ layout: dnd
 importance: 1
 nav: true
 toc:
-    sidebar: left
+  sidebar: left
 print_title: false
 ---
 
@@ -42,4 +42,3 @@ Druido elfo, livello 1.
 " class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
 
 # Trieste
-

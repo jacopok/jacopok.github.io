@@ -6,7 +6,7 @@ layout: dnd
 importance: 1
 nav: true
 toc:
-    sidebar: left
+  sidebar: left
 print_title: false
 ---
 
