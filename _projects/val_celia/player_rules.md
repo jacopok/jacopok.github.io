@@ -127,3 +127,14 @@ Possibilità di effetti negativi anche seri. Tira 1d12 e aggiungi il tuo modific
 - 9 - 11 Fuggi senza ulteriori conseguenze
 - 12 - 13 Fuggi e puoi ad aiutare un compagno con un +1 o +2 a tua scelta (si applica prima di risolvere un eventuale risultato 1 - 2 di un compagno)
 - 14+ Fuggi, e puoi convertire il risultato di un compagno in un 10 (come sopra, si applica per primo)
+
+## Oggetti magici
+
+Alla fine di ogni missione assegnata da Rodoaldo Venturoso, il suo notabile Maifredo Ronzo chiede conto di eventuali oggetti preziosi trovati.
+
+Le regole sono le seguenti: per ogni oggetto magico dichiarato, verrà stimato il suo valore e ci saranno due possibilità:
+
+- l'oggetto può rimanere nelle mani degli avventurieri che lo hanno trovato, se questi pagano una tassa pari al 30% del suo valore
+- l'oggetto può essere venduto al Visconte, che d'ufficio pagherà il 50% del suo valore.
+
+È naturalmente anche possibile non dichiarare un oggetto trovato. In tal caso, all'inizio della sessione successiva a cui parteciperà il personaggio in possesso della merce verrà stabilito se e quali conseguenze ci saranno per questa infrazione (se scoperta).
