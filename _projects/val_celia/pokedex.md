@@ -15,6 +15,7 @@ print_title: false
 ## Aravine
 
 Bardo umano, livello 1.
+Ulyana.
 
 {% include figure.liquid path="assets/img/val_celia/Aravine-img.jpg
 " class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
@@ -22,6 +23,7 @@ Bardo umano, livello 1.
 ## Ekkyon
 
 Warlock halfling, livello 1.
+Giulio.
 
 {% include figure.liquid path="assets/img/val_celia/Ekkyon-img.jpg
 " class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
@@ -29,16 +31,19 @@ Warlock halfling, livello 1.
 ## Fern Gunnhildr
 
 Mago umano, livello 1.
+Simone.
 
 ## Gherb
 
 Ladro lontra, livello 1.
+Pierpaolo.
 
 ## Rut
 
 Druido elfo, livello 1.
+Irene.
 
-{% include figure.liquid path="assets/img/val_celia/Rut-img1.jpg
+{% include figure.liquid path="assets/img/val_celia/Rut-img2.jpg
 " class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
 
 # Trieste
