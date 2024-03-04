@@ -10,17 +10,17 @@ category: hobbies
 permalink: /val_celia
 img: assets/img/val_celia/Testa_di_Morin.png
 children:
-  - title: Campaign
+  - title: Campaign [en]
     permalink: /val_celia
-  - title: Introduction
+  - title: Introduction [it]
     permalink: /val_celia/player_intro
-  - title: Missions
+  - title: Missions [it]
     permalink: /val_celia/player_missions
-  - title: Rules
+  - title: Rules [it]
     permalink: /val_celia/player_rules
-  - title: Adventurers
+  - title: Adventurers [it]
     permalink: /val_celia/pokedex
-  - title: Reports
+  - title: Reports [it]
     permalink: /val_celia/player_reports
 ---
 
