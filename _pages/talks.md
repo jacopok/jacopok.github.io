@@ -9,7 +9,6 @@ nav_order: 1
 
 ## Upcoming
 
-
 - 2024-??-??: LVK GRB group talk about rehear
 - 2024-03-??: Moriond talk about rehear (?)
 - 2024-04-??: CTAO meeting talk about rehear (?)
