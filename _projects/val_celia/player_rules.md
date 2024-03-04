@@ -23,7 +23,7 @@ Questi si organizzano in un **party** (da 3-5 persone), che può essere **divers
 
 Nel farlo, dicono anche al DM **dove** hanno intenzione di andare: possono farlo
 
-- in base alle [missioni](https://jacopok.github.io/projects/player_missions) proposte dal Visconte, o
+- in base alle [missioni](https://jacopok.github.io/val_celia/player_missions) proposte dal Visconte, o
 - guardando la mappa, o magari anche
 - basandosi sulle storie narrate da avventurieri che erano stati nella Valle in precedenza.
 
