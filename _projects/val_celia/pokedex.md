@@ -33,9 +33,9 @@ Giulio.
 Mago umano, livello 1.
 Simone.
 
-## Gherb
+## Adam
 
-Ladro lontra, livello 1.
+Uno strano tizio con uno zaino...?
 Pierpaolo.
 
 ## Rut
