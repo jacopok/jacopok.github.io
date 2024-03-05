@@ -17,7 +17,9 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 Avventurieri: Adam, Aravine, Fern Gunnhildr, Ekkyon, Rut.
 
-#### Il mondo dietro la collina: barbarie o civiltà sommerse?
+#### Il mondo dietro la collina: barbarie o civiltà sommerse? (Adam)
+
+{% capture custom_font_section %}
 
 Era mattina inoltrata quando, il giorno 2 marzo 2024, ci incamminavamo verso il limitare di Celina sulle orme delle due spedizioni armate che ci avevano preceduto.
 La nostra, a dir poco originale, comitiva era guidata dall'intraprendente Arawin, che con il suo sempre apprezzabile colorito naturale complimentava i raggi di sole che finalmente spuntavano dopo la pioggia del mattino.
@@ -66,6 +68,10 @@ Unico a essere riuscito a salvarsi, si era chiuso in una delle stanze della test
 A quel punto era ora di prendere la via del ritorno, soddisfatti delle scoperte e del buon esito della nostra missione.
 
 **Adam Otter**
+
+{% endcapture %}
+
+{{ custom_font_section | custom_font }}
 
 #### Rapporto circa il mistero della testa dietro la collina (Ekkyon)
 
