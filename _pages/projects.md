@@ -74,9 +74,9 @@ This is a list of things I'm currently working on, within a timescale around a m
 It's too many! I know.
 
 1. Working on the inclination angle posterior feature for BAYESTAR
-   1. Computing realistic inclination angle integrands
-   1. Writing the paper section
-1. [rehear](/rehear): injection studies with ASTRI (deadline: not specified)
+   1. Paper draft
+1. [rehear](/rehear): injection studies with ASTRI + SWIFT
+   1. Paper draft
    1. Implementing a simplified model for the IRF of ASTRI
    1. Testing it with a simple emission model
    1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
@@ -86,25 +86,15 @@ It's too many! I know.
    1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
    1. DWD/NSWD detection with LGWA
 1. Running a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
-1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Training by running + aerial silks (+ climbing and cycling sometimes)
    1. Rome Marathon on the **17th of March 2023**
 
-##### Questions
-
-1. How do we do Fisher matrix forecasting with coordinates in the SSB?
-1. What are the necessary improvements to the computing infrastructure
-   to implement `rehear`?
-1. Real-time reanalysis,
-1. more EW frequency thresholds,
-1. a fast communication system for updates without "polluting" the environment with
-   too many GCNs?
-1. timings
 
 #### Will get to
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
 
+1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Maintaining [`GWFish`](https://github.com/janosch314/GWFish)
    1. Making the small interface fixes requested
    1. Updating the `pypi` release of the code
@@ -170,7 +160,15 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. How does one do injections with BAYESTAR?
 1. Does updating the prior each time fix the Bayes factor multiplication bias described by Isi, Farr and Chatziiannou?
 1. How does the center of the skymap move with time?
-1.
+
+1. How do we do Fisher matrix forecasting with coordinates in the SSB?
+1. What are the necessary improvements to the computing infrastructure
+   to implement `rehear`?
+1. Real-time reanalysis,
+1. more EW frequency thresholds,
+1. a fast communication system for updates without "polluting" the environment with
+   too many GCNs?
+1. timings
 
 #### Already did
 
