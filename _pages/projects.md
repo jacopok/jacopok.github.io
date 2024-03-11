@@ -89,7 +89,6 @@ It's too many! I know.
 1. Training by running + aerial silks (+ climbing and cycling sometimes)
    1. Rome Marathon on the **17th of March 2023**
 
-
 #### Will get to
 
 This is a list of tasks that I plan to get to in a timescale of a couple of months.
