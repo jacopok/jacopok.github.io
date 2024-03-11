@@ -139,6 +139,16 @@ Le regole sono le seguenti: per ogni oggetto dichiarato, verrà stimato il suo v
 
 È naturalmente anche possibile non dichiarare un oggetto trovato. In tal caso, all'inizio della sessione successiva a cui parteciperà il personaggio in possesso della merce verrà stabilito se e quali conseguenze ci saranno per questa infrazione (se scoperta).
 
+### Lista dei desideri
+
+Gli oggetti magici sono molto rari in pianura, e per trovarne è necessario esplorare la Valle.
+Questo vuol dire che gli avventurieri sono alla mercè di quello che trovano; ma i giocatori potrebbero essere interessati ad alcuni oggetti più di altri!
+
+Ogni giocatore può fornire una lista dei desideri, che consiste in al più di un oggetto magico per categoria di rarità (comune, non comune, raro, molto raro, leggendario), per oggetti che pensa che interesserebbero al proprio personaggio.
+È possibile prendere spunto da tutti i libri, e anche proporre modifiche estetiche o sostanziali.
+
+Noi master utilizzeremo poi la lista aggregata dei desideri degli avventurieri come spunto per gli oggetti che si trovano nella valle, in modo che questi spesso si possano allineare agli interessi dei giocatori. Non ci sono garanzie, ed è anche possibile che un oggetto desiderato da un avventuriero venga trovato da qualcun altro.
+
 ## Downtime
 
 Durante le settimane in cui non giocano, gli avventurieri si muovono comunque per Celina e possono compiere attività di vario genere. Queste vengono determinate e risolte all'inizio della successiva session a cui quel giocatore partecipa (anche se avvisare prima i master di cosa si ha intenzione di fare è utile).
