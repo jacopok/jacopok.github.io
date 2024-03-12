@@ -13,6 +13,44 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Seconda sessione
+
+Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Myosotis, Wai-o-Tapu
+
+### Resoconto della seconda esplorazione in Val Celia (Fern Gunnhildr)
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Adam, Ekkyon (e il topino Ferdinando), Tapu, Miosotis,
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+Come Lei ricorderà, ci siamo avventurati alla ricerca della città di Farcis. Il piano è di esplorare la montagna che si affaccia sul lago poco fuori Cecina, che una volta all’anno si illumina di fuoco, si dice per opera del diavolo.
+Siamo anche d’accordo con Sua Eccellenza per prelevare un campione della scura acqua del lago di cui abbiamo discusso nel Suo ufficio poco prima della nostra avventura.
+
+La prima tappa della nostra missione ci porta proprio sulle rive del lago, dove il sottoscritto preleva due campioni di acqua di lago: una boccetta di acqua apparentemente normale e una di acqua scura.
+Le boccetta in questione le vengono consegnate in allegato a questo resoconto. Ci auspichiamo che Sua Eccellenza intercederà presso Sua Maestà la regina per farle analizzare e per fornirci pozioni e antidoti necessari per poter risolvere il mistero di quest’acqua ripugnante.
+
+Mentre eseguo queste operazioni, vengo caricato da una mamma cinghiale! Le racconto questo inconveniente perchè vorrei menzionare lodi speciali per Miosotis, che con coraggio e prontezza ha deviato la traiettoria della bestia feroce, salvandomi da un doloroso impatto che avrebbe potuto compromettere il mio proseguimento nella missione.
+La minaccia del cinghiale è stata più dura del previsto. La belva era in preda all’ira, probabilmente perché ci considerava minacce per i suoi cuccioli, e molti nostri tentativi di calmarla si sono rivelati inefficaci. Tuttavia la disavventura col cinghiale ci ha permesso di testare alcune proprietà dell’acqua scura del lago. Abbiamo scoperto che, se bevuta in piccola quantità, causa un lieve avvelenamento. Inoltre sembra applicare un incantesimo di rallentamento (mi perdoni per la pochezza di dettagli ma, come Lei ben sa, non sono certo un esperto di arti magiche).
+
+Poco dopo, all’improvviso, una vecchia signora si avvicina a noi, sostenendo che si stia prendendo cura di due delle guardie scomparse, oggetto di investigazione della nostra scorsa missione. Siamo tutti in allerta. Non c’è nessuna possibilità che ci siamo sbagliati: le guardie erano morte! Io personalmente non ho visto tutti i cadaveri delle guardie. Infatti due di questi sono stati trovati da Gerb e Ekkyon nella caverna del gigante Orcolat. A meno che tali cadaveri non appartengano alle due guardie, ma ad altri malcapitati…
+Di colpo la vecchia muta forma! Si trasforma in un essere obbrobrioso, mai visto in vita mia! È una creatura orripilante, quasi in stato di decomposizione, con capelli come alghe, il viso decomposto, la pelle squamosa e di strani colori. Alle sue minacce di “portarci a prendere un the con lei”, ci prepariamo all’attacco.
+Dopo un breve combattimento, in cui affrontiamo l’immonda creatura senza troppe difficoltà, grazie sopratutto al prodigioso attacco di luce di Tapu (tale è il potere che scaturisce da una salda fede nella Sacra Luce?), la vecchia cerca di scappare tuffandosi nel lago.
+Nel tentativo di fermarla, Adam le si avvinghia addosso, ma non riesce nel suo intento. La vecchia è pesantemente ferita, non mi stupirei se fosse morta. Ritengo che sia necessario confermarne o meno la morte in una futura spedizione, tale è la mortale minaccia rappresentata da quell’essere.
+Nel tuffarsi, la vecchia perde una strana conchiglia, contenente una melma al suo interno, nonchè avanzi di alghe e pesci. Adam, per qualche strano motivo, ingerisce una piccola quantità di melma. Da questo bizzarro esperimento scopriamo che questa sostanza fa crescere, per un tempo limitato, delle branchie che permettono di respirare esclusivamente sott’acqua.
+In profondità nel lago, Adam individua le rovine di una città nanica, con scheletri umani in strane posizioni. Vede anche un uomo e una donna, umani, ma con branchie (devono aver ingerito la strana sostanza della conchiglia). Sono deboli e terrorizzati, e si presentano come due delle guardie che credevamo morte nella precedente missione. Sembrerebbe che i due cadaveri trovati da Adam ed Ekkyon nella precedente missione sono due altri malcapitati.
+Adam e Ekkyon, assicurati a una corda, si tuffano in acqua per cercare di recuperare le due guardie. Purtroppo non riescono nell’impresa. E’ ormai sera, e con il cuore pesante siamo costretti a tornare a Celina, con la promessa di tornare a salvare i due sopravvissuti alla strage di Orcolat.
+
+Sebbene non abbiamo portato a termine la missione per cui ci siamo incamminati, la ricerca di Farcis, riteniamo che la nostra avventura possa essere ritenuta un successo. Abbiamo scoperto l’esistenza di una pericolosissima creatura che infesta il lago, di fatto via obbligata per qualunque missione esplorativa in Val Celia, nonchè individuato le rovine di una città manica che, con un pizzico di fortuna, potrebbe anche rivelarsi essere Farcis. Infine, cosa più importante, abbiamo scoperto che due delle guardie sono sopravvissute, e attendono di essere salvate in fondo al lago.
+
+Il gruppo di avventurieri dichiara a Sua Eccellenza il recupero della conchiglia magica della vecchia. Riteniamo che tale artefatto sia di fondamentale importanza per una futura missione di salvataggio delle due guardie. Richiediamo quindi, sotto la supervisione di Tapu, accolito della Chiesa della Sacra Luce, il permesso di tenere questa reliquia magica.
+Sono ben consapevole che la magia è temuta e in generale proibita nel nostro regno, ma sono anche convinto che possa essere usata per fare del bene. E Lei converrà con me che l’onnipotente Sacra Luce non può che benedire chi salva delle vite, a prescindere dai mezzi utilizzati.
+
+La ringrazio per la Sua pazienza e per il tempo concessoMi,
+Fedelmente,
+Fern Gunnhildr
+
 ## Prima sessione
 
 Avventurieri: Adam, Aravine, Fern Gunnhildr, Ekkyon, Rut.
