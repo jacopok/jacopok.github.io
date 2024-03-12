@@ -17,7 +17,7 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Myosotis, Wai-o-Tapu
 
-### Resoconto della seconda esplorazione in Val Celia (Fern Gunnhildr)
+#### Resoconto della seconda esplorazione in Val Celia (Fern Gunnhildr)
 
 Sua Eccellenza,
 
