@@ -23,7 +23,7 @@ Una volta portata a termine la missione, il resoconto dovrà essere portato a **
 
 Rodoaldo sa bene che si tratta di lavori complicati, e non si aspetta che tutto possa essere finito in un colpo solo! Anche risultati parziali sono ben accetti.
 
-### ! URGENTE Salvate Burdun ed Elena dalle grinfie della megera nel Lago Soc
+### ! URGENTE Salvate Burdun ed Elena dalle grinfie della megera nel Lago Soç
 
 _Una precedente spedizione esplorativa questo lunedì ha scoperto che le due guardie cittadine Burdun ed Elena, ritenute morte alle mani del gigante Orcolat, erano invece ancora vive. Nelle profondità del lago Soc, a ridosso delle macerie sulle quali sorge la Testa di Morin, sono tenute in cattività da una creatura malefica, descritta dal prode Fern Gunnhildr come "orripilante, quasi in stato di decomposizione, con capelli come alghe, il viso decomposto, la pelle squamosa e di strani colori".
 Gli avventurieri hanno affrontato la megera e sono stati vittoriosi, ma questa è riuscita a fuggire, e non è chiaro se sia sopravvissuta allo scontro. A causa della fredda acqua del lago e della misera condizione fisica delle due guardie, il salvataggio non è riuscito; loro sono dunque ancora lì, morenti!_
