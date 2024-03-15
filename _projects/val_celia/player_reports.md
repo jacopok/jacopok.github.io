@@ -51,6 +51,43 @@ La ringrazio per la Sua pazienza e per il tempo concessoMi,
 Fedelmente,
 Fern Gunnhildr
 
+#### La vita (e la morte) sotto il lago (Adam)
+
+{% capture custom_font_section %}
+
+Il giorno 11 marzo 2024 ci avviavamo, di nuovo, per il sentiero sopra la collina, nell'intento di cercare indicazioni dell'ormai defunta città di Farcis.
+Di nuovo ci siamo ritrovati davanti il lago e abbiamo preso la vecchia strada verso destra, verso i ruderi del colosso nanico.
+Questa volta alla missione si erano aggiunti una giovane elfa dal profumato nome di Myosotis e il morigerato Tapu, alla ricerca della sua luce.
+Seguivamo Fern, sempre impeccabile, Ekkyon e io.
+L'intento era di superare la diga e aggirare il monte Fara.
+Interpretando gli scritti di F. Brolo, la città di Farcis sarebbe dovuta essere dall'altro lato di una montagna crivellata di cunicoli nanici.
+Ci sembrava ragionevole identificare la suddetta montagna con il monte Fara, che riprende vita annualmente all'inizio dell'inverno.
+Comunico subito che il resoconto potrebbe terminare qui, giacché non abbiamo trovato alcuna informazione sulla misteriosa città, se non fosse che le interruzioni, che tanto ci hanno rallentato nella ricerca, ci hanno permesso di portare alla luce un abitato diverso ma parimenti interessante.
+
+Eravamo, dicevo, quasi giunti alla diga che ci si parò davanti un cinghiale minaccioso.
+Subito notammo i suoi adorabili cinghialetti striati, accucciati in un cespuglio al margine della strada.
+Ci procurammo, quindi, di non ferire mamma cinghiale né i suoi cuccioli, e cercammo invece di farli ricongiungere e allontanarli.
+
+Nella foga dell'incontro non ci accorgemmo dell'arrivo di un nuovo visitatore.
+Questa curiosa vecchietta, spuntata dal nulla, ci voleva attirare a casa sua per offrirci un tè caldo, e ci intrigò dicendo che lì ospitava da qualche tempo anche due nostri "amici", le guardie disperse Burdun ed Elena.
+La notizia non ci sorprese più di tanto poiché in precedenti esplorazioni avevamo appurato che i cadaveri nella caverna del gigante Orcolat erano probabilmente precedenti alle esplorazioni delle due guardie.
+Nonostante ciò, la vecchietta sembrava nascondere qualcosa e, infatti, alla nostra richiesta di chiarimenti rivelò il suo vero aspetto di nano mutante, dominato dalle decanti vestigia della sua vita terrestre e dai riflessi delle nuove squame.
+Con prodigiosa solerzia, i miei compagni Tapu, Ekkyon e Fern le si avventarono contro, folgorandola di luce.
+La creatura, ferita e sconvolta, si rifugiò nel suo ambiente acquatico e io la seguii tuffandomi, per la seconda volta, nella melma tossica.
+Qui si rivelò ai miei occhi un mondo nuovo, una città sommersa, abitata da un teatrino di ossa.
+Gli edifici sul versante della forra erano messi piuttosto bene, per essere stati abbandonati da anni, e prosperava di una vita nuova nel nuovo ambiente: alghe e pesci adornavano di colori la vista, e gli scheletri sembravano come disposti a mimare la loro vita precedente.
+In questo suggestivo panorama spiccavano I corpicini, anch'essi quasi scheletrici, di Burdun ed Elena, che si muovevano quasi impercettibilmente per addentare con debolezza delle lische sul tavolo a cui erano accomodati.
+Era chiaro che la vita li stesse lentamente abbandonando, nonostante le branchie che avevano sviluppato, a foggia dei nani che li avevano preceduti.
+Provammo a liberarli, a tirarli su con corde, ma niente, sia loro che noi eravamo troppo indeboliti dalle tossine nell'acqua.
+
+Ormai esausti e minacciati dal tramonto, ci riavviammo verso casa preoccupati dalla sorte dei due ma contenti di averli scoperti ancora in vita.
+
+**Adam Otter**
+
+{% endcapture %}
+
+{{ custom_font_section | custom_font }}
+
 ## Prima sessione
 
 Avventurieri: Adam, Aravine, Fern Gunnhildr, Ekkyon, Rut.
