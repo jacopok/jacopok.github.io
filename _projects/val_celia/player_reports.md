@@ -17,7 +17,7 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Myosotis, Wai-o-Tapu
 
-#### Resoconto della seconda esplorazione in Val Celia (Fern Gunnhildr)
+### Resoconto della seconda esplorazione in Val Celia
 
 Sua Eccellenza,
 
@@ -51,7 +51,7 @@ La ringrazio per la Sua pazienza e per il tempo concessoMi,
 Fedelmente,
 Fern Gunnhildr
 
-#### La vita (e la morte) sotto il lago (Adam)
+### La vita (e la morte) sotto il lago
 
 {% capture custom_font_section %}
 
@@ -92,7 +92,7 @@ Ormai esausti e minacciati dal tramonto, ci riavviammo verso casa preoccupati da
 
 Avventurieri: Adam, Aravine, Fern Gunnhildr, Ekkyon, Rut.
 
-#### Il mondo dietro la collina: barbarie o civiltà sommerse? (Adam)
+### Il mondo dietro la collina: barbarie o civiltà sommerse?
 
 {% capture custom_font_section %}
 
@@ -148,7 +148,7 @@ A quel punto era ora di prendere la via del ritorno, soddisfatti delle scoperte 
 
 {{ custom_font_section | custom_font }}
 
-#### Rapporto circa il mistero della testa dietro la collina (Ekkyon)
+### Rapporto circa il mistero della testa dietro la collina
 
 Sabato 2 Marzo 2024 di buon mattino in cinque rispondiamo al richiamo per la missione del Visconte Rodoaldo Venturoso di indagare riguardo alle sparizioni nei pressi della vecchia testa.
 
