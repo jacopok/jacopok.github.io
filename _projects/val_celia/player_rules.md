@@ -15,6 +15,16 @@ print_title: false
 La campagna sarà giocata con le regole di Dungeons and Dragons, 5a edizione, con alcune modifiche.
 La [Struttura di una sessione](#struttura-di-una-sessione) sarà diversa da quella di una tradizionale campagna, in quanto si partirà e finirà sempre da Celina. Per questo, ci sono anche delle regole specifiche su come chiudere la sessione: vedi [Fuga e ritirata](#fuga-e-ritirata).
 
+<!-- prettier-ignore-start -->
+> ##### REQUISITI PER GIOCARE
+>
+> Al massimo la sera prima di quando si vuol giocare - meglio se prima ancora -
+> è necessario far sapere al master:
+> - chi vuole partecipare (con schede personaggio finite);
+> - quale missione o avventura si vuole intraprendere.
+{: .block-danger }
+<!-- prettier-ignore-end -->
+
 ## Struttura di una sessione
 
 In questa campagna, lo spunto per le sessioni **parte dai giocatori**.
@@ -41,7 +51,7 @@ In questo modo, si potrà sviluppare una conoscenza condivisa fra tutti gli avve
 
 Punti bonus: un rapporto per il Visconte, e una versione diversa a rappresentare i racconti all’osteria la sera dopo il ritorno.
 
-Gli scribi riceveranno ricompense aggiuntive all’interno del gioco!
+Gli scribi riceveranno ricompense aggiuntive all’interno del gioco: il 25% in più di esperienza (per chiunque faccia lo scriba), e il 50% in più di oro (diviso fra gli scribi)!
 
 Con le loro esplorazioni, i personaggi potranno guadagnare **ricchezze ed esperienza**, salendo così di livello. I livelli di un party che si avvia ad un’avventura possono essere diversi fra di loro - questo significa anche che un personaggio di basso livello che si aggrega ad un gruppo più esperto acquisirà molto velocemente esperienza.
 
