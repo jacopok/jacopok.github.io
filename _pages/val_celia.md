@@ -14,6 +14,8 @@ children:
     permalink: /val_celia
   - title: Introduction [it]
     permalink: /val_celia/player_intro
+  - title: Celina [it]
+    permalink: /val_celia/celina
   - title: Missions [it]
     permalink: /val_celia/player_missions
   - title: Rules [it]
@@ -36,6 +38,7 @@ In this website you will be able to find
 - [the missions that are currently available](/val_celia/player_missions)
 - [a list of all the adventurers in Celina](/val_celia/pokedex)
 - [reports by the adventurers on the previous sessions](/val_celia/player_reports)
+- [details on the main places in the starting town, Celina](/val_celia/celina)
 
 Everything's in Italian at the moment, sorry!
 We're working on a translation, it will be available soon, hopefully.

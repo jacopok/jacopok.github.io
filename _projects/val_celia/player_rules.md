@@ -21,7 +21,7 @@ La [Struttura di una sessione](#struttura-di-una-sessione) sarà diversa da quel
 > Al massimo la sera prima di quando si vuol giocare - meglio se prima ancora -
 > è necessario far sapere al master:
 > - chi vuole partecipare (con schede personaggio finite);
-> - quale missione o avventura si vuole intraprendere.
+> - verso quale zona ci si vuole avventurare (e quale missione si vuole accettare).
 {: .block-danger }
 <!-- prettier-ignore-end -->
 
