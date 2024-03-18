@@ -13,6 +13,64 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Terza sessione
+
+Avventurieri: Fûc, Jorgrim, Myosotis, Tarlin, Wai-o-Tapu
+
+### Resoconto avventura del 15 marzo
+
+Caro Visconte Rodoaldo Venturoso,
+
+Ieri 15 Marzo 2024, dopo aver salutato voi, il notaio Maifrado Ronzo e Sir Galadrim e aver ricevuto le preziose gemme, Tarlin, Tapu, Jargrim, Fûc, ed io ci siamo incamminati verso il Lago Soc, per andare a cercare e salvare Elena e Burdun. L’avventura è stata bella intensa, e qualcuno di noi ci ha quasi lasciato lepenne , ma con successo siamo tutti tornati a casa sani e salvi, con nuove scoperte, curiosi oggetti e creature, ma soprattutto, Elena e Burdun, yurraaà!!
+
+Andando in ordine, quando siamo arrivati al Lago e ci stavamo per tuffare, un enorme gufo è passato davanti a noi per rapire dei ratti e poi è sparito. Per fortuna non ci ha visti, dato che era grande quasi il doppio di un nano! Strano fatto comunque!
+
+Prima di buttarci in acqua, abbiamo legato tre corde ad un albero e le abbiamo portate giù nel lago, legandole poi ad un masso sott’acqua. Devo anche dire che appena arrivati abbiamo notato che le macchie scure nel lago si erano un po’ ristrette, altro strano fatto!
+
+Scesi giù nel lago, dopo aver mangiato la solita poltiglia di pesce dalla conchiglia, abbiamo trovate le case di cui ci avevano parlato Adam ed Ekkyon, tuttavia, nessuna traccia di Elena e Burdun, così come degli scheletri messi in posizioni teatrali nelle case. Abbiamo però notato che le case erano sia di dimensione umana (porte grandi) che dimensione nanica (porte piccole), e abbiamo deciso (a gesti perché non potevamo parlare sott’acqua), di visitarne 4 piccole e una grande. All’interno non abbiamo trovato molto, delle monetine soprattutto, a parte Jargrim che ha trovato dei barattoli interi di poltiglia.
+
+Ci siamo poi diretti verso un altro quartiere e abbiamo oltrepassato un ponticello. Da lì abbiamo avvistato dei grandi e alti edifici, su cui uno c’era scritto _Puerta y prat_ che significa caserma in nanico, e su un altro ‘porta di dogana’. Mentre ci preparavamo ad entrate da una finestra della caserma, alcuni i noi si sono accorti che una creatura, probabilmente la vecchia signora dell’altra volta, ci osservava nascosta dietro il ponte. Tre di noi hanno subito preso la gemma rossa dato che l’acqua melmosa avvelenata ci aveva molto affaticato ed eravamo troppo deboli per combattere. Nel mentre, la signora, una creatura orripilante, si è rilevata ed ha subito attaccato Tapu il quale è svenuto. Ma grazie alle cure portate dietro da alcuni di noi è subito rinvenuto.
+
+La creatura ha poi creato un pupazzo di alghe simile a me che ci ha attaccato con uno strano incantesimo, simile ad una enorme onda. Per fortuna nessuno di noi si è fatto troppo male. Nel frattempo tutti abbiamo mangiato la gemma, per fortuna, perché da lì in poi è stato un combattimento a colpi di tridenti, mazze, e pugnali mentre lei ci attaccava con ogni sorta di incantesimo! E’ stata dura, ma siamo riusciti a salvarci da questa creatura. Il suo corpo lo abbiamo portato in città avvolto da una coperta, abbiamo pensato sarebbe stato utile farlo esaminare.
+
+Alla fine del combattimento Elena e Burdun sono usciti dalla caserma, che fortuna averli trovati! Gli abbiamo subito dato qualcosa da mangiare e riportati in superfice. La caserma dentro era piena di oggetti, fra cui armature di nani, ma non abbiamo avuto il tempo di esplorarla, speriamo di farlo nel futuro!
+
+Pensiamo infatti sia importante tornare al lago, perché vicino alla caserma abbiamo notato una galleria, purtroppo franata, ma che pensiamo possa portare alla città di Farcis!
+
+Siamo infine tutti usciti dal lago, e mentre Tarlin ci accompagnava con una dolce melodia di cornamusa, Elena e Burdun ci hanno raccontato come sono finiti nel lago. Come immaginavamo, stavano lottando nella testa del nano, quando si è avvicinata la signora offrendogli aiuto. Gli ha dato la sostanza della conchiglia e si sono dovuti così buttare nel lago. Lì la signora non li ha mai maltrattati, anzi, voleva che prendessero il tè con lei, in fondo sembrava volesse solo compagnia, ma probabilmente non aveva capito che non nutrendoli sarebbero morti. Chissà da dove veniva questa povera creatura, perché era rimasta così sola, che cosa ci faceva in quella città abbandonata e sommersa! Tante domande, a cui potremo trovare risposte con altre missioni!
+
+Per ora è tutto, speriamo che questo resoconto la soddisfi, se ha qualche domanda, rimaniamo a sua disposizione.
+
+Cari saluti a presto,
+
+Myosotis
+
+### Al candelabro dell’_Occhio del Lapislazzulo_ di Pleif.
+
+Sua luminosità, le mie ricerche in Val Celia iniziano a dare risultati.
+Come le avevo accennato mi sono unito ad un gruppo di avventurieri assoldati dal Visconte Rodoaldo Venturoso, figlio del conte di Celina.
+Qualche giorno fa insieme ad un elfo, uno gnomo, un mezzuomo ed un nano sono tornato ad investigare i misteri del lago Soç, con l’obbiettivo di salvare i due soldati di Celina dispersi. Essi erano tenuti prigionieri nelle profondità del lago da una malvagia creature dalle sembianze di un’anziana signora.
+Così ci siamo tuffati e abbiamo trovato le rovine di una antica città. Sebbene ci fossero prevalentemente abitazioni naniche, ce n’erano altre con ingressi più grandi, sicuramente non appartenute a dei nani. Forse ad elfi o ad umani (Mysionotis, l’elfa, mi dice che tale squallore non è riconducibile ad una dimora elfica). In mezzo a queste rovine non c’era traccia di scheletri posizionati in strane pose, nè tantomeno dei due soldati dispersi (come riferito dalla lontra e dal bambino pallido).
+Decidiamo allora di indagare ulteriormente le oscurità di questa antica cittadina distrutta e ormai sommersa e, dopo aver attraversato un vecchio ponte, finalmente riusciamo a capire dove siamo. Su un grande edificio dinnanzi a noi giganteggiava una scritta in nanico con il nome della città: Puer-tai-prât. Scopriamo dalle insegne che questa un tempo era una caserma e un’antica postazione di dogana.
+Scorgiamo inoltre, accanto a questa caserma/dogana, un tunnel nella montagna. Molto probabilmente in passato veniva usato per arrivare fin qui ed era il punto di ingresso verso qualcosa di molto più vasto… Ne sono convinto, credo di aver trovato il luogo di cui parlava Farco Brolo nelle storie dei sui viaggi: da qui si accedeva alla magnifica città di Farcis! O almeno, dovrebbe essere da qualche parte qui nei dintorni.
+
+C’è un sentiero sommerso, prima di attraversare il ponte ed arrivare qui, che porta verso l’altra estremità del lago.
+Sono sicuro che lì si trovi Farcis e che lì troverò una candela per illuminare le tenebre che avvolgono la storia di questo mondo.
+
+La meraviglia per ciò che avevo scoperto è stata subito interrotta dall’arrivo della vecchia strega (o qualunque cosa sia).
+La Sacra Luce illumina il mio cammino: già una volta ero riuscito a scacciare questa creatura ed ero sicuro di poterlo fare di nuovo.
+Tuttavia il mio cuore non ero pronto a ciò che videro i mie occhi: le sue sembianze, già di per se mostruose, erano state talmente sfigurate e modificate dal potere della mia luce che ormai pareva uno scheletro deforme e indemoniato. La strega mi ha subito riconosciuto e dopo aver farfugliato una qualche maledizione, sono caduto privo di sensi. Ma non era ancora arrivato il mio momento e la Sacra Luce mi ha riportato in vita sussurrandomi dolci parole. Allora mi sono preparato ad affrontare la megera, ma i suoi artigli hanno affondato talmente in profondità nella mia carne che sono nuovamente caduto privo di sensi. Era evidente, però, che morire qui non era il mio destino e la Sacra Luce mi ha ridato la scossa necessaria per rialzarmi e combattere. Ed è in questo momento che sono riuscito finalmente a sconfiggere questo essere immondo con la mia Fiamma Sacra.
+La vecchia però, nei suoi ultimi istanti di vita, mi ha guardato con occhi pieni di solitudine e tristezza.
+Abbiamo allora subito trovato i due soldati morenti nascosti nella caserma e li abbiamo curati per poterli riportare in superficie. Qui ci hanno raccontato di come, dopo essere scappati dal gigante, siano stati trovati da questa strana vecchia che li ha costretti a fare attività con lei e a tenerle compagnia nelle profondità del lago.
+Gli scheletri posizionati come se fossero ancora vivi, i due soldati lasciati in vita, il suo sguardo prima di morire.
+Questo essere, quando ancora era umano, deve aver patito la solitudine più di altra cosa e l’unica cosa che cercava era il calore della compagnia di qualcuno. Nei suoi stracci ho trovato degli strani legnetti a forma di cuore con delle biglie al centro (una bianca e una nera). Forse in passato ha conosciuto l’amore ed era tormentata ancora adesso per ciò che aveva perduto? E’ stata maledetta dal suo stesso tormento o da qualcos’altro di più oscuro e antico? Non penso avrò mai una risposta. Spero che almeno adesso riesca a trovare un po’ di conforto nel calore della Sacra Luce.
+
+Torniamo in città, con i due soldati e con il suo corpo avvolto in un lenzuolo.
+Ci potrebbe aiutare a risolvere il mistero della maledizione che ancora affligge l’acqua del lago e, forse, affliggeva il suo cuore.
+
+Wai-O-Tapu
+(Tapu, per gli amici)
+
 ## Seconda sessione
 
 Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Myosotis, Wai-o-Tapu
