@@ -25,6 +25,8 @@ I am also involved in the [LIGO-Virgo-KAGRA collaboration](/projects/Virgo), in 
 The [papers](/publications) I've published so far are related to fast waveform generation and lunar gravitational wave detection, but [more are coming](/projects)!
 Also, here you can find information about my upcoming [talks](/talks).
 
+In this website you can find information about the big, sandbox-style **Dungeons and Dragons** campaign I'm co-running: [Val Celia](/val_celia).
+
 I like making **videos**: some of them are related to physics, like [this visualization of Effective One Body eccentric/hyperbolic orbits](https://www.youtube.com/watch?v=xRF-Gc0voik) or [this visual explanation of the different ways to parametrize an eccentric orbit](https://www.youtube.com/watch?v=Mr9t7SLo0I0).
 
 Some of them are about my beloved mountains, both [here in Abruzzo](https://www.youtube.com/watch?v=ncHrPkNhl6Y) as well as [back in Northern Italy](https://www.youtube.com/watch?v=PfVHq-Rr2GY).
