@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-# description: Talks I've given
+description: Talks I've given, plus posters I've presented, both at conferences (bold) and in internal meetings
 nav: true
 nav_order: 1
 ---
@@ -11,11 +11,11 @@ nav_order: 1
 
 - 2024-04-17: [**CTAO symposium**](http://ctao-symposium.org/) talk about rehear
 - 2024-??-??: LVK GRB group talk about rehear
-- 2024-06-??: [**ELS**](https://sservi.nasa.gov/els2024/) talk about LGWA
+- 2024-06-??: [**European Lunar Symposium**](https://sservi.nasa.gov/els2024/) talk about LGWA
 
 ## Past
 
-- 2024-03-25: [**Moriond VHEPU**](https://moriond.in2p3.fr/2024/VHEPU/) talk about rehear, [agena page](https://moriond.in2p3.fr/2024/VHEPU/vhepu-agenda.html), [slides](https://docs.google.com/presentation/d/1UddDv6JvLZX24p7fqbDqUxfQ14yM9k5wdQIxLZUuMq8/edit?usp=sharing)
+- 2024-03-25: [**Moriond Very High Energy Phenomena of the Universe**](https://moriond.in2p3.fr/2024/VHEPU/) talk about rehear, [agenda page](https://moriond.in2p3.fr/2024/VHEPU/vhepu-agenda.html), [slides](https://docs.google.com/presentation/d/1UddDv6JvLZX24p7fqbDqUxfQ14yM9k5wdQIxLZUuMq8/edit?usp=sharing)
 - 2024-02-21: GWFish tutorial at the **ET meeting**, [Indico page](https://agenda.infn.it/event/38405/contributions/218803/)
 - 2024-02-16: PhTea talk about the history of role-playing games, [slides](https://docs.google.com/presentation/d/1jwfzek--7HnkB3n1y9xN3oxhlnsLwD6Rq50OpcVXXCs)
 - 2024-02-08: [GSSI science fair talk+poster](https://indico.gssi.it/event/619/): the talk's about being in collaborations (ET, LVK, LGWA, LISA, PTA), the poster is about LGWA specifically
