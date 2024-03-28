@@ -13,6 +13,84 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Quarta sessione
+
+Avventurieri: Alchamora Verdilore, Amaranto, Athanela, Belfaga, Yukirei
+
+### _Note in prosa et in versi circa l'audace spedizione del die XXIII mensis Martii_
+
+vergati dal Vostro devoto Amaranto, vate laureato.
+
+Sia il nostro nobile benefattore Visconte Rodoaldo felice di leggere codeste parole che mi accingo a vergare in ausilio del saggio lume della sua accortezza.
+
+Quel mattino l'astro solare si levò a specchio della mia ispirazione, la quale mi condusse presso l'uffizio del Doctor Magister Messer Ronzo. Certo nel trovare ivi compatta compagine di vigorosa virilità, pronta ad assoggettare la lussureggiante val Celia con la forza del villoso petto e del possente braccio, non celerò quale schiaffo al mio morale fu l'assodare che la compagnia constava (oltre del sottoscritto) di quattro giovini dame. Ma rivelo tosto che errai nello stimare scarsamente la capace Alchamora, la valente Athanela, la nobile Belfaga e la lesta Yukirei, di cui mi accingo ad illustrare le imprese.
+Come ebbi modo di apprendere nei resoconti di chi ci precedette nella Valle, seguendo il sentiero giungemmo dapprima al turpe lago Soç, il cui traviato stato permane tuttora.
+La via mancina ci dischiuse la nostra prima, inquietante, congiuntura.
+
+_Giaceva maculato, la bestia più docile_
+_picciol cervo dai neri occhi pieni_
+_rispecchiati sul pelo delle acque luride_
+_celavan i loro intenti più osceni._
+
+_Sebben cucciolo, tentò un sortilegio_
+_il cui fallimento non estinse il suo spregio_
+_una pietra col suo rombo calò dalla china_
+_spinta da ugual perfida bestia, vicina._
+
+_La mia sodale Athanela travolta_
+_dal masso senza avvisaglie_
+_amaramente ingiuriava, ai rei rivolta_
+_"Ahi voi! Ungulate canaglie!"_
+
+Il nefasto incidente ci inasprì gli animi, e volevamo perseguir vendetta contro le infami belve in fuga, ma decidemmo di non desistere dal nostro alto intento e riprendemmo la via.
+Poco avanti scorgemmo una sagoma imboscata nella macchia e cautamente l'avvicinammo. La bassa figura di nanesca genia et argentata senilità mi mosse a speranzosa fiducia e inducendomi ad avvicinarmi al nonnino con intenti fraterni, sebbene fosse d'armatura catafratto, pur senza esibire ferri in bella vista sulla sua figura.
+Ebbi l'onore di far conoscenza con Mastro Flavio Tavan, nano di distinto contegno, eremita. Egli afferma che il vicino villaggio di Andreis (che sorge nella Valle stessa, se ben intesi) gli diede natali secoli or sono, ma che la condizione odierna dell'abitato gli è sconosciuta, non tornandoci da lungo tempo. Conscio del marciume che affligge le acque del Soç, sostiene che gli animali ne sono corrotti e non si sgomentò quando riferimmo di esser stati vittime degli infidi cerbiatti. Infine, in crucial riguardo alla nostra missione, ci segnalò l'esistenza di un'apertura, utilizzata per aggirare il segmento del sentiero poco più avanti, sommerso negli inquinati flutti del lago.
+Il franco parere del Vostro devoto agente è che il Tavan sia pio eremita, a cui la lunga solitudine speculativa ha aperto prospettive di pensiero luminosissime, ma al contempo ne ha offuscate talaltre, alcune delle quali necessarie al limpido ragionare. Faticai inizialmente a convincerlo che non fossimo demònii, com'egli postulava, ma creature di mondana natura; inoltre la sua dichiarazione (che riporto nelle sue esatte parole) di "essere morto" è ammantata di ambiguità: si tratta di mera ed ermetica posizione filosofica, che esige esegesi, o intendeva egli puntualmente le sue parole? Se quest'ultimo fosse il caso, dobbiamo dedurne che è il senno del poveretto ad essere morto oppure che è lo spettro del Tavan quello che vedemmo? Una cosa posso affermare, sull'onore del mio naso: il Tavan non emanava il nauseante olezzo che i morti, empiamente animati o meno, spandono nell'aere. Detto questo, né io né il mio naso abbiamo preso Sacri Voti, di conseguenza non siamo competenti in queste materie, quindi il mio umile consiglio a Sua Signoria e di rivolgersi a persone di chiesa.
+Preso commiato dal venerando nano, proseguimmo nel nostro cammino per un tratto, fino a giungere al punto in cui la via si getta nel Soç. Li accanto notammo i segni di una recente frana. Eccelsa lungimiranza la Vostra, nel concedere amnistia per le proibite Arti Magiche nell'adempimento del nostro incarico! Lungimirante, altresì Liberale e Legittimo! Infatti servendoci di tali Arti riuscimmo a sgomberare la massa detritica in tutto agio e in tempi limitatissimi.
+Ma nel cunicolo apertosi ci attendeva una non lieta sorpresa.
+
+_Partorito dal buio buco ronzò sciame_
+_di tafani rapaci e rigonfi color nero catrame_
+_bere di noi volevan il sangue, gli occhi e le ossa_
+_ci vidi in un lampo destinati alla fossa_.
+
+_Non ne ebbero il tempo e in un baleno_
+_anche le loro vite vennero meno._
+_Le elfe ci mostrarono con veemenza_
+_il forte carattere della loro discendenza_.
+
+La spaziosa galleria era percorsa nella sua lunghezza da una conduttura metallica, su cui erano installati ad intervalli regolari vasi in vetro trasparente, simili a lanterne collegate al flusso che percorra il tubo. Flusso le cui tracce potevano notarsi, ma in quel momento affatto esausto.
+Il coperchio metallico di tali vasi portava sbalzato un simbolo, simile ad una goccia, ma al contempo pure alla fiamma di una candela, quindi di alterna valenza simbolica presso popolazioni, sia estinte che contemporanee. Fui in grado di raccogliere un rimasuglio della sostanza immonda che insozzava uno di tali vasi, il quale campione affido alla cura di Messer Ronzo.
+Studiando le proprietà ingegneristiche del condotto, che andava a tuffarsi nella terra, non abbiamo potuto constatare dove giungesse. Che termini sul fondo del lago o che prosegua fino alla sponda opposta sono congetture di egual validità, che non abbiamo potuto verificare. Una spedizione attrezzata a vagliare il fondale del Soç o, in alternativa, uno scavo profondo, potrebbero essere d'uopo.
+La lunga buca prosegue diritta, interrotta da una breve scala che porta ad una stanza allagata, la quale è dotata di un portellone metallico rinforzato, che, secondo nostri calcoli accurati, previene il completo allagamento delle camere sotterranee ad opera del Soç, che preme oltre tale chiusa.
+A chi seguirà il nostro tragitto segnalo, un poco oltre tale scala, un crepaccio, che nella penombra rischia di inghiottire l'incauto che non la noti, e una colonia di _Mygalomorpae Enormis_, da noi scacciata. Come insegnano le filastrocche che si insegnano ai bambini di Celina:
+
+_Grossa e grassa mamma ragno_
+_di delicato elfo ha fame_
+_ma i conti non ha fatto_
+_con gli inviati del reame!_
+
+_Con l'appiccicosa tela_
+_lei cattura la sua cena_
+_ma i conti non ha fatto_
+_con la torcia e la candela!_
+
+_Grazie a zanne avvelenate_
+_le sue prede ha addormentate_
+_ma i conti non ha fatto_
+_con le dure bastonate!_
+
+_Contro gli sciami di figli voraci_
+_le armi normali sono inefficaci_
+_ma i conti non han fatto_
+_con l'olio infuocato dalle braci!_
+
+Il mio timore, come un dotto istruito al comando quale Vostra Signoria certo saprà, è che i parassiti sono facili a decimarsi, ma ardui da debellare. Non escludo quindi che questi raccapriccianti aracnidi infestino ancora alcune sezioni del passaggio sotterraneo.
+Mi compiaccio di confermare che il cunicolo sbuca, come miravamo a verificare, in prossimità del luogo in cui il sentiero emerge nuovamente dal fiume, che già poco più a valle si muta nel putrido lago.
+Minacciando il giorno di volgersi a notte, ci dicemmo soddisfatti delle nostre indagini e ripercorremmo il tragitto in senso opposto.
+Durante il ritorno i nostri cuori furono colti da subitaneo orrore alla visione di un fatto strano e terribile: quattro cervi adulti, disposti in perpetuo moto circolare sincronizzato, come un innaturale carosello nella selvatica imitazione di una fiera di paese. Il portento fu visto da noi nelle vicinanza dell'agguato, ad opera di quella che è quasi certamente la loro demoniaca prole, risalente a poche ore prima.
+Scossi da quella visione, trovammo il coraggio di proseguire sulla nostra via fino all'accogliente Celina.
+
 ## Terza sessione
 
 Avventurieri: Fûc, Jorgrim, Myosotis, Tarlin, Wai-o-Tapu
