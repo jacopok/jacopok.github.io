@@ -27,19 +27,19 @@ Quel mattino l'astro solare si levò a specchio della mia ispirazione, la quale 
 Come ebbi modo di apprendere nei resoconti di chi ci precedette nella Valle, seguendo il sentiero giungemmo dapprima al turpe lago Soç, il cui traviato stato permane tuttora.
 La via mancina ci dischiuse la nostra prima, inquietante, congiuntura.
 
-_Giaceva maculato, la bestia più docile_
-_picciol cervo dai neri occhi pieni_
-_rispecchiati sul pelo delle acque luride_
+_Giaceva maculato, la bestia più docile_ \
+_picciol cervo dai neri occhi pieni_ \
+_rispecchiati sul pelo delle acque luride_ \
 _celavan i loro intenti più osceni._
 
-_Sebben cucciolo, tentò un sortilegio_
-_il cui fallimento non estinse il suo spregio_
-_una pietra col suo rombo calò dalla china_
+_Sebben cucciolo, tentò un sortilegio_ \
+_il cui fallimento non estinse il suo spregio_ \
+_una pietra col suo rombo calò dalla china_ \
 _spinta da ugual perfida bestia, vicina._
 
-_La mia sodale Athanela travolta_
-_dal masso senza avvisaglie_
-_amaramente ingiuriava, ai rei rivolta_
+_La mia sodale Athanela travolta_ \
+_dal masso senza avvisaglie_ \
+_amaramente ingiuriava, ai rei rivolta_ \
 _"Ahi voi! Ungulate canaglie!"_
 
 Il nefasto incidente ci inasprì gli animi, e volevamo perseguir vendetta contro le infami belve in fuga, ma decidemmo di non desistere dal nostro alto intento e riprendemmo la via.
@@ -49,14 +49,14 @@ Il franco parere del Vostro devoto agente è che il Tavan sia pio eremita, a cui
 Preso commiato dal venerando nano, proseguimmo nel nostro cammino per un tratto, fino a giungere al punto in cui la via si getta nel Soç. Li accanto notammo i segni di una recente frana. Eccelsa lungimiranza la Vostra, nel concedere amnistia per le proibite Arti Magiche nell'adempimento del nostro incarico! Lungimirante, altresì Liberale e Legittimo! Infatti servendoci di tali Arti riuscimmo a sgomberare la massa detritica in tutto agio e in tempi limitatissimi.
 Ma nel cunicolo apertosi ci attendeva una non lieta sorpresa.
 
-_Partorito dal buio buco ronzò sciame_
-_di tafani rapaci e rigonfi color nero catrame_
-_bere di noi volevan il sangue, gli occhi e le ossa_
+_Partorito dal buio buco ronzò sciame_ \
+_di tafani rapaci e rigonfi color nero catrame_ \
+_bere di noi volevan il sangue, gli occhi e le ossa_ \
 _ci vidi in un lampo destinati alla fossa_.
 
-_Non ne ebbero il tempo e in un baleno_
-_anche le loro vite vennero meno._
-_Le elfe ci mostrarono con veemenza_
+_Non ne ebbero il tempo e in un baleno_ \
+_anche le loro vite vennero meno._ \
+_Le elfe ci mostrarono con veemenza_ \
 _il forte carattere della loro discendenza_.
 
 La spaziosa galleria era percorsa nella sua lunghezza da una conduttura metallica, su cui erano installati ad intervalli regolari vasi in vetro trasparente, simili a lanterne collegate al flusso che percorra il tubo. Flusso le cui tracce potevano notarsi, ma in quel momento affatto esausto.
@@ -65,24 +65,24 @@ Studiando le proprietà ingegneristiche del condotto, che andava a tuffarsi nell
 La lunga buca prosegue diritta, interrotta da una breve scala che porta ad una stanza allagata, la quale è dotata di un portellone metallico rinforzato, che, secondo nostri calcoli accurati, previene il completo allagamento delle camere sotterranee ad opera del Soç, che preme oltre tale chiusa.
 A chi seguirà il nostro tragitto segnalo, un poco oltre tale scala, un crepaccio, che nella penombra rischia di inghiottire l'incauto che non la noti, e una colonia di _Mygalomorpae Enormis_, da noi scacciata. Come insegnano le filastrocche che si insegnano ai bambini di Celina:
 
-_Grossa e grassa mamma ragno_
-_di delicato elfo ha fame_
-_ma i conti non ha fatto_
+_Grossa e grassa mamma ragno_ \
+_di delicato elfo ha fame_ \
+_ma i conti non ha fatto_ \
 _con gli inviati del reame!_
 
-_Con l'appiccicosa tela_
-_lei cattura la sua cena_
-_ma i conti non ha fatto_
+_Con l'appiccicosa tela_ \
+_lei cattura la sua cena_ \
+_ma i conti non ha fatto_ \
 _con la torcia e la candela!_
 
-_Grazie a zanne avvelenate_
-_le sue prede ha addormentate_
-_ma i conti non ha fatto_
+_Grazie a zanne avvelenate_ \
+_le sue prede ha addormentate_ \
+_ma i conti non ha fatto_ \
 _con le dure bastonate!_
 
-_Contro gli sciami di figli voraci_
-_le armi normali sono inefficaci_
-_ma i conti non han fatto_
+_Contro gli sciami di figli voraci_ \
+_le armi normali sono inefficaci_ \
+_ma i conti non han fatto_ \
 _con l'olio infuocato dalle braci!_
 
 Il mio timore, come un dotto istruito al comando quale Vostra Signoria certo saprà, è che i parassiti sono facili a decimarsi, ma ardui da debellare. Non escludo quindi che questi raccapriccianti aracnidi infestino ancora alcune sezioni del passaggio sotterraneo.
