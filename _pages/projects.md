@@ -87,7 +87,12 @@ It's too many! I know.
    1. DWD/NSWD detection with LGWA
 1. Running a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
 1. Training by running + aerial silks (+ climbing and cycling sometimes)
-   1. Rome Marathon on the **17th of March 2023**
+   1. [Via degli Dei](https://www.komoot.com/it-it/tour/1403731244) on the 13-14th of April
+   1. Skymarathon del Voltigno on the 5th of May
+   1. Skyrace del Mammut on the 19th of May
+   1. Tre Rifugi Skyrace on the 14th of July
+   1. [Monte Amaro Extreme](https://www.komoot.com/it-it/tour/1487060456) on the 28th of July
+   1. La Sirentina Trail on the 29th of September
 
 #### Will get to
 
@@ -189,3 +194,5 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Races
    1. 14K trail race on the **8th of October**
    1. [Half-marathon](https://www.rome21k.com/en/21k-info-eng/) on the **19th of November**
+   1. Rome Marathon on the **17th of March 2023**
+
