@@ -195,4 +195,3 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
    1. 14K trail race on the **8th of October**
    1. [Half-marathon](https://www.rome21k.com/en/21k-info-eng/) on the **19th of November**
    1. Rome Marathon on the **17th of March 2023**
-
