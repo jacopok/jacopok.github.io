@@ -69,6 +69,11 @@ Irene.
 {% include figure.liquid path="assets/img/val_celia/Rut-img2.jpg
 " class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
 
+## Tarlin
+
+Bardo halfling, livello 2.
+Giocatore: Matteo.
+
 ## Wai-o-Tapu
 
 Chierico umano, livello 2.
@@ -78,3 +83,43 @@ Michele.
 " class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
 
 # Trieste
+
+## Alchamora Verdilore
+
+Stregone (strega? stregonessa?) umana, livello 2.
+Giocatrice: Carolina.
+
+{% include figure.liquid path="assets/img/val_celia/Alchamora_Verdilore.png
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+## Amaranto
+
+Bardo umano, livello 2.
+Giocatore: Francesco.
+
+{% include figure.liquid path="assets/img/val_celia/amaranto.jpg
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+## Athanela
+
+Elfa dei boschi bardo, livello 1.
+Giocatrice: Sara.
+
+{% include figure.liquid path="assets/img/val_celia/Athanela.png
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+## Belfaga
+
+Maga elfa alta, livello 1.
+Giocatrice: Beatrice.
+
+{% include figure.liquid path="assets/img/val_celia/belfaga.png
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+## Yukirei
+
+Monaca tiefling, livello 1.
+Giocatrice: Beatrice.
+
+{% include figure.liquid path="assets/img/val_celia/Yukirei.png
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
