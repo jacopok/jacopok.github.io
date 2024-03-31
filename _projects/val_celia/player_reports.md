@@ -19,16 +19,16 @@ Avventurieri: Alchamora Verdilore, Amaranto, Athanela, Belfaga, Yukirei
 
 ### Alla cortese attenzione del Visconte
 
-{% include figure.liquid path="assets/img/val_celia/strada.png
-" class="img-fluid rounded float-right z-depth-0" zoomable=true width="50%" %}
-
-{% include figure.liquid path="assets/img/val_celia/Tunnel.png
-" class="img-fluid rounded float-right z-depth-0" zoomable=true width="50%" %}
-
 L'antica strada è ora percorribile grazie alla riapertura di un tunnel prima bloccato da una frana. In allegato troverà delle mappe dettagliate dei luoghi esplorati; sono anche evidenziati ritrovamenti o incontri particolari.
 
 La sua fedele cittadina,
 Alchamora
+
+{% include figure.liquid path="assets/img/val_celia/strada.png
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+{% include figure.liquid path="assets/img/val_celia/Tunnel.png
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
 
 ### _Note in prosa et in versi circa l'audace spedizione del die XXIII mensis Martii_
 
