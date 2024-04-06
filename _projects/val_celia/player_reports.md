@@ -13,6 +13,53 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Quinta sessione
+
+Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Fûc
+
+### Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Adam, Ekkyon (e il topino Ferdinando), Fuc,
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+La ringraziamo nuovamente per aver condiviso con noi le informazioni contenute nel libro che è stato rinvenuto nella precedente esplorazione della galleria che conduce in profondità nella forra. Sono stato colpito in particolar modo dalla registrazione di un incidente avvenuto il 2 Febbraio 1403, che sembra in qualche modo collegato a una misteriosa “Central di dos flums” e al fatto che “non servono più acque laggiù dopo l’incidente”. Che si riferisca a un’antica città caduta in rovina? Magari alla stessa Farcis? Il libro riporta anche un simbolo che non avevo mai visto, una sorta di goccia stilizzata, associata alla parola Aghe Corinte (traducibile dal nanico in acque correnti). La Val Celia nasconde ancora molti misteri che attendono solo di essere decifrati!
+
+Dopo aver accettato la missione di esplorazione delle terre dall’altro lato del tunnel, abbiamo lasciato Celina per iniziare la nostra avventura. Ci siamo inoltrati nel tunnel attraverso l’ingresso aperto durante la precedente missione esplorativa. Al suo interno abbiamo trovato una conduttura di metallo dotata di rubinetti, e molte lampade, incise con il simbolo delle Aghe Corinte. La mia ipotesi, ma non ho alcuna prova al riguardo, è che si tratti del logo di una specie compagnia commerciale, magari la stessa che ha costruito il tunnel e la conduttura. Sia la conduttura sia le lanterne sono in disuso, e una fonte di luce risulta necessaria per inoltrarsi nel tunnel.
+
+Durante l’attraversamento del tunnel, veniamo attaccati da dei ragni. In realtà non erano una grande minaccia (dovrò ringraziare i valorosi avventurieri della precedente missione per aver ripulito la galleria dagli esemplari più minacciosi, se dovessi incontrarli alla taverna cittadina!). Hanno però tentato di derubarci del generoso anticipo di cui Sua Eccellenza ci fa dono all’inizio di ogni missione, ma sono stati puniti per tale affronto! Ritengo che il tunnel sia ora in completa sicurezza.
+
+Usciti dal tunnel, la forra si presenta come una stretta gola circondata da pareti rocciose piuttosto impervie. Un torrente, che più a valle si immette nel lago poco fuori Celina, scorre a lato della strada. Vorrei far notare che l’acqua di questo torrente non presenta le macchie scure che invece abbiamo riscontrato nel lago durante le precedenti missioni. Procedendo lungo la strada ci siamo imbattuti in un ragno gigante (era disgustoso, ben più grande di un essere umano!) che inseguiva una creatura umanoide che non avevo mai visto prima. E’ piuttosto bassa, vestita di stracci e male equipaggiata. In realtà tale creatura stava cercando di attirare il ragno in una rudimentale trappola, ma si è presto trovata in pericolo di vita. Siamo così intervenuti e abbiamo eliminato la minaccia a otto zampe.
+
+Inizialmente la creatura umanoide non parlava la nostra lingua, e nessuno di noi capiva la sua. Dico inizialmente perché abbiamo poi assistito a un prodigio! Su indicazione della creatura, che sembrava ben disposta nei nostri confronti, beviamo dell’acqua del torrente mischiata alla nostra saliva, e subito siamo stati in grado di comunicare tra noi! Riesco appena a concepire le potenzialità di una simile proprietà traduttiva! Ma torniamo a noi. La creatura, di nome Erk, viene da un villaggio di nome Upguur. E’ stato da poco nominato un nuovo capo (carica nota come “turpuluc”) al villaggio di Erk. Il prode neo eletto ha dimostrato tutte le sue abilità di comando sconfiggendo gli altri pretendenti a una prova di estrema pericolosità: il nuovo capo è colui che ha raggiunto la massima gittata con il suo getto di urina (mi scuso per il turpiloquio, ma non ho saputo trovare parole migliori) (e mi scuso anche per l’ironia, poco professionale, ma non ho potuto farne a meno). Un’altra persona degna di nota al villaggio è un tale “vusnà”, una sorta di vecchio saggio. E’ stato lui a insegnare a Erk delle proprietà traduttrici dell’acqua.
+
+Giungiamo ora alla parte più delicata di questo report. Abbiamo preso accordi con Erk per introdurci al suo villaggio. Riteniamo che il presente gruppo di avventurieri sia il più indicato per condurre il primo contatto con questi esseri, avendo conquistato la fiducia di uno dei suoi membri. La riteniamo la decisione più prudente, visto che non abbiamo alcuna informazione riguardo ai loro atteggiamenti nei confronti degli stranieri. Avrà anche capito che queste creature non sono particolarmente intelligenti, e sembrano attratti da oggetti luccicanti (Erk ha mostrato interesse verso delle monete d’oro regalategli da Adam). Se Sua Eccellenza, nella sua larga generosità, potrà incrementare il nostro anticipo pre-missione, da usare come dono per il villaggio, sono confidente che riusciremo a costruire amichevoli e durature relazioni con queste creature. Forse, in futuro, tutti gli avventurieri di Celina potrebbero trovare ristoro in questo villaggio durante le loro avventure, con innumerevoli vantaggi per tutta la cittadina.
+
+La ringrazio per la Sua pazienza e per il tempo concessoMi,
+Fedelmente,
+Fern Gunnhildr
+
+### Resoconto dell’esplorazione della vecchia strada della Val Celia
+
+_Redatto dal nano Fûc, avventuriero e bibliotecario presso la Fornace di Pleif_
+
+Abbiamo seguito le tracce del precedente gruppo di avventurieri lungo la vecchia strada della Val Celia. Come loro, anche noi siamo entrati nel tunnel nanico dove è stato trovato il registro. All’interno del tunnel abbiamo trovato diversi artefatti nanici risalenti a secoli fa: indumenti di un materiale sconosciuto e lanterne il cui funzionamento purtroppo non ci è completamente chiaro. Sulle lanterne inoltre era inciso il simbolo associato all’_Aghecorinte_:
+
+{% include figure.liquid path="assets/img/val_celia/aghe-corinte-logo-schizzo.png
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+Dalle mie conoscenze del nanico antico sospetto che il significato letterale della parola Aghecorinte sia acqua corrente, ma purtroppo non siamo stati in grado di capire a cosa esattamente i nani si riferissero con quel nome.
+
+Sfortunatamente il tunnel era ancora infestato da mostruosi ragni interessati a depredare chiunque passi da lì del proprio oro. Abbiamo perciò deciso di mostrargli in cosa consiste l’antica filosofia nanica del «si tu mi robis l'aur, te copi.» e adesso siamo orgogliosi di dire che la popolazione di ragni all’interno del tunnel è calata drasticamente.
+
+Una volta usciti dalla galleria abbiamo scoperto che l’acqua del lago diventa un torrente, con la vecchia strada che riemerge e prosegue a lato di essa. Poco più avanti ci siamo imbattuti in un essere mai visto prima, dalle dimensioni confrontabili con quelle di Ekkyon ma di aspetto completamente diverso. Era inseguito da un ragno gigante, e noi abbiamo deciso di intervenire per salvargli la vita.
+
+{% include figure.liquid path="assets/img/val_celia/goblin-schizzo.jpg
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+{% include figure.liquid path="assets/img/val_celia/ragno-schizzo.jpg
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
 ## Quarta sessione
 
 Avventurieri: Alchamora Verdilore, Amaranto, Athanela, Belfaga, Yukirei
