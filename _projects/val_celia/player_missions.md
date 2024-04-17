@@ -50,6 +50,10 @@ _Ormai da più di un anno non si hanno notizie dal piccolo villaggio di Cjadaldi
 
 _Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro società e cultura. Il visconte Rodoaldo Venturoso spera di poter allacciare dei buoni rapporti con questi, scambiando informazioni, ricchezze e tecnologie, ma i primi contatti di avventurieri con Upguur, il 10 aprile, non sembrano essere andati a buon fine. Cimentatevi dunque in questa missione diplomatica: è ancora possibile ristabilire l'amicizia tra le due popolazioni?_
 
+## Esplorate l'antica centrale nanica
+
+_Durante una delle precedenti esplorazioni lungo la vecchia strada è stata rinvenuta una grande struttura scavata sulla parete rocciosa, che risponde al nome di "Central di Dos Flums". Questa struttura sembra essere collegata all'aghe corinte, particolare liquido le cui proprietà magiche sono di grande interesse per il regno. Esplorate dunque la centrale e svelatene tutti i segreti! _
+
 # Missioni completate
 
 ## Investigate il mistero della testa dietro la collina!
