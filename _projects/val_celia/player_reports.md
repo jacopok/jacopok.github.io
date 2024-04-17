@@ -13,6 +13,89 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Settima sessione
+
+Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Fûc, Myosotis
+
+### Report informativo riguardo alla missione esplorativa nella valle del 10 Aprile
+
+Avventurieri, Adam con la sua lontra gherb, Ekkyon, Fern, Fuc, Myosotis
+
+Dopo aver preso accordi con Herk ed aver avuto il consenso del Visconte ci dirigiamo al luogo stabilito dell'incontro, poco dopo il vecchio tunnel ormai completamente agibile e (parrebbe) ripulito dai ragni.
+Come d'accordi incontriamo il bizzarro personaggio verdognolo che comincia a farci strada verso il suo villaggio: Upgur.
+Lungo la strada ci chiede di poter aiutare la sua gente con una questione spigolosa.... eliminare altri ragni che impediscono il passaggio lungo la strada più breve che conduce al villaggio.
+Di buon cuore accettiamo, (anche per dare conferma delle nostre qualità come avventurieri e fare buona impressione con gli abitanti del villaggio).
+Lungo la strada notiamo la presenza dello stesso tubo che era presente nel tunnel, questo è più piccolino, ma segue l'intera strada, strada che Herk ci dice di tenere d'occhio in quanto cito testualmente "SI MUOVE".
+Noi non abbiamo visto nessuna strada muoversi, ma l'abitante della valle è lui, magari succede anche questo.
+Lungo la via vi sono altri tunnel, notevolmente più piccoli di quelli che conducono alla valle, ma notiamo anche grazie a Fuc, essere anche questi di fattura nanica.
+Proseguendo andando contro la direzione del fiume arriviamo ad un ponte di pietra, praticamente alle pendici del monte Fara, in quel punto il tubo che ci ha seguito per tutto il tragitto entra dentro la montagna, e non l'abbiamo più visto.
+Mi scuserete per questo modo di spiegare le cose, ma ritengo fondamentale focalizzarsi sulle cose importanti, quindi farò un breve passo avanti nel racconto per poi parlare di quelli che ritengo essere i punti salienti dell'avventura.
+
+Arriviamo al covo dei ragni, e dopo una pericolosissima battaglia, dove chi più chi meno si è valorosamente distinto, contro diversi ragni, di cui veramente enorme (e non lo dico solo io che sono piccino).
+Li sconfiggiamo, anche grazie all'aiuto della nostra guida Herk, e liberiamo il passaggio, potendo così arrivare al villaggio di Upgur.
+Lì ci accoglie l'anziano del villaggio Uk, lui come Herk non parla la nostra lingua, per cui abbiamo dovuto rifare il rito dello sputo per poter comunicare (non sono ben sicuro si tratti di magia o di qualche proprietà delle acque della zona).
+
+Vediamo il villaggio di quelli che Uk definisce come, "Goblin", se ho capito bene, vediamo che sono poco meno cento abitanti circa, armati in modo molto rudimentale, che vivono in capanne e ci confermano essere un popolo gentile, non dedito alla violenza, e non troppo interessante aggiungerei.
+Uk ci spiega che Upgur vuol dire "Pietra del Cielo" , la pietra arriva effettivamente molto in alto e sembra fare da "diga artificiale (potrebbe essere stata costruita da qualcuno)" a tanta acqua dietro.... ma non lo si può sapere passando tramite il villaggio in quanto non vi sono modi per salire.
+Uk ci congeda dandoci come ultima informazione il nome del loro villaggio di provenienza "Bosco Piatto", descrivendolo come un luogo non troppo sicuro in quanto abitato da altre comunità violente.
+E questo è tutto ciò che ritengo importante segnalare riguardo al villaggio di Herk dal quale poi ce ne siamo andati, in quanto palesemente non interessati ad avere troppi rapporti con noi e privi di particolari informazioni (ed intelletto aggiungerei), hanno però dimostrato molta gratitudine per averli aiutati con i ragni.
+Ciò che ritengo interessante d'aggiugere e per cui dobbiamo fare un passo indietro a prima dell'incontro con gli aracnidi è stato l'incontro con un grosso portone di metallo, enorme (sempre non solo a detta mia), di sicura fattura nanica che probabilmente funge da ingresso al monte Fara.
+Non vi siamo riusciti ad entrare per via di uno strano meccanismo che funge da chiave. Il meccanismo sembra funzionare tramite l'inserimento di una combinazione di lettere (ve ne sono 12 totali) per formare una parola.... tuttavia se si sbaglia, come ha fatto Fern ci si becca una scossa e ci si fa male.
+
+Il sottoscritto ha identificato una lettera che Fuc mi ha tradotto come essere la lettera "E", e non mi sono fatto nulla.
+Tuttavia per l'impellenza di aiutare Herk ce ne siamo andati senza scoprire altro, ma ritengo che questo sia veramente un buon punto di partenza per poter entrare nella montagna e scoprire chissà quali misteri.
+Questo è quanto, il mio fedele rapporto si conclude qui.
+
+In fede,
+
+Ekkyon l’Halfling.
+
+## Sesta sessione
+
+Avventurieri: Amaranto, Asbof, Athanela, Belfaga, Icaro
+
+### Resoconto di Icaro
+
+Prima di lasciare Celina, il nostro gruppo ha incontrato vossignoria e il Visconte, che ci avete informati che il reperto consegnato la settimana scorsa consisteva sostanzialmente in magia condensata in forma di acqua. Siamo successivamente partiti in direzione del lago di Soç, un lago che alterna acqua pulita a chiazze di acqua marrone. I due fluidi sembravano immiscibili, e non si potevano infiammare. Sul fondo del lago erano presenti delle piccole case, come se si trattasse di una piccola città inabissata. Un piccolo pesce, uscendo dall’acqua, saltò molto in alto e diventò gradualmente più grande, salvo poi riprecipitare nel lago e scomparire. Con _identify_, Amaranto identificò cosa fossero i due fluidi. L’acqua marrone è incantata con _Slow_, mentre l’acqua apparentemente normale consiste in un misto tra magia sacra (attribuibile, curiosamente, al Culto) e magia molto antica, incomprensibile. Athanela ha deciso di bere l’acqua chiara e, apprendo allucinata disse di vedere in cielo un “vermicello” alato. Un tubo sembrava entrare nel lago, e noi avanzammo seguendo questo tubo per capire dove andasse, ipotizzando che da questo tubo finisse qualcosa nel lago. Il tubo usciva dal lago per poi risalire lungo il letto del fiume che confluisce nel lago Soç. I miei compagni ed io abbiamo quindi seguito il percorso del fiume, percorrendo in salita la forra scavata dal corso d’acqua. Lungo il sentiero, accostando la parete rocciosa, abbiamo evitato una trappola – un rudimentale paletto con appesi dei braccialetti, connesso ad un cappio – salvo poi notare che il tubo in un punto fosse spezzato. In corrispondenza del tubo spezzato, da una media distanza, avvistammo una piccola figura che rapidamente si infilò in un cunicolo nelle pareti della forra. Seguendola, Amaranto ed io ci ritrovammo su delle lastre di pavimento vive, che si risvegliarono, atterrandoci, e trascinando me all’interno della caverna. Prima di essere raggiunto dai miei compagni, mi ritrovai di fronte ad una rana dall’aspetto antropomorfo, che brandiva e agitava minacciosamente per aria un rudimentale pugnale. Iniziò un combattimento con le due “lastre” e la rana, creatura che sembrava avere il controllo della marea all’interno della caverna e che era capace di trasformarsi in un vortice. Durante la battaglia, scoprimmo che le lastre sono al servizio della rana, e che era stato ordinato loro di trascinare all’interno della caverna un singolo animale o umano in modo che la rana lo potesse divorare – come accaduto recentemente ad un cervo, il cui scheletro era presente all’interno della caverna. Asbof uccise la rana, terminando lo scontro*.* Ritornando sul sentiero, continuammo a seguire il tubo, ritrovandoci di fronte a un alto edificio scavato nella pietra oltre a un ponte che attraversava il fiume. L’edificio presentava sulla sua facciata la scritta, in nanico, “Centrale dei due fiumi”. Di fianco alla struttura si poteva osservare una piccola dimora che, in seguito ad una ispezione ravvicinata, sembrava essere una struttura nanica – per le dimensioni – inabitata da una specie rudimentale che ne aveva modificato le porte e gli infissi, dall’aspetto molto rozzo. Altro indizio di ciò è il disordine che caratterizzava la casetta. Sul retro della casa, aprimmo la serratura di una finestra, ritrovandoci in un bagno. Al suo interno, era situato un gabinetto utilizzato come “porta lance” a mo’ di vaso. Nel bagno era anche presente una lanterna, connessa con dei sottili cavi metallici a delle leve, apparentemente sconnesse ad altro. Uscendo dalla casetta, ritornammo dinnanzi alla facciata dell’edificio principale, di fronte ad una porta parzialmente danneggiata, con sopra l’insegna “Pericolo, ZAP-ZAP”, con a fianco una pulsantiera con lettere naniche che, se tradotte, risulta come nel riquadro che riporto qui.
+
+|P | I | N |
+|X|H|F|
+|T|C|U|
+|E|A|G|
+
+A questo punto, arrivato il tramonto, siamo ritornati verso Celina, e passando nuovamente di fronte al lago, ho raccolto dell’acqua pulita e presumibilmente “incantata” nella mia borraccia, che consegno a voi nella speranza che possa essere meglio studiata.
+
+### Egregio Visconte Rodoaldo Venturoso
+
+La sottoscritta Belfaga si accinge a redire il presente resoconto a nome anche degli altri avventurieri: Icaro e Asbof di cui ha avuto il piacere di far conoscenza durante il nostro incontro antistante la dipartita, e i già noti Amaranto e Athanela.
+
+Decidemmo di ripercorrere il sentiero che conduce al Lago Soç dove, una volta giunti sulle sue sponde, ci interrogammo a lungo sulle sue strane acque, esitanti sul da farsi e riluttanti sul toccarla.
+
+Amaranto decise di provare ad identificare dapprima la parte più scura di queste macchie, infilandoci la mano dentro per prenderne una manciata. La mano, inaspettatamente rimasta intonsa, ci permise di descriverla come intrisa della magia “slow”. Invece, la parte più chiara dell’acqua apparse contenente tracce di magia ignota, similare alla Sacra Luce ma non del tutto identica.
+
+Recepita questa informazione, Athanela, presa da momentaneo coraggio, bevve l’acqua chiara: inizialmente pareva dall’aspetto sano, finché le pupille si dilatarono e iniziò a ridere indicando un punto in aria, dicendo di vedere un umano o vermicello che volava con ali. Contemporaneamente, nella stessa zona in cui precedentemente trovammo i cervi, vedemmo un movimento che poteva sembrare di cervo ma troppo lontano per decifrarlo con sicurezza.
+
+Tornata in sé, riprendemmo così la via per il tunnel.
+
+Ringraziamo la ditta di Paiolo di gnomo Emma per aver provveduto a rimuovere la frana e posto un sostegno di legno all’ingresso per renderlo più stabile.
+
+Usciti dal tunnel, proseguimmo sulla strada davanti a noi alla cui sinistra si ha una parete rocciosa mentre sulla destra il fiume e, oltre questo, un’altra parete rocciosa.
+
+Sul lato roccioso alla nostra sinistra, il tubo continua a percorrere tutta la via e camminando,
+
+incappammo su un paletto con sopra qualcosa di luccicante, tipo anelli, dall’apparenza innocuo, la cui manifattura pareva arte grezza. Dopo un po’ di esitazione, decidemmo di afferrarlo e immediatamente il bastone scattò penzolante attaccato ad un albero posto in alto, similarmente ad una trappola.
+
+Lungo la strada ci fermammo a guardare una rottura nel tubo che pareva non solo incrinato ma anche spezzato, quando vedemmo qualcosa che entrava in una piccola insenatura all’interno della parete e, quasi in contemporanea, il pavimento sotto di noi si mosse, ai mattoncini che lo compongono sbucarono occhi, zampette e un piccolo corno. Questi fecero cadere Amaranto e Icaro che vennero da loro tirati all’interno di una piccolissima insenatura all’interno della parete rocciosa, similarmente ad una grotta, al cui interno si presentava un piccolo laghetto, la carcassa di un cervo e una rana antropomorfa ricoperta da una sostanza circa gelatinosa. Seguì uno scontro contro gli animati mattoncini e la rana, durante il quale il livello dell’acqua si alzò fino a mezzo busto e si creò un molinello all’interno del lago in cui la rana poté tranquillamente nuotare. Fortunatamente ne uscimmo vincenti e uccidemmo la rana, di cui teniamo il corpo.
+
+Infine, proseguimmo lungo la via arrivando fino ad un ponte che, superando il fiume, congiungeva la strada all’altra parte della parete rocciosa. Due grandi strutture si ergevano davanti a noi: una più grande riportante sulla facciata la scritta “centrale dei due fiumi” da cui usciva il tubo che ci ha sempre accompagnati, e un’altra più piccola, similare ad un’abitazione, entrambe dall’aspetto dismesso. Decidemmo di andare a bussare alla porta della simil-abitazione ma nessuno rispose, allora guardammo dalle finestre del pian terreno e notammo una stanza similare ad una cucina con una stufa e stoviglie, mentre sul retro era presente una stanza con gabinetto al cui interno erano riposte lance dalle punte metalliche e una lanterna di vetro, così come quelle presenti nel tunnel, da cui escono tubi metallici collegati a delle scatoline metalliche che presentano diversi bottoni.
+
+Avvicinandoci invece alla centrale, notiamo una scritta sul grande portone metallico: “pericolo ZAP ZAP”. Di fianco a questo, si presenta una pulsantiera composta da tasti:
+
+PIN \
+XHF \
+TCU \
+EAG.
+
 ## Quinta sessione
 
 Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Fûc
@@ -59,6 +142,48 @@ Una volta usciti dalla galleria abbiamo scoperto che l’acqua del lago diventa 
 
 {% include figure.liquid path="assets/img/val_celia/ragno-schizzo.jpg
 " class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+### Oltre, sulla vecchia via dei nani
+
+{% capture custom_font_section %}
+
+"Le persone a questo mondo non capiscono mai nulla di nuovo, reinterpretano solo quello che già conoscono" - mentre salivamo su per la collina di Celina, mi tornavano alla mente le parole di un mio insegnante di gioventù.
+Era il giorno 6 aprile 2024 ed eravamo di nuovo in cammino per rintracciare la perduta città di Farcis, questa volta più in là lungo la vecchia via dei nani.
+Eravamo in quattro, Fern, Ekkyon, io e un nano di nome Fuc che, se non fosse stato per i baffoni, sarebbe potuto passare per umano.
+Guidati dai resoconti dei nostri compari avventurieri ci siamo diretti al tunnel e l'abbiamo comodamente attraversato per giungere dall'altro lato.
+
+Fui quasi rassicurato che, nonostante le nostre bonifiche, il mondo al di là della collina continui a riservare sorprese.
+Vidi la fine del lago, che meraviglia!
+Lì l'acqua è sufficientemente pulita da lasciar ammirare la ripida roccia che si stringe attorno alla vecchia strada e lascia spazio solo ad una sottile striscia d'acqua che più in là assume il tipioco carattere torrenziale dei fiumi in quota.
+Dentro il tunnel, invece, tanti i segni dell'ingegneria nanica che non notammo l'appropinquarsi di una moltitudine di ragnetti cleptomani.
+Fuc e Fern, accecati dall'onta del furto, furono rapidissimi nel recuperare i loro averi a discapito dei ragnetti.
+La cosa curiosa è che i ragni in qualche modo percepiscono la presenza dell'oro, persino quello nascosto nelle borse!
+Chissà se tale senso sarebbe un potere o una maledizione nella nostra civiltà.
+
+Usciti dal tunnel riprendemmo la strada vecchia per andare incontro ad una trappola che era sicuramente troppo in bella vista per essere indirizzata a noi.
+Subito infatti ci raggiunse il trambusto di un omino che, inseguito da un ragnaccio brutto che niente aveva da spartire con quelli nel tunnel, saltò agevolmente la trappola e ci lascio cadere la bestia.
+Facemmo così la conoscenza di Erk, piccolo cavernicolo verde.
+Bruttino a dire il vero, ma simpatico!
+Ci raccontò delle loro difficoltà con i ragni e la fauna tutta nella zona .
+La vita qui è molto più dura per chi non ha il privilegio di tornare in paese a fine giornata.
+La vita di Erk è molto semplice e si basa su tradizioni chiaramente meno elaborate di quelle umane, ma parimenti creative, oserei dire.
+Venimmo a sapere che i suoi simili sono organizzati in un piccolo villaggio in zona e che hanno una visione molto più fluida del concetto di comando, in quanto il loro "Vosnà" cambia più volte in un solo mese.
+Ci lasciammo con la promessa di instaurare rapporti amichevoli anche con il resto della nostra civiltà.
+Un incontro con il Vosnà è pianificato per la prossima settimana.
+
+E ora di nuovo ripenso alle parole del mio insegnante: lui era un pessimista, rigettato dalla società, e in pochi condividono il suo modo di vedere il mondo, ma le sue aspre parole mi sono rimaste impresse.
+Guardo l'attuale situazione attraverso uno spesso velo di nebbia, e mi preoccupano le conseguenze delle nostre esplorazioni.
+Che segno lasceremo su questo mondo?
+Cosa resterà di questa violenta natura dopo il passaggio nostro e di chi sarà condotto qui dalle nostre gesta?
+Riusciremo ad adattarci al nuovo ambiente senza plasmarlo in un'altra appendice del mondo che già conosciamo?
+Temo che dovremo lottare, non solo contro gli ostacoli sulla via dei nani, ma anche con i nostri pregiudizi.
+Per la prima volta mi scopro a pregare che la curiosità e la voglia di avventura non si trasformino in smania di conquista.
+
+**Adam Otter**
+
+{% endcapture %}
+
+{{ custom_font_section | custom_font }}
 
 ## Quarta sessione
 
