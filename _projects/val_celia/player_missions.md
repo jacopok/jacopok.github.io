@@ -44,7 +44,7 @@ _Il primo gruppo di avventurieri che porterà prove dell'avere trovato Andreis r
 
 ## Contatti persi con Cjadaldiaul
 
-_Ormai da più di un anno non si hanno notizie dal piccolo villaggio di Cjadaldiaul, situato tra le montagne a Nord-Ovest, oltre al monte Fara. La Chiesa dei Lumini ha dunque chiesto al comune di Celina di mandare degli avventurieri ad investigare e assicurarsi delle condizioni del villaggio. Il villaggio non si trova ufficialmente in Val celia, ma non è molto distante da essa: si potrebbe aprire una nuova via di accesso alla valle da Ovest._
+_Ormai da più di un anno non si hanno notizie dal piccolo villaggio di Cjadaldiaul, situato tra le montagne a Nord-Est, oltre al monte Fara. La Chiesa dei Lumini ha dunque chiesto al comune di Celina di mandare degli avventurieri ad investigare e assicurarsi delle condizioni del villaggio. Il villaggio non si trova ufficialmente in Val celia, ma non è molto distante da essa: si potrebbe aprire una nuova via di accesso alla valle da est._
 
 ## Rapporti diplomatici col villaggio di Upguur
 
