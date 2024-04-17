@@ -17,6 +17,36 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Fûc, Myosotis
 
+### Missione diplomatica a Upguur
+
+Sua Eccellenza,
+
+A nome degli avventurieri \
+Fern, Adam, Ekkyon, Fuc, Myosotis \
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+Come Lei sa, abbiamo ricevuto il messaggio concordato con Erk per accedere al suo villaggio. Ci siamo inoltrati in Val Celia, oltre il tunnel precedentemente esplorato, fino a incontrare Erk, il quale ci ha annunciato che avremmo avuto il permesso di visitare il suo villaggio, a patto di mettere in sicurezza una parte della strada che porta al villaggio stesso, attualmente infestata da ragni che uccidono chiunque la attraversi.
+
+Procedendo lungo la strada, abbiamo raggiunto un portone di metallo: riporta la scritta “CENTRAL DI DOS FLUMS”! Il portone è estremamente resistente, e sembra impossibile forzarlo. C’è però un meccanismo a tastiera: 12 tasti, ciascuno associato a una runa nanica. Immagino che serva inserire un codice per sbloccare l’entrata. Ho cercato di analizzare il portone da vicino, ma ho fatto scattare un allarme e un sistema di sicurezza che ha elettrizzato la porta, ferendomi.
+
+Abbiamo poi proseguito il cammino lungo la strada, fino a raggiungere una strettoia cinta da alte pareti di roccia. Questo luogo era l’obiettivo della nostra missione! In questa strettoia siamo stati attaccati da dei ragni di piccola taglia, e da un ragno gigantesco! La battaglia è stata molto ardua, e il ragno gigante si è dimostrato una minaccia potenzialmente mortale. Aveva anche la curiosa capacità di teletrasportare al suo “nido” coloro che colpiva con il suo veleno. Io stesso e la prode Myosotis siamo caduti vittima di questo sortilegio.
+Alla fine della battaglia abbiamo raccolto dei resti dal cadavere del ragno gigante, come prova del successo della nostra missione da presentare al villaggio di Erk.
+
+Guidati da Erk, abbiamo raggiunto il suo villaggio. E’ un piccolo villaggio di povere capanne circondato da fitti alberi. Siamo stati accolti dal vecchio del villaggio, che ci ha fornito le seguenti informazioni:
+gli abitanti del villaggio si definiscono “goblin”.
+il villaggio è nato quattro anni fa, quando questi goblin si sono separati da un clan aggressivo situato in un luogo chiamato “Bosco Piatto”.
+il villaggio prende il suo nome, Upguur, da un’enorme barriera in pietra che si trova alle due spalle. Abbiamo intuito che deve essere una diga nanica, che forma, dall’altra parte rispetto al villaggio, un lago artificiale, che ospita antiche rovine e una popolazione di umanoidi con facce da pesce.
+la diga è venerata dai goblin, ed è severamente proibito toccarla.
+è impossibile risalire la diga per raggiungere il lago artificiale partendo da Upguur. La strada migliore sembra essere da qualche parte vicino alla Central di Dos Flums.
+
+Il vecchio era titubante, ma convincibile, nell'instaurare rapporti duraturi con la nostra città. Di tutt’altro parere invece era il capo villaggio. Upguur è rimasta isolata per centinaia di anni, senza alcun contatto con altri popoli, e loro custodiscono gelosamente la pace derivante da questo isolazionismo. Purtroppo la situazione è degenerata molto velocemente. All’improvviso il capo goblin ci ha accusato di avere intenzioni violente, e siamo stati cacciati dal villaggio: “Andatevene, e non tornate mai più”.
+E’ con grande rammarico che scrivo queste righe infauste. Difficilmente potremo riallacciare i rapporti con Upguur, e sicuramente non in breve tempo. D’altro canto il villaggio non sembra essere una meta di grande interesse esplorativo: è un povero villaggio, non costituisce minaccia alcuna, e la via è bloccata da una diga invalicabile. Suggerisco a Sua Eccellenza di proteggere per quanto possibile l’isolazionismo di Upguur. D’altro canto, ritengo un enorme successo il ritrovamento della Central di Dos Flums!
+
+La ringrazio per la Sua pazienza e per il tempo concessoMi, \
+Fedelmente,
+
+Fern Gunnhildr
+
 ### Report informativo riguardo alla missione esplorativa nella valle del 10 Aprile
 
 Avventurieri, Adam con la sua lontra gherb, Ekkyon, Fern, Fuc, Myosotis
@@ -58,7 +88,7 @@ Avventurieri: Amaranto, Asbof, Athanela, Belfaga, Icaro
 
 Prima di lasciare Celina, il nostro gruppo ha incontrato vossignoria e il Visconte, che ci avete informati che il reperto consegnato la settimana scorsa consisteva sostanzialmente in magia condensata in forma di acqua. Siamo successivamente partiti in direzione del lago di Soç, un lago che alterna acqua pulita a chiazze di acqua marrone. I due fluidi sembravano immiscibili, e non si potevano infiammare. Sul fondo del lago erano presenti delle piccole case, come se si trattasse di una piccola città inabissata. Un piccolo pesce, uscendo dall’acqua, saltò molto in alto e diventò gradualmente più grande, salvo poi riprecipitare nel lago e scomparire. Con _identify_, Amaranto identificò cosa fossero i due fluidi. L’acqua marrone è incantata con _Slow_, mentre l’acqua apparentemente normale consiste in un misto tra magia sacra (attribuibile, curiosamente, al Culto) e magia molto antica, incomprensibile. Athanela ha deciso di bere l’acqua chiara e, apprendo allucinata disse di vedere in cielo un “vermicello” alato. Un tubo sembrava entrare nel lago, e noi avanzammo seguendo questo tubo per capire dove andasse, ipotizzando che da questo tubo finisse qualcosa nel lago. Il tubo usciva dal lago per poi risalire lungo il letto del fiume che confluisce nel lago Soç. I miei compagni ed io abbiamo quindi seguito il percorso del fiume, percorrendo in salita la forra scavata dal corso d’acqua. Lungo il sentiero, accostando la parete rocciosa, abbiamo evitato una trappola – un rudimentale paletto con appesi dei braccialetti, connesso ad un cappio – salvo poi notare che il tubo in un punto fosse spezzato. In corrispondenza del tubo spezzato, da una media distanza, avvistammo una piccola figura che rapidamente si infilò in un cunicolo nelle pareti della forra. Seguendola, Amaranto ed io ci ritrovammo su delle lastre di pavimento vive, che si risvegliarono, atterrandoci, e trascinando me all’interno della caverna. Prima di essere raggiunto dai miei compagni, mi ritrovai di fronte ad una rana dall’aspetto antropomorfo, che brandiva e agitava minacciosamente per aria un rudimentale pugnale. Iniziò un combattimento con le due “lastre” e la rana, creatura che sembrava avere il controllo della marea all’interno della caverna e che era capace di trasformarsi in un vortice. Durante la battaglia, scoprimmo che le lastre sono al servizio della rana, e che era stato ordinato loro di trascinare all’interno della caverna un singolo animale o umano in modo che la rana lo potesse divorare – come accaduto recentemente ad un cervo, il cui scheletro era presente all’interno della caverna. Asbof uccise la rana, terminando lo scontro*.* Ritornando sul sentiero, continuammo a seguire il tubo, ritrovandoci di fronte a un alto edificio scavato nella pietra oltre a un ponte che attraversava il fiume. L’edificio presentava sulla sua facciata la scritta, in nanico, “Centrale dei due fiumi”. Di fianco alla struttura si poteva osservare una piccola dimora che, in seguito ad una ispezione ravvicinata, sembrava essere una struttura nanica – per le dimensioni – inabitata da una specie rudimentale che ne aveva modificato le porte e gli infissi, dall’aspetto molto rozzo. Altro indizio di ciò è il disordine che caratterizzava la casetta. Sul retro della casa, aprimmo la serratura di una finestra, ritrovandoci in un bagno. Al suo interno, era situato un gabinetto utilizzato come “porta lance” a mo’ di vaso. Nel bagno era anche presente una lanterna, connessa con dei sottili cavi metallici a delle leve, apparentemente sconnesse ad altro. Uscendo dalla casetta, ritornammo dinnanzi alla facciata dell’edificio principale, di fronte ad una porta parzialmente danneggiata, con sopra l’insegna “Pericolo, ZAP-ZAP”, con a fianco una pulsantiera con lettere naniche che, se tradotte, risulta come nel riquadro che riporto qui.
 
-|P | I | N |
+|P|I|N|
 |X|H|F|
 |T|C|U|
 |E|A|G|

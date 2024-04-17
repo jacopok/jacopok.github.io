@@ -25,11 +25,30 @@ Rodoaldo sa bene che si tratta di lavori complicati, e non si aspetta che tutto 
 
 ### Esplorate la vecchia strada della Val Celia!
 
-_Nel suo libro, Farco Brolo descriveva una strada che collegava la pianura al regno dei nani. Nelle primissime esplorazioni condotte dalle mie fedelissime guardie, è stata individuata una vecchia stradina che segue il corso dell'acqua, giusto oltre la prima fila di colline. Il vostro compito è percorrerla, per scoprire dove porta e al contempo metterla in sicurezza per le future spedizioni._
+_Nel suo libro, Farco Brolo descriveva una strada che collegava la pianura al regno dei nani. Nelle primissime esplorazioni condotte dalle mie fedelissime guardie, è stata individuata una vecchia stradina che segue il corso dell'acqua, giusto oltre la prima fila di colline. Il vostro compito è percorrerla, scoprire dove porta e al contempo metterla in sicurezza per le future spedizioni._
+
+_Diversi avventurieri hanno già esplorato in questa direzione, e hanno trovato una galleria che permette di evitare la sezione di strada che è ora sommersa dal lago Soç_.
 
 ### Dov'è la città di Farcis?
 
 _Farco Brolo parla moltissimo della città di Farcis, centro nevralgico per il clan Forador. Con tutte le pagine che ci ha speso, avrebbe potuto disegnare una mappa! Ma niente, devo fare affidamento sulle sue descrizioni vaghe e immaginifiche. Per arrivare lì, dice, bisogna uscire da una serie di cunicoli, che infine portano a un bellissimo lago azzurro, sulle cui rive sorge la città. Di che lago sta parlando? Dove si trova Farcis, o le sue rovine?_
+
+_Il primo gruppo di avventurieri che porterà prove dell'avere trovato Farcis riceverà una ricompensa di 1000 monete d'oro._
+
+### Dov'è il paese di Andreis?
+
+_Di recente alcuni avventurieri hanno incontrato un nano di nome Flavio Tavan, che sostiene di venire da un villaggio di nome Andreis, tuttora abitato seppure sia da qualche parte nella valle!
+Se il nano dice il vero, questo è molto interessante. Non eravamo a conoscenza di alcuna popolazione che potesse vivere nella valle: come sopravvive lì?_
+
+_Il primo gruppo di avventurieri che porterà prove dell'avere trovato Andreis riceverà una ricompensa di 300 monete d'oro._
+
+### Contatti persi con Cjadaldiaul
+
+_Ormai da più di un anno non si hanno notizie dal piccolo villaggio di Cjadaldiaul, situato tra le montagne a Nord-Ovest, oltre al monte Fara. La Chiesa dei Lumini ha dunque chiesto al comune di Celina di mandare degli avventurieri ad investigare e assicurarsi delle condizioni del villaggio. Il villaggio non si trova ufficialmente in Val celia, ma non è molto distante da essa: si potrebbe aprire una nuova via di accesso alla valle da Ovest._
+
+### Rapporti diplomatici col villaggio di Upguur
+
+_Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro società e cultura. Il visconte Rodoaldo Venturoso spera di poter allacciare dei buoni rapporti con questi, scambiando informazioni, ricchezze e tecnologie, ma i primi contatti di avventurieri con Upguur, il 10 aprile, non sembrano essere andati a buon fine. Cimentatevi dunque in questa missione diplomatica: è ancora possibile ristabilire l'amicizia tra le due popolazioni?_
 
 # Missioni completate
 
