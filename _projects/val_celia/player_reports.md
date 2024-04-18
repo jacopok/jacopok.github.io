@@ -17,6 +17,61 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Fûc, Myosotis
 
+### Al villaggio di Upguur
+
+{% capture custom_font_section %}
+
+Era giunta l'ora di reincontrarsi con il nostro nuovo amico Erk, tutti gli auspici erano in nostro favore e il piano era stato meditato con prudenza.
+Lui ci aveva fatto sapere che il loro Vosnà era disposto a incontrarci e noi l'avevamo avvertito del nostro arrivo con uno scambio di drappi.
+Era la mattina del 10 aprile e ci trovavamo nello stesso luogo in cui quattro giorni prima ci eravamo salutati, quando cautamente Erk si sporse fuori dal fogliame e ci salutò.
+Il nostro gruppo (Ekkyon, Fern, Fuc e io) si era riunito e si era aggiunta a noi anche Myosotis.
+
+Erk ci avrebbe condotto dai suoi simili a patto di un'altra dimostrazione della nostra abilità nel disporre dei pericolosi aracnidi nella zona.
+Ci spiegò che l'unica via percorribile per il loro villaggio richiedeva di scendere da un crepaccio, guadare il torrente e tornare a salire al livello della vecchia strada.
+Questo poiché la strada era infestata da atroci ragni, di cui ci sbarazzammo prontamente.
+
+Il tratto interdetto coincide con il luogo in cui il torrente è raggiunto da un altro piccolo rivolo scuro che, a tutti gli effetti, sembra essere latore dell'acqua tossica che inquina il lago più a valle.
+In effetti iniziamo a capire quanto l'acqua domini la zona e quale importanza avesse per il regno dei nani.
+Poco più indietro, infatti, la vecchia strada attraversa il torrente con un ponte in pietra, che sotto di sé nasconde lo sfogo delle acque della Centrâl di Dôs Flums, il cui imponente portone si staglia poco innanzi.
+La maggior parte della portata viene dalla centrale, che colleziona acqua più a monte per rilasciarla qui.
+Anche il tubo di Aghecorinte, che accompagna gli avventurieri lungo gran parte della strada, qui si immette nel fianco della montagna.
+Chissà cosa avviene nei meandri della Centrâl!
+Il portone ne custodisce gelosamente i segreti dietro centimetri di saldo acciaio, protetto da marchingegni e fatture naniche.
+Sembra che per accedere serva una parola chiave, ma attenzione a tentare avventatamente!
+Gli invasori sono puniti con scariche fulminanti.
+
+L'ultima manifestazione del dominio dell'acqua su questa regione ci si è rivelata silenziosamente, al volgere di una curva del sentiero che si inerpica su per la montagna quando la strada inizia a scomparire nella vegetazione.
+Un'immensa diga, liscia e verticale, blocca la vista e domina il paesaggio.
+Certamente opera dei nani, la diga cela un vasto lago, le cui acque sono convogliate nella centrale idrica per scopi ancora ignoti.
+Il bacino corrisponde per taglia ed esposizione alla descrizione che F. Brolo dà del lago di Farcis, che sicuramente ci aspetta dall'altro lato.
+
+Stregati dall'imponenza dell'opera nanica neanche ci accorgemmo di essere
+arrivati al piccolo villaggio di Upguur.
+Nascosto nel verde all'ombra della diga, il villaggio si compone di qualche decina di capanne, rudimentali ma efficienti come tutte le cose ben integrate nel loro ambiente.
+Il villaggio sembra infatti nascosto nell'ambiente boschivo da cui viene generato, più che occultato dalla ricercatezza di un luogo protetto.
+È chiaro già dalla sua collocazione che Upguur non ha mai conosciuto la guerra.
+Dopo poco, quando gli occhi si abituarono alla vista, scorgemmo le tante testoline dei bambini, che costituiscono la maggioranza della popolazione, e ci fu chiaro, come poi ci confermarono, che Upguur non ha visto più di una decina d'inverni.
+L'atmosfera è solare e rilassata, con i bambini che scorrazzano da tutte le parti e gli adulti alle prese con attività molto più vicine ai bisogni essenziali della popolazione di quanto avviene nella nostra civiltà.
+
+Erk ci portò al cospetto dell'anziano del villaggio, di nome Uk, che salutammo con rispetto e ascoltammo parlare della storia del villaggio e della sua vita.
+Il loro popolo si identifica come Goblin, e loro sono una costola del clan di Bosco Piatto, un più vetusto e aggressivo villaggio da cui si sono separati anni or sono.
+Dopo qualche peregrinare sono giunti alla diga, che hanno divinizzato come "Pietra dal Cielo" (Upguur, nella loro lingua), e hanno deciso di stanziarsi qui.
+Tra le varie cose, Uk ci ha confermato che il lago è tuttora abitato da sirenetti (nani adattati alla vita acquatica) che abitano quella che dev'essere stata l'antica Farcis.
+La valle e le montagne che la circondano continuano a mostrarci che, nonostante gli apparenti pericoli, la vita sa adattarsi e proliferare anche in condizioni apparentemente scomode e inospitali per chi è cresciuto nel nostro mondo imborghesito.
+
+Tutto sommato, gli abitanti di Upguur ci sono sembrati accoglienti ma allo stesso tempo, memori delle violenze vissute a Bosco Piatto, molto sospettosi dell'influenza che contatti con altre civiltà possono portare.
+In particolare il loro attuale Turbuluk, Kurk, si è dimostrato molto diffidente nei nostri confronti, facendo nascere una discussione che ha coinvolto anche noi e che si è conclusa con un perentorio ordine di lasciare il villaggio.
+Non dubito che, con più calma, alcuni di noi possano allacciare rapporti sereni con il villaggio, ma non credo che i Goblin saranno mai d'accordo ad aprirsi alla nostra società indiscriminatamente.
+Questo complica in qualche modo le nostre esplorazioni, vincolandoci a evitare la zona d'influenza dei Goblin, e quindi la diga.
+
+Ci consoliamo con l'idea che, finalmente, possiamo dire di aver trovato Farcis.
+
+**Adam Otter**
+
+{% endcapture %}
+
+{{ custom_font_section | custom_font }}
+
 ### Missione diplomatica a Upguur
 
 Sua Eccellenza,
