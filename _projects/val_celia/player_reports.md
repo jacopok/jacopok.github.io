@@ -104,7 +104,7 @@ Fern Gunnhildr
 
 ### Report informativo riguardo alla missione esplorativa nella valle del 10 Aprile
 
-Avventurieri, Adam con la sua lontra gherb, Ekkyon, Fern, Fuc, Myosotis
+Avventurieri, Adam ███ ██ ███ ██████ █████, Ekkyon, Fern, Fuc, Myosotis
 
 Dopo aver preso accordi con Herk ed aver avuto il consenso del Visconte ci dirigiamo al luogo stabilito dell'incontro, poco dopo il vecchio tunnel ormai completamente agibile e (parrebbe) ripulito dai ragni.
 Come d'accordi incontriamo il bizzarro personaggio verdognolo che comincia a farci strada verso il suo villaggio: Upgur.
@@ -398,7 +398,7 @@ Myosotis
 Sua luminosità, le mie ricerche in Val Celia iniziano a dare risultati.
 Come le avevo accennato mi sono unito ad un gruppo di avventurieri assoldati dal Visconte Rodoaldo Venturoso, figlio del conte di Celina.
 Qualche giorno fa insieme ad un elfo, uno gnomo, un mezzuomo ed un nano sono tornato ad investigare i misteri del lago Soç, con l’obbiettivo di salvare i due soldati di Celina dispersi. Essi erano tenuti prigionieri nelle profondità del lago da una malvagia creature dalle sembianze di un’anziana signora.
-Così ci siamo tuffati e abbiamo trovato le rovine di una antica città. Sebbene ci fossero prevalentemente abitazioni naniche, ce n’erano altre con ingressi più grandi, sicuramente non appartenute a dei nani. Forse ad elfi o ad umani (Mysionotis, l’elfa, mi dice che tale squallore non è riconducibile ad una dimora elfica). In mezzo a queste rovine non c’era traccia di scheletri posizionati in strane pose, nè tantomeno dei due soldati dispersi (come riferito dalla lontra e dal bambino pallido).
+Così ci siamo tuffati e abbiamo trovato le rovine di una antica città. Sebbene ci fossero prevalentemente abitazioni naniche, ce n’erano altre con ingressi più grandi, sicuramente non appartenute a dei nani. Forse ad elfi o ad umani (Mysionotis, l’elfa, mi dice che tale squallore non è riconducibile ad una dimora elfica). In mezzo a queste rovine non c’era traccia di scheletri posizionati in strane pose, nè tantomeno dei due soldati dispersi (come riferito █████ ██████ █ dal bambino pallido).
 Decidiamo allora di indagare ulteriormente le oscurità di questa antica cittadina distrutta e ormai sommersa e, dopo aver attraversato un vecchio ponte, finalmente riusciamo a capire dove siamo. Su un grande edificio dinnanzi a noi giganteggiava una scritta in nanico con il nome della città: Puer-tai-prât. Scopriamo dalle insegne che questa un tempo era una caserma e un’antica postazione di dogana.
 Scorgiamo inoltre, accanto a questa caserma/dogana, un tunnel nella montagna. Molto probabilmente in passato veniva usato per arrivare fin qui ed era il punto di ingresso verso qualcosa di molto più vasto… Ne sono convinto, credo di aver trovato il luogo di cui parlava Farco Brolo nelle storie dei sui viaggi: da qui si accedeva alla magnifica città di Farcis! O almeno, dovrebbe essere da qualche parte qui nei dintorni.
 
@@ -558,23 +558,23 @@ A quel punto era ora di prendere la via del ritorno, soddisfatti delle scoperte 
 
 Sabato 2 Marzo 2024 di buon mattino in cinque rispondiamo al richiamo per la missione del Visconte Rodoaldo Venturoso di indagare riguardo alle sparizioni nei pressi della vecchia testa.
 
-Ci si incontra in uno dei palazzi della Celina per bene, gli aspiranti avventurieri siamo il sottoscritto, Ekkyon l’halfling, una donna tiefling Araween, un umano Fern cittadino di Celina (un po spocchioso), una donna elfo pianta di nome root, ed un tizio che trasportava una simpaticissima lontra di nome Gherb.
+Ci si incontra in uno dei palazzi della Celina per bene, gli aspiranti avventurieri siamo il sottoscritto, Ekkyon l’halfling, una donna tiefling Araween, un umano Fern cittadino di Celina (un po spocchioso), una donna elfo pianta di nome root, ed un tizio ███ ███████████ ███ ██████████████ ██████ ██ ████ █████.
 
 Dopo svariati convenevoli (un po prolissi) il Visconte ed il suo gregario Maifredo Ronzo ci affidano la missione e ci lasciano partire.
 
 L’incarico sembrava semplice, seguire un sentiero preparato dalle guardie della cittá per evitare la strada di rovine che porta su alla montagna, giungere al vecchio lago ed infine arrivare alla vecchia testa gigante di nano per scoprire qualcosa circa le 7 guardie scomparse nei mesi prima.
 
-Arriviamo senza intoppi al lago che costeggiamo notando non poche cose strane, in primis la nostra amica lontra ci porta all’attenzione lamentandosi di uno strano fenomeno che rimpiccioliva i suoi pesci dopo averli catturati, poi Root, Araween e Fern intravedono tra le chiazze più scure del lago quelli che sembrano dei resti di un’antica città ( io personalmente non li ho visti, ma la donna pianta sembra affidabile).
+Arriviamo senza intoppi al lago che costeggiamo notando non poche cose strane, in primis ██ ██████ █████ ██████ ██ █████ ██████████████ ████████████ ██ uno strano fenomeno che rimpiccioliva i suoi pesci dopo averli catturati, poi Root, Araween e Fern intravedono tra le chiazze più scure del lago quelli che sembrano dei resti di un’antica città ( io personalmente non li ho visti, ma la donna pianta sembra affidabile).
 
 Dopo altro cammino nei boschi arriviamo a capire che fine avessero fatto quattro delle guardie scomparse…. Erano morte, ma di una morte brutta, uno è stato trovato sopra i rami di un albero, mentre un altro completamente schiacciato al suolo.
 
 La cosa ci ha un po allarmato, (io personalmente ero curioso) ma non divaghiamo, di li a poco trovammo la testa, era veramente una testa enorme, ma neanche il tempo di ispezionare la zona che ci siamo trovati divisi:
 
-La piccola lontra era in acqua, io mi nascosi sotto alcuni sassi tra rovine, Root tornó indietro verso la zona dei cadaveri mentre la tiefling e l’umano si nascosero in una fessura nella barba della testa del nano che conduce al suo interno (eh gia abbiamo scoperto che la testa ha un interno, ma io non ci sono entrato e mi limiteró a riportare quanto ha detto chi c’è stato).
+██ ███████ ██████ ███ ██ ██████ io mi nascosi sotto alcuni sassi tra rovine, Root tornó indietro verso la zona dei cadaveri mentre la tiefling e l’umano si nascosero in una fessura nella barba della testa del nano che conduce al suo interno (eh gia abbiamo scoperto che la testa ha un interno, ma io non ci sono entrato e mi limiteró a riportare quanto ha detto chi c’è stato).
 
-Il motivo di questo trambusto furono forti rumori come di terremoto, la cui causa non era la madre Terra bensì un simpaticissimo gigante di nome Orcolat con il quale ho fatto amicizia ed ho presentato alla mia amica lontra.
+Il motivo di questo trambusto furono forti rumori come di terremoto, la cui causa non era la madre Terra bensì un simpaticissimo gigante di nome Orcolat con il quale ho fatto amicizia ██ ██ ██████████ ████ ███ █████ ██████.
 
-Così invece di schiacciarci io e la lontra ci siamo intrattenuti con Orcolat e poi ci ha ospitati nella sua grotta facendoci vedere la sua collezione di sassi….ed anche gli altri due cadaveri delle guardie, che aimè insieme agli altri sciagurati avevano provato ad attaccarlo… oh be la legge della natura, credo.
+Così invece di schiacciarci ██ █ ██ ██████ ci siamo intrattenuti con Orcolat e poi ci ha ospitati nella sua grotta facendoci vedere la sua collezione di sassi….ed anche gli altri due cadaveri delle guardie, che aimè insieme agli altri sciagurati avevano provato ad attaccarlo… oh be la legge della natura, credo.
 
 Ad ogni modo Orcolat è gentilissimo, basta non farlo spaventare, ora siamo amici.
 
