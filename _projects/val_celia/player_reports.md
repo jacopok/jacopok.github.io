@@ -13,6 +13,117 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Ottava sessione
+
+Avventurieri: Amaranto, Alchamora Verdilore, Alviss Rossabarba, Icaro, Yukirei
+
+### Note in prosa et in versi circa l’audace spedizione del die XX mensis Aprilis
+
+vergate dal Vostro devoto Amaranto, vate laureato.
+
+Nella pur fresca mane del recente, primaveril giorno in questione, si unì alla compagine dei vostri servi ossequiosi, ovvero
+al sottoscritto cronista, alla lesta Yukirei, alla mistica Alchamora e al folgorante Icaro, un valoroso di nobile schiatta nanica
+noto come Alvis, che proprio qui nell'istante della mia vergata battezzerò per le leggende postere Alvis il Rosso.
+Per inciso, egli è savio in materia di antiquità et fervente collezionista di esse, le naniche in primis; palese dunque
+l'interesse nella perduta civiltà della Valle.
+
+Marciando e risalendo i flutti del rapido Celia, tornammo alla dimora di nanesca foggia, dirimpetto al ferreo portone che
+sbarra il soglio della Centrale dei Due Fiumi. Scoprimmo, a conferma dei sospetti che si animarono in me nella mia
+precedente sortita, che qui prende intermittente alloggio la giovine et gioviale creatura Erk, comprovato alleato della fulgida
+iniziativa esplorativa Viscomitale. Grazie all'ormai noto rituale della Comunione Escreativa, fummo edotti da lui sulla
+direzione per il segreto paese di Andreis, su cui, però, ad esclusione di quest'ultima null'altro sapeva.
+
+Ci mise in guardia rispetto ai pericoli che affliggono i luoghi che avremmo dovuto attraversare con queste vivide filastrocche
+gobblynesche, tradotte in lingua corrente dal servo vostro, il quale si diletta anche, talvolta, d'istudi demologici.
+
+\*Arriva la lepre \
+Scappa scappa scappa \
+Arriva il coniglio \
+Scappa scappa scappa \
+I sogni ti voglion mangiare \
+Torna torna nella capanna \
+Sotto il letto, puoi respirare \
+Ma non andare a nanna \
+
+Su per la montagna \
+C'è una nebbia fitta fitta \
+Se senti una lagna \
+Corri, il mostro non aspetta!\*
+
+La suggestione primitiva di tali componimenti non ci frenò affatto. Salutammo il buon selvaggio, promettendo punte di
+lancia metalliche, le quali, mi sento di consigliare Vostra Signoria, rappresenterebbero un efficace dono diplomatico, atto ad
+ingraziarci i superstiziosi compatrioti della creatura, che le spedizioni future dovrebbero astenersi dall'impressionare con
+esibizione di magia o analoghi portenti.
+
+Ordunque, la pista che dalla Centrale porta alla Confluenza tra il Celia e l'affluente Melassa risale il primo fiume lungo la
+sponda sinistra. In tal Confluenza, due ponti successivi balzano i corsi d'acqua alla volta del villaggio di Upgur e della
+Pietra del Cielo, benché questo possa solo presumerlo, in quanto il sottoscritto e i valorosi che accompagna mai
+imboccarono la manca via. Come il gobblyn ci anticipò, nessuna strada virava costeggiando il Melassa (nomen omen, più
+che fiume si potrebbe dire rigagnolo di fanghiglia), sebbene un tempo esistesse, quindi decidemmo di calarci nell'angusto
+botro del fiume. Ivi condussi ricerche volte ad identificare la natura dell'acque dense e le mie conclusioni competenti sono
+che la lentezza infonde questo liquido. Inoltre una rapida esplorazione dei dintorni portò alla luce una conduttura
+convogliante parte del liquame nelle viscere della montagna, forse nella Centrale stessa? Prematuro ipotizzarlo, ma la
+tentazione è forte.
+
+Risalendo la forra poco più a monte, sulla sponda mancina, trovammo un muro roccioso che si rivelò essere mera illusione
+arcana. Il vostro cronista stesso, coi suoi propri lumi, addentro l'illusione, vedette come una larga mancanza nella sponda,
+come se Cucchiaio Divino avesse fatto del costone stesso la sua crostata, scavandolo. Se una squadra di maestranze del
+genio potesse installare dispositivi atti a colmare la larga fessura, foss'anche una lignea passerella, l'accesso alla palude
+(di cui tosto narrerò) sarebbe agevole per le successive iniziative di spedizione.
+
+A monte del denso Melassa un ampio acquitrino si dispiega, immondo e ripugnante negli aromi e allo spirito, la sua melma
+risucchia il passo, la fitta caligine oscura lo scrutare e inficia l'orizzontamento del più esperto esploratore. Ma qui ci portava
+la nostra via, e con coraggio ci perdemmo, ahimè letteralmente, nei suoi meandri. Le tacche sulla lignea scorza dei traviati
+alberi, con cui cautamente segnavamo il tragitto, si volatilizzarono in sovrannaturale sortilegio.
+Finalmente raggiungemmo un'angosciosa figura, oggetto dalla filastrocca del giovine Erk: una lepre nera, dal vacuo occhio
+demoniaco, sinistramente mansueta nello scenario oppressivo. Rigurgitando un ferreo filamento, inflisse un sortilegio a
+mastro Alvis, il quale perse il senno e il capo, ora sormontato da una corona fluttuante creata dall'empio filamento, in una
+furia omicida che volse ai suoi più prossimi, ovvero i fraterni compagni d'avventure.
+
+\*Il mio buon messere sempre civile \
+Capo cinto in leporin filamento \
+Bocca schiumosa di bava e di bile \
+Il vil maleficio rese cruento \
+
+Contro i suoi stessi compagni ostile \
+Menò fendenti col grosso strumento \
+Riparò il reprobo al covile \
+S\i dolse Alvis: "Amici, mi pento!"\*
+
+Se l'atro leprotto immondo ci graziasse per pietà delle nostre misere persone imbrattate di fango, se invece giuocasse
+celiando malignamente con noi oppure ancora se temesse le nostre capacità marziali, non ci fu dato sapere, ma tirammo il
+fiato con sollievo quando si dileguò.
+Ma i nostri affanni non erano ancora terminati per quel meriggio: dopo tempo alcuno, ci scorse ad arrancare nella melma
+un grande figuro tremolante, come di un omone limaccioso et ligneamente corticato, assente e privo del nume
+dell'intelletto. Seguì aspra pugna, condita di immondi rigurgiti di brulicanti bissi dalle fauci della creatura. Ma la violenza del
+Rosso campione, ora sobrio di malefici, ne ebbe ragione.
+
+Perquisizioni successive portarono alla luce resti di una fibbia sul mostro, portante effige di noto marchio di concia e
+pelletteria artigianale (D&D, ovvero Decorazioni & Dettagli), ancora in attività nelle epoche contemporanee. Se ne deduce
+prontamente che il mostro era costituito di sfigurati resti, umani forse, di morto, se non fresco (e definirlo "fresco" sarebbe
+volo poetico che nemmeno audace bardo quale il vostro ossequioso oserebbe), quantomeno non antico.
+Il nostro condottiero nanico reclamò la testa dell'orrido abbattuto come trofeo. Avrei consigliato profusamente trattamenti
+sanificanti e deodoranti prima dell'esposizione, ma il destino aveva altre mire: la nostra ritirata fu ardua, tanto che non
+scriverei queste righe se non fosse per l'eroico intervento dei miei valorosissimi compagni di imprese. Costò al valoroso
+Alvis il recente trofeo, smarrito nel pantano che lo generò, e a me, me misero!, la mia preziosa perla, inestimabile ausilio
+nello studiare magicamente (in ottemperanza, va da sé, alla deroga comitalmente sanzionata) le stranezze di questa
+perigliosa valle al servizio della Signoria Vostra. Sarebbe ausilio apprezzato alla speditezza delle spedizioni future se la
+vostra ineguagliabile Potenza me ne fornisse un sostituto momentaneo, nell'ottica del successo della Grande et
+Lungimirante Impresa Viscomitale.
+
+In chiusa, prendo rispettoso commiato allegando ulteriori due stanze di quello che, presso i posteri, mi auguro, diverrà noto
+come "Epopea di Alvis il Rosso, che due volte perse il capo nel medesimo meriggio", dedicato alla Vostra gloria di Visconte
+mecenate.
+
+_Incapace a sgomento et a paura \
+Capo di lignea scorza recise \
+Ma celata nel fango era Sventura \
+Certo la sorte quel dì non gli arrise \
+Ivi sperduto nell'ostile Natura \
+Vagando per direzioni indecise \
+La densa melma lo stivale stura \
+Fato volle gloria e testa divise_
+
 ## Settima sessione
 
 Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Fûc, Myosotis
