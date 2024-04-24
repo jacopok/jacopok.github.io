@@ -36,19 +36,19 @@ direzione per il segreto paese di Andreis, su cui, però, ad esclusione di quest
 Ci mise in guardia rispetto ai pericoli che affliggono i luoghi che avremmo dovuto attraversare con queste vivide filastrocche
 gobblynesche, tradotte in lingua corrente dal servo vostro, il quale si diletta anche, talvolta, d'istudi demologici.
 
-\*Arriva la lepre \
+_Arriva la lepre \
 Scappa scappa scappa \
 Arriva il coniglio \
 Scappa scappa scappa \
 I sogni ti voglion mangiare \
 Torna torna nella capanna \
 Sotto il letto, puoi respirare \
-Ma non andare a nanna \
+Ma non andare a nanna_
 
-Su per la montagna \
+_Su per la montagna \
 C'è una nebbia fitta fitta \
 Se senti una lagna \
-Corri, il mostro non aspetta!\*
+Corri, il mostro non aspetta!_
 
 La suggestione primitiva di tali componimenti non ci frenò affatto. Salutammo il buon selvaggio, promettendo punte di
 lancia metalliche, le quali, mi sento di consigliare Vostra Signoria, rappresenterebbero un efficace dono diplomatico, atto ad
@@ -80,15 +80,15 @@ demoniaco, sinistramente mansueta nello scenario oppressivo. Rigurgitando un fer
 mastro Alvis, il quale perse il senno e il capo, ora sormontato da una corona fluttuante creata dall'empio filamento, in una
 furia omicida che volse ai suoi più prossimi, ovvero i fraterni compagni d'avventure.
 
-\*Il mio buon messere sempre civile \
+_Il mio buon messere sempre civile \
 Capo cinto in leporin filamento \
 Bocca schiumosa di bava e di bile \
-Il vil maleficio rese cruento \
+Il vil maleficio rese cruento_
 
-Contro i suoi stessi compagni ostile \
+_Contro i suoi stessi compagni ostile \
 Menò fendenti col grosso strumento \
 Riparò il reprobo al covile \
-S\i dolse Alvis: "Amici, mi pento!"\*
+Si dolse Alvis: "Amici, mi pento!"_
 
 Se l'atro leprotto immondo ci graziasse per pietà delle nostre misere persone imbrattate di fango, se invece giuocasse
 celiando malignamente con noi oppure ancora se temesse le nostre capacità marziali, non ci fu dato sapere, ma tirammo il
