@@ -13,6 +13,35 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Nona sessione
+
+Avventurieri: Fern Gunnhildr, Gherb, Rut, Wai-o-Tapu
+
+### Missione esplorativa in Val Collera
+
+Sua Eccellenza,
+
+A nome degli avventurieri \
+Fern, Adam, Tapu, Rut \
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+Come Lei sa, dalla scorsa estate si sono persi tutti i contatti con il villaggio di Cjadaldiaul. In precedenza venivano inviate periodicamente delle missive da Cjadaldiaul, a firma di un membro della Chiesa della Sacra Luce. Per raggiungere Cjadaldiaul da Celina si deve attraversare la Val Collera. Pare che, in concomitanza con la fine dei contatti, la val Collera abbia subito mutamenti climatici locali, caratterizzati da intense vampate di caldo umido.
+Sotto Sua richiesta, ci siamo diretti in Val Collera verso il villaggio di Cjadaldiaul.
+
+Inoltrandoci in Val Collera abbiamo subito verificato la veridicità delle voci riguardo al peculiare microclima della regione: terreno umido, vegetazione rigogliosa e adattata agli alti livelli di umidità. La strada attraverso Val Collera è il fondovalle di una forra molto stretta, circondata da ambo i lati da pareti rocciose da cui fuoriesce vapore e in cui soffia un vento molto caldo. Il paesaggio sembra innaturale, rispetto al clima che caratterizza le regioni esplorate finora in Val Celia.
+
+Lungo la strada attraverso Val Collera, all’improvviso subiamo un’imboscata da parte di quattro creature che non avevo mai visto prima! Sono piccoli esseri alati di colore bianco-grigiasto. Attaccano in gruppo, soffiando vampate ustionanti e ferendo con artigli ardenti. La battaglia è stata ardua, anche perchè, quando sconfitte, queste creature si disintegrano in piccole esplosioni di vapore ustionante.
+
+Ma il peggio doveva ancora arrivare! In alto, da una cavità nelle pareti di roccia adiacenti alla strada, una creatura infernale fece la sua apparizione! Una creatura umanoide, non molto alta, ardente di vivo fuoco. A guardarla bene, sembra composta da carbone ardente. E non aveva una faccia! Non mostrava alcuna emozione, e si muoveva in modo molto meccanico, quasi non avesse una propria volontà. Eppure il suo intento omicida era chiaro. La creatura, che abbiamo deciso di nominare Tizzone Antropomorfo, risulta particolarmente debole all'acqua, ed è anche grazie a un uso sapiente dell’acqua del fiume che siamo usciti vittoriosi dall’ardua battaglia. Sconfitto, il Tizzone Antropomorfo si è dissolto in strani carboni, rossi nonostante non più ardenti.
+
+C’è qualcosa che mi ha turbato, a partire dal peculiare microclima della regione fino alla comparsa di Tizzone Antropomorfo, come qualcosa di oscuro che incombe sulla valle, e forse anche sul villaggio di Cjadaldiaul. Purtroppo non abbiamo potuto verificare la condizione in cui versa Cjadaldiaul. Molti bagliori di fuoco si sono accesi lungo le pareti della valle, alla conclusione della battaglia. Provati dall’arduo scontro contro Tizzone Antropomorfo, non eravamo in grado di sostenere ulteriori battaglie, e la strada verso Cjadaldiaul minacciava molteplici pericoli.
+
+Alla luce di queste scoperte, ritengo più che mai urgente fare luce sugli oscuri misteri che sembrano avvolgere Val Collera e Cjadaldiaul.
+
+La ringrazio per la Sua pazienza e per il tempo concessoMi, \
+Fedelmente, \
+Fern Gunnhildr
+
 ## Ottava sessione
 
 Avventurieri: Amaranto, Alchamora Verdilore, Alviss Rossabarba, Icaro, Yukirei
