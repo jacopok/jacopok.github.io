@@ -153,6 +153,29 @@ Vagando per direzioni indecise \
 La densa melma lo stivale stura \
 Fato volle gloria e testa divise_
 
+### In merito alla spedizione del 20 aprile 2024
+
+Anche per questa missione mi sono permessa di redarre dei prospetti, non del tutto accurati nella scala delle distanze, né artisticamente ricchi, ma spero utili per la preparazione di esploratori futuri. In calce lascio anche delle brevi note, che esulano dalla pura geografia delle zone.
+
+Ci eravamo incamminati al mattino con l’intenzione di esplorare le zone dell’antica strada nanica oltre la centrale, alla ricerca di indizi sull’ubicazione del villaggio di Andreis.
+
+{% include figure.liquid path="assets/img/val_celia/central-esterno-schizzo.png
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+Erk avvisa di stare lontani dal villaggio dei goblin, che a quanto pare non sono ben disposti nei nostri confronti. Inoltre, ci ha confermato che i goblin parlano solo goblin e che odiano sia usata con loro la telepatia. Per comunicare con loro è necessario un rituale che consiste nello sciacquarsi tutti a turno la bocca con dell'acqua del Celia, sputare quest'acqua in un contenitore e poi fare un secondo giro bevendo il liquido: a questo punto tutti coloro che hanno partecipato al rituale dovrebbero essere capaci d'intendersi. Lo stesso Erk ci indica una strada che dovrebbe portare verso l’abitato di Andreis; tuttavia ci avvisa anche che questo percorso, in particolare la zona della palude prima e della nebbia che circonda il villaggio poi, è molto pericoloso.
+
+{% include figure.liquid path="assets/img/val_celia/confluenza-schizzo.png
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+Le acque del Melassa sono lente e fangose e non sembrano ospitare alcuna forma di vita; supponiamo siano la causa delle strane macchie del lago Soç e del Celia. Pensiamo anche che il tubo che risucchia queste acque dopo la prima ansa del fiume, risalendo dalla confluenza, porti le stesse alla centrale, per poi depurarle e riversarle nel Celia. Tuttavia, per ora, questa è solo una supposizione.
+
+{% include figure.liquid path="assets/img/val_celia/palude-schizzo.png
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
+Arrivata alla palude, la strada si perde e si ritrova di continuo, luoghi nuovi paiono uguali a quelli appena attraversati e ci si ritrova in zone già esplorate convinti di non avervi mai messo piede prima. Abbiamo comprovato sulla nostra pelle la veridicità di quanto ci era stato raccontato da Erk: la palude è un luogo immondo in cui esser colti impreparati potrebbe facilmente risultare letale. A nulla è valso il nostro tentativo di tener traccia del percorso segnando gli alberi, un sortilegio ha cancellato anche le incisioni lasciate dal nano Alvis. Date queste premesse, non garantisco che il percorso tracciato nella mappa sia effettivamente quello da noi intrapreso quel giorno, è solo una tentativo di ricostruzione dei miei ricordi. Spero sia comunque, ameno in parte, utile.
+
+Alchamora
+
 ## Settima sessione
 
 Avventurieri: Adam, Ekkyon, Fern Gunnhildr, Fûc, Myosotis
