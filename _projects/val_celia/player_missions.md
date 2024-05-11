@@ -52,7 +52,7 @@ _Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro s
 
 ## Esplorate l'antica centrale nanica
 
-_Durante una delle precedenti esplorazioni lungo la vecchia strada è stata rinvenuta una grande struttura scavata sulla parete rocciosa, che risponde al nome di "Centrâl di Dôs Flums". Questa struttura sembra essere collegata all'aghe corinte, particolare liquido le cui proprietà magiche sono di grande interesse per il regno. Esplorate dunque la centrale e svelatene tutti i segreti! _
+_Durante una delle precedenti esplorazioni lungo la vecchia strada è stata rinvenuta una grande struttura scavata sulla parete rocciosa, che risponde al nome di "Centrâl di Dôs Flums". Questa struttura sembra essere collegata all'aghe corinte, particolare liquido le cui proprietà magiche sono di grande interesse per il regno. Esplorate dunque la centrale e svelatene tutti i segreti!_
 
 # Missioni completate
 

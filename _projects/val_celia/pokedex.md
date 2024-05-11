@@ -48,7 +48,7 @@ Francesco.
 Uno strano tizio con uno zaino...? Livello 2.
 Pierpaolo.
 
-## Jorgrim
+## Leontopodium
 
 Artificiere gnomo, livello 2.
 Stefano.

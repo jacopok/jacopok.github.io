@@ -13,9 +13,85 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Undicesima sessione
+
+Avventurieri: Fern Gunnhildr, Adam, Leontopodium, Tarlin
+
+### Missione esplorativa a Cjadaldiaul
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Adam, Tarlin, Leontopodium
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+Preoccupati per la situazione a Cjadaldiaul, abbiamo deciso di partire per una nuova missione verso il villaggio con cui abbiamo perso ogni contatto. Vista le difficoltà nell’attraversare la Val Collera, abbiamo deciso di seguire un percorso alternativo, più lungo e che si districa tra pendii montuosi al lato del Monte Fara.
+
+Raggiunta la valle tra il monte Fara e la montagna adiacente, ci siamo imbattuti nel primo mistero di questa esplorazione. Una fila di sassolini bianchi, ben allineati e molto lunga, taglia in due la valle lungo il suo asse, separando il Monte Fara dall’altro monte. I sassolini sono intrisi di magia, rendendo impossibile spostarli in alcun modo. Sembrano disposti per delimitare e separare tra loro due zone diverse, come un recinto (o forse una barriera?). Non ha comunque impedito alla nostra squadra esplorativa di attraversarla indenni.
+
+Proseguendo il nostro viaggio, ci siamo imbattuti in una zona dove molteplici massi sono stati scagliati di recente. Probabilmente è stata opera di Orcolat, il cui passatempo è giocare “a bocce” con macigni. Consiglio a tutti gli avventurieri che esploreranno in futuro in queste regioni di prestare molta attenzione a massi che piovono dall’alto.
+
+Il percorso impervio che abbiamo seguito ci ha infine condotto a un punto sopraelevato, da cui si ha una magnifica visuale della valle.
+Alla nostra sinistra, in lontananza, si apre il lago artificiale sopra il villaggio di Upguur. Sulla sponda più lontana del lago abbiamo intravisto degli edifici. Forse dalla nostra posizione è possibile raggiungere il lago! Tuttavia tra noi e il lago si estende una nebbia fitta e molto localizzata. Sembra molto sospetta, come a nascondere qualcosa, e dà l'idea di non essere di origine naturale.
+Di fronte a noi si alza una faglia rocciosa molto ripida, la cui cresta sembra ricordare una profilo umanoide. La fila di sassolini bianchi si inerpica su tale faglia.
+Infine alla nostra destra vediamo il villaggio di Chadaldiaul.
+
+Abbiamo trascorso la notte in un bosco adiacente a Chadaldiaul. Dalla nostra visuale del villaggio abbiamo scoperto che Chadaldiaul è tuttora abitato! Al centro del villaggio svetta un campanile, probabilmente parte di una chiesa del Culto della Sacra Luce, e due pire che irradiano fumo e un debole bagliore.
+Durante la notte siamo stati sorpresi da due abitanti del villaggio. Siamo riusciti a metterli in fuga celando tutti la nostra identità, ad eccezione di Leontopodium, che è stato tramortito da una magia d’attacco. Uno dei due aggressori trasportava un sacco di carboni rossi, uguali a quelli rinvenuti nella scorsa missione esplorativa in Val Collera dopo aver sconfitto Tizzone Ardente.
+In mattinata, Adam si è diretto a esplorare il villaggio, abitato prevalentemente da umani, insieme a qualche gnomo e halfling. Le due pire intraviste nella notte sono delle carbonaie, chiamate pojat, dove si produce il caratteristico carbone rosso, che viene impiegato per fertilizzare i terreni circostanti (alterando sensibilmente temperatura e vegetazione della zona). Sospetto tuttavia che questo carbone rosso nasconda segreti e impieghi ben più oscuri.
+
+Ritengo che la presente missione sia stata un successo: abbiamo esplorato nuove regioni della Val Celia, potenzialmente aprendo la strada a nuove esplorazioni in direzione del lago artificiale di Upguur, e abbiamo scoperto che Cjadaldiaul è tuttora abitato, scacciando le peggiori ipotesi sull’incolumità dei suoi abitanti. Tuttavia, oscuri misteri aleggiano su Cjadaldiaul, e nuove investigazioni sono necessarie per fare luce al riguardo.
+
+La ringrazio per la Sua pazienza e per il tempo concessoMi, \
+Fedelmente, \
+Fern Gunnhildr
+
+## Decima sessione
+
+Avventurieri: Belfaga, Asbof, Alviss Rossabarba, Yukirei, Toyur (Lord Opeauf)
+
+### Resoconto della missione del 05 maggio 2024
+
+Le storia che vado ora narrando, racconta di 5 valorosi avventurieri e delle loro gesta: Alviss, Asbof, Belfaga, Yukirei e il rabbioso lord Opeauf, nuovo a questi racconti.
+
+Era primo pomeriggio nella temperata val Celia, e davanti ai nostri avventurieri si aprivano più strade. Gli animali che popolavano questa misteriosa valle li videro risalire e costeggiare il fiume, fino a raggiungere la vecchia centrale e, ancora oltre, la confluenza tra il fiume Celia e quel rivolo fangoso che è il Melassa.
+
+In questo luogo gli avventurieri, abili ed esperti, notarono qualcosa dalla strana apparenza: dei ciottoli sulla strada venivano tagliati di netto dalla parete rocciosa. Effettivamente, la parate in realtà non c’era. O meglio: si vedeva, ma non era solida al tatto.  
+Al di là dell’incorporea parete, i cinque trovarono un burrone, ostacolo insormontabile, almeno in prima apparenza. Ma era veramente quello un burrone? Era forse una trappola? Dei piccoli sassi si notavano, sospesi nel vuoto, come normalmente ricoprono una strada. Il piccolo e irsuto gnomo fu mandato in esplorazione, sorretto dal suo coraggio, dalle corde e dai propri compagni. La strada era invisibile alla vista, ma pur c’era!
+
+Superata la doppia trappola illusoria, la compagnia proseguì risalendo il torrente Melassa, ora divenuto fiume fangoso, che pian piano aumentava in larghezza, fino a coprire l’intera piana. Qui, le cime degli alberi spogli rumoreggiavano, solo qualche traccia di sole appariva, la nebbia densa ricopriva quelli che già altri chiamarono la Palude della lepre e del coniglio.
+
+Il malessere e la tristezza di questo grigio luogo invasero anche i nostri eroi, che erano sempre più stanchi di camminare nel denso e viscido fango. Insetti e zanzare velenose li colpirono, ma loro anche se stanchi e avvelenati proseguirono.
+
+Per non perdersi, sapienti, decisero di segnare la propria strada su degli alberi. Ma Ahimè, un tronco largo come una torre iniziò a scricchiolare e gemere dal dolore!!! “Chi mi ripagherà il danno?!” urlò l’albero in vita. Certo non fu piacevole per questa creatura essere tagliato, ma i nostri amici furono lasciati andare, anche se non si fecero un nuovo compare.
+
+Sempre più stanchi e affranti, i 5 proseguirono fino a raggiungere un luogo abbandonato. Una vecchia capanna dal tetto di paglia fece capolinea dalla nebbia. Ovviamente, tutti si arrischiarono a dare un’occhiatina alla vetusta dimora, anche perché qualcosa di magico e attraente sembrava richiamarli. Davanti a loro si aprì uno strano ambiente, fatto di bambole di pezza, umanoidi e di lepri e conigli. Certo, non si aspettarono che una bambola inquietante potesse prendere vita e attaccarli!! A nulla servirono giavellotti, frecce e asce. Solo il fuoco della maga Belfaga riuscì a incenerire l’inquietate essere magicamente animato!! Scampati al pericolo tornarono ad osservare la capanna. Vi trovarono un disegno lì abbandonato raffigurante tre figure riunite intorno ad un calderone. Nel disegno vi erano anche riportati i nomi, ma chi fossero esattamente queste singolari creature non è mai stato chiaro.
+
+Passata la notte e abbandonata la stanchezza, era ormai il tempo di tornare indietro in fretta. La strada fu stranamente ricoperta di fortuna: monete d’oro e un’ascia furono recuperate. Ad un tratto si apriva una raduna nel bosco e là nel mezzo, un oggetto appariscente illuminava di flebile luce il suo intorno. Un medaglione luccicante era lì abbandonato. Raccoglierlo fu un'impresa ardita, impossibile, in quella vita.
+
+L’avventura sembrava conclusa, e infatti i 5 esploratori, tornati ormai nella forra del Celia, si recarono nella capanna del goblin Erk, per lasciarli le punte di lance a cui tanto teneva. Poiché la curiosità è sempre tanta in queste occasioni, i nostri amici decisero che una sbirciatina all’interno non poteva certo far male, ma mai si aspettarono di dover il proprio capo grattare.
+
+Trovarono dunque una tavoletta con scritta in nanico che così si può tradurre: “l’acqua corrente non porta schifezze”. Alcune lettere erano addirittura sottolineate! Che fosse la combinazione per aprire la vicina centrale? E quella lampada su quella mensola a cosa mai sarebbe servita?
+
+Sulla pulsantiera a lato del portone della centrale vari tentativi furono fatti:
+
+GEITC
+
+TCIEG
+
+CTIEG
+
+PNXHFUA
+
+Ogni tentativo costava un danno ai nostri amici, che venivano attraversati da una scossa elettrica!! Solo con la tuta elastica e i guanti di Erk ci si poteva proteggere, e certo non se la aspettavano tutta questa corrente. Senza successo, ancora sbirciarono e altre cose interessanti trovarono. Quello che sembrava un registro di turni di lavoro, con ultima data indicata 22/11/1401. Questo riportava dei nomi: Muirdo, Huilkol, Maghdur, Myrrin, Bonnris. Sul retro della copertina c’era scritto: “Caro lo smemorato Muirdo, ti ho lasciato una tavoletta in regalo. Guardala bene, non fermati alle prime apparenze”.
+
+Buone o cattive notizie, gioie e dolori, queste sono le parole che riporto ai miei lettori.
+
+Asbof
+
 ## Nona sessione
 
-Avventurieri: Fern Gunnhildr, Gherb, Rut, Wai-o-Tapu
+Avventurieri: Fern Gunnhildr, Adam, Rut, Wai-o-Tapu
 
 ### Missione esplorativa in Val Collera
 
@@ -41,6 +117,25 @@ Alla luce di queste scoperte, ritengo più che mai urgente fare luce sugli oscur
 La ringrazio per la Sua pazienza e per il tempo concessoMi, \
 Fedelmente, \
 Fern Gunnhildr
+
+### Nella terra dei fuochi
+
+Cjadaldiaul chiamava e noi accorremmo, ignari delle brucianti scoperte che ci aspettavano.
+In realtà Cjadaldiaul non si faceva sentire da un po' e anche noi ce la prendemmo comoda: partimmo nel tardo pomeriggio, giusto in tempo per arrivare all'imbocco dell'acrimoniosa Val Collera.
+Eravamo in quattro, con Fern, Tapu e Rut a farmi compagnia quando calò il buio sul nostro campo.
+
+La mattina del giorno seguente, 25 aprile, ripartimmo alle prime luci dell'alba alla volta del silenzioso villaggio.
+Mettendo piede nella forra ci inverstì un'insolita arsura e folate di vento caldo.
+Senza prestarci troppa attenzione proseguimmo finché da sottili spaccature della roccia sopra le nostre teste sbucarono degli allegri spiritelli alati, traslucidi, come fatti di fumo.
+Dico allegri, ma certamente non simpatici.
+Improvvisamente ci assalirono con sbuffi di vapore cocente.
+Quando sembravamo stare per avere la meglio su di loro, dalla stessa fessura si sporse un omino di carboni ardenti, che non esibiva alcuna espressione sul volto, ma dimostrava un odio acceso verso noi intrusi.
+Provammo, con successo, a spegnere il tizzone antropomorfo usando l'acqua del fiume che scende nella forra.
+Contestualmente, provammo a riversare acqua direttamente all'interno della spaccatura da cui originavano i nostri assalitori, per soffocare sul nascere eventuali altre rigurgiti della terra bollente.
+Dovemmo interrompere il nostro sforzo, quando vedemmo appropinquarsi, da spaccature più oltre per la forra, altri mostri ardenti.
+A gambe in spalla riuscimmo a perderne le tracce ma, temo, che a chi ci seguirà in quest'esplorazione verrà riservata un'accoglienza ancor più calorosa.
+
+Adam Otter
 
 ## Ottava sessione
 
@@ -526,13 +621,13 @@ Scossi da quella visione, trovammo il coraggio di proseguire sulla nostra via fi
 
 ## Terza sessione
 
-Avventurieri: Fûc, Jorgrim, Myosotis, Tarlin, Wai-o-Tapu
+Avventurieri: Fûc, Leontopodium, Myosotis, Tarlin, Wai-o-Tapu
 
 ### Resoconto avventura del 15 marzo
 
 Caro Visconte Rodoaldo Venturoso,
 
-Ieri 15 Marzo 2024, dopo aver salutato voi, il notaio Maifrado Ronzo e Sir Galadrim e aver ricevuto le preziose gemme, Tarlin, Tapu, Jargrim, Fûc, ed io ci siamo incamminati verso il Lago Soc, per andare a cercare e salvare Elena e Burdun. L’avventura è stata bella intensa, e qualcuno di noi ci ha quasi lasciato lepenne , ma con successo siamo tutti tornati a casa sani e salvi, con nuove scoperte, curiosi oggetti e creature, ma soprattutto, Elena e Burdun, yurraaà!!
+Ieri 15 Marzo 2024, dopo aver salutato voi, il notaio Maifrado Ronzo e Sir Galadrim e aver ricevuto le preziose gemme, Tarlin, Tapu, Leo, Fûc, ed io ci siamo incamminati verso il Lago Soc, per andare a cercare e salvare Elena e Burdun. L’avventura è stata bella intensa, e qualcuno di noi ci ha quasi lasciato lepenne , ma con successo siamo tutti tornati a casa sani e salvi, con nuove scoperte, curiosi oggetti e creature, ma soprattutto, Elena e Burdun, yurraaà!!
 
 Andando in ordine, quando siamo arrivati al Lago e ci stavamo per tuffare, un enorme gufo è passato davanti a noi per rapire dei ratti e poi è sparito. Per fortuna non ci ha visti, dato che era grande quasi il doppio di un nano! Strano fatto comunque!
 
