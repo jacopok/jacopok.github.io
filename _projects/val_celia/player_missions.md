@@ -28,6 +28,9 @@ Rodoaldo sa bene che si tratta di lavori complicati, e non si aspetta che tutto 
 _Nel suo libro, Farco Brolo descriveva una strada che collegava la pianura al regno dei nani. Nelle primissime esplorazioni condotte dalle mie fedelissime guardie, è stata individuata una vecchia stradina che segue il corso dell'acqua, giusto oltre la prima fila di colline. Il vostro compito è percorrerla, scoprire dove porta e al contempo metterla in sicurezza per le future spedizioni._
 
 _Diversi avventurieri hanno già esplorato in questa direzione, e hanno trovato una galleria che permette di evitare la sezione di strada che è ora sommersa dal lago Soç_.
+_Da lì, la strada procede lungo il fiume superando la Centrâl, e giunge a una confluenza. Alla destra pare sia affetta da della magia illusoria (vedi i resoconti delle sessioni ottava e decima) e poi conduce ad una mefitica palude, mentre a sinistra non è stata esplorata fino in fondo, seppure un sentiero parta da essa verso il villaggio di Upguur (vedi il resoconto della settima sessione)._
+
+_La parte ancora inesplorata è questa strada verso sinistra, nella direzione di Upguur ma dall'altro versante del fiume Celia._
 
 ## Dov'è la città di Farcis?
 
@@ -44,15 +47,20 @@ _Il primo gruppo di avventurieri che porterà prove dell'avere trovato Andreis r
 
 ## Contatti persi con Cjadaldiaul
 
-_Ormai da più di un anno non si hanno notizie dal piccolo villaggio di Cjadaldiaul, situato tra le montagne a Nord-Est, oltre al monte Fara. La Chiesa dei Lumini ha dunque chiesto al comune di Celina di mandare degli avventurieri ad investigare e assicurarsi delle condizioni del villaggio. Il villaggio non si trova ufficialmente in Val celia, ma non è molto distante da essa: si potrebbe aprire una nuova via di accesso alla valle da est._
+_Ormai da più di un anno non si hanno notizie dal piccolo villaggio di Cjadaldiaul, situato tra le montagne a Nord-Est, oltre al monte Fara. La Chiesa dei Lumini ha dunque chiesto al comune di Celina di mandare degli avventurieri ad investigare e assicurarsi delle condizioni del villaggio. Il villaggio non si trova ufficialmente in Val Celia, ma non è molto distante da essa: si potrebbe aprire una nuova via di accesso alla valle da est._
+
+_Una missione ha già esplorato la strada più diretta, nella Val Collera (nona sessione), trovandola piuttosto pericolosa._
+_Un'altra missione ha raggiunto Cjadaldiaul (undicesima sessione), ma senza esplorarla nel dettaglio e venendo in conflitto con dei figuri provenienti dal villaggio, che pure è parso quieto il giorno successivo._
 
 ## Rapporti diplomatici col villaggio di Upguur
 
-_Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro società e cultura. Il visconte Rodoaldo Venturoso spera di poter allacciare dei buoni rapporti con questi, scambiando informazioni, ricchezze e tecnologie, ma i primi contatti di avventurieri con Upguur, il 10 aprile, non sembrano essere andati a buon fine. Cimentatevi dunque in questa missione diplomatica: è ancora possibile ristabilire l'amicizia tra le due popolazioni?_
+_Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro società e cultura. Il visconte Rodoaldo Venturoso spera di poter allacciare dei buoni rapporti con questi, scambiando informazioni, ricchezze e tecnologie, ma i primi contatti di avventurieri con Upguur, il 10 aprile (settima sessione), non sembrano essere andati a buon fine. Cimentatevi dunque in questa missione diplomatica: è ancora possibile ristabilire l'amicizia tra le due popolazioni?_
 
 ## Esplorate l'antica centrale nanica
 
 _Durante una delle precedenti esplorazioni lungo la vecchia strada è stata rinvenuta una grande struttura scavata sulla parete rocciosa, che risponde al nome di "Centrâl di Dôs Flums". Questa struttura sembra essere collegata all'aghe corinte, particolare liquido le cui proprietà magiche sono di grande interesse per il regno. Esplorate dunque la centrale e svelatene tutti i segreti!_
+
+_Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti degli oggetti potenzialmente interessanti nella casa antistante l'ingresso, ora abitata saltuariamente dal goblin Herk (decima sessione)._
 
 # Missioni completate
 
