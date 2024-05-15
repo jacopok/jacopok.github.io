@@ -46,6 +46,30 @@ La ringrazio per la Sua pazienza e per il tempo concessoMi, \
 Fedelmente, \
 Fern Gunnhildr
 
+### Resoconto della missione del 08 maggio 2024
+
+Sua Eccellenza,
+
+A nome degli avventurieri Fern, Adam, Tarlin il sottoscritto Leontopodium presenta il seguente resoconto alla Sua attenzione.
+
+La nostra decisione di partire in data 8 maggio per esplorare il villaggio di Cjadaldiaul è stata dettata dal fatto che abbiamo perso notizie sul villaggio ed eravamo preoccupati. Date le difficoltà nell’attraversare la Val Collera abbiamo deciso di seguire un altro percorso alternativo tra i pendii montuosi al lato del Monte Fara.
+
+Una volta raggiunta la valle del monte Fara ci siamo imbattuti in una fila di sassolini bianchi bloccati magicamente a terra senza alcuna possibilità di spostarli. Questi sassolini separano due zone diverse della vallata creando una barriera. Si pensa che questi sassi possano rappresentare le stelle delle anime defunte in cielo e che per piantare ogni sasso a terra si pensa che ci sia voluto un sacrificio. Questo non ha impedito alla nostra spedizione di proseguire indenni verso Cjadaldiaul.
+
+Successivamente lungo il percorso troviamo degli altri sassi più grandi e comuni che sembra che siano stati lanciati con forza, molto probabilmente ad opera di Orcolat. Sotto uno di questi sassi troviamo una carcassa di un cerbiatto con del sangue sparso a terra. Nel mezzo della pozza di sangue spunta un fungo simile ad una amanita. Adam decide di prenderlo per farlo analizzare successivamente.
+
+Seguendo il percorso siamo arrivati a un punto in cui è possibile avere una visione completa della valle sottostante. In lontananza vediamo il lago artificiale sopra il villaggio di Upguur. Pensiamo di poter raggiungere il lago, tuttavia tra noi e il lago si estende una fitta nebbia di origine artificiale molto sospetta. Alla nostra destra vediamo il villaggio di Cjadaldiaul.
+
+Abbiamo deciso di trascorrere la notte in un bosco vicino a Cjadaldiaul. Dalla nostra posizione è stato possibile scrutare Cjadaldiaul e abbiamo scoperto che è abitato. Durante la notte nel terzo turno di guardia ho visto due figure avvicinarsi. Una di esse trasportava un sacco di carboni rossi uguali a quelli rinvenuti precedentemente nella scorsa missione. Nel tentativo di capire di più su di loro sono stato scoperto. Sono stato tramortito con una magia d’attacco mentre i miei compagni sono stati abili a metterli in fuga, a non farsi vedere e infine a salvarmi. La mattina successiva Adam si è recato nel villaggio per esplorarlo, scoprendo che esso è abitato perlopiù da umani con la presenza di qualche gnomo e halfling. Le pire che avevamo già intravisto la sera precedente sono delle carbonaie utilizzate per produrre il carbone rosso, esso viene utilizzato come fertilizzante nei campi adiacenti al villaggio ma sembra che nasconda anche utilizzi più oscuri di questo.
+
+Successivamente siamo rientrati nelle nostre dimore contenti delle scoperte effettuate durante la nostra missione. Sicuramente saranno necessarie nuove esplorazioni e investigazioni per scacciare l’alone di mistero che aleggia sopra Cjadaldiaul.
+
+La ringrazio per la cortese attenzione
+
+Fedelmente
+
+Leontopodium
+
 ## Decima sessione
 
 Avventurieri: Belfaga, Asbof, Alviss Rossabarba, Yukirei, Toyur (Lord Opeauf)
