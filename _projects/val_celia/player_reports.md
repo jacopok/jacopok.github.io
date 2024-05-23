@@ -13,6 +13,81 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Dodicesima sessione
+
+### Report informativo riguardo alla missione esplorativa nella valle del 19 Aprile
+
+Avventurieri: Adam c̶o̶n̶ ̶l̶a̶ ̶s̶u̶a̶ ̶l̶o̶n̶t̶r̶a̶ ̶g̶h̶e̶r̶b̶, Ekkyon, Fern, Leontopodium
+
+Dopo aver eroicamente fermato lo gnomo malefico armato di falce che aveva trucidato tre guardie negli uffici del comune decidiamo di partire verso la “Centrâl di Dôs Flums”, decisi più che mai ad entrarvici.
+
+Armati del bottino delle scorse missioni, la lampadina magica e la tavoletta rinvenuta nella casa di Herk arriviamo alle porte della vecchia centrale.
+
+Decidiamo di interrogarci sul significato delle scritte sulla tavoletta, perchè Miurdio era smemorato, e su quali apparenze non dovevamo fermarci ?
+
+Abbiamo risolto questi interrogativi illuminando la tavoletta con la magica luce della lampadina scoprendo nuove lettere sottolineate, in ordine:
+
+HCAPI
+
+Digitandole sulla chiave della porta proprio come per magia queste si sono aperte, rivelando finalmente l'ingresso della centrale.
+L'interno si presenta di fredda roccia e metallo, con ingranaggi sparsi qua e la, ma ad attirare la nostra attenzione era l'aria che si respirava, carica di un'energia, un'elettricità.... forse magia?, fatto sta un'aria che fa male!
+
+Abbiamo infatti trovato utilità alle vecchie tute rinvenute nel tunnel nelle scorse avventure, i vecchi nani dovevano usarle per potersi muovere liberamente all'interno di quel luogo, per tal motivo le abbiamo riportate in cerca di un modo per sistemarle.
+
+Ad ogni modo superato l'ingresso si apre un corridoio con due bassi rilievi:
+
+1. raffigurante una mano che esce dalle nuvole e tende una goccia a due nani in preghiera;
+2. raffigurante due line (forse due fiumi) che si intrecciano formando una goccia e poi si dividono nuovamente andando verso dei villaggi
+
+Superato il corridoio una grande sala con una zona oscura, un buco sembra sulla destra ed un grande recipiente sulla sinistra contenete un liquido simile all'acqua, ma fluorescente e pulsante della stessa energia che percepivamo nell'aria.
+
+Ne abbiamo riportato un campione, purtroppo non siamo riusciti a trattenerci di più anche perchè la piccola lontra Gherb ha deciso di leccare un po di quel liquido svenendo poco dopo, tipico di una lontra.
+
+E qui finisce il mio reseconto.
+
+In fede, \
+Ekkyon l'halfling
+
+### Missione esplorativa alla Central di dos Flums
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Adam, Ekkyon, Leontopodium
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+Il giorno dopo l’incidente al comune di Celina, ci siamo diretti alla Central di Dos Flums, con l’obiettivo di trovare un modo per entrarvi e di esplorarla.
+La chiave per aprire i cancelli della centrale è nascosta in una tavoletta rinvenuta in una precedente missione esplorativa. La tavoletta riporta una frase in nanico: “aghe corinte no puarte porcijetat” (ovvero “l’acqua corrente non porta impurezze”). A seguito di un’attenta analisi, ci siamo accorti che alcune lettere sono marchiate con un inchiostro speciale, visibile solo sotto particolari fonti di luce. Il codice che si rivela, HCAPI, ha aperto le porte della centrale!
+
+Dall’esterno la centrale sembra estendersi su due piani oltre al piano terra. Prima di accedere all’interno, il sottoscritto si è arrampicato per raggiungere delle finestre ai piani superiori, chiuse da inferriate. All’interno ho intravisto nell’oscurità un paio di studioli e tre armerie. Una stanza ospitava delle cisterne contenenti un liquido blu luminescente. Inoltre, tutte le stanze sembrano pervase da una sorta di energia pulsante.
+
+Conclusa l’ispezione esterna, ci avventuriamo all’interno della centrale. L’aria all’interno è strana, carica di energia. Un pipistrello evocato da Ekkyon come avanscoperta è morto di arresto cardiaco pochi secondi dopo essersi addentrato nella struttura. Entrati noi stessi, ci siamo trovati in un corridoio decorato con bassorilievi. La parete a sinistra raffigura una mano che scende dalle nuvole per porgere una goccia a due nani inginocchiati in preghiera. La parete a destra raffigura una spirale alla cui base fuoriesce una goccia. La spirale si divide in linee che si dirigono verso raffigurazioni di edifici. Entrambe le decorazioni riportano la scritta “Cui che nol semene nol racuei”, ovvero “chi non semina non raccoglie”.
+
+La prolungata esposizione a questa atmosfera carica ha affaticato i nostri corpi. Tuttavia, i danni possono essere limitati indossando delle speciali tute gommose di fabbricazione nanica, rinvenute in una precedente missione. Tali tute sono indispensabili per procedere con. Tuttavia disponevamo di una sola tuta, oltretutto danneggiata. Ciò nonostante, ci siamo avventurati più in profondità fino alla prima stanza. Anche questa stanza contiene una grande vasca piena dello strano liquido blu luminescente. Adam ha recuperato un campione del liquido, per poi svenire, affaticato dall’atmosfera carica. Abbiamo dunque deciso di tornare in città, per prepararci al meglio per una futura esplorazione di questo misterioso edificio.
+
+La ringrazio per il tempo concessoMi,
+Fedelmente,
+Fern Gunnhildr
+
+## Intermezzo - Incidente a Celina
+
+### L’incidente del comune di Celina
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Adam, Ekkyon, Leontopodium,
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+La notte prima della partenza per l’esplorazione della Central di Dos Flums, io e i sopracitati avventurieri ci trovavamo alla taverna “Il sale e la terra”. A un certo punto della notte, abbiamo udito un urlo proveniente dagli uffici del comune. Siamo accorsi immediatamente all’ingresso comunale, dove una guardia sconvolta ci ha avvisato di una creatura che stava compiendo una strage nell’edificio. Entrando nel comune, ci siamo trovati di fronte a una scena raccapricciante: una creatura umanoide armata di falce di fronte al cadavere di una guardia. Abbiamo sfruttato il suo particolare attaccamento al cappello che indossava per distogliere la sua attenzione da altre guardie ferite, e abbiamo ingaggiato battaglia. Lo scontro è stato arduo, ma ne siamo usciti vittoriosi. Sconfitta, la creatura si è rimpicciolita fino a scomparire davanti ai nostri occhi.
+Ispezionando gli uffici comunali, abbiamo preso atto della terribile situazione: tre guardie sono rimaste vittima della follia omicida della creatura, e una quarta è rimasta gravemente mutilata. La creatura pare essersi originata da un particolare fungo esposto nella notte su un davanzale degli uffici comunali. Tale fungo era stato rinvenuto, circondato da una pozza di sangue, nella precedente missione di esplorazione verso il villaggio di Cjadaldiaul. Vista la pericolosità dei misteri e delle creature della Val Celia, sarà doveroso in futuro prestare maggiore prudenza nel riportare materiale vivente a Celina.
+
+Col cuore colmo di dolore, voglio esprimere il mio più sentito cordoglio nei confronti di familiari e amici delle vittime di questa tragedia.
+
+La ringrazio per il tempo concessoMi, \  
+Fedelmente, \
+Fern Gunnhildr
+
 ## Undicesima sessione
 
 Avventurieri: Fern Gunnhildr, Adam, Leontopodium, Tarlin
