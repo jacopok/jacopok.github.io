@@ -13,9 +13,25 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Tredicesima sessione
+
+### Resoconto circa la missione del 22 Maggio
+
+Indirizzato all'onorevole notaio, nella speranza che vi siate ripresi dal terribile crimine accaduti venerdì scorso. Mercoledì 22 maggio, il gruppo composto da Belfaga, Alvis, Alchamora, Atanela e Icaro - che scrive questo breve resoconto - diparte alla ricerca del villaggio di Andreis.
+
+Incamminandoci per la strada, prima della Centrale dei Due Fiumi, veniamo fermati da quello che appariva in un primo momento essere un enorme masso bloccante la strada. Avvicinandoci, abbiamo notato che non si trattava di un masso, bensì di un grosso cinghiale addormentato. Nel tentativo di non disturbarlo, ci siamo abbassati nel fiume per costeggiare la strada, ma lo abbiamo svegliato comunque. La bestia non era però aggressiva: questa si è alzata su due zampe, salvo poi seguirci senza attaccarci. Il cinghiale ci ha seguiti fino a raggiungere la Centrale dei due fiumi, per poi smetterla e ritornare sui suoi passi.
+
+Continuammo quindi a percorrere la strada, raggiungendo il ponte, la confluenza tra i due fiumi e infine la Grande Palude, entrandoci per la terza volta e segnando minuziosamente il nostro percorso. Durante l'esplorazione siamo stati attaccati da varie bestie.
+Il primo scontro è avvenuto con quattro rospi giganti, neutralizzati con successo.
+Successivamente abbiamo raggiunto un punto in cui la strada era sbarrata da profondi accumuli di fango. La nostra amica e collega Alchamora tentò di raggiungere l'altra sponda sfruttando i tronchi che galleggiavano nel fango, con la sicurezza di una corda retta da me medesimo. Mentre attraversava fu sorpresa, aggredita e trascinata nel fango da un'orribile creatura umanoide. Riuscimmo con uno strattone a trascinare Alchamora sulla sponda, per poi neutralizzare l'orrida creatura.
+Superammo questa zona per arrivare ad un piccolo villaggio, costituito da tre case scavate all'interno di piccole colline, di fronte a cui era presente un grosso calderone con un contenuto liquido ribollente e del fuoco acceso sotto. Belfaga e Alchamora, seguite da Icaro, controllarono le tre case constatando che sono case per creature di dimensioni più piccole di un comune umani. Alvis e Atanela controllarono il calderone, rischiando l'avvelenamento ma notando che la pozione contiene varie viscere di varie creature. Mentre i miei compagni continuavano a controllare il calderone, uno strano artropode comparve dietro ad Alvis, colpendolo e atterrandolo. Durante il conseguente combattimento notammo che la creatura si allontanava per avvicinarsi ad un albero, al quale era appesa per il collo una creaturina umanoide, ancora viva. L'artropode (culona, ndr) tagliò la corda e la creatura appesa, che si rivelò essere un halfling corrotto della palude, cadde per terra e cercò di aggredirci insieme all'artropode. Le due creature furono uccise rispettivamente da Icaro e Alchamora.
+Esplorammo poi le tre case alla ricerca di qualche manufatto o traccia di vita. Al loro interno, abbiamo trovato quanto abbiamo già riportato a vossignoria: una campana apparentemente sorda se non per il richiamo di bovini, oltre ad un mantello magico in grado di trasformarsi in un ampio rifugio, che secondo la mia umile opinione sarebbe molto utile a noi e ad altri gruppi di esploratori.
+
+Oltre le tre case, la palude termina in una rigogliosa valle, parzialmente ricoperta di nebbia, interessante luogo per un'esplorazione futura. Il monte Fara ora compariva alla nostra destra, segno del fatto che lo avevamo dunque aggirato attraversando la palude. Prima di ritornare a Celina, per evitare che la stanchezza inficiasse la nostra accortezza, ci siamo concessi un breve riposo.
+
 ## Dodicesima sessione
 
-### Report informativo riguardo alla missione esplorativa nella valle del 19 Aprile
+### Report informativo riguardo alla missione esplorativa nella valle del 19 Maggio
 
 Avventurieri: Adam c̶o̶n̶ ̶l̶a̶ ̶s̶u̶a̶ ̶l̶o̶n̶t̶r̶a̶ ̶g̶h̶e̶r̶b̶, Ekkyon, Fern, Leontopodium
 
