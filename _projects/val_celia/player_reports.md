@@ -13,6 +13,29 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Quattordicesima sessione
+
+### Missione esplorativa alla Central di dos Flums
+
+Sua Eccellenza,
+
+A nome degli avventurieri \
+Fern, Adam, Ekkyon, Leo \
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+Ci siamo diretti nuovamente all’esplorazione della Central di Dos Flums, potendo contare sulle tute gommose protettive ora riparate. La prima stanza della centrale, parzialmente esplorata nella precedente missione, è dotata di una piattaforma mobile che permetterebbe di raggiungere un piano inferiore, se non fosse fuori funzione.
+Una pianta di grandi dimensioni è attorcigliata al recipiente contenente le Aghe Corinte. Probabilmente disturbata dalla nostra presenza, la pianta ci ha attaccato. Dopo un violento scontro, la pianta si è ritirata al riparo del recipiente. Agli avventurieri che si dirigeranno in futuro nella centrale, consiglio di non interagire con la pianta: ci sono buone possibilità che attacchi solo se disturbata.
+Concluso lo scontro, abbiamo esplorato tutte le stanze al piano terra della centrale, tra cui:
+un laboratorio alchemico, contenente vari libri tecnici. Uno di questi è un manuale per “il confinamento e la condensazione della magia”, un processo che sembra correlato alla produzione delle Aghe Corinte. Un secondo libro invece sembra il manuale di un macchinario per l’analisi della qualità delle Aghe Corinte.
+una sala controllo per il recipiente distillatore delle Aghe Corinte e per la piattaforma che conduce al piano inferiore. Un pannello luminoso indica la mancanza di energia. Ci sono anche varie leve e bottoni, forse per azionare la piattaforma mobile.
+In una delle stanze abbiamo rinvenuto quello che sembra essere un diario scritto in nanico. Il sottoscritto si impegna a tradurre il contenuto a beneficio delle prossime missioni esplorative.
+
+Al momento l’unica strada agibile per continuare l’esplorazione della centrale è costituita da una rampa di scale che porta ai piani superiori. In passato doveva esserci anche una rampa che conduceva al piano inferiore, ma ormai ne rimangono solo macerie, che rendono ardua la discesa. Avendo esplorato il piano terra della centrale, le prossime missioni possono avere come obiettivo l’esplorazione dei piani superiori della centrale.
+
+La ringrazio per il tempo concessoMi, \
+Fedelmente, \
+Fern Gunnhildr
+
 ## Tredicesima sessione
 
 ### Resoconto circa la missione del 22 Maggio
