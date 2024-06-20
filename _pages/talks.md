@@ -9,13 +9,14 @@ nav_order: 1
 
 ## Upcoming
 
-- 2024-04-17: [**CTAO symposium**](http://ctao-symposium.org/) talk about rehear
 - 2024-??-??: LVK GRB group talk about rehear
-- 2024-06-??: [**European Lunar Symposium**](https://sservi.nasa.gov/els2024/) talk about LGWA
 
 ## Past
 
-- 2024-03-25: [**Moriond Very High Energy Phenomena of the Universe**](https://moriond.in2p3.fr/2024/VHEPU/) talk about rehear, [agenda page](https://moriond.in2p3.fr/2024/VHEPU/vhepu-agenda.html), [slides](https://docs.google.com/presentation/d/1UddDv6JvLZX24p7fqbDqUxfQ14yM9k5wdQIxLZUuMq8/edit?usp=sharing)
+- 2024-06-21: [**European Lunar Symposium**](https://sservi.nasa.gov/els2024/) talk presenting LGWA, [slides (private repo)](https://github.com/jacopok/presentations/tree/main/2024-06-20_lunar_Creighton)
+- 2024-04-19: [**Lautaro meeting**](https://www.davidegerosa.com/lautaro/) talk about multibanding, [slides (private repo)](https://github.com/jacopok/multibanding/tree/main/ssb_presentation)
+- 2024-04-17: [**CTAO symposium**](http://ctao-symposium.org/) talk about rehear, [slides](https://docs.google.com/presentation/d/1e3jmNyRqF_o_uTCNFtgp4_Bt8qzLAhaGFbXAx1ghlr0/edit#slide=id.g2c5a7242dd0_0_6)
+- 2024-03-25: [**Moriond Very High Energy Phenomena of the Universe**](https://moriond.in2p3.fr/2024/VHEPU/) talk about rehear, [agenda page](https://moriond.in2p3.fr/2024/VHEPU/vhepu-agenda.html), [slides](https://docs.google.com/presentation/d/1UddDv6JvLZX24p7fqbDqUxfQ14yM9k5wdQIxLZUuMq8/edit?usp=sharing), [proceeding](https://arxiv.org/abs/2406.04387)
 - 2024-02-21: GWFish tutorial at the **ET meeting**, [Indico page](https://agenda.infn.it/event/38405/contributions/218803/)
 - 2024-02-16: PhTea talk about the history of role-playing games, [slides](https://docs.google.com/presentation/d/1jwfzek--7HnkB3n1y9xN3oxhlnsLwD6Rq50OpcVXXCs)
 - 2024-02-08: [GSSI science fair talk+poster](https://indico.gssi.it/event/619/): the talk's about being in collaborations (ET, LVK, LGWA, LISA, PTA), the poster is about LGWA specifically
