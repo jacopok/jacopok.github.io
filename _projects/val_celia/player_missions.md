@@ -40,8 +40,10 @@ _Il primo gruppo di avventurieri che porterà prove dell'avere trovato Farcis ri
 
 ## Dov'è il paese di Andreis?
 
-_Di recente alcuni avventurieri hanno incontrato un nano di nome Flavio Tavan, che sostiene di venire da un villaggio di nome Andreis, tuttora abitato seppure sia da qualche parte nella valle!
+_Di recente (quarta sessione) alcuni avventurieri hanno incontrato un nano di nome Flavio Tavan, che sostiene di venire da un villaggio di nome Andreis, tuttora abitato seppure sia da qualche parte nella valle!
 Se il nano dice il vero, questo è molto interessante. Non eravamo a conoscenza di alcuna popolazione che potesse vivere nella valle: come sopravvive lì?_
+
+_In seguito (ottava sessione), Herk il goblin ha rivelato che il villaggio di Andreis dovrebbe situarsi oltre la palude della lepre e del coniglio, avvolto in una perenne nebbia. Sostiene anche che sia un luogo pericoloso._
 
 _Il primo gruppo di avventurieri che porterà prove dell'avere trovato Andreis riceverà una ricompensa di 300 monete d'oro._
 
@@ -60,7 +62,7 @@ _Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro s
 
 _Durante una delle precedenti esplorazioni lungo la vecchia strada è stata rinvenuta una grande struttura scavata sulla parete rocciosa, che risponde al nome di "Centrâl di Dôs Flums". Questa struttura sembra essere collegata all'aghe corinte, particolare liquido le cui proprietà magiche sono di grande interesse per il regno. Esplorate dunque la centrale e svelatene tutti i segreti!_
 
-_Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti degli oggetti potenzialmente interessanti nella casa antistante l'ingresso, ora abitata saltuariamente dal goblin Herk (decima sessione)._
+_Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti degli oggetti potenzialmente interessanti nella casa antistante l'ingresso, ora abitata saltuariamente dal goblin Herk (decima sessione). Durante successive esplorazioni degli avventurieri sono riusciti ad entrare (dodicesima sessione) e a esplorare il piano terra della centrale (quattordicesima sessione). _
 
 # Missioni completate
 

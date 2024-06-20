@@ -13,6 +13,42 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Quindicesima sessione
+
+### Missione alla ricerca del paese di Andreis
+
+Gentilissimo notaio,
+qui di seguito riporterò gli avvenimenti dell’ultima esplorazione effettuata in data 12 giugno dal qui presente Alviss Rossabarba e i suoi impavidi compagni Athanela, Lord Obeauff, Asbof e il nuovo arrivato Gaspare.
+
+Vorrei iniziare comunicandole subito con grande fierezza che il nostro gruppo ha portato a termine la missione: Andreis è stata raggiunta! Ciò non sarebbe stato possibile senza l’aiuto degli avventurieri delle precedenti spedizione, con cui vorrei condividere i meriti e la gloria.
+Ma ordunque non dilaghiamo e iniziamo il racconto.
+
+Era una giornata piovosa, molto piovosa. Ottima per il rigoglire dei funghi porcini, consiglio una spedizione di raccolta nelle prossime settimana. Ripercorrendo l’ormai nota strada raggiungemmo facilmente la labirintica palude che superammo con altrettanta agevolezza. Per lasciarla alle nostre spalle, attraversammo il villaggetto residenza del mostro aracnoide rinominato da alcuni “_Culona_”. Curiosamente i resti della deretanica bestia mancavano come anche il pentolone ribollente al centro dell’area.
+
+Usciti dall’acquitrino ci si pose un bivio: andare verso il monte o seguire una strada di fattezze naniche verso un nuovo banco di nebbia. Ad unanimità scegliemmo la seconda. Ci addentrammo dunque nella foschia, che ad onor del vero mi sembrò di un diverso tipo rispetto a quella trovata all’interno della palude. Dopo diversi passi si pose davanti a noi uno steccato in legno con tanto di cancello e audaci decidemmo di entrare. Ahimè, dopo neanche qualche istante un cane iniziò ad abbaiare e dalla nebbia due figure iniziarono a diradarsi. Con nostro sgomento ci accorgemmo che erano due zombie. _Senza che facessimo nulla_, ci attaccarono e in poco tempo venimmo accerchiati da una squadra di non-morti con tanto di cavallo parlante. Combattemmo valorosamente e riuscimmo ad abbatterne qualcuno (tra cui l’abominio parlante) ma le forze nemiche erano soverchianti. Mi ersi a baluardo dei miei compagni ormai sfiniti, mi feci carico delle loro vite, dei loro sogni e dei loro desideri e combattei con tutto me stesso per proteggerli… ma i nemici erano troppi. Tra un colpo di martello e uno schizzo di sangue sentii le mie membra pian piano abbandonarmi e in lontananza, oltre la schiera di nemici, iniziai a intravedere una calda e accogliente luce che si faceva sempre più viva e forte, tanto da farmi pensar per un istante di abbandonar tutto e raggiungerla.
+
+Improvvisamente, un fischio acuto mi riportò alla realtà. Gli zombie si fermarono e una donna umana spuntò dal nulla. La signorina si presentò come Bartola Stella e ci spiegò che doveva esserci stato un equivoco e che i non-morti non avrebbero dovuto attaccare senza motivo. Dimenticandoci dell’accaduto e un po’ increduli di ciò che stava accadendo, aiutammo Stella a portare Giustino (l’abominevole cavallo parlante) al suo villaggio, niente popo di meno che Andreis (!). Qui ci fece accomodare alla locanda *“Al vecie forn”*  e venne raggiunta da altre tre donne: Ghisla Abucco, Adalasha Stella e Raimonda Tavan. Quest’ultima molto vecchia, col volto scavato dall’età, quasi scheletrico.
+
+Ci spiegarono che loro fanno parte delle tre famiglie governanti Andreis (gli Stella, gli Abucco e i Tavan per l’appunto) e che i _“ritornati”_, così chiamano i non-morti, sono parte integrante della comunità da secoli. Compiono lavori, giocano coi bambini e fungono da sistema di difesa del villaggio. La stessa Raimonda Tavan pare essere un ritornato di 200 anni d’età. Tuttavia rimasero molto vaghe riguardo l’origine di questi zombie, l’unica cosa che ci rivelarono è che esiste una relazione tra non-morti e la nebbia e che secondo una leggenda quest’ultima sia stata portata dal bardo chiamato Timavo molti anni orsono.
+
+Inoltre ci accorgemmo che durante la chiacchierata una sorta di rituale stava accadendo in quanto udimmo strani cori provenire dal sottosuolo.
+
+La sera Gaspare intrattenne i bambini con uno spettacolo e successivamente andammo a dormire.
+
+Il giorno successivo visitammo il cimitero del villaggio, la cui utilità mi sembrò superflua per un paese di non-morti, dove trovammo un simbolo ricorrente sulle lapidi e sul fronte dell’edificio centrale, ossia un corno. Alcuni di questi bassorilievi sembravano suggerire che il corno fosse suonato per riportare i morti in vita.
+
+L’esplorazione fu bloccata da Bartola Stella che con premura ci allontanò dal campo santo e ci portò da Puccio Bucco, un vecchietto addestratore di rapaci il quale ci presentò Annalisa, Annasara e Chiarasilvia, le sue tre aquile giganti. Inutile dire che colsi subito l’occasione per accarezzarle, avrebbe dovuto sentire la morbidezza di quelle piume, caro notaio, proprio delle bestie regali e affascinanti.
+
+E così si conclude il mio resoconto. Dopo la tappa al rifugio rapace tornammo sui nostri passi verso Celina e le nostre case, in attesa della prossima avventura. Per quanto mi riguarda, per quanto possa contare l’onesta opinione di un vecchio nano, questa è stata una delle migliori avventure che abbia mai affrontato, ricca di azione e mistero, una storia di amicizia ma anche di sofferenza, di imprese eroiche ma anche di subdoli sotterfugi, di passato e di futuro, di vita e di morte. Spero di non essermi dilungato troppo e che questa testimonianza possa essere utile a chi vorrà indagare i segreti di Andreis.
+
+Ora mi congedo e la saluto notaio, al prossimo incarico.
+
+Alviss Rossabarba
+
+P.S.: Rileggendo il manoscritto mi sono accorto di aver omesso un particolare. Se ve lo stesse chiedendo, sì, il Maestro eremita Flavio Tavan pare essere parente dell’anziana Raimonda Tavan. Secondo quanto riferito, il nano solitario è stato adottato dalla famiglia Tavan secoli fa e che ad un certo punto abbia abbandonato Andreis.
+
+P.S.S.: Consiglio per coloro che visiteranno Andreis in futuro, parlate con un tale Miliano, potrebbe essere detentore di utili informazioni.
+
 ## Quattordicesima sessione
 
 ### Missione esplorativa alla Central di dos Flums
@@ -56,7 +92,7 @@ Oltre le tre case, la palude termina in una rigogliosa valle, parzialmente ricop
 
 ### Report informativo riguardo alla missione esplorativa nella valle del 19 Maggio
 
-Avventurieri: Adam c̶o̶n̶ ̶l̶a̶ ̶s̶u̶a̶ ̶l̶o̶n̶t̶r̶a̶ ̶g̶h̶e̶r̶b̶, Ekkyon, Fern, Leontopodium
+Avventurieri: Adam ███ ██ ███ ██████ █████, Ekkyon, Fern, Leontopodium
 
 Dopo aver eroicamente fermato lo gnomo malefico armato di falce che aveva trucidato tre guardie negli uffici del comune decidiamo di partire verso la “Centrâl di Dôs Flums”, decisi più che mai ad entrarvici.
 
@@ -80,7 +116,7 @@ Ad ogni modo superato l'ingresso si apre un corridoio con due bassi rilievi:
 
 Superato il corridoio una grande sala con una zona oscura, un buco sembra sulla destra ed un grande recipiente sulla sinistra contenete un liquido simile all'acqua, ma fluorescente e pulsante della stessa energia che percepivamo nell'aria.
 
-Ne abbiamo riportato un campione, purtroppo non siamo riusciti a trattenerci di più anche perchè la piccola lontra Gherb ha deciso di leccare un po di quel liquido svenendo poco dopo, tipico di una lontra.
+Ne abbiamo riportato un campione, purtroppo non siamo riusciti a trattenerci di più anche perché la piccola ██████ █████ ha deciso di leccare un po' di quel liquido svenendo poco dopo, tipico di una ██████.
 
 E qui finisce il mio reseconto.
 
