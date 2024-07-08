@@ -41,9 +41,9 @@ Bartola Stella, manutentrice e badante dei caratteristici ritornati di Andreis, 
 
 Sulla via del ritorno, Timavo l'equino ebbe occasione di brucare erbe edulcorate dalla magia che l'interezza della valle impregna, il che gli donò una barba che accentuava la sua già ragguardevole dignità. Tornati, non ebbi difficoltà alcuna ad alienarlo per due spicci al precedente padrone. Il pusillanime e superstizioso villico temeva ora l'animale che vide in due giorni portenti che la sua zotica vita sempre avrà preclusi, e che ormai lo surclassava in dignità ed esperienza.
 
-_Zoccolo poggiò Timavo sul raso_
-_Omaggio menò che ad Andreis garba_
-_Il Soç gli donò un possente naso_
+_Zoccolo poggiò Timavo sul raso_ \
+_Omaggio menò che ad Andreis garba_ \
+_Il Soç gli donò un possente naso_ \
 _la val lo ossequiò con serica barba_
 
 ## Quindicesima sessione
