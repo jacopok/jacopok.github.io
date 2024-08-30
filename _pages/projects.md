@@ -73,6 +73,7 @@ horizontal: false
 This is a list of things I'm currently working on, within a timescale around a month.
 It's too many! I know.
 
+1. Working on the multiband paper
 1. Working on the inclination angle posterior feature for BAYESTAR
    1. Paper draft
 1. [rehear](/rehear): injection studies with ASTRI + SWIFT
@@ -87,10 +88,6 @@ It's too many! I know.
    1. DWD/NSWD detection with LGWA
 1. Running a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
 1. Training by running + aerial silks (+ climbing and cycling sometimes)
-   1. Skymarathon del Voltigno on the 5th of May
-   1. Skyrace del Mammut on the 19th of May
-   1. Tre Rifugi Skyrace on the 14th of July
-   1. [Monte Amaro Extreme](https://www.komoot.com/it-it/tour/1487060456) on the 28th of July
    1. La Sirentina Trail on the 29th of September
 
 #### Will get to
@@ -107,9 +104,8 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Helping standardize waveform review tests for the LVK
 1. Improving the NWI's approach to parameter checking
 1. Organizing sessions on data visualization for the Fellowship of Clean Code
-1. Working on the multiband paper
-   1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper, or from Wen+Chen 2010
-   1. Enable simulation of DWD and other low-frequency-derivative signals
+   <!-- 1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper, or from Wen+Chen 2010
+   1. Enable simulation of DWD and other low-frequency-derivative signals -->
 1. Contributing to the [LGWA](/projects/LGWA) whitepaper (deadline: **end of November**)
    1. Writing some preliminary info about localization
    1. Doing some Fisher runs on massive BBH, multiband
