@@ -28,7 +28,7 @@ Also, here you can find information about my upcoming [talks](/talks).
 As for hobbiesI dabble in running D&D and Call of Cthulhu games from time to time.
 In this website you can find information about the big, sandbox-style **Dungeons and Dragons** campaign I'm co-running: [Val Celia](/val_celia).
 
-As for sports, I trail run, cycle and do aerial silks. I like having an active lifestyle, and getting to places under my own power.
+As for sports, I trail run, cycle ([Strava](https://www.strava.com/athletes/11251227)) and do aerial silks. I like having an active lifestyle, and getting to places under my own power.
 
 <!-- I like making **videos**: some of them are related to physics, like [this visualization of Effective One Body eccentric/hyperbolic orbits](https://www.youtube.com/watch?v=xRF-Gc0voik) or [this visual explanation of the different ways to parametrize an eccentric orbit](https://www.youtube.com/watch?v=Mr9t7SLo0I0).
 
