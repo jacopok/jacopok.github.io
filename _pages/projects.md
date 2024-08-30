@@ -179,7 +179,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Making a presentation for how [GWFish](https://github.com/janosch314/GWFish) works
 1. Re-starting the [Fellowship of Clean Code](/_projects/FoCC)
 1. Contributing to the [Einstein Telescope](/_projects/ET) Blue Book
-1. Graduating at the [Galilean school](http://www.unipd-scuolagalileiana.it/) with a [thesis about clean coding practices](https://github.com/jacopok/clean-coding-thesis)
+1. Graduating at the [Galilean school](https://scuolagalileiana.unipd.it/) with a [thesis about clean coding practices](https://github.com/jacopok/clean-coding-thesis)
 1. Making visualizations for EOB orbits with [`eob-visualizer`](https://github.com/jacopok/eob-visualizer)
 1. Roughly learning how Stable Diffusion works
 1. Making a presentation for the GSSI science fair about [LGWA](/_projects/LGWA)
