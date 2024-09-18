@@ -13,6 +13,106 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Diciottesima sessione
+
+### Missione di salvataggio di Erk e di esplorazione alla Central di dos Flums
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Ekkyon, Gerb, Leo
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+Ci siamo diretti verso la Central di Dos Flums, intenzionati a continuare l’esplorazione dei piani superiori dell’edificio. Tuttavia, al nostro arrivo al portone d’ingresso, ci siamo imbattuti in una scena raccapricciante: sia il portone della centrale sia le pareti rocciose della forra sono sporche di sangue, forse il risultato di una violenta colluttazione. In particolare alcune tracce di sangue recano le impronte di una mano di piccole dimensioni. Inoltre, abbiamo percepito in lontananza un lieve gemito di una creatura in fin di vita. Abbiamo subito temuto che la vittima della violenza fosse Erk, e senza indugio ci siamo inerpicati lungo la scarpata, con il chiaro obiettivo di salvare il nostro amico. A una trentina di metri al di sopra del percorso principale abbiamo scoperto una piccola grotta, tana di ragni giganti. All’interno della grotta abbiamo trovato Erk, completamente avvolto in un bozzolo di ragnatele. Abbiamo tratto in salvo e fornito cure d’emergenza al nostro amico. Tuttavia, all’uscita dalla grotta siamo stati attaccati da due ragni giganti. La battaglia è stata vinta senza riportare gravi ferite.
+
+Cessato il pericolo, Erk ci racconta cosa gli fosse successo: è stato attaccato da un mago, che lo ha picchiato per estorcergli il codice di accesso alla centrale. Tuttavia, non avendo nessuna informazione al riguardo, è stato abbandonato dal suo assalitore nella tana dei ragni. L’identikit fornitoci da Erk del suo aggressore era molto vago. Lo ha descritto simile al sottoscritto. Possiamo quindi inferire si tratti di un giovane mago umano. Purtroppo non abbiamo altri indizi sull’identità del criminale. Tuttavia, se è interessato ad accedere alla centrale, è probabile che incroceremo le nostre strade con lui in futuro. Ritengo prioritario completare l’esplorazione della centrale il prima possibile, per anticipare il nostro avversario e scoprirne le intenzioni.
+
+Dopo aver consigliato a Erk di lasciare temporaneamente la sua abitazione in prossimità della centrale per evitare ulteriori aggressioni, ci siamo diretti a completare l’esplorazione del primo piano della centrale. L'ultima stanza rimasta da esplorare al primo piano sembra l’ufficio di colui che era al vertice della gerarchia della centrale. Le nostre disavventure non erano tuttavia ancora concluse, essendo stati attaccati da un grande tappeto presente nello studiolo. Come accaduto nella precedente missione, l’atmosfera particolare di questo edificio sembra poter infondere “vita” in oggetti inanimati! Sconfitta questa nuova minaccia e recuperato dei libri riguardo la storia della costruzione della centrale, ci siamo diretti verso Celina, per tornare in città prima del calare della notte.
+
+La ringrazio per il tempo concessoMi, \
+Fedelmente, \
+Fern Gunnhildr
+
+### Marcia il fuoco sulla Val Celia
+
+Era una fredda giornata di fine estate quando ripresi a frequentare la valle.
+Con l'odore, il brivido, il pizzicore di quella stanza ancora vivo nella memoria, ci incamminammo per la forra con l'intento di ritornare nella Centrâl di Dos Flums e terminarne l'esplorazione.
+Era il giorno 13 settembre e mi trovavo in compagnia dei miei ormai soliti compagni Ekkyon, Fern e Leontopodium.
+
+Dirò subito che l'esplorazione, anche se non priva di intralci, è stata un successo.
+Per quanto ci è attualmente possibile, abbiamo perlustrato tutte le stanze della vecchia centrale di distillazione nanica, ovvero il pian terreno e i due soprelevati.
+Ci mancava l'ultima stanza del corridoio, che si è rivelata la più nobile e spaziosa.
+Arredata ad ufficio, le decorazioni tradivano un certo gusto artistico che finora ci era sfuggito di notare.
+Gli scaffali pieni di libri e le carte sparse ci hanno permesso di riconoscerla come l'ufficio del direttore della Centrâl, carica che fu ricoperta fino all'ultimo dal nano Bonnris.
+Sfortunatamente sembra che la centrale non lasci nessun segreto a buon mercato e, nell'atto di recuperare degli spessi guantoni da lavoro, febbrili di energia, fui io stesso agguantato dal bel tappeto che si stendeva ai piedi degli scaffali.
+Mi sentii stritolare e poi soffocare.
+I miei compagni, in mio soccorso, presero a picchiare il tappeto con me dentro, finché non mi si annebbiò la vista.
+Quando mi riportarono in piedi era tutto finito e il tappeto, logoro, era di nuovo steso al suolo, come ad un tappeto si conviene.
+Questo successe nel pomeriggio e subito dopo riprendemmo la strada per Celina.
+
+Ma il principale movente della mia lettera è quanto venimmo a scoprire prima.
+Eravamo sul sentiero che porta alla centrale e iniziammo distrattamente a notare foglie e rami di vite spezzati, al che Fern raccontò quanto successo con la pianta di vite che aveva portato qui qualche tempo prima.
+Incuriositi dalla forestiera vegetazione guardavamo per terra quando, proprio nei pressi della Centrâl iniziammo a vedere macchie di sangue, ora sul sentiero, ora sulla roccia, ora sui bottoni d'accesso al portone.
+Allarmato dal sangue Ekkyon si sporse con l'udito per avvertire un flebile gemito proveniente dal versante roccioso.
+Subito pensammo al nostro amico Erk e ci precipitammo in suo soccorso tra rami e rocce pericolanti.
+Lo trovammo in una cavità, circa venti metri sopra l'ingresso della centrale, infagottato in un bozzolo di ragnatela.
+Per un momento temetti che questa fosse la chiusura di un percorso circolare che mesi fa ci aveva fatto soccorrere un piccolo omino dai ragni.
+Fortunatamente, una pozione curativa bastò per risvegliarlo.
+Giusto in tempo per una una fuga affrettata giù per il dirupo, che quasi costò la vita a Leontopodium.
+Una volta lontano dai guai, Erk ci spiegò che non per suo fallo finì tra le grinfie dei ragni, e che la sua rovina iniziò prima, quando un uomo incappucciato, in tutto e per tutto somigliante ai cultisti che ci attaccarono nella notte a Cjadaldiaul, lo torturò per cavargli di bocca la chiave per l'accesso alla centrale - che, purtroppo o per fortuna, il povero Erk non conosceva.
+Il nostro amico ci comunicò anche che l'uomo, per trattenerlo e colpirlo senza impaccio, si avvalse dell'uso di una magia perfida.
+Il fuoco che accende gli animi di quella lontana gente è arrivato a bruciare fin qui in Val Celia.
+La Sacra Luce che avevano imparato a venerare deve essere stata scambiata con il bagliore caldo e pericoloso delle fiamme dei carboni che usano.
+I Lumi che illuminano la pianura avranno sicuramente interesse ad accompagnarci in una prossima missione per domare le fiamme che bruciano nel Val Collera.
+
+Adam Otter
+
+## Diciassettesima sessione
+
+### Missione esplorativa alla Central di dos Flums
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Ekkyon, Leo, Tarlin
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+Come concordato, abbiamo intrapreso un’ulteriore missione esplorativa alla Central di Dos Flums. Il primo piano si presenta come uno stretto corridoio sul quale si aprono varie stanze. La prima stanza sembra essere un deposito di rottami e attrezzi in cattivo stato di conservazione. La stanza è inoltre infestata da una colonia di roditori, adattati all’ambiente saturo di elettricità. Uno di loro ha anche dimostrato la capacità di teletrasportarsi!
+
+Proseguendo lungo il corridoio, la seconda stanza sembra uno studiolo, in cui abbiamo trovato due manuali sul funzionamento del distillatore di Aghe Corinte e del suo terminale, al piano terra della centrale.
+
+La terza stanza è un’armeria, apparentemente fuori posto in un luogo di lavoro. La mia ipotesi è che in passato i nani che lavoravano nella centrale avessero sentito la necessità di difendersi da una minaccia esterna. Tuttavia, non appena abbiamo cercato di entrare nella stanza, siamo stati attaccati da delle armi semoventi! Per la precisione, da un pugnale e due spade volanti, oltre che da un’enorme balestra dotata di zampe per la locomozione! Dopo una strenua battaglia siamo riusciti a neutralizzare tutte le armi, inclusa la balestra (determinante è stata l’azione di Ekkyon nel danneggiarne il sistema di lancio dei dardi).
+
+Infine, la quarta e ultima stanza che abbiamo esplorato sembra un laboratorio per la fabbricazione di pozioni.
+
+Prima che potessimo continuare con l’esplorazione del primo piano della centrale, abbiamo sentito dei rumori provenienti dal piano terra, dove la pianta si stava estendendo lungo il pavimento. Per evitare di rimanere bloccati e dover ingaggiare battaglia, abbiamo deciso di porre termine alla missione. Siamo riusciti a lasciare la centrale senza disturbare la pianta che, rispetto alle precedenti missioni esplorative, è ulteriormente cresciuta. Mi auguro che il continuo aumento delle sue dimensioni non costituirà una minaccia per future esplorazioni.
+
+La ringrazio per il tempo concessoMi, \
+Fedelmente, \
+Fern Gunnhildr
+
+### Resoconto missione del 12/07/2024
+
+Ancora una volta ci convinciamo a voler intraprendere l'avventura all'interno della vecchia central, così ci muoviamo in un piccolo gruppo composto da me, Ekkyon, Fern, Leo ed un mio simile Tarlin.
+
+Arriviamo alla central per esplorare gli altri piani.
+Il piano terra risulta però ben protetto dall'ammasso groviglioso di piante mutanti, ma riusciamo a salire al primo piano, attraverso le scale sulla sinistra.
+Notate che dall'analisi del vecchio diario che siamo riusciti a riportare abbiamo scoperto che le scale che portano al piano di sotto sono state fatte esplodere dai vecchi nani del passato in seguito a degli incidenti che avvennero in quel periodo.
+Comunque, saliamo le scale, troviamo diverse porte, 5 per l'esattezza.
+Apriamo la prima, ma prontamente la richiudiamo in quanto era invasa da topi (non semplici topi.... probabilmente animali adattati a vivere in quel luogo e con la magia di quel luogo, emanavano strane scintille come quelle interne all'edificio.
+Apriamo la seconda e troviamo un piccolo studiolo dal quale recuperiamo altri diari, questa volta contenti i segreti del funzionamento del grande distillatore presente al piano di sotto.
+Apriamo la terza porta, e qui cominciano i guai.
+Un gruppo di armi, probabilmente incantate (spade e pugnali fluttuanti per aria) comincia ad attaccarci. Arriva anche un'enorme balestra che sparava arpioni che avrebbero fatta secca una balena... Ma il sottoscritto, armato di un rinnovato coraggio decide di cavalcare l'immondo marchingegno e recidere il filo che usava per sparare. Così avendo indebolito l'arma maledetta siamo stati in grado di sconfiggere tutti i "nemici" entrare nella stanza che si è rivelata essere una vecchia armeria ed infine aprire la quarta porta. (l'ultima non siamo riusciti poichè eravamo troppo esausti e non avremmo retto altre sorprese).
+Siamo quindi tornati al piano di sotto e con non poche difficoltà abbiamo evitato la pianta che ormai si era espansa per granparte terreno e siamo tornati a casa.
+Vorrei annotare i seguenti oggetti che abbiamo riportato:
+
+- un pugnale magico;
+- 4 pozioni;
+- 2 manuali del distillatore.
+
+Qui finisce il mio racconto. \
+In Fede, Ekkyon l'halfling
+
 ## Sedicesima sessione
 
 ### Note in prosa et in versi circa l’audace spedizione del die XVIII mensis Iunii
