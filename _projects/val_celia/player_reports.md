@@ -35,6 +35,8 @@ Fern Gunnhildr
 
 ### Marcia il fuoco sulla Val Celia
 
+{% capture custom_font_section %}
+
 Era una fredda giornata di fine estate quando ripresi a frequentare la valle.
 Con l'odore, il brivido, il pizzicore di quella stanza ancora vivo nella memoria, ci incamminammo per la forra con l'intento di ritornare nella Centrâl di Dos Flums e terminarne l'esplorazione.
 Era il giorno 13 settembre e mi trovavo in compagnia dei miei ormai soliti compagni Ekkyon, Fern e Leontopodium.
@@ -65,7 +67,11 @@ Il fuoco che accende gli animi di quella lontana gente è arrivato a bruciare fi
 La Sacra Luce che avevano imparato a venerare deve essere stata scambiata con il bagliore caldo e pericoloso delle fiamme dei carboni che usano.
 I Lumi che illuminano la pianura avranno sicuramente interesse ad accompagnarci in una prossima missione per domare le fiamme che bruciano nel Val Collera.
 
-Adam Otter
+**Adam Otter**
+
+{% endcapture %}
+
+{{ custom_font_section | custom_font }}
 
 ## Diciassettesima sessione
 
