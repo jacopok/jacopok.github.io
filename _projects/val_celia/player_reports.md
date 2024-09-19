@@ -42,8 +42,8 @@ Con l'odore, il brivido, il pizzicore di quella stanza ancora vivo nella memoria
 Era il giorno 13 settembre e mi trovavo in compagnia dei miei ormai soliti compagni Ekkyon, Fern e Leontopodium.
 
 Dirò subito che l'esplorazione, anche se non priva di intralci, è stata un successo.
-Per quanto ci è attualmente possibile, abbiamo perlustrato tutte le stanze della vecchia centrale di distillazione nanica, ovvero il pian terreno e i due soprelevati.
-Ci mancava l'ultima stanza del corridoio, che si è rivelata la più nobile e spaziosa.
+Per quanto ci è attualmente possibile, abbiamo perlustrato tutte le stanze della vecchia centrale di distillazione nanica, a meno del secondo e ultimo piano.
+Ci mancava l'ultima stanza del corridoio al piano sopraelevato, che si è rivelata la più nobile e spaziosa.
 Arredata ad ufficio, le decorazioni tradivano un certo gusto artistico che finora ci era sfuggito di notare.
 Gli scaffali pieni di libri e le carte sparse ci hanno permesso di riconoscerla come l'ufficio del direttore della Centrâl, carica che fu ricoperta fino all'ultimo dal nano Bonnris.
 Sfortunatamente sembra che la centrale non lasci nessun segreto a buon mercato e, nell'atto di recuperare degli spessi guantoni da lavoro, febbrili di energia, fui io stesso agguantato dal bel tappeto che si stendeva ai piedi degli scaffali.
