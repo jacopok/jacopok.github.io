@@ -128,7 +128,7 @@ Il background è la storia del tuo personaggio fino al momento in cui inizi a gi
 Esistono degli "archetipi" di background che forniscono dei precisi vantaggi per quanto riguarda abilità, linguaggi conosciuti, oggetti che si possiedono all'inizio della partita.
 Puoi scegliere uno qualsiasi di questi archetipi che, a tuo parere, si sposi bene con la storia che avevi in mente per il tuo personaggio.
 
-Puoi trovare un'ampia lista di archetipi di background su [wikidot](http://dnd5e.wikidot.com/#toc3), oppure una più ristretta nelle [basic rules](https://www.dndbeyond.com/sources/basic-rules/personality-and-background#Backgrounds).
+Puoi trovare un'ampia lista di archetipi di background su [wikidot](http://dnd5e.wikidot.com/#toc3), oppure una più ristretta nelle [basic rules](https://www.dndbeyond.com/dnd/basic-rules-2014/personality-and-background#Backgrounds).
 
 #### Caratterizzare il personaggio
 
