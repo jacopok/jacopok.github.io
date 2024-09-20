@@ -73,9 +73,23 @@ horizontal: false
 This is a list of things I'm currently working on, within a timescale around a month.
 It's too many! I know.
 
-1. Working on the multiband paper
 1. Working on the inclination angle posterior feature for BAYESTAR
    1. Paper draft
+1. Peer review
+1. Working on the multiband paper
+1. DMing a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
+1. DMing [Call of Cthulhu](/_projects/CoC) at GSSI ("Dockside Dogs", october)
+1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people (november-december 2024)
+1. Training by trail running + aerial silks + free body calisthenics-like strength (also climbing cycling sometimes)
+   1. La Sirentina Trail on the 29th of September
+
+#### Will get to
+
+This is a list of tasks that I plan to get to in a timescale of a couple of months.
+
+1. Helping in the supervision of master's students about:
+   1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
+   1. DWD/NSWD detection with LGWA
 1. [rehear](/rehear): injection studies with ASTRI + SWIFT
    1. Paper draft
    1. Implementing a simplified model for the IRF of ASTRI
@@ -83,18 +97,6 @@ It's too many! I know.
    1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
    1. Running the same tests with the O3 replay MDC
 1. Helping as a reviewee of TEOBResumS-DALI
-1. Helping in the supervision of master's students about:
-   1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
-   1. DWD/NSWD detection with LGWA
-1. Running a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
-1. Training by running + aerial silks (+ climbing and cycling sometimes)
-   1. La Sirentina Trail on the 29th of September
-
-#### Will get to
-
-This is a list of tasks that I plan to get to in a timescale of a couple of months.
-
-1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/wa/frozen-sick#FrozenSick) with Padova people
 1. Maintaining [`GWFish`](https://github.com/janosch314/GWFish)
    1. Making the small interface fixes requested
    1. Updating the `pypi` release of the code

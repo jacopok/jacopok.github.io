@@ -9,6 +9,8 @@ nav_order: 1
 
 ## Upcoming
 
+- 2024-09-25: [**LVK meeting**](https://lvkmeeting2024.ifae.es/) poster about BAYESTAR + inclination angle, [dcc entry](https://dcc.ligo.org/G2401707)
+- 2024-10-07: [**LGWA meeting**](https://indico.ict.inaf.it/event/2782/overview) talk about multibanding
 - 2024-??-??: LVK GRB group talk about rehear
 
 ## Past
