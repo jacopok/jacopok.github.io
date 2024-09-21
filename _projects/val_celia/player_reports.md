@@ -13,7 +13,7 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
-## Diciottesima sessione
+## Diciannovesima sessione
 
 ### Missione di salvataggio di Erk e di esplorazione alla Central di dos Flums
 
@@ -72,6 +72,34 @@ I Lumi che illuminano la pianura avranno sicuramente interesse ad accompagnarci 
 {% endcapture %}
 
 {{ custom_font_section | custom_font }}
+
+## Diciottesima sessione
+
+### Zucche volanti e manticore
+
+All'illustrissimo e reverendissimo Notaio,
+
+autunnali saluti dal sempre vostro collezionista di fiducia.
+
+In primis, vorrei chieder venia per il ritardo nell’invio di codesto resoconto della nostra precedente impresa. Diversi impegni, tra cui simposi in terre lontane e la redazione di una dettagliata dissertazione sulle mie trascorse avventure, hanno aihmè procrastinato la stesura di codesto rapporto.
+
+Fatto questo dovuto preambolo… Era una calda giornata estiva quando il sottoscritto insieme al pio sacerdote Icaro, l’incantatrice Alchamora, la melodiosa Athanela e il silente Gaspare, ci mettemmo in cammino alla volta di Andreis, allo scopo di carpire nuove informazioni sulla cultura e le usanze del luogo.
+
+Giunti in città, immediatamente ci imbattemmo in Ghisla Abucco, la venerabile Raimonda Tavan e un soggetto a noi ignoto, impegnati in una vivace diatriba riguardante la giovine Tullia Tavan,, fanciulla definita “speciale” poiché incapace di _tornare_ (diventare non-morta) e portatrice di misteriosi poteri arcani. Non volendo apparir molesti, ci limitammo a osservare e procedemmo celermente alla taverna, dove ci attendeva il vecchio Miliano. Da lui apprendemmo che l’ignoto litigante era Bacco Bucco. Questi sosteneva che la piccola Tullia fosse ormai pronta a intraprendere la sua prima missione in solitaria, tuttavia, Raimonda si opponeva fermamente, rifiutandosi di garantirle adeguata scorta. Ordunque offrimmo subito il nostro aiuto come volontari per assistere la giovane nell’impresa. La missione verteva nel recarsi al Colle Alchedo per indagare su una torre occupata da un mostriciattolo, legato, per motivi a me sconosciuti, alle streghe della palude. Come ricompensa, Bacco ci offrì una singolare pozione trasparente con una goccia rossa cangiante al suo interno, quasi vivente.
+
+La nostra compagnia avrebbe sicuramente accettato l’incarico se non fosse giunta Ghisla Abucco a proporci una missione indiscutibilmente più urgente: recuperare del cibo per le maestose aquile di Puccio Bucco, che si apprestavano ormai alla stagione delle covate. Nello specifico, questi nobili rapaci necessitavano dei rari _semi di zucca di monte,_ una particolarissima varietà di zucca che, quando matura, fluttua in alto a mezz'aria per poi esplodere, diffondendo i semi nel circondario. Con pacata riluttanza da parte di alcuni membri del nostro gruppo (che evidentemente non capirono l’importanza di tale missione), ci dirigemmo verso l’unico luogo dove la zucca cresce: il rigoglioso altopiano del Monte Rododendro.
+
+L’impervia scalata fu resa ancora più ardua dall’attacco di una manticora, che per fortuna riuscimmo a scacciare. Giunti alla meta, la bucolica raccolta delle zucche fu interrotta da urla in lontananza e dalla ricomparsa della chimera. Il confronto fu inevitabile. Improvvisamente l’impavido Gaspare fu rapito dalla bestia e trasportato nella sua tana, sopra la scarpata in fondo all’altopiano. Non potevo lasciare che il mio compagno fosse sbranato dall’immonda creatura. In un atto di puro vigore e destrezza, mi arrampicai sulla scoscesa parete, individuai il covo della creatura e, in uno slancio di eroico furore, le balzai in groppa. La vile bestia cercò di disarcionarmi ma non poté far altro che soccombere sotto i colpi del mio poderoso martello. La quiete sembrava ristabilita quando dall’antro ne emerse un’altra che fuggì, probabilmente intimorita dalla nostra possanza.
+
+Ancora guardinghi esplorammo l’antro della bestia dove trovammo un uomo in stato moribondo. Rantolando, ci disse di essere Raimondo, un abitante di Cjaldaldaul (qualora il nome fosse riportato correttamente). Sfortunatamente, il padre e il fratello di Raimondo furono divorati dalle manticore, mentre la moglie e la figlia erano disperse per la montagna. Avremmo voluto aiutarlo a cercare la famiglia ma viste le sue condizioni e l’imbrunirsi della giornata decidemmo di tornare ad Andreis. Qui lasciammo Raimondo alle cure dei locali e consegnammo le preziose zucche a Puccio, in attesa della schiusura delle uova.
+
+Probabilmente avrò mancato di riportare alcuni particolari, e altri dettagli potrebbero esser stati lievemente distorti dalla mia memoria, tuttavia, caro notaio, lo spirito generale del racconto può esser ritenuto veritiero ed degno di fiducia.
+
+In attesa del nostro prossimo incontro la saluto e le auguro il meglio.
+
+Il vostro collezionista e avventuriero di fiducia,
+
+Alviss Rossabarba
 
 ## Diciassettesima sessione
 
