@@ -13,6 +13,32 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Ventesima sessione
+
+### La missione di Tullia
+
+Illustrissimo notaio,
+
+le scrivo il suddetto documento immediatamente dopo le vicende accaduteci oggi. La prego di perdonare possibili refusi ed errori di scrittura, purtroppo la mia mano come la mia mente trema ancora a seguito della sventura appena vissuta.
+
+Nella giornata odierna partimmo in cinque per la volta di Andreis: il sottoscritto Alviss, Athanela, Alcamora, Asboff e Amaranto. La nostra missione: aiutare la piccola Tullia nella sua prima spedizione in solitaria. Senza indugi ci avventurammo nella palude dove la sorte ci fu subito avversa. Qui incontrammo un esserino alquanto strano, con 2 volti nella stessa faccia, il quale ci pose un indovinello promettendo lauti premi. Lo risolvemmo con facilità ma il premio fu inaspettato: un coltello scagliato dritto dritto sul povero Asbof. Sghignazzando l’essere svanì davanti ai nostri occhi senza che potessimo riservagli la dovuta punizione. Visto che Asbof versava in buona salute, continuammo la marcia versi Andreis.
+
+In loco, passammo per la taverna a consegnare del vino a Miliano. Con lui trovammo Raniero, il moribondo che salvammo dalle manticore. Lui ci raccontò che fuggì da Cjalaldiaul in seguito all’arrivo di un sacerdote della Sacra Luce. A causa di questi, i raccolti iniziarono ad esser scarni e sequestrò il carbone prodotto dalla città (il “Cjarbon ros”) per bruciare i boschi vicini. Inoltre il figlio di Raniero gli ha raccontato di aver visto strane persone incappucciate girare per Cjalaldiaul. Successivamente il forestiero ci ricorda che proprio il figlio e la moglie sono ancora dispersi per i monti e che probabilmente si sono rifugiati in alto alla montagna, dove dice sia possibile trovare una sorta di struttura incastonata nella roccia…
+
+Congedateci da Raniero, ci recammo da Puccio Bucco per riscuotere la nostra ricompensa della missione precedente. Arrivati al Rifugio Rapace trovammo appunto Puccio con Tullia, intenti ad osservare il nostro premio: dei maestosi aquilotti. Uno dei due cuccioli sarà pronto per partire con noi fra un mesetto circa.
+
+Dopo i dovuti convenevoli e preparazione, partimmo con Tullia verso il Colle Alchedo dove sarebbe dovuto risiedere un mostriciattolo probabilmente coinvolto negli affari delle streghe. Per raggiungere la meta passammo di nuovo per la palude dove facemmo due incontri inaspettati: il primo con una tale “Sora Mara”, viandante di Andreis amica di Tullia alla quale regalò uno zampino portafortuna; il secondo più pericoloso con un gigante intento a trascinare un peculiare albero che emetteva gemiti e lamenti. Per fortuna il gigante non ci vide e potremmo proseguire illesi verso il colle.
+
+Giungemmo ordunque alla torre, ignari del nostro prossimo sfortunato fato. Notammo subito che accanto alla torre si ergeva una casuppola. Furtivamente, Athanela (travestita da pino), Asbof e Alcamora, spiarono dalla finestra e notarono un piccolo mostriciattolo umanoide pulire gli interni. Dal momento che sembrava innocuo, io, Amaranto e Tullia bussammo alla porta per porre alcune pacifiche domande all’umanoide. Cercammo di estorcergli con la retorica informazioni sulle streghe ma come le nominammo scappò verso la torre a chiamare il suo padrone, il Barone Strigon. Nell’attesa del barone, notai che all’interno della torre (di palese fattura nanica) si potevano leggere delle scritte naniche sulle pareti. Dopo poco, Tubero (il mostriciattolo) ci disse che il barone ci aveva invitati a pranzo e ci accompagnò all’interno della casuppola.
+
+Passato qualche minuto ci raggiunse anche il Barone, un uomo vecchio, canuto, occhi rossi e con un vampirico mantello con colletto a coprire naso e bocca. Già dall’aspetto avremmo dovuto capire le sue cattive intenzioni. Tuttavia, con i suoi modi educati e fini riuscì ad imbambolarci e a indolare la sua storiella. Raccontò che fu rapito dalle streghe nella palude e che dopo aver visto un coniglio bianco con gli occhi rossi si ritrovò con quell’abominevole aspetto. Da quel momento divenne schiavo delle streghe, intrappolato dentro il Colle Alchedo e costretto ad eseguire gli ordini. L’unico modo per spezzare la maledizione, ci disse, era quello di mangiare in compagnia di persone fidate e a loro rivelare il suo vero aspetto. Così aprì il colletto del mantello rivelando una proboscide. Stupidamente, mi fidai del Barone e assaggiai il pasto che ci aveva offerto di modo da poter spezzare la sua maledizione, non seguendo il consiglio di Amaranto e Asbof. A me si unirono anche Athanela, Alcamora e la piccola Tullia, aihmè… Il cibo si rivelò avvelenato e una figura invisibile attaccò alle spalle Asbof mentre eravamo ancora seduti al tavolo. Quel maledetto Barone ci aveva ingannati! Il viscido Tubero cercò di rapire Tullia svenuta per il veleno ma Amaranto riuscì a curarla e Alcamora la teletrasportò fuori la casa. La situazione caotica si fece ancora più confusa quando il Barone fece uscire da mantello uno sciame di strane zanzare. Visto lo scenario decidemmo di uscire tutti dalla casa. Presi in spalle Tullia prima che Tubero potesse rapirla nuovamente e ordinai la ritirata… La fuga fu roccambolesca, tra feriti e oggetti perduti nella foga e nella fretta. Per poco non perdemmo il povero Amaranto, salvato solo grazie all’impavido ciuco barbuto Timavo.
+
+E questo è quanto signor notaio… Questa volta ce la siamo vista brutta… Ma per fortuna tutto è bene quel che finisce bene. La prossima volta saremo pronti ad affrontare il malvagio Baron Strigo, può starne certo.
+
+Rinnovo i miei saluti e le auguro una buona serata,
+
+Alviss Rossabarba
+
 ## Diciannovesima sessione
 
 ### Missione di salvataggio di Erk e di esplorazione alla Central di dos Flums

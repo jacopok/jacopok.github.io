@@ -38,21 +38,14 @@ _Farco Brolo parla moltissimo della città di Farcis, centro nevralgico per il c
 
 _Il primo gruppo di avventurieri che porterà prove dell'avere trovato Farcis riceverà una ricompensa di 1000 monete d'oro._
 
-## Dov'è il paese di Andreis?
-
-_Di recente (quarta sessione) alcuni avventurieri hanno incontrato un nano di nome Flavio Tavan, che sostiene di venire da un villaggio di nome Andreis, tuttora abitato seppure sia da qualche parte nella valle!
-Se il nano dice il vero, questo è molto interessante. Non eravamo a conoscenza di alcuna popolazione che potesse vivere nella valle: come sopravvive lì?_
-
-_In seguito (ottava sessione), Herk il goblin ha rivelato che il villaggio di Andreis dovrebbe situarsi oltre la palude della lepre e del coniglio, avvolto in una perenne nebbia. Sostiene anche che sia un luogo pericoloso._
-
-_Il primo gruppo di avventurieri che porterà prove dell'avere trovato Andreis riceverà una ricompensa di 300 monete d'oro._
-
 ## Contatti persi con Cjadaldiaul
 
 _Ormai da più di un anno non si hanno notizie dal piccolo villaggio di Cjadaldiaul, situato tra le montagne a Nord-Est, oltre al monte Fara. La Chiesa dei Lumini ha dunque chiesto al comune di Celina di mandare degli avventurieri ad investigare e assicurarsi delle condizioni del villaggio. Il villaggio non si trova ufficialmente in Val Celia, ma non è molto distante da essa: si potrebbe aprire una nuova via di accesso alla valle da est._
 
 _Una missione ha già esplorato la strada più diretta, nella Val Collera (nona sessione), trovandola piuttosto pericolosa._
 _Un'altra missione ha raggiunto Cjadaldiaul (undicesima sessione), ma senza esplorarla nel dettaglio e venendo in conflitto con dei figuri provenienti dal villaggio, che pure è parso quieto il giorno successivo._
+
+_Durante il corso della diciannovesima sessione, si è scoperto che simili figuri apparentemente provenienti da Cjadialdiaul si sono probabilmente spinti fino in Val Celia._
 
 ## Rapporti diplomatici col villaggio di Upguur
 
@@ -62,7 +55,7 @@ _Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro s
 
 _Durante una delle precedenti esplorazioni lungo la vecchia strada è stata rinvenuta una grande struttura scavata sulla parete rocciosa, che risponde al nome di "Centrâl di Dôs Flums". Questa struttura sembra essere collegata all'aghe corinte, particolare liquido le cui proprietà magiche sono di grande interesse per il regno. Esplorate dunque la centrale e svelatene tutti i segreti!_
 
-_Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti degli oggetti potenzialmente interessanti nella casa antistante l'ingresso, ora abitata saltuariamente dal goblin Herk (decima sessione). Durante successive esplorazioni degli avventurieri sono riusciti ad entrare (dodicesima sessione) e a esplorare il piano terra della centrale (quattordicesima sessione). _
+_Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti degli oggetti potenzialmente interessanti nella casa antistante l'ingresso, ora abitata saltuariamente dal goblin Herk (decima sessione). Durante successive esplorazioni degli avventurieri sono riusciti ad entrare (dodicesima sessione) e a esplorare il piano terra della centrale (quattordicesima sessione) e il primo piano (diciassettesima e diciannovesima sessione). _
 
 # Missioni completate
 
@@ -78,3 +71,15 @@ Gli avventurieri hanno affrontato la megera e sono stati vittoriosi, ma questa �
 _Con più urgenza che mai vi chiedo dunque di accorrere in loro soccorso. Grazie alla conchiglia reperita dalla spedizione vi sarà possibile respirare sott'acqua, e la fiaccola Sir Galadrim sta portando buone nuove da Olèe: qualcosa è stato compreso relativamente la nefanda acqua nella quale sono costrette le nostre guardie._
 
 _Il mio fido Maifredo ha letto ogni libro disponibile sulla possibilità di combattere sott'acqua e suggerisce di utilizzare coltelli, giavellotti, tridenti, lance o spade corte._
+
+## Dov'è il paese di Andreis?
+
+_Di recente (quarta sessione) alcuni avventurieri hanno incontrato un nano di nome Flavio Tavan, che sostiene di venire da un villaggio di nome Andreis, tuttora abitato seppure sia da qualche parte nella valle!
+Se il nano dice il vero, questo è molto interessante. Non eravamo a conoscenza di alcuna popolazione che potesse vivere nella valle: come sopravvive lì?_
+
+_In seguito (ottava sessione), Herk il goblin ha rivelato che il villaggio di Andreis dovrebbe situarsi oltre la palude della lepre e del coniglio, avvolto in una perenne nebbia. Sostiene anche che sia un luogo pericoloso._
+
+_Il primo gruppo di avventurieri che porterà prove dell'avere trovato Andreis riceverà una ricompensa di 300 monete d'oro._
+
+Nella quindicesima sessione, Andreis è stata raggiunta!
+Nella sedicesima e diciottesima, il paese è stato ulteriormente esplorato.
