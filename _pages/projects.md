@@ -73,10 +73,10 @@ horizontal: false
 This is a list of things I'm currently working on, within a timescale around a month.
 It's too many! I know.
 
+1. Working on the multiband paper
+   1. Making presentations for it
 1. Working on the inclination angle posterior feature for BAYESTAR
    1. Paper draft
-1. Peer review
-1. Working on the multiband paper
 1. DMing a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
 1. DMing [Call of Cthulhu](/_projects/CoC) at GSSI ("Dockside Dogs", october)
 1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/dnd/wa/frozen-sick#FrozenSick) with Padova people (november-december 2024)
