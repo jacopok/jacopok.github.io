@@ -13,6 +13,25 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Ventunesima sessione
+
+### Missione di abbattimento della pianta gigante alla Central di dos Flums
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Ekkyon, Gerb, Fûc
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+La recente missione si è rivelata densa di avvenimenti e di pericoli.
+Come riportato in precedenti resoconti, il piano terra della Central di Dos Fums era infestato da una enorme pianta avvinghiata a un distillatore di aghe corinte. Essendo una grave minaccia per la sicurezza delle esplorazioni, abbiamo deciso di eliminarla. L’aria della centrale è satura di una particolare luminescenza, che abbiamo deciso nominare “lus corinte”, e che sembra rinvigorire la pianta. Studiando i libri nanici rinvenuti in precedenti missioni presso la centrale, abbiamo costruito un macchinario in grado di concentrare su di sé la lus corinte, creando una zona priva di questo fenomeno. Abbiamo nominato tale assenza come “ombre corinte”. Non tedierò la Sua attenzione con dettagli tecnici di poco valore. Basti sapere che questo semplice macchinario convoglia la lus corinte sulla punta di un’asta di metallo, per poi scaricarla a terra tramite un lungo cavo. Il dispositivo si è dimostrato efficace nel generare una zona di ombre corinte estesa una trentina di metri. La pianta si è subito dimostrata infastidita dalla zona d’ombra corinta, e ne abbiamo approfittato per dare il via al nostro assalto. La pianta ha reagito con violenza, confermando la sua estrema pericolosità. Tuttavia, il valore e l’ingegno dei sopracitati avventurieri ha prevalso sulla minaccia che incombeva su di noi. E questo nonostante svariati imprevisti. Infatti, la pianta ha dimostrato la capacità di controllare la lus corinte, tentando di concentrarla su se stessa per rinvigorirsi. Il tentativo è tuttavia fallito grazie al nostro ingegnoso macchinario. Oltretutto, la pianta non è stata il nostro unico avversario, dato che abbiamo dovuto anche affrontare l’attacco di un’orda di topi aggressivi e di tre creature volanti, composte esse stesse di lus corinte e fuoriuscite dal distillatore di aghe corinte.
+Oltre a ciò, a metà battaglia il terreno è stato scosso violentemente più volte, e la pressione del vapore bollente è fuoriuscito dalle tubature della centrale. Il prode Fuk, colpito da tali sbuffi, è andato incontro a una metamorfosi parziale, che lo ha dotato di un paio di zanne simili a quelle di animali esotici noti come “trichechi”. Non abbiamo tardato molto a scoprire che i tremori della centrale erano causati da “qualcosa” presente nel distillatore stesso, il quale aveva stabilito un contatto telepatico con Ekkyon. Tramite il nostro compagno abbiamo scoperto che una creatura, di nome Salkhazel, era rimasta intrappolata da quasi 9 anni nelle aghe corinte, da cui non poteva liberarsi in quanto il suo corpo solubile si era dissolto. Titubanti per via dei suoi modi inquietanti, abbiamo tuttavia deciso di liberare Salkhazel dalla sua prigionia, tramite un processo tecnico di cui Le risparmierò i dettagli. La creatura, una volta liberata, ha dunque mostrato il suo vero aspetto: un essere dalla forma umanoide ma dal corpo fatto interamente di sale! Arrogante, egocentrico, spocchioso e vanaglorioso, invece di rispondere educatamente ai comprensibili quesiti dei sopracitati avventurieri, ha liquidato la questione con poche e sbrigative risposte. Abbiamo però scoperto una verità sconvolgente!
+L’incendio che ogni 5 Dicembre imperversa sul Monte Fara sembra essere collegato a una “festa annuale” a cui Salkhazel e altre creature sono soliti partecipare. Abbiamo strappato all’ingrata creatura la promessa di un incontro proprio in tale data, tra poco più di due mesi, per fare luce su questo oscuro mistero della Val Celia.
+
+La ringrazio per il tempo concessoMi,
+Fedelmente,
+Fern Gunnhildr
+
 ## Ventesima sessione
 
 ### La missione di Tullia
