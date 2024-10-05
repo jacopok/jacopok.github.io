@@ -138,16 +138,46 @@ Possibilità di effetti negativi anche seri. Tira 1d12 e aggiungi il tuo modific
 - 12 - 13 Fuggi e puoi ad aiutare un compagno con un +1 o +2 a tua scelta (si applica prima di risolvere un eventuale risultato 1 - 2 di un compagno)
 - 14+ Fuggi, e puoi convertire il risultato di un compagno in un 10 (come sopra, si applica per primo)
 
-## Oggetti magici
+## Oggetti preziosi o magici
+
+Al ritrovamento di oggetti di valore, è possibile ispezionarli (prova in Arcana/Storia) per stimarne il prezzo.
 
 Alla fine di ogni missione assegnata da Rodoaldo Venturoso, il suo notabile Maifredo Ronzo chiede conto di eventuali oggetti preziosi (e/o magici) trovati.
 
-Le regole sono le seguenti: per ogni oggetto dichiarato, verrà stimato il suo valore e ci saranno due possibilità:
+Per ogni oggetto dichiarato, verrà valutato il suo valore e ci saranno due possibilità:
 
 - l'oggetto può rimanere nelle mani degli avventurieri che lo hanno trovato, se questi pagano una tassa pari al 30% del suo valore
 - l'oggetto può essere venduto al Visconte, che d'ufficio pagherà il 50% del suo valore.
 
-È naturalmente anche possibile non dichiarare un oggetto trovato. In tal caso, all'inizio della sessione successiva a cui parteciperà il personaggio in possesso della merce verrà stabilito se e quali conseguenze ci saranno per questa infrazione (se scoperta).
+È anche possibile non dichiarare un oggetto trovato. In tal caso, chi lo vuole tenere deve effettuare una prova in DEX (Sleight of Hand) oppure CHA (Deception).
+
+Sulla prova si applicano i seguenti modificatori:
+
+- Bonus per lo stato di allerta delle guardie: attualmente +4 (controlli laschi)
+- Modificatore per la taglia dell'oggetto:
+  - Tiny: +1
+  - Small: 0
+  - Medium: -1
+  - Large: -3
+  - Huge: -6
+  - Gargantuan: -10
+- Malus per oggetti magici: -2
+- Malus per utilizzo previsto:
+  - Conservazione/collezionismo: +1
+  - Riutilizzo nelle successive missioni: 0
+  - Vendita al mercato nero: -2
+
+Il risultato del tiro è valutato come segue:
+
+- 10+: nessuna conseguenza;
+- 7-9: il sotterfugio viene notato, e qualcuno informa le autorità - questo fornisce un malus di cattiva reputazione a future prove analoghe, di -1;
+- 6: l'oggetto viene trafugato da qualcuno che non ha a che vedere con le autorità;
+- 5-: venite colti in flagrante. L'oggetto è sequestrato, viene applicata una multa pari al suo valore, e la cattiva reputazione dovuta a questo costituisce un malus di -3.
+
+Il malus per la cattiva reputazione tornerà ad alzarsi di 1 punto per ogni oggetto successivamente dichiarato.
+
+La vendita dell'oggetto al mercato nero è una downtime activity, richiede un investimento di 25gp e una settimana. Il venditore fa un tiro in CHA (Persuasion) e riceve un'offerta sulla base di esso, che andrà dal 50 al 150% del vero valore dell'oggetto.
+Si può rifiutare questa offerta e dedicare altre settimane alla ricerca di un'affare migliore a piacimento.
 
 ### Lista dei desideri
 
