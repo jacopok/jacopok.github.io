@@ -32,6 +32,20 @@ La ringrazio per il tempo concessoMi,
 Fedelmente,
 Fern Gunnhildr
 
+### Resoconto missione per rendere sicura la centrâl:
+
+In data 2 ottobre il sottoscritto Ekkyon, fûc il nano, fern l’umano e non ricordo il nome dell’altro umano ███ ██ ██████████ ███ ████ █████████ ██████████ ██ ████ █████, ci incamminiamo fiducioso di liberare il piano terra della centrâl dalla pianta mutante.
+
+Considerando ormai la nostra esperienza abbiamo costruito un aggeggio per attirare quanto più possibile, la ormai nominata “LUS CORINTE”, nella speranza di indebolire la pianta.
+Arrivati fuori la porta incontriamo al solito Herk tornato in piena salute dopo l’incidente coi ragni.
+Non mi soffermeró troppo riguardo a come abbiamo sconfitto la pianta abominevole, più che altro abbiamo fatto una nuova amicizia con un “essere” fatto di sale che era imprigionato nel grande recipiente che conteneva l’aghecorinte.
+Il suo nome è Salkhazel, ed ha detto di trovarsi qui da quasi 9 anni (dalla famosa notte del 5 dicembre, quando venne con i suoi amici)…ad ogni modo dopo averlo salutato ci ha detto che sarebbe tornato il prossimo 5 dicembre con i suoi amici, e si è tuffato nel buco da dove passa la carrucola.
+E questo è quanto, la centrale ora è libera dai pericoli (eccetto per il secondo piano che non abbiamo ancora esplorato).
+
+In fede,
+
+Ekkyon l’Halfling
+
 ## Ventesima sessione
 
 ### La missione di Tullia
