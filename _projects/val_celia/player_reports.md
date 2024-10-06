@@ -15,6 +15,45 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 ## Ventunesima sessione
 
+### "L'inzen bati dut"
+
+{% capture custom_font_section %}
+
+La nostra missione ufficialmente iniziò all'alba del 2 ottobre, quando ci riunimmo nel deposito dove con Fern avevamo lavorato negli ultimi tempi.
+In realtà ebbe inizio ben prima, precisamente nel giorno in cui, parlando con il legato Oronzo, avevamo concordato misure al sostegno dello sviluppo di mezzi d'aiuto agli avventurieri.
+Già in quel momento era chiaro, a noi e al Marchese stesso, che le forze in gioco nella Centrâl di Dos Flums, e più in generale in Val Celia, erano troppo ingenti per un gruppo di esploratori impreparati: i rovi avevano colonizzato l'atrio di ingresso e si dimostravano ostili e pericolosi, rinvigoriti dall'aghecorinte che pasceva loro e chissà quali altre mostruosità.
+Avevamo, dunque, spulciato i manuali nanici, eccellente fonte di informazioni tecniche e teoriche sul funzionamento dei loro meccanismi e della natura a cui essi si ispiravano.
+Da qui avevamo intuito che la sostanza dissolta nell'aere della Centrâl doveva essere un sottoprodotto dei marchingegni lì ubicati, e strettamente imparentata con il mezzo di cui son composti i fulmini e le scosse.
+Ci siamo così figurati di tornare al tempo passato, nelle spoglie di un gruppo di nani inventori, e abbiamo cercato di ricalcare i loro pensieri, fino a produrre un meccanismo dal nostro ingegno.
+La macchina doveva poter essere alimentata con l'Aghecorinte (una volta purificata e resa maneggevole), ma anche dall'olio di gomito tramite una manovella e un nastro vetrato.
+Il suo scopo era di convogliare tutta la luxorinte - così abbiamo nominato la sostanza delle saette - verso un'antenna, in modo da proteggerci dal suo effetto nocivo e da indebolire la pianta, che sembrava nutrirsene.
+Come avremmo dovuto intuire, la centrale avrebbe attivamente lavorato contro di noi e, di fatto, quello che riuscimmo a ottenere fu solo una zona di "ombra" dalla luxorinte, attiva finché la macchina fosse alimentata.
+
+Una volta entrati nella Centrâl, allestimmo la nostra antenna, tenendoci alla larga dal serbatoio di aghecorinte con la pianta.
+Subito ci accorgemmo della precarietà della nostra situazione: dovevamo prendere un'iniziativa e concludere l'assedio il prima possibile.
+Coordinando i nostri sforzi, colpimmo la pianta con tutto quello che avevamo.
+Quando sembravamo stare avendo la meglio, la Centrâl rincarò la dose - quasi avesse volontà propria - mandandoci contro orde di ratti stregati e producendo fantasmi di luxorinte.
+Lo scontro proseguiva acceso più che mai.
+
+Fortunatamente tutto giunse al termine quando riuscimmo a estirpare quell'aberrazione della natura, poiché ci accorgemmo che il giovane Ekkyon aveva intanto familiarizzato con i fantasmi, rendendoli docili.
+Quando riuscimmo a distoglierlo dal suo gioco capimmo che era stato avvicinato, nella mente, da un essere che, imperioso, gli prometteva grandi compensi se l'avesse liberato dal serbatoio dell'aghecorinte.
+Noi altri, sospettosi della sua arroganza, fermammo Ekkyon nel suo intento di scagliarsi contro il serbatoio di vetro ed esigemmo ulteriori spiegazioni.
+Lo spirito nella boccia si presentò come Salhazel e ci spiegò che era intrappolato nel liquido da 3225 giorni.
+A queste parole mi ritornò alla mente la nota salata che avevo provato nell'assaggiare l'aghecorinte durante le mie analisi: capii così che lo spirito non dovesse poi essere così spirituale, ma semplicemente disciolto come sale in acqua.
+Provammo quindi a riciclare le nostre recenti competenze in materia di luxorinte per catalizzarlo fuori dalla vasca.
+Non appena fatto ciò, lui si materializzò davanti a noi, sgradevole ma affascinante, come solo può esserlo un cristallo antropomorfo armato di scimitarra.
+Salhazel aveva fretta di sparire giù per le scale crollate, ma ebbe comunque tempo di prendersi gioco della nostra debolezza, prima di cercare di dileguarsi.
+Dico cercare, perché a metà via nel suo volo nel vuoto restò bloccato - dall'alto della sua potenza - in una trappola ordita dai coboldi che, così scoprimmo, abitano la rete di cunicoli scavati dai nani.
+Approfittammo del suo impaccio per strappargli via l'informazione che nella notte del 5 dicembre lui e i suoi "compari" tornano qui a "far baldoria", e i fuochi, visibili fin da Celina, non sono che manifestazione del giubilo dei coboldi per la festa.
+In effetti, facendo due conti, proprio in una di quelle notti brave di nove anni prima Salhazel, ebbro dell'atmosfera, si gettò incoscientemente nella boccia.
+Soddisfatti della nostra rivincita morale sull'arrogante uomo-cristallo, e orgogliosi del nostro ingegno, ci ridirigemmo in fine a Celina.
+
+**Adam Otter**
+
+{% endcapture %}
+
+{{ custom_font_section | custom_font }}
+
 ### Missione di abbattimento della pianta gigante alla Central di dos Flums
 
 Sua Eccellenza,

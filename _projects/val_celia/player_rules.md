@@ -57,6 +57,12 @@ Con le loro esplorazioni, i personaggi potranno guadagnare **ricchezze ed esperi
 
 Il **tempo** scorre grossomodo allo stesso ritmo fra la Burlanija e il mondo reale: le stagioni saranno le stesse, e anche il calendario. Anche quando non ci sono avventurieri nei dintorni, il mondo procede lo stesso!
 
+### I riposi sono lunghi!
+
+Usiamo le regole del "gritty realism": i riposi brevi per noi durano una nottata di 8 ore di sonno, mentre per un riposo lungo serve un'intera settimana.
+
+Unica eccezione a questa regola è la meccanica dell'esaustione: per recuperarne un punto è sufficiente una notte, ovvero un riposo breve.
+
 ## Fuga e ritirata
 
 Se il party si trova in combattimento e ne vuole uscire in modo veloce al tavolo, oppure se arriva alla fine prestabilita della sessione durante un combattimento, può usare la meccanica della **Fuga**.
