@@ -74,9 +74,7 @@ This is a list of things I'm currently working on, within a timescale around a m
 It's too many! I know.
 
 1. Working on the multiband paper
-   1. Making presentations for it
 1. Working on the inclination angle posterior feature for BAYESTAR
-   1. Paper draft
 1. DMing a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
 1. DMing [Call of Cthulhu](/_projects/CoC) at GSSI ("Dockside Dogs", october)
 1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/dnd/wa/frozen-sick#FrozenSick) with Padova people (november-december 2024)
@@ -144,6 +142,7 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 1. Learning to play bass
 1. Secret project with Filippo
 1. Make a page on this website with matplotlib tips and tricks
+1. Can we include the full-relativistic eleastic medium treatment from Belgacem+24 in a seismic simulation code?
 
 ##### Questions
 
