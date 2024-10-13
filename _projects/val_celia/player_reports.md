@@ -13,6 +13,120 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Ventiduesima sessione
+
+### Missione: vendetta a Colle Alchedo
+
+Codesto umile resoconto narra di un’avvincente avventura, \
+condotta da soli quattro personaggi senza (troppa) paura, \
+Belfaga, Icaro, Lord Opeauf e Alvis vi lasceranno di stucco \
+e parton subito da Andreis alla ricerca di Bacco Bucco.
+
+Superata la palude senza che fosse danneggiato nessuno, \
+in taverna, casa Tavan e casa Bacco non trovaron Bucco alcuno, \
+ma finalmente a casa Stella da Adalasha li condusse un ritornato, \
+e Bacco Bucco fu convinto: in missione verso la torre fu arruolato! \
+in cambio però di questa sua coraggiosa mossa, \
+il gruppo rinuncia a ricevere la pattuita pozione rossa.
+
+La palude nuovamente non sortisce alcun danno \
+e si giunge alle porte della torre senza nessun affanno, \
+si ode un gran trambusto all’interno della casetta, \
+mentre fuori due goblin stan cuocendo una carnosa cenetta. \
+Per timore di subire dai due goblin una più che scontata sconfitta, \
+i nostri “coraggiosi” eroi tendono loro un’imboscata nella palude più fitta: \
+proiettano un succulento cinghiale, imitandone persine il verso animalesco, \
+attirando verso di loro i nemici, pronti a consumare un pasto fresco.
+
+Belfaga però non nasconde bene un braccio e svela l’imboscata, \
+permettendo ai due goblin di batter subito, urlanti, in ritirata. \
+Nella fuga frastornante, Icaro uccide il primo con un cocente raggio di luce, \
+e Lord opeauf trafigge il secondo con un giavellotto infuocato, che morte truce! \
+le urla dei due neo defunti però chiaman fuori altri 3 goblin dalla casetta.. \
+cosa faranno i nostri eroi? Ma certo! “Diam fuoco al tetto! È fatto di paglietta”.
+
+Con la casa in fiamme, Icaro e Belfaga danno sfogo alla loro arte magica: \
+1, 2, 3… il primo bolle vivo, il secondo fulminato e il terzo sgretolato, che fine tragica! \
+Ma ecco che, tra i graffi randomici ricevuti da un essere invisibile, \
+compare il vampiresco Barone con uno sciame di zanzare temibile.
+
+Guardate che novità (pt.2): Icaro e Belfaga danno sfogo alla loro arte magica: \
+irradiati di luce prima e fatti esplodere poi, gli insetti fan proprio una fine tragica! \
+La lotta contro il barone è tanto dura.. “ma perché abbiam scelto questa avventura”? \
+ma unendo le forze, attacco dopo attacco, si giunge ad una inaspettata chiusura: \
+Scherzone! Guardate che novità (pt.3): Icaro da sfogo alla sua arte magica: \
+Il barone si accascia, ironia vampiresca della sorte, al chiaro di luna. Che fine tragica!
+
+Vittoriosi entriamo nella torre del vampiro defunto, \
+sembra ci siano solo scale distrutte, ma a un certo punto… \
+si intravedono lungo le pareti 3 scritte in lingua nanica: \
+(perdonerete al narratore l’interruzione della prosa rimica) \
+
+1. Conquista la tigre, il dragone, il gigante infuriato, uomini e re. Tutti cadono vinti ai
+   suoi piedi. \
+2. Ha radici che nessuno ha veduto mai, più alta degli alberi assai; lassù, tra le nuvole,
+   e non si muove mai di qua. \
+3. Pur non avendo né ali né gambe può volare lontana e non può essere catturata.
+
+I nostri eroi notano 8 piastrelle sul pavimento disposte in lungo, \
+raffiguranti: una spada, un albero, una montagna, una volpe, un fungo, \
+e ancora: un nano che dorme, un nano che urla e un’ascia. Che fare? \
+Idea brillante! In base alle 3 definizioni scegliamo 3 piastrelle. Elementare! \
+Schiacciando assieme il nano che dorme, la montagna e il nano che urla \
+si apre un passaggio segreto! Pronti ad esplorarlo, notiamo però una burla.
+
+Un ramoscello svolazza amichevolmente nell’aria e, tra doti diplomatiche e magiche, \
+i nostri eroi comunicano con l’essere invisibile che in battaglia graffiava loro le natiche. \
+si scopre essere un essere etereo, che non può parlarci \
+ma scrivendo sul fango si scusa. Ma come comunicarci?
+
+Guardate che novità (pt.4): Belfaga da sfogo alla sua arte magica \
+e leggendo i suoi pensieri comunica a noi tutti la sua storia tragica: \
+Da Andreis fu prelevato, torturato nella palude e ucciso da una strega. \
+Maledetto, com’è ora scomparirebbe lasciando la palude, e quindi ci prega: \
+“ero controllato dal barone con un amuleto, ma ora che son libero vi imploro, \
+riportate qui mia figlia Ida per un ultimo saluto, e lascerò il mondo con decoro.”
+
+Promettiamo all’invisibile etereo di parlare con Ida e di portarla da lui in futuro, \
+in un punto ben preciso alle porte della palude, perché vederlo è alquanto duro. \
+le racconteremo dell’alba con lei e suo padre sul monte Rododendro. Ci crederà? \
+Ricordandole la loro conta dei ritornati fuori dalla nebbia, siam certi che ci seguirà.
+
+Aiutato il prossimo, entriamo dunque nella cripta buia segreta. C’è un tomba! \
+con un’armatura nanica poggiata su di essa. Ci faremo dei soldini, che bomba! \
+si intravede una pergamena che recita in lingua nanica: \
+(riperdonerete al narratore l’interruzione della prosa rimica)
+
+“Ho visto la caduta di Farcis. Ho combattuto contro i diavoli ferocemente. Ho visto cadere
+compagni, civili morire per mano dei colpi sadici dei mostri o sotto le macerie della città
+ormai in rovina. Ferito, perse le forze e la speranza, da solo son fuggito quaggiù,
+ritirandomi in questa torre dove ho prestato servizio per tanti anni. In questa vita non ho
+più forze, né volontà di combattere. Però spero che un giorno i Cjolt e i loro diavoli
+vengano sconfitti. Per questo lascio qui la mia armatura, e con essa il mio spirito. Loro
+combatteranno al fianco di chi vorrà vendicare noi Forador.”
+
+Fatta scorta di armi e cimeli da poter vendere per ricavarci qualcosa, \
+saliamo infine al primo piano, nella sola stanza ordinata e non appiccicosa.
+
+Una bara penzola dal soffitto e c’è un diario su una scrivania, \
+In cui il barone soleva scrivere in totale assenza di compagnia. \
+Decidiamo di sbirciare per ricavare informazioni preziose, \
+che vi riporterò in rima corsiva, sperando non risultino leziose.
+
+La palude è in costante espansione e alla torre è giunto un nuovo aiutante invisibile, \
+che aiuterà Tubero nelle mansioni domestiche, per rendere quel luogo più vivibile. \
+Costui è un etereo maledetto dalla strega Agata, la stessa megera che… \
+ha distrutto un villaggio di mezz’uomini senza un sensato perché. \
+Diversi nemici avventurieri (parlo di noi) sono stati scacciati da quel posto, \
+finché le streghe hanno inviato dei goblin per renderlo, da espugnare, più tosto.
+
+Salendo sul tetto troviamo un calderone con resti viventi, \
+e avvelenandoci un po’ lo svuotiamo senza troppi complimenti. \
+Tornando ad Andreis poniamo fine a questa avventura, \
+dunque il mio resoconto può ricever, in rima, chiusura.
+
+Lord Opeauf
+
 ## Ventunesima sessione
 
 ### "L'inzen bati dut"
@@ -86,6 +200,18 @@ In fede,
 Ekkyon l’Halfling
 
 ## Ventesima sessione
+
+### Note in prosa et in versi circa l’audace spedizione del die XXIX mensis Septembris
+
+Vergate dal Vostro devoto Amaranto, vate laureato.
+Adunata all'alba, l'acclamata A-Assemblea (ei-tim in elfico), avvalentesi degli avventurieri Athanela, Alcamora, Asbof e Alviss, accompagnati dall'aedo Amaranto, annotatore autenticato dall'ammirabile alta autorità aristocratica, se ne andò da Celina con gli animi altissimi.
+Attraversate alacremente le agre aree, nell'acquitrino ci abboccammo con un accozzo aberrante, di apparenze affatto affollate e arcuato nell'appresso. Atroce, ma ne apprezzammo l'arguzia nell'adescarci con ambigue affermazioni, come apprezzammo l'arma con cui ci assalì, ancorché non approvassimo l'aggressività arbitraria dell'atto.
+Arrivati all'abitato di Andreis, anzitutto ci accordammo con l'affannato Raniero, antecedentemente abitante di Cjadaldiaûl, accolto in asilo dagli andreani. Assicurammo l'afflitto che, ascese le alture del Rododendro, avremmo aiutato i suoi affini, l'amata Costanza e l'adolescente Anselmo, che agogna abbracciare, ad affrancarsi dai loro affanni. Ma l'azione accordata all'abbattuto avrà da attendere ancora.
+Approcciammo l'asilo delle aquile, apprezzando l'abbondante alimentazione degli aquilotti, in assidua appetenza di arancione aerozucca alpina. I loro avi Annalisa e Annachiara approvavano alteri lì accanto. Accapo a non ampia attesa accresceranno ad adulti.
+Avevamo poi appuntamento con l'apprendista dell'Arte dell'amuleto amniotico, Tullia, per andare all'Alcheda altura. Attardandoci un attimo ci accomiatammo da Ida, amica della nostra accompagnatrice. Nell'acquitrino analizzammo l'attività di assurdi artropodi che si adoperano per annullare le alterazioni antropiche attuate all'ambiente.
+Ci accadde di accompagnarci a Sora Mara, che ci ammonì circa l'andare al di là dell'Alchedo e di adottare ampia attenzione nell'aggirarsi lì attorno. L'avventura si aggravò allorché un altissimo acromegalico, che aveva appresso un albero apparentemente animato, attraversò l'area. Ci annidammo negli arbusti, attendendo che andasse altrove. Appurata l'apprensione di Tullia, l'amabile Mara, accomiatandosi, le affidò un artefatto apotropaico, che nell'aspetto assomiglia ad un arto animale amputato.
+Arrivammo appresso l'abitazione che alloggia l'aborto dall'apparenza antracite con l'abnorme apparato apicale, Tubero. Allorché gli altri si affacciavano ad un'apertura, Alviss e chi annota, adducendo abilmente alibi amministrative e assistenziali, accedevano all'alloggio, accolti addirittura dall'anfitrione, il Barone Strigòn, di agghiacciante aspetto. L'aristocratico afferma di affliggersi, assoggettato da un anatema affibbiatogli dalle anziane abitanti antipatiche degli acquitrini, altressì alterandogli le apparenze con apparato adunco appeso anteriormente (ma nell'area alta). Accordando affidamento all'aristocratico, Alviss, Athanela e Alcamora assaggiarono un ambiguo alimento, ahimè, avvelenato. Accorgendosi acutamente di un astante a-visibile, Tullia ci avvertì atterrita: l'agguato accadde d'acchito, avverso ad Alviss, poi anche agli altri. Appariva appropriato arretrare e abbandonare affrettandosi l'affollata abitazione, allontanandosi dall'abbietto e adirato Strigòn e astenendosi dall'aspettare un attimo. Arrivarono ad un alito dall'accopparci, dall'affondarci all'aldilà. Alfine arrivammo abbasso dall'altura, andandocene alacremente ad Andreis, alterati dall'angoscia, ma ancora non affranti nell'animo.
+Adesso mi accommiato in atto di adempiente acclamazione dell'Altezza Vostra.
 
 ### La missione di Tullia
 
