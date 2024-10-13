@@ -93,7 +93,6 @@ le racconteremo dell’alba con lei e suo padre sul monte Rododendro. Ci creder�
 Ricordandole la loro conta dei ritornati fuori dalla nebbia, siam certi che ci seguirà.
 
 Aiutato il prossimo, entriamo dunque nella cripta buia segreta. C’è un tomba! \
-con un’armatura nanica poggiata su di essa. Ci faremo dei soldini, che bomba! \
 si intravede una pergamena che recita in lingua nanica: \
 (riperdonerete al narratore l’interruzione della prosa rimica)
 
@@ -105,9 +104,7 @@ più forze, né volontà di combattere. Però spero che un giorno i Cjolt e i lo
 vengano sconfitti. Per questo lascio qui la mia armatura, e con essa il mio spirito. Loro
 combatteranno al fianco di chi vorrà vendicare noi Forador.”
 
-Fatta scorta di armi e cimeli da poter vendere per ricavarci qualcosa, \
-saliamo infine al primo piano, nella sola stanza ordinata e non appiccicosa.
-
+Saliamo infine al primo piano, nella sola stanza ordinata e non appiccicosa.\
 Una bara penzola dal soffitto e c’è un diario su una scrivania, \
 In cui il barone soleva scrivere in totale assenza di compagnia. \
 Decidiamo di sbirciare per ricavare informazioni preziose, \
