@@ -173,7 +173,7 @@ Alla fine di ogni missione assegnata da Rodoaldo Venturoso, il suo notabile Maif
 
 ### Fare i furbetti
 
-Se invece si decide di tenersi l'oggetto trovato, ci si potrà fare quello che si vuole, ma assumendosi il rischio di venire beccati. Questo rischio si tradurrà in un tiro di d20, più precisamente in una prova in destrezza o carisma (a scelta). A questo tiro verranno applicati dei modificatori che dipendono da:
+Se invece si decide di tenersi l'oggetto trovato, ci si potrà fare quello che si vuole, ma assumendosi il rischio di venire beccati. Questo rischio si tradurrà in un tiro di d20, più precisamente in una prova in destrezza (sleight of hand) o carisma (deception), a scelta. A questo tiro verranno applicati dei modificatori che dipendono da:
 
 - **Stato di allerta delle guardie**: quando è tutto tranquillo +4
 - **Cosa vuoi fare con l'oggetto**:
