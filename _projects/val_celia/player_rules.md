@@ -57,11 +57,19 @@ Con le loro esplorazioni, i personaggi potranno guadagnare **ricchezze ed esperi
 
 Il **tempo** scorre grossomodo allo stesso ritmo fra la Burlanija e il mondo reale: le stagioni saranno le stesse, e anche il calendario. Anche quando non ci sono avventurieri nei dintorni, il mondo procede lo stesso!
 
-### I riposi sono lunghi!
+## I riposi sono lunghi!
 
 Usiamo le regole del "gritty realism": i riposi brevi per noi durano una nottata di 8 ore di sonno, mentre per un riposo lungo serve un'intera settimana.
 
 Unica eccezione a questa regola è la meccanica dell'esaustione: per recuperarne un punto è sufficiente una notte, ovvero un riposo breve.
+
+## Esaustione
+
+Per l'esaustione usiamo le regole del PHB2024 (con eccezione dello short rest descritta sopra):
+
+- Si possono avere da 0 (stato normale) a 5 livelli di esaustione. Il sesto livello di esaustione comporta la morte del personaggio.
+- Si ha un malus di -2 ai tiri di d20 per ogni livello di esaustione.
+- Si ha un malus di -5 piedi alla velocità per ogni livello di esaustione.
 
 ## Fuga e ritirata
 
@@ -74,6 +82,12 @@ Fuggire di fronte a un nemico può costituire un rischio anche mortale, specie s
 Se invece non si è in combattimento ma ancora nella valle, la **Ritirata** permette di tornare a Celina velocemente al tavolo, seppur non eliminando i rischi del muoversi in questa landa inesplorata.
 
 Anche questa meccanica può essere attivata “manualmente” dai giocatori.
+
+### Aiuto
+
+La regola di aiuto è valida sia per la fuga che per la ritirata. Un volta tirati tutti i dadi e capiti gli outcome per ogni personaggio, i giocatori che hanno avuto un risultato migliore possono aiutare i giocatori che sono rimasti indietro, spendendo alcuni punti del loro valore di ritirata/fuga. Si sommano i punti spesi complessivamente dai giocatori: il risultato del giocatore in difficoltà aumenta di 1 per ogni 4 punti spesi dai suoi compagni.
+
+<u>Attenzione</u>: Ricordati di risolvere gli effetti di eventuali tiri alti (12+) prima di attivare la meccanica dell'aiuto.
 
 ### Fuga
 
@@ -146,44 +160,52 @@ Possibilità di effetti negativi anche seri. Tira 1d12 e aggiungi il tuo modific
 
 ## Oggetti preziosi o magici
 
-Al ritrovamento di oggetti di valore, è possibile ispezionarli (prova in Arcana/Storia) per stimarne il prezzo.
+Gli oggetti magici e/o particolarmente di valore che vengono trovati nella valle _dovrebbero_ essere denunciati alle autorità di Celina. Tuttavia, c'è anche la possibilità di fare i furbetti.
 
-Alla fine di ogni missione assegnata da Rodoaldo Venturoso, il suo notabile Maifredo Ronzo chiede conto di eventuali oggetti preziosi (e/o magici) trovati.
+Al ritrovamento di oggetti di valore, è possibile ispezionarli (prova in Arcana/Storia) per stimarne il prezzo. Questo servizio viene anche svolto gratuitamente dal Comune, ma in quest'ultimo caso non si può avere la certezza di una giusta valutazione.
 
-Per ogni oggetto dichiarato, verrà valutato il suo valore e ci saranno due possibilità:
+### Denunciare un oggetto
 
-- l'oggetto può rimanere nelle mani degli avventurieri che lo hanno trovato, se questi pagano una tassa pari al 30% del suo valore
+Alla fine di ogni missione assegnata da Rodoaldo Venturoso, il suo notabile Maifredo Ronzo chiede conto di eventuali oggetti preziosi (e/o magici) trovati. Per ogni oggetto dichiarato, il comune valuterà il suo valore e ci saranno due possibilità:
+
+- l'oggetto può rimanere nelle mani degli avventurieri che lo hanno trovato, se questi pagano una tassa pari a 1/3 del suo valore.
 - l'oggetto può essere venduto al Visconte, che d'ufficio pagherà il 50% del suo valore.
 
-È anche possibile non dichiarare un oggetto trovato. In tal caso, chi lo vuole tenere deve effettuare una prova in DEX (Sleight of Hand) oppure CHA (Deception).
+### Fare i furbetti
 
-Sulla prova si applicano i seguenti modificatori:
+Se invece si decide di tenersi l'oggetto trovato, ci si potrà fare quello che si vuole, ma assumendosi il rischio di venire beccati. Questo rischio si tradurrà in un tiro di d20, più precisamente in una prova in destrezza o carisma (a scelta). A questo tiro verranno applicati dei modificatori che dipendono da:
 
-- Bonus per lo stato di allerta delle guardie: attualmente +4 (controlli laschi)
-- Modificatore per la taglia dell'oggetto:
-  - Tiny: +1
-  - Small: 0
-  - Medium: -1
-  - Large: -3
-  - Huge: -6
-  - Gargantuan: -10
-- Malus per oggetti magici: -2
-- Malus per utilizzo previsto:
-  - Conservazione/collezionismo: +1
-  - Riutilizzo nelle successive missioni: 0
-  - Vendita al mercato nero: -2
+- **Stato di allerta delle guardie**: quando è tutto tranquillo +4
+- **Cosa vuoi fare con l'oggetto**:
+  - vuoi venderlo al mercato nero? -3
+  - vuoi riutilizzarlo in missioni successive o downtime? -1
+  - lo vuoi tenere in casa senza mai usarlo? 0
+- **La dimensione dell'oggetto**:
+  - tiny +1
+  - small 0
+  - medium -1
+  - large -3
+  - huge -6
+  - gargantuan -10
+- **Se l'oggetto è magico**: -2
 
-Il risultato del tiro è valutato come segue:
+Le <u>conseguenze</u> (se ci saranno) dipendono dal risultato della prova:
 
 - 10+: nessuna conseguenza;
-- 7-9: il sotterfugio viene notato, e qualcuno informa le autorità - questo fornisce un malus di cattiva reputazione a future prove analoghe, di -1;
+- 7-9: il sotterfugio viene notato, e qualcuno informa le autorità - questo fornisce un malus di cattiva reputazione a future prove analoghe, di -2;
 - 6: l'oggetto viene trafugato da qualcuno che non ha a che vedere con le autorità;
 - 5-: venite colti in flagrante. L'oggetto è sequestrato, viene applicata una multa pari al suo valore, e la cattiva reputazione dovuta a questo costituisce un malus di -3.
 
-Il malus per la cattiva reputazione tornerà ad alzarsi di 1 punto per ogni oggetto successivamente dichiarato.
+<u>NB</u>: La vendita dell'oggetto al mercato nero è una downtime activity, richiede un investimento di 25gp e una settimana. Il venditore fa un tiro in CHA (Persuasion) e riceve un'offerta sulla base di esso, che andrà dal 50 al 150% del vero valore dell'oggetto.
+Si può rifiutare questa offerta e dedicare altre settimane alla ricerca di un'affare migliore a piacimento (rischiando però nuovamente di essere beccati).
 
-La vendita dell'oggetto al mercato nero è una downtime activity, richiede un investimento di 25gp e una settimana. Il venditore fa un tiro in CHA (Persuasion) e riceve un'offerta sulla base di esso, che andrà dal 50 al 150% del vero valore dell'oggetto.
-Si può rifiutare questa offerta e dedicare altre settimane alla ricerca di un'affare migliore a piacimento.
+### Riacquisire la fiducia del comune
+
+Come visto nelle conseguenze, la fiducia del Comune nei vostri confronti può calare, se vi fate beccare a fare i furbi. Per far risalire la fiducia del comune verso gli avventurieri bisogna denunciare gli oggetti trovati nelle successive avventure.
+Ogni volta che alla fine di un'avventura viene denunciato almeno un'oggetto:
+
+- Le guardie si fanno meno sospettose, e il relativo modificatore aumenta di 1, fino ad un massimo di +4.
+- La fiducia verso chi denuncia l'oggetto sale, e eventuali sospetti sul suo conto si affievoliscono: +1 al relativo modificatore, fino ad un massimo di 0.
 
 ### Lista dei desideri
 
@@ -220,4 +242,4 @@ Le possibilità di base sono le seguenti:
 - Comprare un oggetto magico \*
 - Pregare secondo il rito della Sacra Luce
 
-\*: in quanto la magia è proibita in Burlanija, il rischio di complicazioni legato a queste attività è alzato dal 10% al 30%.
+\*: valido per oggetti già precedentemente denunciati alle autorità. In caso di oggetti non denunciati, vedere le regole relative in fare i furbetti. In quanto la magia è proibita in Burlanija, il rischio di complicazioni legato a queste attività è alzato dal 10% al 20%.
