@@ -73,13 +73,12 @@ horizontal: false
 This is a list of things I'm currently working on, within a timescale around a month.
 It's too many! I know.
 
-1. Working on the multiband paper
-1. Working on the inclination angle posterior feature for BAYESTAR
+1. Working on the multiband paper (analysis of long signals in the SSB frame)
+1. Working on the inclination angle posterior feature and paper for BAYESTAR
 1. DMing a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
-1. DMing [Call of Cthulhu](/_projects/CoC) at GSSI ("Dockside Dogs", october)
+1. DMing [Call of Cthulhu](/_projects/CoC) at GSSI ("Dockside Dogs", start of November)
 1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/dnd/wa/frozen-sick#FrozenSick) with Padova people (november-december 2024)
-1. Training by trail running + aerial silks + free body calisthenics-like strength (also climbing cycling sometimes), and losing some body fat perhaps?
-   1. La Sirentina Trail on the 29th of September
+1. Training by trail running + aerial silks + free body calisthenics-like strength (also climbing and cycling sometimes),
 
 #### Will get to
 
@@ -87,7 +86,6 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 
 1. Helping in the supervision of master's students about:
    1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
-   1. DWD/NSWD detection with LGWA
 1. [rehear](/rehear): injection studies with ASTRI + SWIFT
    1. Paper draft
    1. Implementing a simplified model for the IRF of ASTRI

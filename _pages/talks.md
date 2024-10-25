@@ -13,6 +13,7 @@ nav_order: 1
 
 ## Past
 
+- 2024-10-17: [GSSI talk](https://indico.gssi.it/event/721) to enter the fourth year, about my work in general, [slides](https://docs.google.com/presentation/d/1JxrqYw-9fzLgLBHvW__jGyMu4gB0Dt0c14xtUnXrJd0/edit?usp=sharing)
 - 2024-10-08: [**LGWA meeting**](https://indico.ict.inaf.it/event/2782/overview) talk about multibanding (actually given by Jan since I got sick)
 - 2024-09-25: [**LVK meeting**](https://lvkmeeting2024.ifae.es/) poster about BAYESTAR + inclination angle, [dcc entry](https://dcc.ligo.org/G2401707)
 - 2024-06-21: [**European Lunar Symposium**](https://sservi.nasa.gov/els2024/) talk presenting LGWA, [slides (private repo)](https://github.com/jacopok/presentations/tree/main/2024-06-20_lunar_Creighton)
