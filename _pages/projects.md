@@ -78,7 +78,7 @@ It's too many! I know.
 1. DMing a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
 1. DMing [Call of Cthulhu](/_projects/CoC) at GSSI ("Dockside Dogs", start of November)
 1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/dnd/wa/frozen-sick#FrozenSick) with Padova people (november-december 2024)
-1. Training by trail running + aerial silks + free body calisthenics-like strength (also climbing and cycling sometimes),
+1. Training by trail running + aerial silks + free body calisthenics-like strength (also climbing and cycling sometimes)
 
 #### Will get to
 

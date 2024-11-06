@@ -15,7 +15,7 @@ print_title: false
 {% include figure.liquid path="assets/img/val_celia/maifredo_ronzo.png
 " class="img-fluid rounded float-right z-depth-0" zoomable=true width="50%" %}
 
-Rodoaldo Venturoso ha trovato una copia del vecchio libro, il _Fedelissimo Resoconto di un Viaggio Peculiare alla Scoperta della Meraviglia sotto la Montagna_ dell'halfling esploratore **Farco Brolo**, vissuto un paio di secoli fa.
+Rodoaldo Venturoso ha trovato una copia del vecchio libro, il _Fedelissimo Resoconto di un Viaggio Peculiare alla Scoperta della Meraviglia sotto la Montagna_ dell'halfling esploratore **Farco Brolo**, vissuto circa sei secoli fa, alla fine del 1300.
 Il libro è mangiato dalle tarme, ma se ne evincono comunque molte storie interessanti!
 È da qui che è nato in Rodoaldo l'intento di chiamare ad appello avventurieri da tutta la Burlanija: è convinto che le descrizioni di Farco Brolo siano veritiere, e che tutto l'oro dei nani sia sotto la montagna in attesa di essere scoperto!
 

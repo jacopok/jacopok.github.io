@@ -13,6 +13,39 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Ventitreesima sessione
+
+### Resoconto missione per esplorazione in cerca della città di Farcis
+
+In data 25 ottobre il sottoscritto Ekkyon, fûc il nano e Tarlin l'halfling decidiamo, dopo essere stati attratti dagli ultimi resoconti, di dare il nostro contributo alla ricerca della misteriosa città di Farcis.... anche perchè ormai la centrale è stata liberata e resa sicura.
+Sulla base delle informazioni pervenute dagli altri avventurieri entriamo nella famosa palude e subito veniamo avvolti dalla densissima nebbia che la circonda e dalla mefitica aria del posto.
+Con nostro grande stupore la palude si rivela essere un luogo molto più ostico di quanto potevamo pensare, e per buona parte del tempo giriamo in tondo, veniamo poi attaccati da diversi gruppi di serpenti velenosi che quasi fanno fuori il povero Tarlin.
+Ma riusciamo a cavarcela e girovagando per gli acquitrini arriviamo ad una grande quercia sui cui rami erano stati impiccati, probabilmente dalle famigerate "Streghe" di cui si parla nella zona, quattro halfling di brutto aspetto, tirandone giu uno che veniamo colpiti da un rigurgito della sua bocca composto insetti ed obbrobi della palude che ci ferisce, e dopo questa ennesima sofferenza decidiamo di seppellire i quattro malcapitati, indagare un po la zona per non trovare nulla di interessante e proseguire.
+Nel procedere troviamo una capanna con delle bambole, vari disegni infantili, un pupazzo a grandezza umana però rotto e buttato sul pavimento..... ed un dito in salamoia, non ho ben inteso se di una mano o piede....
+Troviamo un vecchio villaggio abbandonato di Halfling che dopo abbiamo scoperto che si chiamava Propiero, anche qui sono state fatte brutte cose. Gli abitanti erano morti in malo modo ed in un pentolone vi erano pezzi di creature, ancora attribuiamo la colpa alle "Streghe".
+Infine giungere, con non poca fatica alla città di Andreis, così come fatto dai nostri compagni.
+Qui facciamo la conoscenza con i "Ritornati", ovvero cadaveri ambulanti che però per una ragione a me ignota, in questo posto sono considerati alla pari dei comuni cittadini.
+Incontriamo la signora Bartola che ci conduce in città e ci porta alla locanda, dove veniamo presentati alla locandiera Ghisla a cui cominciamo a fare domande circa la città di Farcis, ma sfortunatamente lei sembra non saperne molto.
+Interviene nella discussione un'altra donna, una ritornata, Raimonda, che ci parla delle sue preoccupazioni circa i goblin e di come questi attacchino la città, si rubino i ritornati e frugano nelle tombe che sono sparse in giro attorno ai monti.... è interessante sottolineare che questa donna ha 211 anni ed ha visto nascere la palude, purtroppo alle successive domande in merito è stata schiva ed ha preferito continuare ad insultare la presenza dei goblin.
+Infine si è intromesso anche l'ultima persona che abbiamo conosciuto, il signor Solino, il quale ci ragguaglia molto meglio circa la situazione generale.
+Ci informa infatti di come la palude sembri essere un'entità viva, che si espande ed ingloba quello che tocca facendolo marcire, ci spiegha di come gli halfling che erano nei dintorni sono stati uccisi ed alcuni vivono ad Andreis ora e di come la colpa di queste atrocità sia delle Streghe, che loro combattono ormai da molto tempo.
+
+Tirando le somme, pensiamo di aver scoperto cose molto interessanti:
+
+- Andreis è sicuramente un punto strategico per esplorare questa zona della valle e chissà forse avvicinarsi alla città di Farcis,
+- E' importante mantenere buoni rapporti con i cittadini di Andreis, quindi potrebbe essere conveniente aiutarli con i Goblin e con le Streghe,
+- Vi sono halfling nella zona, e per il sottoscritto questo è un fatto molto interessante,
+- La palude sembra avere più di 200 anni, chissà cosa potrebbe aver assorbito in tutto questo tempo.... le tombe, i tesori e le informazioni potrebbero essere molte di più di quante la nostra vista riesce a vedere.
+
+Infine un messaggio da Ghisla che cito:
+Il deposito che ha lasciato il sig. Alvis rossa barba sta creando non pochi problemi, deve riprenderselo.
+
+E qui concludo il mi federe resoconto.
+
+In fede,
+
+Ekkyon l'halfling
+
 ## Ventiduesima sessione
 
 ### Missione: vendetta a Colle Alchedo
