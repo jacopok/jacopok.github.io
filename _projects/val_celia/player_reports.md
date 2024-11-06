@@ -13,6 +13,45 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Ventiquattresima sessione
+
+### Escursione sul Monte Rododendro
+
+Caro diario,
+sono sempre io, Lord Opeauf. È così strano scriverti oggi, perché sono quasi morto. Eh
+si… ci ho quasi lasciato le penne, ma partiamo dal principio.
+La nostra giornata inizia con un salto ad Andreis, dove ritiriamo un simpatico aquilotto (mica tanto “otto”… era alto quanto me) che decidiamo di lasciar lì fino al nostro ritorno: decidiamo infatti di partire verso il monte Rododendro, per raggiungere il rifugio sulla sua cima e cercare due dispersi, tali Anselmo e Costanza.
+
+Grazie ad una mappa raggiungiamo subito la piana delle zucche (esplosive), dove ci divertiamo a farne esplodere due particolarmente mature. Imbocchiamo poi un sentiero, da cui intravediamo in lontananza, a valle, un pezzo di foresta bruciata e dove subito notiamo una vegetazione più regolare. Il mio occhio attento scorge una fila di sassolini, che delimitano perfettamente il cambio netto di vegetazione; a nulla son serviti i vari tentativi fatti da noi tutti, quei sassolini erano immobili, saldamente ancorati al suolo.
+
+Decidiamo quindi di proseguire lungo un ghiaione, dove accidentalmente scivolo indietro, fino a trovarmi faccia a faccia con 3 esserini indemoniati fatti di polvere, avvolti da un dannato turbine di polvere mista a sassi. Mi sono battuto con onore, ero letteralmente un gigante inferocito! Ma sono quasi morto! Quegli esseri maledetti continuavano a colpirmi e a danneggiarmi (persino quando uccisi, esplodendo sotto forma di pietra). Persi i sensi, sono stato rianimato per miracolo grazie all’aiuto di Alvis, Alchamora e Gaspare, che sconfiggendoli mi hanno protetto e salvato dal peggio. Se solo avessi le capacità sociali per intrattenere sane relazioni umane, li ringrazierei.
+
+Scampato il pericolo, da lassù intravediamo nel bosco, in lontananza, un accampamento di goblin e poi ancora delle costruzioni sulle sponde di un lago (sembrava proprio essere la ridente località di Farcis).
+
+Camminando verso una salita attrezzata, superiamo un prato di mucche: erano proprio
+carine e un po’ strane: erano dotate di branchie, puzzavano molto e si spostavano
+levitando! Mi diverto a spaventarle. Superata agilmente la salita, in un paio d’ore
+raggiungiamo la forcella della capra, dove stranamente non vediamo capre. Un triste
+umanoide, seduto malinconico su una roccia, guardava l’orizzonte pensando alle sue
+capre scomparse, che da giorni non avevan più fatto ritorno alla forcella. Era proprio buffo
+quell’uomo: pelle chiara, orecchie da elfo, dotato di corna, capelli bianchi, dalle sembianze
+bluastre e glaciali; quando piangeva le sue lacrime si congelavano all’istante, mentre
+quando si arrabbiava (eh si, forse l’ho importunato un po’ troppo, mi conosci) diventava
+arancione e le sue lacrime evaporavano all’istante. Tipo strano. Ma quantomeno ci ha
+detto che i due dispersi erano sani e salvi su in rifugio. Raggiungiamo quindi il rifugio dove notiamo una roccia solitaria al centro della stanza, su cui vi era scritto:
+
+_Tra queste mura, risuona l’eco di un’antica magia: “trasforma la pietra”. A chi ardisce entrare, è conceduto, una sola volta e confinato nel suo utilizzo a queste sale, di impugnar tal potere senza prezzo. Sol coloro che il cammino nascosto sapran compiere fino al fine troveranno la mercede che qui giace in attesa. Ma sia noto a tutti i pretendenti: quanto maggior è il potere che bramate, tanto più grandi e mortiferi saranno i perigli che vi sbarrean la via._
+
+Notiamo inoltre una scritta ricorrente sulle pareti:
+_Solamente la scorza potrai tu ferire, ché lo mio corpo è quale pietra immutabile_
+
+Dopo un breve riposo, troviamo finalmente i due dispersi, rintanati in una stanza del rifugio
+con al centro una grande roccia da loro creata (contenente resti di creature nemiche
+sconfitte). Li convinciamo a far ritorno con noi, traendoli dunque in salvo. Sulla strada di
+ritorno notiamo in lontananza esserini volanti che fluttuano in aria verso un qualche dove.
+Ed ora eccomi qui, che avventura. Ma ora vado, devo lucidare la spadella. Che questa
+quasi-morte mi sia da sprono a vivere più intensamente.
+
 ## Ventitreesima sessione
 
 ### Resoconto missione per esplorazione in cerca della città di Farcis
