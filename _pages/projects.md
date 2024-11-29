@@ -73,6 +73,7 @@ horizontal: false
 This is a list of things I'm currently working on, within a timescale around a month.
 It's too many! I know.
 
+1. Writing the thesis
 1. Working on the multiband paper (analysis of long signals in the SSB frame)
 1. Working on the inclination angle posterior feature and paper for BAYESTAR
 1. DMing a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
