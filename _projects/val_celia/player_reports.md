@@ -413,6 +413,8 @@ In fede,
 
 Ekkyon l’Halfling
 
+# Sessioni 11-20
+
 ## Ventesima sessione
 
 ### Note in prosa et in versi circa l’audace spedizione del die XXIX mensis Septembris
@@ -824,6 +826,8 @@ La ringrazio per la cortese attenzione
 Fedelmente
 
 Leontopodium
+
+# Sessioni 1-10
 
 ## Decima sessione
 
