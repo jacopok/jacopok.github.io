@@ -13,6 +13,151 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+## Ventisettesima sessione
+
+### Esplorazione della palude
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Ekkyon, Tarlin,
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+Come concordato, ci siamo addentrati nella palude. La nebbia e il nevischio invernale ne rendono difficile l’esplorazione. Abbiamo vagato tutta la mattina, senza che avvenisse alcun evento degno di nota. Tuttavia, nel tardo pomeriggio, abbiamo raggiunto una pozza d’acqua. Tutti i membri del gruppo hanno percepito una presenza incorporea, ma solo Ekkyon è riuscito a mettersi in contatto diretto. Si trattava della figura di un vecchio uomo, di nome Orazio Stella, disperatamente alla ricerca di sua figlia Ida Stella, proveniente da Andreis. Lo spirito sostiene di essere stato maledetto da un coniglio bianco dagli occhi rossi. “Il coniglio, la lepre, il barone, sono ovunque e vedono tutto”. All’improvviso, abbiamo percepito dei movimenti sospetti a una decina di metri da noi. Giocando d’anticipo, abbiamo ingaggiato battaglia contro tre individui incappucciati e in grado di utilizzare le arti magiche. Ho notato chiaramente che i nostri avversari provavano un odio intenso contro i miei due compagni halfling. Abbiamo rapidamente vinto la battaglia: due dei nostri avversari hanno perso la vita, mentre il terzo ha tentato di scappare, ma lo abbiamo bloccato e reso inerme. Il prigioniero si è rifiutato di fornire alcuna informazione riguardo alla sua identità. Ha tuttavia proferito parole minacciose: anche se la loro missione era fallita, qualcun altro l’avrebbe portata a termine, e Cjadaldiaul sarebbe tornata grande e libera. Con grande sgomento da parte mia, Tarlin ci racconta che almeno uno dei tre avversari aveva partecipato allo sterminio del suo villaggio quando era piccolo: avevano costretto gli halfling a tentare di distruggere le pietre bianche inamovibili che avevamo incontrato durante una nostra precedente missione esplorativa, e ucciso chiunque avesse fallito nell’impresa. I tre criminali trasportavano vernice e pennelli, e tutti portavano il tatuaggio di un acciarino. Abbiamo deciso di portare il prigioniero a Celina, affinchè possa scontare la giusta punizione per le crudeltà del suo passato, nonchè per sottoporlo a interrogatorio. L’interrogatorio ha rivelato che il prigioniero, di nome Berio, era quella di tracciare un percorso con la vernice, da una pozza nella palude da cui fuoriescono delle rotaie di fattura nanica, fino alla nostra cittadina.
+Ulteriori informazioni verranno fornite nel documento il allegato a questo resoconto.
+
+La ringrazio per il tempo concessoMi,
+Fedelmente,
+Fern Gunnhildr
+
+#### Documento classificato: a disposizione delle autorità e degli avventurieri di Celina
+
+**EMERGENZA: ASSALTO A CELINA**
+
+Sua Eccellenza,
+
+il sottoscritto Fern Gunnhildr presenta il seguente documento emergenziale alla Sua attenzione.
+
+L’interrogatorio del prigioniero Berio ha rivelato verità sconvolgenti e terrificanti, omesse nel resoconto pubblico per non diffondere il panico tra la popolazione.
+La missione di Berio e del suo gruppo era quella di guidare un’orda contro Celina, il 5 Dicembre! La vernice serviva a tracciare il percorso, da una pozza nella palude da cui fuoriescono delle rotaie di fattura nanica, fino alla nostra cittadina. Sembrava ossessionato dall’obiettivo ultimo della missione. la grandezza di Cjadaldiaul!
+Na natura della minaccia è ignota, per cui ritengo che debbano essere messe in campo tutte le misure necessarie per proteggere Celina. Studiando il diario di Bonres, capo della Centrale di Dos Flums, siamo venuti a conoscenza i Cholt hanno vonto la guerra contro i nani Forador il 5 Dicembre 1405, dopo aver avuto accesso a una forza soverchiante e diabolica. Perfino la leggendaria città di Farcis è caduta quel giorno. Temo che qualcuno a Cjadaldiaul abbia avuto accesso a questo stesso potere, e che voglia indirizzarlo contro Celina. Di fronte a tale situazione di grave emergenza, ritengo necessario per la nostra sopravvivenza pianificare una strategia di difesa e contrattacco.
+
+In attesa di aggiornamenti riguardo alle contromisure che le autorità riterranno più consone,
+
+Fedelmente,
+Fern Gunnhildr
+
+### Spedizione di ricerca all'interno della palude.
+
+In data 29/novembre io (Ekkyon), Fern e Tarlin decidiamo di recarci all'interno della palude per
+meglio esplorare la zona. Prima di cominciare l'avventura facciamo visita a Tico al quale avevamo
+dato il cretefonut per poterlo analizzare.
+Entriamo in una stanza, sembra molto più grande di quello che dovrebbe é piena di cose, alambicchi,
+vetro (ampolle, apparecchi), libri èdecismaente la casa di uno studioso.
+Tra i vari strumenti alcuni sembrano grossi tubi puntati alla parte superiore dove ci sono delle vetrate,
+e sotto ai tubi ci sono delle gemme.
+Tico pare aver costruito una strumentazione per l'osservazione (aiutato da gnomi di Paiolo ecc) delle stelle
+(ho appreso dalle mie frequentazione della chiesa che la religione dice che le stelle sono le anime
+delle persone salite in cielo) e della loro luce.
+Non so in che modo ma ci conferma che dalle sue analisi non trova stelle più vecchie di 600 anni
+(il periodo è associato alla battaglia di San Nicholas).
+Ci spostiamo però ad affrontare la questione del cretefonut, chiamato anche pietra comunicativa.
+Ci conferma che sta comunicando con qualcosa e qualcuno, ed lui e la sua "assistente" hanno ascoltato
+diverse cose nei giorni passati.
+Prima di dirci cosa ha sentito ci conferma che l'oggetto cambiacolore in base al luogo dove si trova,
+ma non ha saputo dirci più al riguardo.
+La faccenda interessante è che hanno sentito delle canzoni durante una notte, chi le cantava non sembrava
+essere normale, ed hanno carpito la parola "ERON NIL".
+Sembravano allegri, pieni di foga per un bel po ed ad un certo punto hanno sentito qualche suono
+che richiama un incantesimo di teletrasporto (non so bene cosa volesse intendere).
+Ma vabene, decidiamo di incamminarci per la nostra missione e ci portiamo il cretefonut per ulteriori
+analisi. Ed infatti se a Celina era viola, tra casa di Tico/central era blu in prossimità della palude
+diventa rosso. Chissa forse questi colori associati ai luoghi vorrano dire qualcosa...
+Ad ogni modo, con mia gioia la palude era innevata (adoro la neve) ma anche piena della solita nebbia
+fastidiosa. Dopo un po di cammino sento nitidamente una voce, e riesco a distinguere una sagoma di
+una creatura bipede dalla pelle bianca e liscia traslucida, che sembra un vecchio uomo direi in uno
+stato etereo che capisco riesco a vedere e sentire io solo.
+Fortunatamente non rappresentava un pericolo, anzi, ci intratteniamo un po con lui, dice di chiamarsi
+Orazio Stella padre di Ida Stella una bambina della città di Andreis, da dove proveniva anche lui.
+Mi racconta la sua storia ( ed io la riporto ai miei compagni), per farla breve ci dice di essere stato
+maledetto tempo fa dal Coniglio Albino, parla della Lepre e del Barone (non conosco nessuno dei tre
+onestamente) ma ci dice che sono ovunque e che la palude non è sicura, però con molta dolcezza e premura
+ci chiede informazioni riguardo alla figlia, che purtroppo non abbiamo... Non ancora.
+Ad un certo punto qualcosa si muove e si intravedono delle figure, erano umani ed erano tre vestiti di
+scuro, coperti da un cappuccio ed usano la magia.
+Entriamo in combattimento, con un po di difficoltà li sconfiggiamo ed uno riusciamo a farlo prigioniero
+per interrogarlo e poterlo consegnare alla giustizia a Celina.
+Troviamo che hanno una specie di barattolo di vernice rossa ed un pennello.
+Non ci dice granchè, sicuramente fa parte di una setta di Cjadaldiaûl, e l'unica cosa che farnetica è
+che "Cjadaldiaûl sarà grande e sarà libera", tuttavia vista la sua reticenza nel volersi aprire al
+dialogo con noi abbiamo deciso di stordirlo e legarlo....considerando anche che era un mago è stato
+saggio impedirgli movimenti e parola.
+Scopriamo inoltre che la loro setta aveva attaaccato il villaggio Halfing di Tarlin e ce l'avevano
+proprio male con noi Halfing.... comunque tutti e tre hanno un simbolo, probabilmente rappresentativo
+della loro setta, un acciarino e due pietre focaie con delle scintille.
+
+Prima di andarcene segniamo con un po di vernice il luogo di questo scontro così da poterlo ritrovare
+in futuro facilmente ed indagare meglio.
+A fatica riusciamo a portarlo a Celina ed a consegnarlo alla giustizia. Tuttavia solo grazie all'aiuto
+di Tico e le sue arti scopriamo qualcosa in più.
+Riusciamo a pessuaderlo a dirci di chiamarsi Berio, e che lui aveva una missione condurre un'orda verso
+Celina (probabilmente la vernice serviva ad indicare un sentiero) ed attendere qualcosa di terribile
+che accadrà il 5 dicembre. Inoltre scopriamo che il percorso dell'orda comincia da un punto dal quale
+emergono delle rotaie di metallo dall'acqua, un punto che sembra essere all'interno della palude.
+
+E così si conclude quest'altra avventura.
+Forse siamo tutti in pericolo, sappiatelo.
+
+In fede Ekkyon l'Halfing.
+
+## Ventiseiesima sessione
+
+### **All’esimio notaio Maifredo Ronzo**
+
+**Redatta da Icaro e Alviss**
+
+Nel nome di sua eccellenza il Visconte Rodoaldo Venturoso, un esiguo gruppo di avventurieri talentuosi composto da Alchamora e noi Alviss e Icaro si è addentrato nelle profondità della palude, a ponente delle zone già esplorate.
+
+Dopo aver inizialmente vagato smarriti, ci ritrovammo al cospetto di un colossale gigante dal nome Orcolàt. Egli brandiva un enorme randello pronto ad essere calato sopra le nostre teste con grandissima vendetta e furiosissimo sdegno. Infatti il gigante pensava che fossimo lì per derubarlo dei suoi preziosi sassi in quanto qualcuno lo aveva già ignobilmente derubato di una pietra piuttosto preziosa e cara a lui, ovvero un diamante. Con misurate parole, riuscimmo a convincerlo delle nostre buone intenzioni. La descrizione dei ladri fornitaci dal nostro enorme ormai amico è la seguente: “un nano con la pelle pitturata, una donna con piante e una creatura con le corna”. Se tali individui fossero a noi noti, lascio al giudizio di chi legge trarre le sue conclusioni. Comunque sia, il gigante ormai rasserenato decise di lasciarci passare a patto che non andassimo nel villaggio dei suoi amici, verso la montagna. In più gli promettemmo di riportargli la sua preziosa pietra entro un mese dal nostro incontro.
+
+Procedendo oltre quest’imprevisto, abbiamo raggiunto un punto più alto del fiume Melassa, zona particolarmente difficile da attraversare in assenza di un passaggio. Avvistammo dunque un ponte di pietra sul quale, non appena il gruppo si avvicinò, la nebbia circostante iniziò ad addensarsi a formare una lince. I sensi arcani di Icaro e di Alchamora avvertivano qualcosa di strano e diverso dalla normale magia, pur non riuscendo a definire cosa. La lince, che si presentò come la guardiana del ponte ci chiese, per permetterci il passaggio, di gettare in acqua qualcosa in nostro possesso recitando la formula “Con questo pegno, _nome_ chiede il passaggio”. Alviss, Alchamora e Icaro gettarono, rispettivamente, il suo calamaio, un bastoncino d’incenso e una candela. Al gruppo fu quindi permesso di raggiungere la sponda opposta del Melassa, che ognuno di noi raggiunse sentendo tuttavia di aver perso in qualche modo un piccolo frammento di sé.
+
+Dopo un breve riposo, avanzammo brevemente, finché Icaro non notò dei mostriciattoli – già visti qualche ora prima da Alviss (n.d.A. aihmè nessuno mi aveva creduto) – che seguivano il gruppo cancellando le tracce lasciate lungo il percorso per poter ritrovare la strada del ritorno. Questi piccoli mostri stavano “riavvolgendo” i segni che lasciavamo sugli alberi, come invertendo il corso del tempo. All’unanimità, scegliemmo di girarci e di affrontare i piccoli demoni, in una battaglia che fu molto più difficile del previsto, a causa dell’abilità di questi mostri di “riavvolgere” il danno che gli veniva inflitto, come facevano per le tracce nella foresta. Nel momento più difficile dello scontro, i poteri curativi di Icaro hanno girato le sorti della battaglia, che termina con due demoni disintegrati dal poderoso martello di Alviss e due che, gravemente feriti, fuggirono.
+
+Proseguendo oltre, raggiungemmo delle corsie parallele di metallo situate su dei lastroni di pietra, che avanzavano discendendo all’interno di una pozza infangata, apparentemente molto profonda. Mentre investigavamo, un piccolo umano peloso che si presentò come Baggro attirò la nostra attenzione. L’umanoide assomigliava a pelose creature antropomorfe codate, la cui esistenza fu ipotizzata tempo addietro dall’illustre naturalista Carlo Da Ruino. Interagendo con Alviss, ci chiese di aiutarlo a recuperare dalla pozza un oggetto che spuntava dal fango. Alchamora, sfruttando i suoi poteri di controllo sul ghiaccio, ne cavalcò un blocco fino a raggiungere l’oggetto, che da vicino sembrava essere un carrello da miniera, con al suo interno un oggetto di forma simile ad una delle punte della Sacra Stella. Icaro e Alviss estrassero il carrello dal fango, rivelando l’oggetto nella sua arcana interezza: braccia meccaniche, numerose piccole porticine, e un’unica finestrella circolare trasparente, che rivelava una piccola ampolla come contenuto del misterioso scrigno. Un oggetto di forma così peculiare e di simile ingegno poteva nascere solo da tecnologia nanica. Aprendo le porticine sullo scrigno scoprimmo la presenza di numerosi tubi che, una volta spezzati, permisero l’apertura della finestrella di vetro. Nell’ampolla situata all’interno dello scrigno e visibile dall’esterno si trovava l’“Aghecorinte” (nanico), liquido blu luminescente usato dai nani come carburante per i loro macchinari. In verità, all’interno del carrello trovammo una seconda ampolla, contenente una pozione densa, viola, che emanava dei vapori di colore come i tramonti di Celina. Dalle conoscenze arcane di Alchamora appurammo che si trattasse di una pozione per leggere nel pensiero. Il marchingegno di nanica tecnica, ormai vecchio e usurato, lo lasciammo sul posto per Baggro, che cominciammo a conoscere con molta curiosità vista la sua natura di ominide. Il piccolo uomo raccontò di essere nato nella Palude, e di aver perso la madre, cacciata dalla palude dalle sue Zie “per non esser riuscita a completare un compito”. Sua mamma, con “la pelle del colore dell’acqua”, fu quindi allontanata dalle zie “dalla pelle una chiara e l’altra del colore della corteccia di un albero”. Pensando alle antiche leggende che avvolgono questa foresta, ci chiediamo se Baggro non sia in realtà il figlio maledetto della strega Pegda, cacciata via dalla Palude dalle sorelle Agata e Morgana. Icaro pensò anche alle lepri bianche e nere viste nella Palude durante le prime esplorazioni: potrebbe trattarsi proprio delle streghe, materializzate in forma di animale. A questo punto, pensando di aver adeguatamente espanso la conoscenza della palude in questa direzione per il momento, ci avviammo verso Andreis per compiere un’ultima missione.
+
+Passando per il villaggio abbandonato – sede dell’uccisione del terribile mostro aracnide, la Culona – raggiungemmo il paese di Andreis, dove passammo la notte – chi da solo, chi in compagnia. Se Icaro mai si addormenta se non in presenza della fede, Alviss lo ha fatto solo in presenza di Baggro nelle sue stanze. Ci auguriamo che i peculiari barriti provenienti dall’esterno della stanza di Icaro non provenissero da quella di Alviss (_n.d.A._ per sviar ogni pensiero impuro, far addormentare quella creatura è stata un’impresa tanto impervia quanto lo è stato affrontare le chimere). La mattina seguente, il gruppo si divise momentaneamente. Alviss e Baggro andarono a far visita a Puccio Bucco e le sue acquile e in seguito alla dimora più esterna del villaggio, abitata da una gentile halfling esule di Parappiero, altresì conosciuto come il villaggio abbandonato della Culona. Intanto, nel nome di una promessa fatta al fantasma di Orazio, uomo di Andreis perseguitato dalle streghe della paliude, Icaro e Alchamora raggiunsero casa Stella per parlare con la piccola Ida, la figlia di quest’uomo, e Adalascia, moglie dell’uomo e membro di casa Stella. Con lei, discutemmo della possibilità di portare Ida ai confini della Palude, per poter incontrare suo padre Orazio. Adalascia, a patto che fosse garantita anche la sua presenza e quella della piccola Tullia – di cui abbiamo già disquisito in una delle scorse lettere a lei rivolte.
+
+Raggiunto tutti insieme il confine con la Palude, con il richiamo concordato chiamammo Orazio, fantasma invisibile all’occhio umano in quanto trasparente. Icaro era capace di vederlo tramite un incantesimo, e ne permise la visione agli altri accendendo una candela, la cui luce sembrava permettere ad Orazio di essere visibile a tutti. Intanto sia Tullia che Ida sembravano possedere la capacità innata di vederlo. Ida, molto spaventata, non osò separarsi dalla mamma: aveva infatti più volte sognato di essere mangiata dall’ “uomo di vetro”. Orazio cercò per quanto possibile di avvicinarsi alla figlia per parlarle, per salutarla, egli stesso impaurito del possibile e inesorabile controllo esercitato dalle streghe, per il quale tutto il gruppo era sull’attenti, pronto a difendere la piccola Ida e permettere la fuga di lei, di Tullia e della madre. Non appena Ida trovò il coraggio di rispondere a suo padre, una lepre dal candido pelo comparve sul lato della radura, e magia nera si materializzò dall’oscurità, nella forma di una mano scheletrica che appoggiò sulla testa di Orazio una corona nera, una sadica forma di controllo totale. Consapevoli del significato di ciò – in passato, infatti, Alviss fu colpito dal medesimo anatema – il gruppo si frappose a Orazio e al resto della sua famiglia, che iniziò a scappare verso Andreis. Icaro neutralizzò l’incantesimo con la forza delle sue preghiere, materializzando una zona protettiva intorno ad Orazio. Allora, la corona cadde dalla testa dello spettro e si polverizzò al suolo. Una volta superato l’impatto della situazione, il gruppo cercò invano di attaccare quella che presumibilmente poteva essere la strega Agata. In preda alla furia, Alviss si scagliò con velocità fulminea e vulcanica potenza sull’abominevole e candida creatura. Con sinuose movenze e marmorea fermezza, il possente nano calò con tutta la sua forza il suo martello nel tentativo di annientare definitivamente la strega. I presenti affermano che la terra tremò a seguito della collisione dell’arma col suolo. Tuttavia, una volta alzato il maglio, nel profondo solco generato dall’impatto non vi era traccia del coniglio e non perché polverizzato dal portentoso attacco di Alviss. La strega era riuscita a fuggire.
+
+Davvero delle terribili circostanze. Povera Ida, povero Orazio. E povera Adalascia, chissà che terribili pensieri avrà dovuto scacciare dalla mente vedendo Orazio ridotto così. Il gruppo cercò per quanto possibile di consolare il fantasma, ormai scoraggiato e demoralizzato, ma comunque felice di aver visto la figlia, e ormai sempre più convinto di volersi vaporizzare alla luce del sole. Icaro volle proporgli almeno di aspettare un paio di mesi nella speranza di riuscire nel mentre a raggiungere e a sconfiggere le malefiche streghe. Ritornando al paese, parlammo anche con Adalascia che, seppur visibilmente scossa, era felice di aver visto il marito, e ci ringraziò. Parlando poi con Baggro, fu possibile confermare le nostre teorie: il piccolo uomo peloso ha riconosciuto nel coniglio bianco la zia.
+
+Alla luce degli avvenimenti qui riportati e nel nome dell’inesorabile e continua espansione della Palude e della paura che essa proietta intorno a sé, con il nostro ritorno a Celina contiamo di ottenere sufficiente sostegno per raggiungere e sconfiggere le malefiche streghe Agata e Morgana.
+
+In attesa del nostro prossimo incontro,
+
+Riverenze dai vostri fedeli Icaro e Alviss
+
+## Venticinquesima sessione
+
+### Completamento dell’esplorazione della Central di dos Flums
+
+Sua Eccellenza,
+
+A nome degli avventurieri \
+Fern, Ekkyon, Adam, Tarlin, \
+il sottoscritto Fern Gunnhildr presenta il seguente resoconto alla Sua attenzione.
+
+Come concordato, ci siamo avventurati nuovamente alla Central di Dos Flums. Per prima cosa abbiamo ispezionato la parte superiore del pozzo dell’ascensore ancora inutilizzabile, scoprendo che l’aria del pozzo non sembra essere intrisa dalla Lus Corinta che invece è onnipresente nella centrale. E’ probabile che il pozzo conduca da qualche parte all’esterno della centrale. Non potendo però proseguire in questa direzione, ci siamo diretti al secondo piano della centrale, dove ci siamo subito imbattuti in una scena raccapricciante: i cadaveri di due goblin giacevano a terra, apparentemente uccisi dall’aria satura di Lus Corinte. Lasciatoci dietro la macabra scoperta, ci siamo diretti all’esplorazione delle stanze presenti. La prima stanza è un’armeria, mentre la seconda sembra essere un deposito di aghe corinte. Qui abbiamo avuto una breve schermaglia contro una creatura dalle sembianze umanoidi composta di elettricità, prima che essa fuggisse al di fuori della centrale.
+L’accesso all’ultima stanza era sorvegliato da due guardie robotiche, armate di lame e spuntoni al posto delle mani. Il sottoscritto ha tentato di stabilire un contatto pacifico con le guardie, che però si è rivelato infruttuoso. Lo scontro era inevitabile, ma siamo usciti vittoriosi dall’ardua battaglia.
+Ci siamo dunque diretti all’esplorazione dell’ultima stanza, dove ci attendeva un’ulteriore macabra scoperta: abbiamo infatti rinvenuto uno scheletro seduto a una scrivania! Sulla scrivania si trovava anche un diario, dove scopriamo che lo scheletro apparteneva al capo della centrale, Bonres, il quale si era rinchiuso in questa stanza dopo l’evacuazione dei suoi sottoposti. Bonres aveva deciso di sacrificarsi per permettere l’operatività della centrale durante l'assalto dei Cholt, così da permettere l’afflusso di aghe corinte alla Cittadella e a Farcis. In questa stanza, Bonres ha ricevuto le nefaste notizie della caduta di tutte le fortezze dei nani Forador. Bonres ha annotato sul suo diario che il 5 Dicembre 1405 i Cholt hanno avuto accesso a una forza soverchiante e diabolica, e che quel giorno stesso Farcis è caduta. Il 5 Dicembre… Più esploriamo la Val Celia, più veniamo a conoscenza di eventi connessi con questa data! Non può certo essere una coincidenza. Dobbiamo assolutamente fare luce sui misteri che circondano questa data.
+
+Concludo il presente resoconto annunciando il completamento dell’esplorazione della Centrale di Dos Flums! Questo importante traguardo non sarebbe stato possibile senza il supporto delle autorità di Celina e il valore di tutti gli avventurieri coinvolti. Fremo al pensiero di dove ci condurranno, da ora in poi, il desiderio di conoscenza e di avventura.
+
+La ringrazio per il tempo concessoMi,
+Fedelmente,
+Fern Gunnhildr
+
 ## Ventiquattresima sessione
 
 ### Escursione sul Monte Rododendro

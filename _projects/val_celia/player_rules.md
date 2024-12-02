@@ -162,7 +162,13 @@ Possibilità di effetti negativi anche seri. Tira 1d12 e aggiungi il tuo modific
 
 Gli oggetti magici e/o particolarmente di valore che vengono trovati nella valle _dovrebbero_ essere denunciati alle autorità di Celina. Tuttavia, c'è anche la possibilità di fare i furbetti.
 
-Al ritrovamento di oggetti di valore, è possibile ispezionarli (prova in Arcana/Storia) per stimarne il prezzo. Questo servizio viene anche svolto gratuitamente dal Comune, ma in quest'ultimo caso non si può avere la certezza di una giusta valutazione.
+Al ritrovamento di oggetti di valore, è possibile ispezionarli (prova in Arcana/Storia) per stimarne il prezzo:
+
+- meno di 10: no idea
+- 10-19: ordine di grandezza
+- 20+: sai quanto vale
+
+Questo servizio viene anche svolto gratuitamente dal Comune, ma in quest'ultimo caso non si può avere la certezza di una giusta valutazione.
 
 ### Denunciare un oggetto
 
