@@ -9,6 +9,15 @@ module Jekyll
         "<p><span class='schoolbell-regular'>#{$1}</span></p>"
       end
     end
+    def custom_font_delafield(input)
+      # Convert Markdown to HTML
+      html_content = markdownify(input)
+      
+      # Wrap each paragraph in the HTML content with custom font styling
+      html_content.gsub(/<p>(.*?)<\/p>/m) do |match|
+        "<p><span class='delafield-regular'>#{$1}</span></p>"
+      end
+    end
   end
 end
 

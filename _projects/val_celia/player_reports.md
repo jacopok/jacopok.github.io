@@ -15,6 +15,120 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 # Sessioni 21-30
 
+## Ventottesima sessione
+
+### Il Tramonto e l'Alba su Celina
+
+{% capture custom_font_section %}
+
+Eravamo pronti, sapevamo cosa ci aspettava la notte del 5 dicembre.
+Erano state chiare le minacce di Berio di Cjadaldiaul, ce l'aveva preannunciato Salhazel e avevamo letto di come sarebbe avvenuto nelle ultime lettere di Bonnris.
+Eppure, non potevamo comprendere fino in fondo la gravità della situazione.
+
+Il 5 dicembre di tanti anni or sono, i nani Forador, ignari delle conseguenze, ultimarono il passaggio sotterraneo che consentì loro di aggirare le difese Cjolt e mettere in ginocchio la loro fortezza.
+Quella stessa notte, però, quel tunnel fu foriero della loro rovina.
+Orde di diavoli, libere dai confini degli Inferi, si riversarono sulla terra, razziando le anime dei vivi, che fossero Cjolt o Forador, umani o halfling.
+La leggenda narra che solo l'intervento di Nicholas e della sua Sacra Luce riuscì a respingere le forze oscure.
+Per prevenire il ripetersi di simili eventi, il sant'uomo fece forgiare una collana di bloccapietre attorno alla fonte infernale, sigillando il passaggio ai diavoli.
+Da allora, ogni anno i demoni hanno tentato un nuovo assalto, incendiando la montagna, ma sono stati fermati da quell'invisibile barriera.
+
+In tempi recenti, gli abitanti di Cjadaldiaul sono stati corrotti del potere delle fiamme.
+Le loro coltivazioni sono state inturgidite dalla terra bruciante degli inferi, così come la loro cupidigia.
+E loro, uomini tronfi e impetuosi, posseduti da un'ardente sete di potere, hanno trovato il modo di "grattugiare" la barriera, liberando nuovamente i diavoli nella valle e oltre.
+
+Già nei giorni antecedenti alla fatidica festa ci eravamo riuniti, anche con le eminenze locali, per pianificare una strategia di difesa.
+L'atmosfera di festa era pregna di aspettative e nessuno percepiva l'alito caldo che ci minacciava dai monti.
+Sembrava che la preoccupazione principale fosse la spensieratezza: le celebrazioni, il commercio e il buon tempo non lasciavano spazio all'orditura di un muro di difesa dall'orda che ci aspettava.
+Fu stabilito un sistema di pattugliamento e la popolazione informata delle vie di fuga, con la scusa delle precauzioni per gli incendi.
+Noi avventurieri fummo lasciati liberi di agire ma nel concreto potemmo fare ben poco.
+Tentammo di rigirare il piano degli eretici di Cjadaldiaul marcando frecce che dalla palude puntassero in tutte le direzioni, sperando di guadagnare tempo.
+Andammo a dormire i nostri agitati sogni per risvegliarci nel giorno della festa.
+
+Tutto era pronto - per la festa - e, presi dal giubilo collettivo ci lasciammo trasportare lungo le ore del giorno fino a trovarci nella calca dei bancarjelli: chi a esibirsi in spettacoli e canti, chi a bandire i prodotti della propria bottega.
+Nella confusione della folla ci mettemmo fin troppo a notare gli imbrogli che una donna distinta, ai più nota come Dran, stava compiendo.
+Questa, con fare sospetto, estraeva dalla veste contratti e preziosi, che spacciava per pochi spiccioli.
+Insospettiti, la interrogammo sul suo comportamento finché, messa alle strette, si smascherò - ma mai nell'aspetto - per il demonio che era, e rivelo di essersi guadagnata le anime di diversi dei nostri concittadini.
+Alcuni dei miei compagni tentarono di batterla nel suo perverso gioco di vite, ma il diavolo, più astuto di loro, vinse l'ultima mano, lasciandoli liberi ma tenendosi il suo macabro bottino.
+Nonostante la disdetta, l'incontro non fu vano, perché ci avvertì dell'imminente arrivo dell'orda - gli imbroglioni, si sa, arrivano sempre primi.
+Corremmo verso la Candela di Celina, impegnata in conversazione col Cannocchiale di Pleif, per coinvolgere loro, e tutta la popolazione, nell'invocazione della Sacra Luce per sgominare le forze oscure che si stavano abbattendo sulla pianura.
+La confusione si era ormai impadronita della folla, e la frenesia degli avvenimenti ci sbalzava da una parte all'altra della cittadina.
+Ricevemmo allora la chiamata del saggio Tycho, che d'improvviso era riuscito a far funzionare la sua macchina per parlare con le stelle.
+Questo sofisticato strumento canalizzava la loro luce attraverso lenti e cristalli per decodificare il pulsare degli astri.
+Tycho sosteneva che il suo gioiello d'ingegno avesse sempre funzionato ma che solo quel giorno la stella di Nicholas brillasse a sufficienza da rendere udibili le sue parole.
+Nel rumore cosmico di fondo, percepimmo il sant'uomo bofonchiare l'ammonizione sull'arrivo dell'orda e una possibile estrema soluzione: il suo martello, allora brandito dal Cannocchiale, avrebbe potuto incanalato la sua luce per sbaragliare le forze oscure.
+Noi, ignoranti, ci affidammo all’esperienza di Tycho, che trasse da quelle parole l’idea per modificare la sua macchina e trasformarla in un’arma di luce stellare.
+
+Ci scapicollammo in centro dove la più feroce, tetra e disgustosa visione ci accolse: l'orda di cui parlava Bonnris era un'onda viscida e informe di carne putrescente e artigli grotteschi, che si spingeva contro mura e persone senza freni.
+Diavoli dagli aspetti più vari facevano banchetto di anime e corpi tra il caos che li accompagnava.
+Nel mezzo della ridente Celina si era aperto uno squarcio diabolico, un ghigno ributtante che minacciava d'inghiottire tutta la bellezza che avevamo imparato ad amare e giurato di proteggere.
+Nei nostri cuori di avventurieri si accese una scintilla di determinazione che ci permise di tenere a bada l'orda per il tempo necessario a Tycho per completare le sue modifiche
+Pochi minuti passarono nella fretta delle operazioni, ma un'intera giornata di scontri sembrò essere fuggita quando, improvvisamente, si scatenò la luce di Nicholas: un’esplosione che accecò tutti e fece svanire l’orrore. Le urla assordanti dei diavoli furono coperte dalla voce rassicurante del santo, che ci riscaldò il cuore.
+Quando potemmo finalmente aprire gli occhi sulle macerie, non c’era più traccia dell’immondizia infernale che si era riversata sulla pianura.
+
+Nella confusione degli scontri, ci parve di scorgere anche uno dei ceffi di Cjadaldiaul, riconoscibile dalla caratteristica cappa scura, che dava noia a Tycho con la sua macchina.
+Gli eretici della val Collera, asserviti agli Inferi, volevano far terra bruciata della nostra casa.
+Ma noi abbiamo riportato la luce nella valle.
+Viva Celina! Viva la Val Celia!
+
+Adam Otter
+
+{% endcapture %}
+
+{{ custom_font_section | custom_font_delafield }}
+
+### Resoconto di Ekkyon
+
+In data 3 dicembre ci ritrovammo con l'elitte di Celina nelle sale del comune per discutere circa la difficile situazione che presto si sarebbe abbattuta su di noi.
+Vi erano tutti, il Conte ed il Visconte, la Candela, il capo delle guardie e come potevamo mancare noi avventurieri, eravamo io, Fern e Adam insieme ad Alcamora, Amaranto e Alvys (non ricordo il nome del nano guerriero....ma aveva una gran bella barba).
+Ad ogni modo non voglio annoiare i lettori futuri di questo report con la noiosa discussione che è seguita all'interno della sala, riferirò solo che fu organizzato un piano di evacuazione della città in caso di attacco da parte dell'orda e noi ci offrimmo come
+difesa per combattere le forze del male.
+Poi dovetti andare via perchè quello che doveva essere il mio bancariello d'esibizione per la festa prese inspiegabilmente fuoco e tra qualche parola che non ripeterò qui sono dovuto accorrere a sistemare i miei affari personali.
+5 dicembre, Celina era bianca dalla neve, ma la giornata era bella, inconscia di quello che sarebbe accaduto, io ed il mio fedele topolino Ferdinando vestiti come due piccole ombre eravamo pronti a sfoggiare i migliori spettacolini per intrattenere i passanti,
+quando d'improvviso tutto ebbe inizio.
+Forse nel modo più strano ed imprevisto possibile, il nemico era gia tra di noi..... e non stava facendo niente di male (o almeno, diciamo così, non stava uccidendo nessuno....non come ci si aspettava dalla famigerata ORDA del male).... il nemico era una donna
+che casualmente Fern sembrava conoscere.... anche se in realtà non era proprio una donna, doveva essere qualche entità malvagia, non sappiamo la sua vera natura, ne il suo nome, sappiamo che era lì alla festa per prendere le anime delle persone in cambio
+di tesori.
+Così ci ha offerto un gioco nel quale noi abbiamo messo in palio la nostra anima in cambio di quella di 8 persone. Coraggiosamente io, Alcamora, Fern ed Alvys abbiamo partecipato e contro ogni pronostico abbiamo anche sconfitto e cacciato il maligno, tuttavia data
+la sua natura ingannevole non ha mancato di tirarci un brutto scherzo e non abbiamo vinto nulla.... peccato per quelle anime.
+Tuttavia sappiate che se pur avete firmato un contratto con quest'entità, la vostra anima subirà delle ritorsioni solo dopo la vostra morte (così diceva lui o lei).... quindi vivete la vita al meglio, perchè la seconda potrebbe essere sgradevole.
+Ad ogni modo i guai cominciano da dopo aver scacciato il demonio, l'ORDA era vicina, stava arrivando alle nostre porte.
+Incontriamo Etta che ci dice che Tycho aveva qualcosa di importante da dirci,e così ci scapicolliamo per arrivare il prima possibile alla torre del saggio.
+Qui veniamo a conoscenza del fatto che le sue ricerche sulle stelle avevano finalmente dato i loro frutti, la stella di Nicholas il raggiante stava comunicando, e noi riuscimmo a sentirla.
+Capimmo che avremmo dovuto convogliare il suo potere in un'antica reliquia, il martello dell'antico eroe, martello che ora era in possesso del grande Guglielmo, anche lui qui presente per portare speranza attraverso la sacra luce.
+I mostri erano ormai alle nostre porte una piccola difesa era stata preparata in città, noi eravamo pronti, avevamo sistemato gli strumenti di Tycho per convogliare la luce della stella all'interno del martello dovevamo solo riuscire ad eseguire tutti i passaggi nel modo giusto.
+Non fu facile, molte guardie morirono, qualcuno dei nostri se la vide brutta, riuscimmo ad avere la meglio su una prima schiera di schifezze rantolanti formate da carcasse gelatinose di corpi e demoni rana enormi, ma ancora non riuscivamo a lavorare sul martello.
+Proprio quando tutto sembrava perduto, quando una nuova schiera di mostri stava arrivando capeggiata da demoni alati rossi, la luce fu incanalata nel modo giusto, tutto si illuminò della luce delle stelle, la speranza divampò.
+Guglielmo brandendo il martello scacciò le ombre, così come in passato aveva fatto Nicholas.
+Quest'anno il male era stato affrontato e sconfitto.
+
+Ora bisogna sistemare i disastri generati da questo episodio, la ricostruzione non sarà veloce.
+I miei dubbi vanno però agli eventi che probabilmente sono accaduti alla montagna della central, dove un altro demone, Salkazel ci diede appuntamento, appuntamento al quale noi non ci siamo mai presentati.... subiremo anche la sua collera?
+Spero vivamente di no, ma lo scopriremo.
+L'importante è che oggi siamo vivi e possiamo raccontarlo.
+
+In fede
+Ekkyon l'halfling
+
+### Missione di difesa di Celina
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Ekkyon, Adam, Amaranto, Alchamora, Alviss,
+il sottoscritto Fern Gunnhildr presenta alla Sua attenzione il seguente resoconto riguardo ai tragici eventi del 5 Dicembre.
+
+Il pericolo si annidava a Celina già durante il tramonto, durante lo svolgimento delle festività. Molti del sopracitato gruppo di avventurieri hanno avuto incontri con creature demoniache sotto false sembianze. Personalmente, sono stato quasi ingannato da un diavolo che aveva assunto le sembianze di Dran, nobile di Borgo Spillo, mia conoscente e amica. Questo diavolo ha raggirato diverse persone, proponendo la compravendita di oggetti preziosi a prezzi stracciati. In realtà, la firma del contratto comportava la cessione della propria anima post-mortem al diavolo. Dopo averlo allontanato dalla folla con un falso pretesto, il diavolo si è mostrato nella sua vera forma, e mi ha sfidato a un gioco di carte, in cui si può mettere in palio la propria anima nel tentativo di salvare le anime da lui catturate. Io e altri avventurieri, che nel mentre mi avevano raggiunto, abbiamo accettato la sfida nel tentativo di salvare almeno alcune delle anime catturate. Con grande rammarico non siamo riusciti nell’intento di salvare nessuna anima, ma al tempo stesso nessuno di noi avventurieri ha perso la sua. Per lo meno, sfruttando le regole del gioco, siamo riusciti a estorcere informazioni al diavolo riguardo la minaccia che incombeva su Celina: per fermare l’orda demoniaca che stava per assalire Celina sarebbe stato necessario incanalare la luce divina.
+
+Alla conclusione del gioco, siamo stati convocati dal saggio Ticho, il quale era giunto alla stessa conclusione: per fermare l'assalto è necessario incanalare la luce emessa dalla stella di Nicholas nel suo martello tramite uno strumento di sua invenzione chiamato “telescopio”. Dato che a possedere il martello di Nicholas, reliquia sacra, è il candelabro Guglielmo, ci siamo diretti a Celina con tutti gli strumenti necessari per eseguire l’operazione. Tuttavia, al nostro arrivo a Celina, l’assalto era già in corso, e la resistenza era già stata spinta indietro fino al centro cittadino, prontamente evacuato dalle autorità.
+
+La battaglia in difesa di Celina è stata cruenta ogni oltre immaginazione: una massa di carne, viva e informe, guidata da tre enormi diavoli con le sembianze di rospo, avanzava inesorabile. Ci siamo prontamente uniti alla battaglia per bloccare l’avanzata demoniaca, permettendo a Ticho e alla sua assistente Etta di assemblare il telescopio nelle retrovie. Con grande sgomento, dalle retrovie apparve l’orco Orcolat, infuriato, alla ricerca di un grosso diamante di cui reclamava la proprietà, e che incidentalmente era un elemento fondamentale per il funzionamento del telescopio. Siamo riusciti a distrarre Orcolat, e al tempo stesso ad assottigliare le fila nemiche, bloccandone l’avanzata. Tuttavia, in lontananza, una seconda ondata demoniaca si avvicinava inesorabile. In quel momento cruciale, Ticho e Etta riuscirono a completare l’assemblaggio del telescopio, a puntarlo verso la stella di Nicholas, e ad incanalarne la luce nel martello sacro! Celina e l’intera Val Celia furono illuminate da un bagliore accecante di luce divina! Il prodigio era compiuto: l’intera orda demoniaca era stata annientata, a Celina come in Val Celia!
+
+Questa battaglia non sarebbe stata vinta senza la collaborazione delle autorità di Celina e del Culto della Sacra Luce, degli avventurieri, e del saggio Ticho, i cui studi sono stati cruciali per la risoluzione della crisi. Mi auguro che le vittime civili siano state ridotte al minimo durante l’evacuazione della cittadina.
+
+La ringrazio per il tempo concessoMi,
+Fedelmente,
+Fern Gunnhildr
+
 ## Ventisettesima sessione
 
 ### Esplorazione della palude
