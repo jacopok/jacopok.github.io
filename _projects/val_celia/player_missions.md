@@ -23,6 +23,43 @@ Una volta portata a termine la missione, il resoconto dovrà essere portato a **
 
 Rodoaldo sa bene che si tratta di lavori complicati, e non si aspetta che tutto possa essere finito in un colpo solo! Anche risultati parziali sono ben accetti.
 
+## Ripristinate la barriera!
+
+_Il 5 dicembre 2024 i diavoli hanno dilagato nella pianura, assaltando Celina, e sono stati fermati solo grazie alla costruzione di un apparato che ha richiamato la luce di Nicholas._
+
+_La sua stessa voce ha detto, e tutti abbiamo udito: quella barriera, stabilita nel 1406, è composta di Bloccapietra, e contiene la luce di migliaia di anime. Dev'essere ristabilita entro il prossimo anno, altrimenti la tragedia di questo si ripeterà._
+
+_Come possiamo fare? Dove si può trovare altra Bloccapietra? Ci sono altri varchi da bloccare oltre a quello per cui sono passati i diavoli?_
+
+## Liberate la palude dalle streghe!
+
+_Questa missione è indetta qui a Celina per richiesta e su finanziamento del **Culto dei Lumini**, e in particolare dell'esimio Guglielmo che Vede Lontano, Candelabro di Pleif._
+
+\*Questa missione è **confidenziale\***.
+
+_Un'ombra si è posata sulla Val Celia: ormai da troppo tempo parte di essa è invasa da una palude, emanazione di un potere che è l'antitesi di tutto ciò che è chiaro e luminoso._
+
+_La loro presenza ha corrotto la regione che abitano, portando eresie quali la negromanzia ad Andreis, i cui abitanti paiono altrimenti civili e pii dai racconti che ne ho sentito._
+
+_Andate, dunque, e illuminate la nebbia e la tenebra!_
+
+## Trovate gli altri Tempietti Arcani di Claudio Colussi!
+
+_Questa missione è indetta qui a Celina per richiesta e su finanziamento del **signor Tycho**, residente a Torre._
+
+_Ho letto nel Resoconto della vostra Ventiquattresima Escursione che sul Monte Rododendro avete trovato una Scritta che iniziava con "Tra queste Mura, risuona l'Eco di un’antica Magia: “Trasforma la Pietra”._
+
+_Ho riconosciuto questa Formula: è quella usata dal grande Claudio Colussi, Incantatore d'altri Tempi. Molti Studiosi immaginavano che avesse lasciato Testimonianza della sua Arte in alcuni Luoghi del Globo, ma questo è il primo Ritrovamento di uno di questi Tempietti!!_
+
+_È possibile dunque che gli Altri si trovino nei Dintorni. Contengono Nozioni inestimabili per lo sviluppo della Conoscenza. Il suo famoso Indovinello sarà di certo d'aiuto!_
+_Se è chiara la loro Origine, i Tempietti sono Nove: offro 50 monete d'oro per il Primo, 100 per il Secondo, 150 per il Terzo e così via._
+
+## Trovate la Cittadella sotto il Monte Fara!
+
+_Nel diario di Bonnris, capo della Centrâl di Dos Flûms, è menzionata più volte una "Cittadella" al di sotto del Monte Fara. A quanto pare questa si può raggiungere a partire dalla Centrâl, ed è stata rifugio di Morin il Munifico durante la guerra nanica._
+
+_Senz'altro un tale luogo deve contenere tesori ancora più grandi di quelli di Farcis: i nani concedevano agli estranei di visitare quest'ultima, ma evidentemente non la Cittadella, fulcro del loro civiltà!_
+
 ## Esplorate la vecchia strada della Val Celia!
 
 _Nel suo libro, Farco Brolo descriveva una strada che collegava la pianura al regno dei nani. Nelle primissime esplorazioni condotte dalle mie fedelissime guardie, è stata individuata una vecchia stradina che segue il corso dell'acqua, giusto oltre la prima fila di colline. Il vostro compito è percorrerla, scoprire dove porta e al contempo metterla in sicurezza per le future spedizioni._
@@ -51,12 +88,6 @@ _Durante il corso della diciannovesima sessione, si è scoperto che simili figur
 
 _Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro società e cultura. Il visconte Rodoaldo Venturoso spera di poter allacciare dei buoni rapporti con questi, scambiando informazioni, ricchezze e tecnologie, ma i primi contatti di avventurieri con Upguur, il 10 aprile (settima sessione), non sembrano essere andati a buon fine. Cimentatevi dunque in questa missione diplomatica: è ancora possibile ristabilire l'amicizia tra le due popolazioni?_
 
-## Esplorate l'antica centrale nanica
-
-_Durante una delle precedenti esplorazioni lungo la vecchia strada è stata rinvenuta una grande struttura scavata sulla parete rocciosa, che risponde al nome di "Centrâl di Dôs Flums". Questa struttura sembra essere collegata all'aghe corinte, particolare liquido le cui proprietà magiche sono di grande interesse per il regno. Esplorate dunque la centrale e svelatene tutti i segreti!_
-
-_Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti degli oggetti potenzialmente interessanti nella casa antistante l'ingresso, ora abitata saltuariamente dal goblin Herk (decima sessione). Durante successive esplorazioni degli avventurieri sono riusciti ad entrare (dodicesima sessione) e a esplorare il piano terra della centrale (quattordicesima sessione) e il primo piano (diciassettesima e diciannovesima sessione). _
-
 # Missioni completate
 
 ## Investigate il mistero della testa dietro la collina!
@@ -83,3 +114,9 @@ _Il primo gruppo di avventurieri che porterà prove dell'avere trovato Andreis r
 
 Nella quindicesima sessione, Andreis è stata raggiunta!
 Nella sedicesima e diciottesima, il paese è stato ulteriormente esplorato.
+
+## Esplorate l'antica centrale nanica
+
+_Durante una delle precedenti esplorazioni lungo la vecchia strada è stata rinvenuta una grande struttura scavata sulla parete rocciosa, che risponde al nome di "Centrâl di Dôs Flums". Questa struttura sembra essere collegata all'aghe corinte, particolare liquido le cui proprietà magiche sono di grande interesse per il regno. Esplorate dunque la centrale e svelatene tutti i segreti!_
+
+_Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti degli oggetti potenzialmente interessanti nella casa antistante l'ingresso, ora abitata saltuariamente dal goblin Herk (decima sessione). Durante successive esplorazioni degli avventurieri sono riusciti ad entrare (dodicesima sessione) e a esplorare il piano terra della centrale (quattordicesima sessione) e il primo piano (diciassettesima e diciannovesima sessione). _
