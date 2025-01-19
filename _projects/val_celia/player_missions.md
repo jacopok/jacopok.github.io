@@ -25,7 +25,7 @@ Rodoaldo sa bene che si tratta di lavori complicati, e non si aspetta che tutto 
 
 ## Ripristinate la barriera!
 
-_Il 5 dicembre 2024 i diavoli hanno dilagato nella pianura, assaltando Celina, e sono stati fermati solo grazie alla costruzione di un apparato che ha richiamato la luce di Nicholas._
+_Il 5 dicembre 2024 i diavoli sono dilagati nella pianura, assaltando Celina, e sono stati fermati solo grazie alla costruzione di un apparato che ha richiamato la luce di Nicholas._
 
 _La sua stessa voce ha detto, e tutti abbiamo udito: quella barriera, stabilita nel 1406, è composta di Bloccapietra, e contiene la luce di migliaia di anime. Dev'essere ristabilita entro il prossimo anno, altrimenti la tragedia di questo si ripeterà._
 
@@ -119,4 +119,4 @@ Nella sedicesima e diciottesima, il paese è stato ulteriormente esplorato.
 
 _Durante una delle precedenti esplorazioni lungo la vecchia strada è stata rinvenuta una grande struttura scavata sulla parete rocciosa, che risponde al nome di "Centrâl di Dôs Flums". Questa struttura sembra essere collegata all'aghe corinte, particolare liquido le cui proprietà magiche sono di grande interesse per il regno. Esplorate dunque la centrale e svelatene tutti i segreti!_
 
-_Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti degli oggetti potenzialmente interessanti nella casa antistante l'ingresso, ora abitata saltuariamente dal goblin Herk (decima sessione). Durante successive esplorazioni degli avventurieri sono riusciti ad entrare (dodicesima sessione) e a esplorare il piano terra della centrale (quattordicesima sessione) e il primo piano (diciassettesima e diciannovesima sessione). _
+_Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti degli oggetti potenzialmente interessanti nella casa antistante l'ingresso, ora abitata saltuariamente dal goblin Herk (decima sessione). Durante successive esplorazioni degli avventurieri sono riusciti ad entrare (dodicesima sessione) e a esplorare il piano terra della centrale (quattordicesima sessione) e il primo piano (diciassettesima e diciannovesima sessione)._

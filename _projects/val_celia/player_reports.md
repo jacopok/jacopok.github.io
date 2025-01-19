@@ -966,6 +966,9 @@ Per non perdersi, sapienti, decisero di segnare la propria strada su degli alber
 
 Sempre più stanchi e affranti, i 5 proseguirono fino a raggiungere un luogo abbandonato. Una vecchia capanna dal tetto di paglia fece capolinea dalla nebbia. Ovviamente, tutti si arrischiarono a dare un’occhiatina alla vetusta dimora, anche perché qualcosa di magico e attraente sembrava richiamarli. Davanti a loro si aprì uno strano ambiente, fatto di bambole di pezza, umanoidi e di lepri e conigli. Certo, non si aspettarono che una bambola inquietante potesse prendere vita e attaccarli!! A nulla servirono giavellotti, frecce e asce. Solo il fuoco della maga Belfaga riuscì a incenerire l’inquietate essere magicamente animato!! Scampati al pericolo tornarono ad osservare la capanna. Vi trovarono un disegno lì abbandonato raffigurante tre figure riunite intorno ad un calderone. Nel disegno vi erano anche riportati i nomi, ma chi fossero esattamente queste singolari creature non è mai stato chiaro.
 
+{% include figure.liquid path="assets/img/val_celia/Disegno_Pegda.pdf
+" class="img-fluid rounded z-depth-0" zoomable=true width="50%" %}
+
 Passata la notte e abbandonata la stanchezza, era ormai il tempo di tornare indietro in fretta. La strada fu stranamente ricoperta di fortuna: monete d’oro e un’ascia furono recuperate. Ad un tratto si apriva una raduna nel bosco e là nel mezzo, un oggetto appariscente illuminava di flebile luce il suo intorno. Un medaglione luccicante era lì abbandonato. Raccoglierlo fu un'impresa ardita, impossibile, in quella vita.
 
 L’avventura sembrava conclusa, e infatti i 5 esploratori, tornati ormai nella forra del Celia, si recarono nella capanna del goblin Erk, per lasciarli le punte di lance a cui tanto teneva. Poiché la curiosità è sempre tanta in queste occasioni, i nostri amici decisero che una sbirciatina all’interno non poteva certo far male, ma mai si aspettarono di dover il proprio capo grattare.
