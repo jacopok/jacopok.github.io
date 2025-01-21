@@ -31,6 +31,8 @@ _La sua stessa voce ha detto, e tutti abbiamo udito: quella barriera, stabilita 
 
 _Come possiamo fare? Dove si può trovare altra Bloccapietra? Ci sono altri varchi da bloccare oltre a quello per cui sono passati i diavoli?_
 
+_Il premio per una barriera ripristinata è di 3000 monete d'oro, cofinanziate dalla stessa Ludovica, Regina di Burlanija._
+
 ## Liberate la palude dalle streghe!
 
 _Questa missione è indetta qui a Celina per richiesta e su finanziamento del **Culto dei Lumini**, e in particolare dell'esimio Guglielmo che Vede Lontano, Candelabro di Pleif._
@@ -42,6 +44,8 @@ _Un'ombra si è posata sulla Val Celia: ormai da troppo tempo parte di essa è i
 _La loro presenza ha corrotto la regione che abitano, portando eresie quali la negromanzia ad Andreis, i cui abitanti paiono altrimenti civili e pii dai racconti che ne ho sentito._
 
 _Andate, dunque, e illuminate la nebbia e la tenebra!_
+
+_La ricompensa sarà di 1000 monete d'oro per strega debellata. Progresso nella bonifica di una regione della palude, invece, sarà premiato con 100 monete d'oro._
 
 ## Trovate gli altri Tempietti Arcani di Claudio Colussi!
 
@@ -60,6 +64,8 @@ _Nel diario di Bonnris, capo della Centrâl di Dos Flûms, è menzionata più vo
 
 _Senz'altro un tale luogo deve contenere tesori ancora più grandi di quelli di Farcis: i nani concedevano agli estranei di visitare quest'ultima, ma evidentemente non la Cittadella, fulcro del loro civiltà!_
 
+_Il ritrovamento della Cittadella sarà premiato con 500 monete d'oro, la sua completa esplorazione con altre 1000._
+
 ## Esplorate la vecchia strada della Val Celia!
 
 _Nel suo libro, Farco Brolo descriveva una strada che collegava la pianura al regno dei nani. Nelle primissime esplorazioni condotte dalle mie fedelissime guardie, è stata individuata una vecchia stradina che segue il corso dell'acqua, giusto oltre la prima fila di colline. Il vostro compito è percorrerla, scoprire dove porta e al contempo metterla in sicurezza per le future spedizioni._
@@ -68,6 +74,8 @@ _Diversi avventurieri hanno già esplorato in questa direzione, e hanno trovato 
 _Da lì, la strada procede lungo il fiume superando la Centrâl, e giunge a una confluenza. Alla destra pare sia affetta da della magia illusoria (vedi i resoconti delle sessioni ottava e decima) e poi conduce ad una mefitica palude, mentre a sinistra non è stata esplorata fino in fondo, seppure un sentiero parta da essa verso il villaggio di Upguur (vedi il resoconto della settima sessione)._
 
 _La parte ancora inesplorata è questa strada verso sinistra, nella direzione di Upguur ma dall'altro versante del fiume Celia._
+
+_Il completamento dell'esplorazione della strada sarà premiato con 500 monete d'oro._
 
 ## Dov'è la città di Farcis?
 

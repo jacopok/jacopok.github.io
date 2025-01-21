@@ -15,6 +15,28 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 # Sessioni 21-30
 
+## Ventinovesima sessione
+
+### Al notabilissimo Notaio
+
+il qui scrivente Alviss si scusa per il tardivo invio del presente documento. Mi sono concesso un periodo di riposo dopo le numerose avventure affrontate nell’ultimo periodo.
+
+Data la distanza temporale dall’ultima spedizione, il seguente resoconto potrebbe omettere alcuni avvenimenti che, ahimè, non rimembro. Tuttavia farò del mio meglio.
+
+Quel giorno partimmo alla volta della palude con l’intenzione di trovare il nascondiglio delle streghe. Il nostro unico indizio: cercare dei calderoni come quello trovato nel villaggio abbandonato vicino ad Andreis.
+
+Appena partiti notammo subito i resti di un incendio sui colli fuori Celina. La cosa che ci colpì particolarmente è che il fuoco sembrava essere partito da un punto ben specifico sulla cresta del promontorio, proprio in corrispondenza di alcune bloccapietre.
+
+Non ci soffermammo troppo e riprendemmo la strada verso la palude, alla cui entrata trovammo una macabra indicazione: un braccio congelato indicante la strada per Celina con il seguente messaggio “Ora sì che indichi bene la via”. Abbiamo deciso di sepellirlo e distruggere la scritta.
+
+Dentro la palude incontrammo nuovamente Orcolat, questa volta con un braccio malridotto a causa di una punizione inflitta dai suoi “amici”. Il gigante ci disse che per trovare le streghe avremmo dovuto seguire il fiume ma che solo io e Icaro potevamo passare in quanto “puzzavamo di palude”, probabilmente perché gli unici ad aver incontrato lo spirito della Lince. Con un po’ di retorica convincemmo Orcolat a farci passare tutti.
+
+Superammo dunque il ponte della Lince e iniziammo a risalire il fiume. Dopo diverso tempo a camminare per una fitta rete di rami ci ritrovammo in una rigogliosa radura delimitata da arbusti. Sembrava perfetta per essere vera e infatti altro non era che una trappola. Una pianta dalle lunghe liane cercò di divorarci mentre un branco di topi spettrali cercava di infilarsi in ogni nostro orifizio per portarci in uno stato di paralisi. Il combattimento ci mise alle strette, tanto che pensai che il nostro destino fosse ormai segnato, ma per fortuna riuscimmo a sconfiggere la pianta. Da qui in poi i miei ricordi si fanno ancora più confusi, forse a causa della stanchezza. A quanto mi hanno riferito i miei compagni Yukirei e Lord Opeauf, unici non caduti nella trappola dei topi, loro sono stati prima presi dalla pianta e scaraventati fuori dal cerchio, poi, quando si sono fatti strada attraverso la barriera vegetale che li separava da noi poveri e addormentati, si sono ritrovati dinnanzi ad una scena tremenda. Due figure grottesche e deformi (chiaramente delle streghe) si chinavano, una su Icaro e una su Belfaga. Lentamente estraggono un topo da ciascuno di loro. Purtroppo, i nostri eroi immuni al sonno non hanno avuto il tempo di reagire, che una delle megere, con un gesto del suo braccio scheletrico, li scaraventò indietro, per poi svanire nel nulla, così come era arrivata.
+
+Fortunatamente sia Icaro che Belfaga sono ancora vivi, anche se hanno riportato di sentirsi deboli, come se parte della loro energia vitale fosse stata rubata. Raccogliemmo le poche forze che ci rimanevano e tornammo a Celina, per fortuna sani e salvi.
+
+Forse abbiamo sottovalutato un po' troppo il potere delle streghe, caro notaio, ma stia certo che questo non fermerà la nostra caccia.
+
 ## Ventottesima sessione
 
 ### Il Tramonto e l'Alba su Celina
