@@ -13,7 +13,54 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+# Sessioni 31-40
+
+## Trentunesima sessione
+
+### Farcis è stata aperta. Temere, nemici dell’erede
+
+Attraverso la palude, è così che lo faremo. Non prima di aver reclutato in squadra Abderchiola, uno strano ma simpatico nano. Io odio i nani. Ma condividiamo lo stesso obiettivo, trovare la città di Farcis; noi per soldi o per gloria, lui per cercare una fanciulla a cui dare del fango nero. Salutato Erk in centrale e passato il fiume Melassa, attraversiamo il muro di roccia e, risalendo il fiume ci perdiamo.
+
+Attraverso la palude, troviamo uno strano uomo, fuso ad un albero con la sua stessa pelle, La strega lo lascia lì da 3 mesi e va ad innaffiarlo ogni giorno il tanto che basta per prolungare la sua agonia. Ci chiede di ucciderlo ed esaudiamo il suo desiderio dandogli fuoco. Prima di morire ci indica la strada per Farcis e ci chiede di salutargli un/una tale Bolpat.
+
+Attraverso la palude, pagato il solito prezzo alla cara e vaporosa lince, seguiamo i binari quando, all’improvviso, i topini feticisti amanti degli orifizi umani ci attaccano, ma facilmente riusciamo a debellare la piaga ratticida, proseguendo il nostro viaggio lungo i binari…
+
+…attraverso la palude. Raggiungiamo una struttura in pietra, fiancheggiata da una colonna in blocca-pietra di fattura nanica la quale, se superata, non consente di eseguire incantesimi. L’edificio dinanzi a noi è la locanda melassa, famosa per il suo giro di affari e scommesse. Ad accoglierci all’esterno ci sono diversi umanoidi, su tutti un uomo-rana che ci invita ad entrare, consigliandoci di acquistare per 50 monete d’oro il regolamento da seguire all’interno.
+
+Attraverso la palude, non lo avrei mai detto, ci si può anche divertire. I più noiosi si cimentano nell’assaggio di una strana zuppa, che sembra calmare e rallentare il fisico e il cervello, preparata dall’oste della locanda, un orco che sfoggia la sua vistosa cintura nanica magica. Io invece, che non sono noioso, mi fiondo in un giro di giochi e scommesse con un ominide allungato e il suo schiavo uomo-albero. Perdo tutto. Mi gioco persino lo scalpo. Quell’umanoide però imbrogliava! Scoperto il misfatto, andiamo via senza pagare alcunché e ritorniamo…
+
+…attraverso la palude, nuovamente ai binari. Incontriamo un simpatico robottino dalle sembianze di un metronomo alla guida di un vagone. Ci dice che siamo sulla linea A della metro per Farcis e ci chiede un biglietto, aggiungendo che sono 218423 giorni circa che è in ritardo. Capiamo che, superata una linea in corrispondenza della colonna nanica, si spegne e non prosegue la sua tratta. Ci chiede perciò di spingere i suoi vagoni di forza seguendo i binari. Così facciamo!
+
+Attraverso la palude, superiamo una collinetta e, sulla sua sinistra, troviamo un ponte rotto che attraversa un lago oltre il quale notiamo una diga. Sulla destra, invece, si erge davanti a noi una città nanica, che sembra poter ospitare migliaia di abitanti nei suoi edifici imponenti. Il robottino si risveglia, ci ringrazia e se ne va, riprendendo il suo consueto turno lavorativo. Prima di andare però, ci lascia un biglietto rigido con su rappresentata la città, che fa sa sfondo alla scritta “arrivederci”. La scritta del nome della città non mente…
+
+…attraverso la palude, siamo giunti finalmente a Farcis! Addentrandoci, la luce si fa via via più rossa e l’aria è via via più secca. C’è qualcosa di magico, perché nonostante ciò vi cresce dell’erba. Il rossore proviene da una zona boschiva. Girando in questa città vuota notiamo una banca, per poi incontrali. Quelli che sembrano essere gli abitanti di Farcis. Sono uomini-pesce. Sono tanti. Iniziano a mormorare dei versi e, con un incantesimo, capiamo che si chiedono chi siamo, cosa vogliamo. Tentano di eliminarci sparando delle fiamme dalle mani e, cogliendoci alla sprovvista, ci feriscono. Decidiamo così di battere in ritirata e scappiamo via da Farcis, tornando indietro…
+
+…attraverso la palude.
+
+Lord Opeauf
+
 # Sessioni 21-30
+
+## Trentesima sessione
+
+### Missione di esplorazione della palude
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Ekkyon, Adam, Tarlin,
+il sottoscritto Fern Gunnhildr presenta alla Sua attenzione il seguente resoconto.
+
+Ci siamo inoltrati nelle profondità della palude in cerca delle famigerate streghe. Durante il nostro peregrinare nell’insalubre acquitrino, abbiamo incontrato due creature orribili alla vista, con un corpo umanoide, ma rinsecchito e sproporzionato, nonchè ricoperto di funghi e muffa. Dopo aver chiesto informazioni sulle streghe a queste creature, a cui abbiamo affibbiato i nomi di Giuda e Fastidioso (con loro grande felicità), ci hanno proposto di accompagnarci da loro. Ingenuamente, le abbiamo seguite e siamo stati condotti a un ponte di pietra di fattura nanica. L’attraversamento del ponte, obbligatorio per proseguire, ci è però stato precluso da una sorta di spirito in forma di felino blu, a meno del pagamento di un pedaggio. Il pedaggio richiede di burrate nel fiume sottostante il ponte un oggetto in proprio possesso, pronunciando il proprio nome. Abbiamo eseguito la procedura e attraversato il ponte, raggiungendo così una piccola radura delimitata da una siepe relativamente ben curata, sebbene presentasse segni di danneggiamento. Deve trattarsi della stessa pianta affrontata dai colleghi avventurieri nella precedente missione esplorativa. Mi duole ammettere che siamo caduti nella stessa trappola dei nostri predecessori, venendo attaccati dalla siepe senziente. Alla battaglia si aggiunsero anche dei topi spettrali (albini con occhi rossi), due orchi, condotti in loco dagli infidi Giuda e Fastidioso, e una strega! Eravamo soverchiati da forze nemiche! Siamo riusciti a neutralizzare la siepe senziente (sperabilmente per sempre) e anche svariati topi spettrali, ma io e Tarlin siamo caduti nelle grinfie della strega, la quale ci ha fatto cadere in un sonno profondo e tormentato da incubi terribili e da lancinanti dolori fisici. Tuttavia, con un abile gioco di squadra, siamo riusciti a distrarre gli orchi e a sfuggire dalle grinfie della strega. La battaglia era impari, e non abbiamo avuto altra scelta che la ritirata. Durante la fuga, la strega (di nome morgana) ci ha sbeffeggiato invitandoci a tornare, per poi spezzare il collo a Giuda.
+L’esperienza è stata terribile, ed eravamo impreparati ad affrontare delle forze tanto soverchianti per numero.
+
+P.S.: Colgo l’occasione per pubblicare un annuncio di persona scomparsa. La nobile Dran di Borgospillo risulta scomparsa dal 5 Dicembre, quando si era recata da Borgospillo a Celina. Temo si sia imbattuta nell’orda demoniaca durante il tragitto. Prego di riferire alle autorità di Celina o Borgospillo ogni informazione utile per le ricerche.
+
+La ringrazio per il tempo concessoMi,
+
+Fedelmente,
+
+Fern Gunnhildr
 
 ## Ventinovesima sessione
 
