@@ -43,6 +43,54 @@ Lord Opeauf
 
 ## Trentesima sessione
 
+### Nelle grinfie delle streghe
+
+{% capture custom_font_section %}
+
+Poco dopo il bivio che precede l'ingresso alla vecchia Centrâl, lo scuro torrente, che si immette nel fiume Celia, serpeggiando si confonde nel fogliame e presto si allarga, formando i liquami della palude.
+Era la prima volta che mi trovavo lì, mai c’ero capitato nelle mie avventure.
+Inizialmente, la palude mi apparve molto più calma e silenziosa di come l'avessi immaginata dai racconti dei miei compagni.
+Il terreno era fermo e intravedeva un sentiero, per quanto confuso, che ci spingeva sempre più dentro, sempre più al centro.
+Il nostro scopo, quel mercoledì 22 gennaio, era andare dritti al nocciolo della questione e affrontare le streghe che infestano quest'angolo di Val Celia.
+"La palude si sta allargando" - ci avevano ammonito, affinché noi, Ekkyon, Fern, Tarlin e il sottoscritto, ci occupassimo della bonifica.
+Il compito si rivelò più arduo del previsto, la palude più vasta e popolata del temuto, e noi siamo stati ricacciati indietro, fiaccati dalla sua oscura magia.
+
+Durante nostra esplorazione incontrammo subito due omini grigi, storpi e tutti ammuffiti, ma molto entusiasti di mostrarci la via.
+Era chiaro che i due loschi individui, che chiamammo Fastidioso e Giuda, stessero tramando qualcosa, ma ci lasciammo condurre da chi dava loro ordini, sperando di arrivare alla radice del problema.
+Arrivati davanti a un lungo ponte ligneo, dalla nebbia si materializzò un gattone blu, vispo ed elegante, che ci chiese di lasciare un pegno per passare.
+Noi, sciocchi ma illusi d'esser furbi, lasciammo pietre e sassi, ma solo dopo esser passati ci accorgemmo che il pegno era una punta della nostra vitalità, che salutammo per sempre.
+Di lì in avanti la palude si fece più placida e prevedibile, come se, lasciando qualcosa di noi, essa si fosse aperta a sua volta.
+Le piante storte e macabre ora facevano meno ribrezzo, e nel terreno fangoso il sentiero divenne più evidente.
+Strada facendo, scorgemmo a destra una radura, incorniciata da una siepe che spiccava per la cura con fossero stati potati i suoi rami.
+Ci avvicinammo, curiosi, e la pianta ci accolse stregandoci col profumo dei suoi fiori e avvinghiandoci coi suoi rami flessuosi.
+Nel tentativo di ricacciare il piccolo Ekkyon fuori dal grosso cespuglio animato, decine di simpatici topini salterini ci solleticavano gli orifizi, curiosi anch'essi.
+
+Ma mentre ci districavamo tra fronde e sorci, le nostre guide, prima disponibili, ora ci lasciavano indietro.
+Avevano fretta di andare a richiamare due loro compari, simili d'intenti ma non di stazza.
+Questi giunsero con l'irruenza di un terremoto, tant'era la loro mole.
+Verdognoli di carnagione e vestiti alla buona, i due bruti erano grossi quanto due uomini ma decisamente più piccoli del gigante Orcolat.
+Sentiti i loro passi, io mi nascosi su un albero, giusto in tempo per assistere alla scena dei miei compagni che, ormai districatisi da quell'arbusto molesto, boccheggiavano di sonno e, d'improvviso, crollarono sul posto per la stanchezza.
+Dall'alto del mio nascondiglio non sapevo dove girare la testa, né se palesarmi o restare di guardia, quando, molto più adagio dei due bruti, apparve dal nulla una delle streghe della palude.
+Morgana, così la chiamarono, era brutta come una vecchia donna, ma alta e scura di carnagione.
+I quattro la videro e si fermarono per parlarle, mentre lei si ritirò, come in preghiera, sulla figura dormiente di Fern, divenendo solo un'ombra di se stessa.
+Quando ebbe finito, pochi istanti dopo, si chinò ed fece come per estrarre qualcosa dall'orecchio destro del mio amico: non vedevo chiaramente, ma parve cavarne fuori una sorta di piccolo, grasso roditore traslucido, che subito ripose in un borsello di cuoio alla cinta.
+
+Intanto, io avevo svegliato Ekkyon e ci accordammo per tentare una fuga.
+Quando la strega si ridestò dal suo rito, noi avevamo richiamato dal sonno i nostri compagni.
+Ekkyon ci creò un diversivo evocando una grossa serpe, mentre io tentai di confondere i bruti con discorsi convoluti.
+Avemmo fortuna, e la strega decise teatralmente di lasciarci andare, sicura di averci vincolati a quel luogo.
+Nella fuga mi guardai indietro e la vidi fare un gesto colla mano, come per richiudersi il mantello sul collo, ma invece della stoffa si alzo un turbine che la circondò e la fece sparire.
+
+In seguito, Fern lamentò fiacchezza e spossatezza cronica e capii che quello della strega non era stato solo un simpatico trucco di magia.
+Dovremo sicuramente tornare lì al più presto per soccorrere il nostro amico e finire il lavoro iniziato.
+La mia prima impressione era sicuramente sbagliata: questo è un luogo pericoloso e avremo bisogno di più di una semplice scappatina per bonificarlo dai suoi mali.
+
+Adam Otter
+
+{% endcapture %}
+
+{{ custom_font_section | custom_font_delafield }}
+
 ### Missione di esplorazione della palude
 
 Sua Eccellenza,
