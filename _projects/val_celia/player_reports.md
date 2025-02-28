@@ -15,6 +15,24 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 # Sessioni 31-40
 
+## Trentaquattresima sessione
+
+### Assalto al nascondiglio delle streghe
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Ekkyon, Adam, Fuc,
+il sottoscritto Fern Gunnhildr presenta alla Sua attenzione il seguente resoconto.
+
+Ci siamo avventurati nuovamente nelle profondità della palude, alla ricerca delle famigerate streghe. Dopo aver aggirato un canneto di spore velenose e attraversato il ponte della Lince sul fiume Melassa e la pianta animata accudita dalle streghe, abbiamo raggiunto una radura, dove il Melassa forma una pozza. Questa pozza è la sorgente del fiume Melassa, o meglio delle due peculiari proprietà (colore torbido e elevata viscosità), in quanto l’acqua che affluisce nella pozza da una cascata risulta essere acqua salubre. Questo posto sembra fungere da macelleria, gestito da due ogre e varie creature della stessa specie di Giuda e Fastidioso. Un corvo famiglio di Ekkyon ha esplorato la radura per noi, scoprendo una botola nel terreno, per poi venire attaccato da una creatura simile a un corvo con due teste, che poi avremmo scoperto chiamarsi Kirik. Abbiamo subito intuito che le streghe, stavano osservando la radura tramite una sfera che pendeva dal collo di Kirk. Dopo aver messo in fuga Kirik e distratto gli ogre, ci siamo intrufolati all’interno della botola, ritrovandoci in una prigione sotterranea, dove svariate creature erano tenute prigioniere: una creatura sferica dotata di svariati tentacoli che terminano in occhi (che nominiamo Giancarlo Guercio Baby), una manticora con fattezze feline dotata di ali (che chiamiamo Fuffy), una pianta senziente terrorizzata di nome Grovyne, delle ragnatele senzienti (che potrebbero essere in grado di cancellare la memoria), due non morti e un rospo gigante. Abbiamo liberato i solo primi tre, in quanto disposti ad aiutarci nella battaglia contro le streghe.
+
+Attraversata la prigione, siamo entrati in un laboratorio alchemico a un piano sopraelevato, al cui interno di trovano un grande calderone che ribolle di interiora, e un cerchio runico. Qui abbiamo incontrato Alba, una donna umana che ci racconta di essere costretta, sotto contratto magico, al servizio delle streghe. E’ dal calderone che viene prodotta la sbobba che, una volta riversata nell’ambiente, lo tramuta nella Palude. Esistono solo due streghe, ma stanno cercando di farne nascere una terza, adescando una ragazzina di Andreis. Tuttavia l’eroica Alba sta sabotando di nascosto le streghe, rallentandone i piani. Ci siamo preparati ad affrontare le streghe al loro ritorno (il cerchio runico è un cerchio di teletrasporto) forti della superiorità numerica e dell’effetto sorpresa. La nostra imboscata è tuttavia fallita, e presto ci siamo ritrovati ad affrontare una vera e propria armata: due streghe, Kirik, uno gnomo armato di asce (probabilmente il macellaio) e molte creature come Giuda e Fastidioso! La battaglia, a cui si uniscono anche Giancarlo Guercio Baby e Fuffy, è stata ardua, ma ne siamo usciti vincitori, eliminando tutti i servitori delle streghe. Siamo anche riusciti a ferire gravemente le streghe, che tuttavia sono riuscite a dileguarsi grazie ai poteri di una pietra che portano al petto. Riteniamo di averne rallentato notevolmente i piani, nonché assottigliato le fila di servitori. La loro cattura, nonché impedire loro di far nascere una terza strega, sono una priorità assoluta per la sicurezza dell’intera regione.
+
+La ringrazio per il tempo concessoMi,
+Fedelmente,
+Fern Gunnhildr
+
 ## Trentatreesima sessione
 
 ### Ritorno a Farcis

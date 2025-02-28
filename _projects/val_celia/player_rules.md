@@ -187,13 +187,15 @@ Se invece si decide di tenersi l'oggetto trovato, ci si potrà fare quello che s
   - vuoi riutilizzarlo in missioni successive o downtime? -1
   - lo vuoi tenere in casa senza mai usarlo? 0
 - **La dimensione dell'oggetto**:
-  - tiny +1
-  - small 0
-  - medium -1
-  - large -3
-  - huge -6
-  - gargantuan -10
+  - tiny 0
+  - small -1
+  - medium -3
+  - large -6
+  - huge -10
+  - gargantuan -15
 - **Se l'oggetto è magico**: -2
+- **Se l'"oggetto" è vivo e collaborativo**: questo fa una prova in stealth DC 15, con successo +2, con fallimento -2
+- **Se l'"oggetto" è vivo e non collaborativo**: questo fa una prova in performance DC 15, successo -6, fallimento -1
 
 Le <u>conseguenze</u> (se ci saranno) dipendono dal risultato della prova:
 
