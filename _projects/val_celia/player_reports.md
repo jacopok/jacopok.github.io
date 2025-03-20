@@ -15,6 +15,30 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 # Sessioni 31-40
 
+## Trentacinquesima sessione
+
+### Il Tempietto
+
+Saluti caro mago Tico,
+
+qui di seguito riporterò gli avvicendamenti accaduti nel tempietto da lei indicatoci, ma prima riassumerò ciò che ci siamo detti durante il nostro incontro.
+
+Se la memoria non mi inganna, dopo il brillante scherzo vampiresco, ci ha informato dell’esistenza di 9 tempietti creati dal grandioso mago Claudio Colussi. Questi tempietti sono disposti nella valle in modo da formare una fila e non si conosce bene il loro scopo. Sotto suo consiglio, il qui presente Alviss insieme ad Abderchiolas, Belfaga, Icaro e Lord Opeauf, ci siamo recati presso il primo tempietto sui monti non lontano da Celina.
+
+Dopo aver affrontato valorosamente due agguerriti grifoni, di cui uno messo in fuga dal sottoscritto, abbiamo rintracciato il luogo magico e ci siamo recati al suo interno. Subito ci è parso chiaro che la magia cardine di quel tempio fosse “servitore invisibile” grazie alla presenza di tale scritta nell’anticamera del posto. Di seguito, una grande stanza circolare si apriva, con al centro una fontana vuota e 6 statue: 3 a destra della stanza e 3 a sinistra. Quelle a destra rappresentavano un umano, un elfo e un probabile thiefling, ognuno reggente un oggetto con tre ganci di colore diverso (blu, verde e rosso). Il gancio rosso sulla statua dell’umano aveva legata una corda dello stesso colore e dalla peculiare abilità di estendersi all’infinito. L’unica limitazione a tale estensione era data dalla sovrapposizione della corda: bastava un unico incrocio della corda su se stessa per farla tornare alla lunghezza originale. Passando alle statue sulla sinistra, queste rappresentavano un bambino, un adulto e un vecchio, tutti umani. Ognuno di essi aveva un bastone con una sezione colorata: il bambino di colore blu, l’adulto verde e il vecchio di rosso.
+
+La stanza circolare presentava 5 porte: una sigillata davanti a noi (dietro la fontana) e le altre 4 disposte una di fronte all’altra in modo da formare una x.
+
+Affianco alla fontana due esserini sferici ci hanno accolto offrendoci immediatamente due sfide, molto facili devo dire, di entrare nelle stanze oltre le porte aperte. Ognuna di esse era a diversa forma, rispettivamente tetraedrica, cubica, ottaedrica e dodecaedrica. All’interno di esse trovammo degli esserini delle corrispondenti forme della stanza in cui si trovavano. Ognuno di essi ci propose una sfida. Non starò qui a spiegare ciascuna di esse, le basti sapere buon Tico che grazie al nostro strabiliante ingegno e astuzia siamo riusciti a passarle tutte brillantemente senza assolutamente alcun spargimento di sangue.
+
+Superate tutte, l’ultima porta si sbloccò facendoci accedere alla stanza icosaedrica. Qui un altarino con una pergamena si stagliò su di noi. La pergamena, contenente l’incantesimo “servitore invisibile”, era annodata da un nastro blu simile alla corda rossa presente sulla statua. In più, trovammo un codice cifrato che una volta risolto recitava tali indicazioni: “5 miglia, verso 288,58°”. Probabilmente il luogo dove troveremo il prossimo tempietto.
+
+Questo è tutto caro mago, spero di aver riportato tutte le informazioni principali di questa spedizione.
+
+I miei migliori saluti,
+
+Il vostro Alviss Rossabarba
+
 ## Trentaquattresima sessione
 
 ### Assalto al nascondiglio delle streghe
