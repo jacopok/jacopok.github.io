@@ -23,6 +23,37 @@ Una volta portata a termine la missione, il resoconto dovrà essere portato a **
 
 Rodoaldo sa bene che si tratta di lavori complicati, e non si aspetta che tutto possa essere finito in un colpo solo! Anche risultati parziali sono ben accetti.
 
+## Ritrovate i Tesori Perduti di Farcis!
+
+_Comune di Celina, su decreto del visconte Rodoaldo Venturoso_
+
+L’antica città di Farcis, crocevia di scambi tra il regno nanico e i suoi vicini, è stata finalmente ritrovata.  
+Il Comune di Celina indice una spedizione ufficiale per il recupero di manufatti leggendari descritti da Farco Brolo nel suo _“Fedelissimo Resoconto di un Viaggio Peculiare alla Scoperta della Meraviglia sotto la Montagna”_, ritenuti ancora presenti tra le sue rovine.
+
+Oggetti minori:
+
+- Mappa dettagliata della città
+- La **Fedelcorde**: una corda incantata che esegue semplici ordini dati a voce.
+- Il **Mantel mil tocs**: un mantello coperto di simboli magici, ciascuno rimuovibile per ottenere un oggetto utile.
+- Il **Sachete secje**: una sacca impermeabile che mantiene asciutto qualsiasi contenuto.
+- La **Broche vitâl**: una brocca che cura chiunque ne beva l’acqua.
+- La **Statuete di cjavre sincere**: una statuina di capra che riflette l’emozione di chi la tiene in mano.
+- L'**Orloî dal minadôr**: una pietra che cambia colore tra giorno e notte, sensibile alla magia.
+
+Oggetti rari e potenti:
+
+- L'**Anel plume**: un anello che rallenta la caduta anche da grandi altezze.
+- La **Lusigne**: una lanterna magica la cui luce respinge creature pericolose.
+- L'**Armadure Ultime**: la più avanzata armatura mai forgiata dal regno nanico.
+
+Chi riporterà uno o più di questi oggetti sarà ricompensato con grande generosità.
+
+## Rapporti diplomatici col villaggio di Upguur
+
+_Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro società e cultura. Il visconte Rodoaldo Venturoso spera di poter allacciare dei buoni rapporti con questi, scambiando informazioni, ricchezze e tecnologie, ma i primi contatti di avventurieri con Upguur, il 10 aprile 2024 (settima sessione), non sembrano essere andati a buon fine. Cimentatevi dunque in questa missione diplomatica: è ancora possibile ristabilire l'amicizia tra le due popolazioni?_
+
+_Di recente, due dozzine di profughi si sono presentati a Celina cercando asilo politico - c'è voce di attacchi dall'aggressiva tribù di Boscopiatto, e un regime oppressivo sembra aver preso piede a Upguur._
+
 ## Ripristinate la barriera!
 
 _Il 5 dicembre 2024 i diavoli sono dilagati nella pianura, assaltando Celina, e sono stati fermati solo grazie alla costruzione di un apparato che ha richiamato la luce di Nicholas._
@@ -77,12 +108,6 @@ _La parte ancora inesplorata è questa strada verso sinistra, nella direzione di
 
 _Il completamento dell'esplorazione della strada sarà premiato con 500 monete d'oro._
 
-## Dov'è la città di Farcis?
-
-_Farco Brolo parla moltissimo della città di Farcis, centro nevralgico per il clan Forador. Con tutte le pagine che ci ha speso, avrebbe potuto disegnare una mappa! Ma niente, devo fare affidamento sulle sue descrizioni vaghe e immaginifiche. Per arrivare lì, dice, bisogna uscire da una serie di cunicoli, che infine portano a un bellissimo lago azzurro, sulle cui rive sorge la città. Di che lago sta parlando? Dove si trova Farcis, o le sue rovine?_
-
-_Il primo gruppo di avventurieri che porterà prove dell'avere trovato Farcis riceverà una ricompensa di 1000 monete d'oro._
-
 ## Contatti persi con Cjadaldiaul
 
 _Ormai da più di un anno non si hanno notizie dal piccolo villaggio di Cjadaldiaul, situato tra le montagne a Nord-Est, oltre al monte Fara. La Chiesa dei Lumini ha dunque chiesto al comune di Celina di mandare degli avventurieri ad investigare e assicurarsi delle condizioni del villaggio. Il villaggio non si trova ufficialmente in Val Celia, ma non è molto distante da essa: si potrebbe aprire una nuova via di accesso alla valle da est._
@@ -91,10 +116,6 @@ _Una missione ha già esplorato la strada più diretta, nella Val Collera (nona 
 _Un'altra missione ha raggiunto Cjadaldiaul (undicesima sessione), ma senza esplorarla nel dettaglio e venendo in conflitto con dei figuri provenienti dal villaggio, che pure è parso quieto il giorno successivo._
 
 _Durante il corso della diciannovesima sessione, si è scoperto che simili figuri apparentemente provenienti da Cjadialdiaul si sono probabilmente spinti fino in Val Celia._
-
-## Rapporti diplomatici col villaggio di Upguur
-
-_Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro società e cultura. Il visconte Rodoaldo Venturoso spera di poter allacciare dei buoni rapporti con questi, scambiando informazioni, ricchezze e tecnologie, ma i primi contatti di avventurieri con Upguur, il 10 aprile (settima sessione), non sembrano essere andati a buon fine. Cimentatevi dunque in questa missione diplomatica: è ancora possibile ristabilire l'amicizia tra le due popolazioni?_
 
 # Missioni completate
 
@@ -128,3 +149,9 @@ Nella sedicesima e diciottesima, il paese è stato ulteriormente esplorato.
 _Durante una delle precedenti esplorazioni lungo la vecchia strada è stata rinvenuta una grande struttura scavata sulla parete rocciosa, che risponde al nome di "Centrâl di Dôs Flums". Questa struttura sembra essere collegata all'aghe corinte, particolare liquido le cui proprietà magiche sono di grande interesse per il regno. Esplorate dunque la centrale e svelatene tutti i segreti!_
 
 _Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti degli oggetti potenzialmente interessanti nella casa antistante l'ingresso, ora abitata saltuariamente dal goblin Herk (decima sessione). Durante successive esplorazioni degli avventurieri sono riusciti ad entrare (dodicesima sessione) e a esplorare il piano terra della centrale (quattordicesima sessione) e il primo piano (diciassettesima e diciannovesima sessione)._
+
+## Dov'è la città di Farcis?
+
+_Farco Brolo parla moltissimo della città di Farcis, centro nevralgico per il clan Forador. Con tutte le pagine che ci ha speso, avrebbe potuto disegnare una mappa! Ma niente, devo fare affidamento sulle sue descrizioni vaghe e immaginifiche. Per arrivare lì, dice, bisogna uscire da una serie di cunicoli, che infine portano a un bellissimo lago azzurro, sulle cui rive sorge la città. Di che lago sta parlando? Dove si trova Farcis, o le sue rovine?_
+
+_Il primo gruppo di avventurieri che porterà prove dell'avere trovato Farcis riceverà una ricompensa di 1000 monete d'oro._
