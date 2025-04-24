@@ -48,12 +48,6 @@ Oggetti rari e potenti:
 
 Chi riporterà uno o più di questi oggetti sarà ricompensato con grande generosità.
 
-## Rapporti diplomatici col villaggio di Upguur
-
-_Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro società e cultura. Il visconte Rodoaldo Venturoso spera di poter allacciare dei buoni rapporti con questi, scambiando informazioni, ricchezze e tecnologie, ma i primi contatti di avventurieri con Upguur, il 10 aprile 2024 (settima sessione), non sembrano essere andati a buon fine. Cimentatevi dunque in questa missione diplomatica: è ancora possibile ristabilire l'amicizia tra le due popolazioni?_
-
-_Di recente, due dozzine di profughi si sono presentati a Celina cercando asilo politico - c'è voce di attacchi dall'aggressiva tribù di Boscopiatto, e un regime oppressivo sembra aver preso piede a Upguur._
-
 ## Ripristinate la barriera!
 
 _Il 5 dicembre 2024 i diavoli sono dilagati nella pianura, assaltando Celina, e sono stati fermati solo grazie alla costruzione di un apparato che ha richiamato la luce di Nicholas._
@@ -88,6 +82,8 @@ _Ho riconosciuto questa Formula: è quella usata dal grande Claudio Colussi, Inc
 
 _È possibile dunque che gli Altri si trovino nei Dintorni. Contengono Nozioni inestimabili per lo sviluppo della Conoscenza. Il suo famoso Indovinello sarà di certo d'aiuto!_
 _Se è chiara la loro Origine, i Tempietti sono Nove: offro 50 monete d'oro per il Primo, 100 per il Secondo, 150 per il Terzo e così via._
+
+_Durante la trentacinquesima sessione, il Primo tempietto è stato esplorato._
 
 ## Trovate la Cittadella sotto il Monte Fara!
 
@@ -155,3 +151,11 @@ _Sebbene l'entrata sia sbarrata da un portone metallico, sono stati rinvenuti de
 _Farco Brolo parla moltissimo della città di Farcis, centro nevralgico per il clan Forador. Con tutte le pagine che ci ha speso, avrebbe potuto disegnare una mappa! Ma niente, devo fare affidamento sulle sue descrizioni vaghe e immaginifiche. Per arrivare lì, dice, bisogna uscire da una serie di cunicoli, che infine portano a un bellissimo lago azzurro, sulle cui rive sorge la città. Di che lago sta parlando? Dove si trova Farcis, o le sue rovine?_
 
 _Il primo gruppo di avventurieri che porterà prove dell'avere trovato Farcis riceverà una ricompensa di 1000 monete d'oro._
+
+## Rapporti diplomatici col villaggio di Upguur
+
+_Sembra che nella Val Celia vi sia un villaggio di ominidi verdi, con una loro società e cultura. Il visconte Rodoaldo Venturoso spera di poter allacciare dei buoni rapporti con questi, scambiando informazioni, ricchezze e tecnologie, ma i primi contatti di avventurieri con Upguur, il 10 aprile 2024 (settima sessione), non sembrano essere andati a buon fine. Cimentatevi dunque in questa missione diplomatica: è ancora possibile ristabilire l'amicizia tra le due popolazioni?_
+
+_Di recente, due dozzine di profughi si sono presentati a Celina cercando asilo politico - c'è voce di attacchi dall'aggressiva tribù di Boscopiatto, e un regime oppressivo sembra aver preso piede a Upguur._
+
+_Durante la trentasettesima sessione, il goblin Herk è stato messo in carica come durbuluk, concludendo il dominio del militarista Kurk. La tribù di goblin è ora alleata di Celina ma i profughi vi faranno ritorno; secondo il consiglio del loro nuovo durbuluk tuttavia sposteranno il villaggio rispetto alla sua storica posizione._
