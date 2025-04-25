@@ -70,6 +70,8 @@ _La loro presenza ha corrotto la regione che abitano, portando eresie quali la n
 
 _Andate, dunque, e illuminate la nebbia e la tenebra!_
 
+_La bambina Ida, che è stata prelevata da Andreis e tolta dalle grinfie delle streghe, è ora ospite della Fornace di Pleif. Sembra però che accadano cose strane quando dorme..._
+
 _La ricompensa sarà di 1000 monete d'oro per strega debellata. Progresso nella bonifica di una regione della palude, invece, sarà premiato con 100 monete d'oro._
 
 ## Trovate gli altri Tempietti Arcani di Claudio Colussi!

@@ -15,6 +15,35 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 # Sessioni 31-40
 
+## Trentasettesima sessione
+
+### Esportare la democrazia a Upguur
+
+All’attenzione del Visconte Rodoaldo Venturoso,
+
+Quella che segue è la descrizione dettagliata della nostra ultima missione per risolvere la questione dei
+profughi da Upguur giunti a Celina nelle scorse settimane. Dopo esserci fatti narrare da loro come il capo di
+Upguur, Kurk, sia diventato sempre più dispotico e insofferente a qualunque parere contrario, abbiamo
+deciso di offrire il nostro aiuto per risolvere la situazione. Il piano era quello di convincere Kurk a indire una
+nuova gara per nominare il capo villaggio, così che Herc potesse sfidarlo. Lungo la strada, però, abbiamo
+subito un imboscata da un gruppo di goblin comandati da due Oltregoblin. I goblin sembravano costretti a
+combattere contro la loro volontà, ma sfortunatamente non c’è stato modo di risolvere la situazione senza
+ricorrere alla violenza. Gli Oltregoblin di Boscopiatto si sono rivelati esseri molto più aggressivi e pericolosi
+dei goblin di Upguur con cui abbiamo interagito in passato, ma siamo stati in grado di sconfiggerli.
+Giunti al villaggio, abbiamo potuto vedere con i nostri occhi con quale dispotismo Kurk comandava sui suoi
+concittadini. Nonostante questo, siamo stati in grado di sfruttare l’insofferenza nei confronti di Kurk per
+convincerlo a indire una nuova gara per determinare chi sarebbe stato il capo. La gara consisteva nel contare
+quale goblin avesse ricevuto più bacini sulla guancia dal resto della comunità, e siamo lieti di dirle che Herc è
+riuscito a vincere la sfida. In questo momento, Herc si sta impegnando per riportare la serenità tra i goblin di
+Upguur e soprattutto per cercare una soluzione alla minaccia degli Oltregoblin di Boscopiatto che hanno
+ormai trovato il loro villaggio. Herc ha anche dimostrato di essere molto riconoscente a Sua Eccellenza per il
+supporto durante questi momenti difficili e spera che questa possa essere la base per una nuova e duratura
+alleanza tra Celina e Upguur.
+
+A nome anche dei miei compagni Ekkyon, Fern Gunnhildr, Tarlin e Gherb,
+
+Fûc il nano
+
 ## Trentaseiesima sessione
 
 ### Il rapimento della prescelta
