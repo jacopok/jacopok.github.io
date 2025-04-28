@@ -17,6 +17,24 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 ## Trentasettesima sessione
 
+### Missione diplomatica a Upguur
+
+Sua Eccellenza,
+
+A nome degli avventurieri
+Fern, Ekkyon, Adam, Fuc, Tarlin,
+il sottoscritto Fern Gunnhildr presenta alla Sua attenzione il seguente resoconto.
+
+Ormai da qualche giorno a Celina è giunto un gruppo di rifugiati goblin provenienti dal villaggio di Upguur. Il gruppo è guidato da Erk, fidato amico del gruppo di avventurieri sopra citato. La situazione a Upguur è critica: Il villaggio è stato scoperto e attaccato dai violenti goblin di Bosco Piatto, mentre Kurk, un violento e arrogante goblin di Upguur, ha preso la guida del suo villaggio in modo autoritario, sostenendo la necessità di combattere a oltranza la minaccia di Bosco Piatto, nonostante le scarsissime possibilità di vittoria. L’obiettivo della missione descritta in questo report è di aiutare l’esiliato Erk a tornare al suo villaggio, per convincere gli abitanti di Upguur a seguire un leader e una strategia più ragionevole.
+
+Che Upguur sia in una situazione critica ci fu chiaro già lungo la strada che porta verso il villaggio. Ci siamo infatti imbattuti in una folta guarnigione di goblin di Bosco Piatto posta di vedetta, probabilmente come parte dei preparativi per un ulteriore attacco a Upguur. Abbiamo ingaggiato un’ardua battaglia contro gli invasori per liberare la via, svantaggiati dalla netta inferiorità numerica e dalla favorevole posizione sopraelevata del nemico. Le forze nemiche erano guidate da una oltregoblin e da una creatura parzialmente di fuoco, armata di martello e scimitarra. La battaglia si è tuttavia conclusa nettamente a nostro favore, con l’eliminazione quasi totale della guarnigione avversaria e la fuga di uno sparuto numero di goblin terrorizzati e ormai inoffensivi.
+
+Proseguendo verso Upguur, abbiamo notato una seconda postazione degli invasori di Bosco Piatto. Nonostante fosse indifesa, è chiaro che il suo scopo sia quello di osservare i movimenti che avvengono nel villaggio invaso. Upguur è osservata! Arrivati al villaggio, siamo stati accolti con tracotanza da Kurk, il quale ci ha provocato raccontando falsità e malelingue, accusando Erk di aver rapito dei bambini dal villaggio (riferendosi ai giovani goblin rifugiatisi a Celina) e di voler costringere tutti ad abbandonare il villaggio. Il battibecco attrae altri goblin di Upguur, trea cui spicca la mancanza del vecchio saggio, tenuto prigioniero da qualche parte in quanto oppositore di Kurk. Cominciamo a incalzare Kurk per metterlo in difficoltà, facendogli rilevare che è pronto a combattere contro Bosco Piatto fino alla morte di tutti gli abitanti di Upguur, anche se la vittoria non fosse possibile. Questo spaventa i compaesani, e Erk ne approfitta per ribaltare la situazione,sfidando Erk a una sfida per determinare chi tra i due sia degno di guidare i goblin. La sfida decreta il vincitore come colui che otterrà il maggior numero di bacini dagli abitanti del villaggio. Kurk si trovava in vantaggio all’inizio, forse per via del timore che incuteva ai suoi compaesani, ma col tempo più e più goblin si sono fatti coraggio, infine decretando democraticamente Erk come il nuovo capo villaggio. Kurk si è quindi esibito in una impietosa scenetta tipica di ogni autocrate in difficoltà, denunciando presunte irregolarità nella sfida. Tuttavia proprio in quel momento ritorn Adam, che si era precedentemente assentato, insieme al vecchio del villaggio, decretando la legittimità dell’incontro e della vittoria di Erk. Passa quindi la linea politica di Erk, e il villaggio goblin si appresta a lasciare Upguur finchè la minaccia di Bosco Piatto non sarà debellata dai prodi avventurieri di Celina.
+
+La ringrazio per il tempo concessoMi,
+Fedelmente,
+Fern Gunnhildr
+
 ### Esportare la democrazia a Upguur
 
 All’attenzione del Visconte Rodoaldo Venturoso,
