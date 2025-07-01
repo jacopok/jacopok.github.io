@@ -15,6 +15,29 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 # Sessioni 31-40
 
+## Trentanovesima sessione
+
+### Che vuoi Farcis?
+
+Se cerchi Farcis su TripAdvisor troverai una lista dei 10 migliori luoghi da visitare. Se invece la cerchi su TrapAdvisor troverai 1 solo luogo dove non andare, la banca. Ebbene, è proprio lì che siamo diretti.
+
+Attraversiamo la palude diretti a Farcis, mettendo in fuga il caro vecchio Orcolat che ha provato invano ad attaccarci. Davanti alla banca ritroviamo una vecchia conoscenza, il giovane nano Flavio Tavan, che comunica con gli uomini pesce di Farcis grazie al rituale (bere, sputare e ri-bere) dell’acqua del lago. I pesci ci appaiono sorprendentemente miti e pacifici: raccolgono e ci donano frutti, mentre li trasportano al municipio. Notiamo che la luce che oggi illumina Farcis è di un intenso colore verde! Tavan ci spiega l’intera legenda colorimetrica che illumina la città di Farcis:
+
+- luce verde ➡️ pesci contenti e generosi
+- luce gialla ➡️ pesci agitati
+- luce rossa ➡️ pesci arrabbiati (da evitare visita alla città)
+- luce azzurra ➡️ pesci rilassati
+- luce viola ➡️ pesci impauriti (da evitare visita alla città)
+- luce arancione ➡️ pesci divertiti e saltellanti
+
+Gli uomini pesce ci chiedono di seguirli in stazione, dove notiamo 3 binari con vagoni pieni di acqua e di pesci. In un vagone laterale, finemente decorato, troviamo ad accoglierci un pesce regina, capo degli uomini pesce. Ci saluta e rende, con un gesto manuale, uno dei nostri in grado di parlare la lingua dei pesci. Ci dice che sapeva del nostro arrivo grazie ad Eronil, colui che porta la luce a Farcis. Ci spiega che la luce è sempre presente e che i pesci decidono di volta in volta la luce della statua che illumina la città, di comune accordo, come in democrazia. Ci dice che un pericolo regna nel lago di Farcis, una creatura delle profondità sostenuta da alcuni cultisti, che cercano di riportarla in superfice. La regina ci chiede di investigare nella banca poiché in quella zona sono stati rapiti diversi uomini pesce recentemente. In cambio di questa e altre missioni (non specificate) ci promette ricchi premi.
+
+Ci rechiamo in banca dove troviamo un’aria molto umida, luminosità assente, pareti ricoperte di muschio e nessun individuo al suo interno. Nella sala principale, con un enorme fontana al centro, ci appare un enorme polpo-umanoide, in grado di arrecarci pesanti danni psichici con i suoi tentacoli, accompagnato da piccoli granchi aventi un teschio vuoto al posto del carapace, in grado di infilarsi sulla testa dei nemici accecandoli con il proprio teschio. Il polpo-umanoide entra in una delle 6 stanze della banca dove c’è un altarino composto da ossa, gusci e carapaci: con un rituale su questo altarino, fa partire un suono acuto assordante, che ci danneggia facendoci udire voci simili al serpentese. Riusciamo a distruggere prima l’altarino e poi tutti i nemici! Scopriamo che l’altarino contiene un nucleo, a forma di osso di seppia con rune incise sopra, che amplia il suo raggio di azione psichico e che può essere usato come catalizzatore per fare magie. Nelle rimanenti 5 stanze della banca troviamo librerie, tavolini, un letto usato recentemente, un diario e una chiave con il numero 88. Il diario appartiene a qualcuno che scrive in nanico antico e critica il proprio capo che vuole obbligarlo a restare in banca anche durante la guerra, sottolineando come non ne valga la pena per la scarsa paga e che per questo scapperà l’indomani. La chiave appartiene al generale Zanette, che ha pagato il servizio bancario anche in caso di guerra, ed è accompagnata da un messaggio in nanico con le suddette indicazioni per il cavalier Brumat. Sul fondo di una libreria troviamo anche un quadrato 6x6 colmo di numeri, che memorizziamo in attesa di trovarne una futura utilità. Scendiamo infine nell’anticamera del caveau, al quale non riusciamo ad accedere per via di una combinazione numerica di cui non disponiamo.
+
+La magia dell’altarino ci ha reso le bocche secche e vogliosi di acqua, corriamo così dal pesce regina, omaggiandola della testa smembrata del polpo, per farci curare. La regina lascia che il suo medico di corte ci curi dai malanni con un rituale a base di alghe e ci rivela di chiamarsi Bliiploolp. Ci ringrazia e ci ricompensa per il lavoro svolto in banca e ci rivela che ci sono altre missioni, in altri posti in città, dove eliminare i cultisti in cambio di ricchi premi. Uno di questi luoghi ci rivela essere un’isola. Ecco dunque il secondo luogo dove non andare a Farcis secondo TripAdvisor.
+
+Lord Opeauf
+
 ## Trentottesima sessione
 
 ### Note in prosa et in versi circa il ritiro spirituale del die IV mensis Maii
