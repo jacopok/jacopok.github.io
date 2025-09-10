@@ -9,9 +9,11 @@ nav_order: 1
 
 ## Upcoming
 
+None, I'm writing my thesis!
 
 ## Past
 
+- 2025-07-14: Talk at [**GR Amaldi**](https://iop.eventsair.com/gr24-amaldi16/) about LGWA
 - 2025-03-31: Talk at [**Moriond Gravitation**](https://moriond.in2p3.fr/2025/Gravitation/gravitation-agenda.html) about LGWA
 - 2025-03-28: Talk at the SHERPAS group meeting at IPAG (Grenoble, France) about LGWA
 - 2024-11-28: Internal seminar about Nested Sampling at GSSI, [repository](https://github.com/fellowship-of-clean-code/nested-sampling) (with notes)
