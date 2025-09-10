@@ -33,7 +33,6 @@ As for sports, I trail run, cycle ([Strava](https://www.strava.com/athletes/1125
 <!-- I like making **videos**: some of them are related to physics, like [this visualization of Effective One Body eccentric/hyperbolic orbits](https://www.youtube.com/watch?v=xRF-Gc0voik) or [this visual explanation of the different ways to parametrize an eccentric orbit](https://www.youtube.com/watch?v=Mr9t7SLo0I0).
 
 Some of them are about my beloved mountains, both [here in Abruzzo](https://www.youtube.com/watch?v=ncHrPkNhl6Y) as well as [back in Northern Italy](https://www.youtube.com/watch?v=PfVHq-Rr2GY).
-Some shots were also featured in [this GSSI advertisement](https://www.youtube.com/watch?v=XhupJeXXv8Y)! -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 

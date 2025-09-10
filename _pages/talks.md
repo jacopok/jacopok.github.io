@@ -20,7 +20,7 @@ None, I'm writing my thesis!
 - 2024-10-17: [GSSI talk](https://indico.gssi.it/event/721) to enter the fourth year, about my work in general, [slides](https://docs.google.com/presentation/d/1JxrqYw-9fzLgLBHvW__jGyMu4gB0Dt0c14xtUnXrJd0/edit?usp=sharing)
 - 2024-10-08: [**LGWA meeting**](https://indico.ict.inaf.it/event/2782/overview) talk about multibanding (actually given by Jan since I got sick)
 - 2024-09-25: [**LVK meeting**](https://lvkmeeting2024.ifae.es/) poster about BAYESTAR + inclination angle, [dcc entry](https://dcc.ligo.org/G2401707)
-- 2024-06-21: [**European Lunar Symposium**](https://sservi.nasa.gov/els2024/) talk presenting LGWA, [slides (private repo)](https://github.com/jacopok/presentations/tree/main/2024-06-20_lunar_Creighton)
+- 2024-06-21: **European Lunar Symposium** talk presenting LGWA, [slides (private repo)](https://github.com/jacopok/presentations/tree/main/2024-06-20_lunar_Creighton)
 - 2024-04-19: [**Lautaro meeting**](https://www.davidegerosa.com/lautaro/) talk about multibanding, [slides (private repo)](https://github.com/jacopok/multibanding/tree/main/ssb_presentation)
 - 2024-04-17: [**CTAO symposium**](http://ctao-symposium.org/) talk about rehear, [slides](https://docs.google.com/presentation/d/1e3jmNyRqF_o_uTCNFtgp4_Bt8qzLAhaGFbXAx1ghlr0/edit#slide=id.g2c5a7242dd0_0_6)
 - 2024-03-25: [**Moriond Very High Energy Phenomena of the Universe**](https://moriond.in2p3.fr/2024/VHEPU/) talk about rehear, [agenda page](https://moriond.in2p3.fr/2024/VHEPU/vhepu-agenda.html), [slides](https://docs.google.com/presentation/d/1UddDv6JvLZX24p7fqbDqUxfQ14yM9k5wdQIxLZUuMq8/edit?usp=sharing), [proceeding](https://arxiv.org/abs/2406.04387)
