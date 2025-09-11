@@ -15,6 +15,81 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 
 # Sessioni 31-40
 
+## Quarantesima sessione
+
+### Ho spiaccicato una strega e altre cose (parecchie).
+
+Buon giorno, buona sera, buona notte o buon tempo. Sono Gaspare, scrivo il racconto perche tocca a me, ma
+anche perche voglio far vedere che sono capace a scrivere, anche se non parlo mai. Ma non tanto bene come
+Amaranto, che e un poeta.
+Insomma eravamo alla fornace di Guglielmo da Ida la bimba sfortunata, e lei ci dice che e brava a suonare il
+corno, talmente brava che a dirittura quando suona lei i morti vecchi fanno i bravi. Ma ci riesce solo lei, eh! Ci
+a dato anche una letterina da dare ad uno Stella (stelllina eheh). Ha paura degli spargimenti di sangue, che
+capisco.
+Poi siamo tornati a Celina, perche dovevamo partire coi soldati in missione di pace. Il capo dei soldati Ranieri
+era antipatico, quindi gli ho fatto gli scherzetti. Secondo me a lui gli piaciono gli spargimenti di sangue.
+Nella palude con tutti i soldati abbiamo visto dei cespugli che si muovevano, che e stano, ma noi siamo
+abituati.
+Vedevamo Andreis da lontano ed e arrivato Flavio Tavan, che nano! Morto pergiunta! C'era pure Bacco Bucco,
+un altro tipo fortissimo di Andreis. Ma ci anno detto che non abitano più ad Andreis, perche gli anno esiliati,
+che vuol dire che gli anno mandati via, quindi adesso la loro casa e una grotta sul monte Fara. Ci vivono
+anche altri, pure la vecchia Raimonda (che paura). Bacco ci a dato un anellino. L'anellino serviva per aprire la
+porta segretissima sottoterra, che dentro ce il corno speciale di Andreis, quello che serve per i morti. Anche la
+vecchia a detto che potevamo prendere un altro anellino che teneva in casa sua (che tanto non ci abita più).
+Poi ce un terzo anello, dove bo. Ma tanto la porta si apre anche lo stesso, ma con più pericoli se non hai gli
+anelli.
+Al capo Ranieri abbiamo detto: andiamo noi ad Andreis, non rompere finchè questo martello giallo non fa puf e
+sparisce. Gli ho anche detto: giocaci, ma non lo rompere. (Che tanto non riesce a romperlo neanche se vuole).
+Ad Andreis la situazione e che ci sono mostri di palude con le persone, che non so come fanno che puzzano,
+anno ragione gli esiliati che la grotta e meglio.
+Venivano con noi anche Flavio (per fortuna) e due bravi soldati che si chiamavano Cip e Dic, che sono stati
+bravi e si guardavano tra di loro spesso tanto intensamente negli occhi con gli occhi lucidi. Poi dopo sono
+morti, e triste, ma succede dopo, lo racconto meglio dopo. Ma almeno sono morti insieme. Poi li abbiamo
+vendicati. Ma i cadaveri sono rimasti lì. Ma magari ad Andreis ritornano e ritornano assieme, contenti. Chi sa!
+Poi cerano dei ritornati con l'armatura dentro la pelle, duri da colpire (poi non avevo il martello, chi sa cosa ci
+faceva quell'antipatico nel fra tempo).
+Nelle cata combe non cera la guardiana che sie era tanto parlata. Cerano tanti ritornati, ma li abbiamo fatto
+degli scherzetti e tante tante tante botte ad alcuni (anche senza il martello io). Ma alla fine anno dato lallarme,
+noi abbiamo fatto un muretto per nasconderci nella grotta col laghetto. Nel laghetto cera un vasone grosso, lo
+abbiamo tirato su fuori e abbiamo aperto il tappo. Ed e uscita una donna fantasma, che poi era la guardiana,
+gli o suonato una canzone colla mia trombetta. Era agitata ad un certo punto a urlato e ad Alchamhorha gli
+sono venuti i capelli bianchi e le rughe e la faccia triste da vecchia così in un botto. Ma poi tra io che suonavo
+e una parolina di Flavio (per fortuna) si e data una calmata. Ci a detto che lanno rinchiusa le Stella (stellina
+eheeh) perche sennò fanno qualcosa di brutto al suo fidanzato elfo Minrion (che però forse e già morto, bo.
+Però l'AMORE vince la morte sapete?), e intanto lo fanno girare dei macchinari industriali per petuamente, e
+che se li rompiamo ci regalano un mantello magico come premio! Che già rompere e un premio di persè per
+me.
+Siamo saliti a casa Tavan che la scala verso su era la, per prendere l'anellino della vecchia scorfana. Ma la
+casa era diventata una palude! La casa cera sotto la magia ma era una magia ilusoria (di quelle che fanno le
+cose finte che si vedono ma non si possono toccare), sembra. Cera quel tonto di Miliano ma messo male (non
+ho capito forse era diventato paralizzato e ancora più tonto come se non bastava). Ma era anche una trappola,
+di zombi e zombi giganti e pure una strega!!! Lì sono morti i due bravi soldati Cip e Dic, prima uno, che l'altro
+era come impazzito e non è scappato ma voleva vendicasi tanto. E morto anche lui poverino. Ma li abbiamo
+vendicati. Spero che non avevano familie, ma non credo, al massimo erano una familia loro due, ma sono
+morti come le vere familie, insieme (credo). Per poco non ci rimaneva ri-stecchito anche Flavio, ma coi pugni
+si è salvato, c'a dei pugni quello lì... E li che o detto: martello vieni da me! E con quello o ucciso la strega,
+spiaccicata, sottiletta! Anche lui (il martello giallo) era contento, ha detto proprio: così si risolvono i problemi in
+familia. Secondo me in familia i problemi si parlano per risolverli non coi martelli, pinze o chissa cosa, ma
+vabbè forse tra streghe e martelli si usa cosi. Poi sono svenuto che anche se la strega era spiaccicata mica
+erano finiti gli zombie. Tutti erano per terra! Per fortuna che la signora fantasma ci a guardati per sicurezza.
+Insomma avevamo due anelli su tre, ma siamo entrati lo stesso. La porta si è aperta, si e formato un grosso
+mucchio di ossa che si muoveva ma Flavio (che duro!) ci ha spinto nella porta dopo e si e chiuso in intimità
+con il mostro di ossa.
+Chiusi dentro la camera segretissima il corno magico non cera! Ma cera il fantasma di Timavo il famoso bardo!
+Che onore! Dice che una strega si e presa il corno magico, ma non può usarlo perche sennò si brucia, forse
+perche solo i buoni possono? Bo. Ci a raccontato che il corno glielo a dato Ortia, ma però era Crivapeta la
+regina del inganno, che, appunto, lo a ingannato.
+Poi ci a raccontato che conosceva Nicolas il santo (quello del martello, il mio e più bello però) e abbiamo
+capito che ce a Farcis, in fondo al lago, una armatura imponente la migliore mai fatta dai nani. Non la anno
+mai usata perche poi sono arrivati i diavoli.
+Se o capito bene ce un altra straga in paese, la prossima spiaccicata eheh. Timavo a fatto una benedizione di
+Ortia su Alviss e Alchamhorha per aiutarli contro le perfide streghe. A me non a fatto una benedizione perche
+dice che lavoro per padroni cattivi, embè come se i padroni fossero buoni in genere, ma vabbè io mi benedico
+da solo e mi va bene così.
+Siamo scappati da Andreis, che (giustamente, dato che il martello era sparito) quel Ranieri lì ha scagliato
+l'attacco. Saldati contro zombie, ma io tifo per gli zombie, che secondo me gli unici soldati decenti erano Cip e
+Dic. Non si sa chi a vinto che noi ce la siamo battuta a Celina.
+
 ## Trentanovesima sessione
 
 ### Che vuoi Farcis?
