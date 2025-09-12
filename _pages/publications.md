@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: |
-  Short author list publications in reversed chronological order.
+  Selected publications in reversed chronological order.
 nav: true
 nav_order: 1
 ---

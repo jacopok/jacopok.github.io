@@ -22,14 +22,18 @@ Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di
 Buon giorno, buona sera, buona notte o buon tempo. Sono Gaspare, scrivo il racconto perche tocca a me, ma
 anche perche voglio far vedere che sono capace a scrivere, anche se non parlo mai. Ma non tanto bene come
 Amaranto, che e un poeta.
+
 Insomma eravamo alla fornace di Guglielmo da Ida la bimba sfortunata, e lei ci dice che e brava a suonare il
 corno, talmente brava che a dirittura quando suona lei i morti vecchi fanno i bravi. Ma ci riesce solo lei, eh! Ci
 a dato anche una letterina da dare ad uno Stella (stelllina eheh). Ha paura degli spargimenti di sangue, che
 capisco.
+
 Poi siamo tornati a Celina, perche dovevamo partire coi soldati in missione di pace. Il capo dei soldati Ranieri
 era antipatico, quindi gli ho fatto gli scherzetti. Secondo me a lui gli piaciono gli spargimenti di sangue.
+
 Nella palude con tutti i soldati abbiamo visto dei cespugli che si muovevano, che e stano, ma noi siamo
 abituati.
+
 Vedevamo Andreis da lontano ed e arrivato Flavio Tavan, che nano! Morto pergiunta! C'era pure Bacco Bucco,
 un altro tipo fortissimo di Andreis. Ma ci anno detto che non abitano più ad Andreis, perche gli anno esiliati,
 che vuol dire che gli anno mandati via, quindi adesso la loro casa e una grotta sul monte Fara. Ci vivono
@@ -38,6 +42,7 @@ porta segretissima sottoterra, che dentro ce il corno speciale di Andreis, quell
 vecchia a detto che potevamo prendere un altro anellino che teneva in casa sua (che tanto non ci abita più).
 Poi ce un terzo anello, dove bo. Ma tanto la porta si apre anche lo stesso, ma con più pericoli se non hai gli
 anelli.
+
 Al capo Ranieri abbiamo detto: andiamo noi ad Andreis, non rompere finchè questo martello giallo non fa puf e
 sparisce. Gli ho anche detto: giocaci, ma non lo rompere. (Che tanto non riesce a romperlo neanche se vuole).
 Ad Andreis la situazione e che ci sono mostri di palude con le persone, che non so come fanno che puzzano,
@@ -46,8 +51,10 @@ Venivano con noi anche Flavio (per fortuna) e due bravi soldati che si chiamavan
 bravi e si guardavano tra di loro spesso tanto intensamente negli occhi con gli occhi lucidi. Poi dopo sono
 morti, e triste, ma succede dopo, lo racconto meglio dopo. Ma almeno sono morti insieme. Poi li abbiamo
 vendicati. Ma i cadaveri sono rimasti lì. Ma magari ad Andreis ritornano e ritornano assieme, contenti. Chi sa!
+
 Poi cerano dei ritornati con l'armatura dentro la pelle, duri da colpire (poi non avevo il martello, chi sa cosa ci
 faceva quell'antipatico nel fra tempo).
+
 Nelle cata combe non cera la guardiana che sie era tanto parlata. Cerano tanti ritornati, ma li abbiamo fatto
 degli scherzetti e tante tante tante botte ad alcuni (anche senza il martello io). Ma alla fine anno dato lallarme,
 noi abbiamo fatto un muretto per nasconderci nella grotta col laghetto. Nel laghetto cera un vasone grosso, lo
@@ -59,6 +66,7 @@ eheeh) perche sennò fanno qualcosa di brutto al suo fidanzato elfo Minrion (che
 Però l'AMORE vince la morte sapete?), e intanto lo fanno girare dei macchinari industriali per petuamente, e
 che se li rompiamo ci regalano un mantello magico come premio! Che già rompere e un premio di persè per
 me.
+
 Siamo saliti a casa Tavan che la scala verso su era la, per prendere l'anellino della vecchia scorfana. Ma la
 casa era diventata una palude! La casa cera sotto la magia ma era una magia ilusoria (di quelle che fanno le
 cose finte che si vedono ma non si possono toccare), sembra. Cera quel tonto di Miliano ma messo male (non
@@ -72,9 +80,11 @@ spiaccicata, sottiletta! Anche lui (il martello giallo) era contento, ha detto p
 familia. Secondo me in familia i problemi si parlano per risolverli non coi martelli, pinze o chissa cosa, ma
 vabbè forse tra streghe e martelli si usa cosi. Poi sono svenuto che anche se la strega era spiaccicata mica
 erano finiti gli zombie. Tutti erano per terra! Per fortuna che la signora fantasma ci a guardati per sicurezza.
+
 Insomma avevamo due anelli su tre, ma siamo entrati lo stesso. La porta si è aperta, si e formato un grosso
 mucchio di ossa che si muoveva ma Flavio (che duro!) ci ha spinto nella porta dopo e si e chiuso in intimità
 con il mostro di ossa.
+
 Chiusi dentro la camera segretissima il corno magico non cera! Ma cera il fantasma di Timavo il famoso bardo!
 Che onore! Dice che una strega si e presa il corno magico, ma non può usarlo perche sennò si brucia, forse
 perche solo i buoni possono? Bo. Ci a raccontato che il corno glielo a dato Ortia, ma però era Crivapeta la
@@ -86,6 +96,7 @@ Se o capito bene ce un altra straga in paese, la prossima spiaccicata eheh. Tima
 Ortia su Alviss e Alchamhorha per aiutarli contro le perfide streghe. A me non a fatto una benedizione perche
 dice che lavoro per padroni cattivi, embè come se i padroni fossero buoni in genere, ma vabbè io mi benedico
 da solo e mi va bene così.
+
 Siamo scappati da Andreis, che (giustamente, dato che il martello era sparito) quel Ranieri lì ha scagliato
 l'attacco. Saldati contro zombie, ma io tifo per gli zombie, che secondo me gli unici soldati decenti erano Cip e
 Dic. Non si sa chi a vinto che noi ce la siamo battuta a Celina.
