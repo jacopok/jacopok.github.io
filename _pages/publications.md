@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 
-For a full list, see [INSPIRE](https://inspirehep.net/authors/2077642?ui-citation-summary=true).
+For a full list see [this INSPIRE page](https://inspirehep.net/authors/2077642?ui-citation-summary=true).
 
 <!-- _pages/publications.md -->
 <div class="publications">
