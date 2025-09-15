@@ -13,6 +13,7 @@ None, I'm writing my thesis!
 
 ## Past
 
+- 2025-09-14:  Outreach talk for a decade of gravitational waves, at a bar! Slides [here](https://docs.google.com/presentation/d/1RxXvc_LlbN5qChxtlQWfl_ou9CIP9s_2Ro7WjmszzJE/edit?usp=sharing).
 - 2025-07-14: Talk at [**GR Amaldi**](https://iop.eventsair.com/gr24-amaldi16/) about LGWA
 - 2025-03-31: Talk at [**Moriond Gravitation**](https://moriond.in2p3.fr/2025/Gravitation/gravitation-agenda.html) about LGWA
 - 2025-03-28: Talk at the SHERPAS group meeting at IPAG (Grenoble, France) about LGWA
