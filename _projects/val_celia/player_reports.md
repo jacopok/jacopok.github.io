@@ -13,6 +13,47 @@ print_title: false
 Di seguito i resoconti che sono stati portati al notabile Maifredo Ronzo dopo le missioni svolte.
 Sono scritti da avventurieri che hanno partecipato a tali missioni, in cambio di qualche moneta d'oro in più: le informazioni riportate sono nella loro prospettiva, e potrebbero contenere qualche inesattezza o incomprensione.
 
+# Sessioni 41-50
+
+## Quarantunesima sessione
+
+### Nota diplomatica: La Rinascita di Andreis
+
+20 Settembre 2025, Andreis.
+
+Alle Autorità e ai Cittadini di Celina e del Regno di Burlanija.
+
+---
+
+La Grande Battaglia di Andreis si è conclusa il giorno 17 Settembre 2025, segnando l'annientamento totale della minaccia rappresentata dalle Streghe. Agata, l’ultima strega ancora in vita, e Ida, loro adepta, sono state eliminate. La memoria di questa vittoria sarà per sempre legata ai nomi degli eroi che si sono distinti nel difendere la città e i suoi abitanti: il Capitano Ranieri e i 63 membri della sua guarnigione, nonché gli avventurieri Adam, Ekkyon, Fern, Fûc e Tarlin.
+
+Il Corno di Timavo è stato recuperato dalle empie grinfie della strega Agata, ed è ora sotto la mia diretta custodia. A seguito di questi eventi, i cittadini di Andreis, i Vivi e i Ritornati, hanno riconosciuto la mia legittima autorità sulla Città.
+
+Sotto la mia guida, Andreis diverrà un centro di eccellenza per lo studio e la pratica della magia. Un luogo dove ogni individuo, senza distinzioni, potrà apprendere, sperimentare e applicare le arti arcane, opportunamente regolamentate al fine di garantire equità, sicurezza e progresso collettivo.
+Pertanto, Andreis sarà rifugio per coloro che perseguono il sapere, e accoglierà coloro che desiderano contribuire alla costruzione di una libera società magica.
+
+Andreis si impegnerà nell’esplorazione della Val Celia, al fine di estirpare le forze oscure che ancora vi si annidano e di svelare i misteri che ancora la avvolgono.
+Pertanto, auspichiamo l’instaurarsi di un rapporto di sincera collaborazione e reciproca comprensione con Celina e il Regno di Burlanija, anche laddove i nostri ideali divergano.
+
+---
+
+Andreis sarà una città per tutti coloro che scelgono di restare.  
+Per chi rifiuta di morire nel silenzio.  
+Per chi reclama una seconda possibilità.
+
+Oggi, noi proclamiamo:  
+Che la vita si manifesta in molte forme,  
+Che la morte non è conclusione,  
+Che la magia non è crimine.
+
+Andreis non è un sogno. È una scelta.
+
+---
+
+Fern Gunnhildr,
+
+Primo Arcanista della Città Magica di Andreis
+
 # Sessioni 31-40
 
 ## Quarantesima sessione
