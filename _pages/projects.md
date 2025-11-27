@@ -71,20 +71,24 @@ horizontal: false
 #### At the moment
 
 This is a list of things I'm currently working on, within a timescale around a month.
-It's too many! I know.
 
-1. Writing the thesis
 1. Working on the multiband paper (analysis of long signals in the SSB frame)
-1. Working on the inclination angle posterior feature and paper for BAYESTAR
-1. DMing a [D&D campaign](/val_celia) in the West Marches style with Lorenzo
-1. DMing [Call of Cthulhu](/_projects/CoC) at GSSI ("Dockside Dogs", start of November)
-1. DMing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/dnd/wa/frozen-sick#FrozenSick) with Padova people (november-december 2024)
-1. Training by trail running + aerial silks + free body calisthenics-like strength (also climbing and cycling sometimes)
+1. Peer review
+1. Collaborating on a couple papers
+1. Writing the thesis
+1. Finishing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/dnd/wa/frozen-sick#FrozenSick) with Padova people (december 2025)
+1. Working on a musical / dance outreach show about black holes
+1. Applying to postdocs
+1. Training: 
+   1. trail running and cycling 
+   1. circus: handstands, acro yoga, acrobatics
+   1. bodyweight calisthenics as a complement 
 
 #### Will get to
 
-This is a list of tasks that I plan to get to in a timescale of a couple of months.
+This is a list of tasks that I hope to get to in the future.
 
+1. Working on the inclination angle posterior feature and paper for BAYESTAR
 1. Helping in the supervision of master's students about:
    1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
 1. [rehear](/rehear): injection studies with ASTRI + SWIFT
@@ -171,6 +175,8 @@ This is a list of tasks that I plan to get to in a timescale of a couple of mont
 
 #### Already did
 
+1. DMing a [D&D campaign](/val_celia) in the West Marches style with Lorenzo - the campaign is now finished, this website contains all the stories of what happened in it!
+1. DMing [Call of Cthulhu](/_projects/CoC) at GSSI ("Dockside Dogs", start of November)
 1. Reviewing a section of the LGWA whitepaper
 1. Helping on a paper about Lunar gravitational wave detection
 1. Getting the `mlgw_bns` paper published

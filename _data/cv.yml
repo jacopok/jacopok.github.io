@@ -69,9 +69,23 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/jacopok/lgwa-response">lgwa-response</a>
+      year: 2025-now
+      description: Simulating the response of the moving Moon to gravitational waves.
+    - title: <a href="https://github.com/janosch314/GWFish">GWFish</a>
+      year: 2022-now
+      description: Fisher matrix calculations for various gravitational wave detectors.
     - title: <a href="https://github.com/jacopok/mlgw_bns">mlgw_bns</a>
       year: 2021-now
       description: A fast gravitational wave surrogate approximant for binary neutron stars.
+
+  # - janosch314/GWFish
+  # - jacopok/eob-visualizer
+  # - janosch314/GWFish
+  # - gwastro/pycbc
+  # - scipy/scipy
+  # 
+
 
 # - title: Honors and Awards
 #   type: time_table
