@@ -8,6 +8,14 @@
     - name: Languages
       value: English, Italian
 
+- title: Research
+  type: time_table
+  contents:
+    - title: "<a href=vhttps://www.fondazioneangelodellariccia.it/>Della Riccia Fellowship</a>"
+      institution: "<a href=https://www.physik.uni-jena.de/64/theoretisch-physikalisches-institut>Theoretisch-Physikalisches Institut</a>, Jena, Germany"
+      year: 2026
+      extra: "Signals from the cluster: looking for non-circularity in black hole mergers"
+
 - title: Education
   type: time_table
   contents:

@@ -15,7 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Jacopo, a PhD student at the Gran Sasso Science Institute, working on gravitational wave data analysis and astrophysics.
+Hi! I'm Jacopo, I'm going to graduate with my PhD at the Gran Sasso Science Institute soon,
+and at the moment I'm a [Della Riccia](https://www.fondazioneangelodellariccia.it/) fellow at the University of Jena.
 
 My aim, academically, is to help in developing the techniques we will need in order to analyze the data coming from
 the next generation of gravitational wave detectors, such as [Einstein Telescope](/projects/ET), [LGWA](/projects/LGWA) and LISA.
