@@ -9,8 +9,8 @@ nav_order: 1
 
 
 - 2026-05-20: Talk at the Einstein Telescope collaboration's [Division 10 meeting](https://wiki.et-gw.eu/OSB/DataAnalysisPlatform/Agenda20260520). [Slides](https://apps.et-gw.eu/tds/?r=20365).
-- 2026-04-24: Talk for the [**inference group**](https://inference.uni-jena.de/seminars/) at the university of Jena. [Interactive slides](https://jacopok.github.io/sbi-seminar/#/title-slide), [source code](https://github.com/jacopok/sbi-seminar).
-- 2026-04-15: Invited talk at **AEI Potsdam** on the geometry of lunar gravitational wave detection. [Recording](https://www.youtube.com/watch?v=bSZEIf4FnGo), [slides](https://docs.google.com/presentation/d/1TzOWx80zHQ3x8a8YNv94xdJmlR62bA-kjuDM2JsDlLo).
+- 2026-04-24: Talk for the [inference group](https://inference.uni-jena.de/seminars/) at the university of Jena. [Interactive slides](https://jacopok.github.io/sbi-seminar/#/title-slide), [source code](https://github.com/jacopok/sbi-seminar).
+- 2026-04-15: Invited talk at AEI Potsdam on the geometry of lunar gravitational wave detection. [Recording](https://www.youtube.com/watch?v=bSZEIf4FnGo), [slides](https://docs.google.com/presentation/d/1TzOWx80zHQ3x8a8YNv94xdJmlR62bA-kjuDM2JsDlLo).
 - 2025-09-14:  Outreach talk for a decade of gravitational waves, at a bar! Slides [here](https://docs.google.com/presentation/d/1RxXvc_LlbN5qChxtlQWfl_ou9CIP9s_2Ro7WjmszzJE/edit?usp=sharing).
 - 2025-07-14: Talk at [**GR Amaldi**](https://iop.eventsair.com/gr24-amaldi16/) about LGWA
 - 2025-03-31: Talk at [**Moriond Gravitation**](https://moriond.in2p3.fr/2025/Gravitation/gravitation-agenda.html) about LGWA
