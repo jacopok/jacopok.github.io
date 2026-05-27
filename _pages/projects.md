@@ -79,10 +79,10 @@ This is a list of things I'm currently working on, within a timescale around a m
 1. Finishing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/dnd/wa/frozen-sick#FrozenSick) with Padova people (december 2025)
 1. Working on a musical / dance outreach show about black holes
 1. Applying to postdocs
-1. Training: 
-   1. trail running and cycling 
+1. Training:
+   1. trail running and cycling
    1. circus: handstands, acro yoga, acrobatics
-   1. bodyweight calisthenics as a complement 
+   1. bodyweight calisthenics as a complement
 
 #### Will get to
 
