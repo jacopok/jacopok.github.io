@@ -7,6 +7,7 @@ nav: true
 nav_order: 1
 ---
 
+- 2026-07-20: PhD defense. [Indico page with slides](https://indico.gssi.it/event/988/).
 - 2026-05-20: Talk at the Einstein Telescope collaboration's [Division 10 meeting](https://wiki.et-gw.eu/OSB/DataAnalysisPlatform/Agenda20260520). [Slides](https://apps.et-gw.eu/tds/?r=20365).
 - 2026-04-24: Talk for the [inference group](https://inference.uni-jena.de/seminars/) at the university of Jena. [Interactive slides](https://jacopok.github.io/sbi-seminar/#/title-slide), [source code](https://github.com/jacopok/sbi-seminar).
 - 2026-04-15: Invited talk at AEI Potsdam on the geometry of lunar gravitational wave detection. [Recording](https://www.youtube.com/watch?v=bSZEIf4FnGo), [slides](https://docs.google.com/presentation/d/1TzOWx80zHQ3x8a8YNv94xdJmlR62bA-kjuDM2JsDlLo).
