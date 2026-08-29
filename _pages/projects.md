@@ -72,12 +72,12 @@ horizontal: false
 
 This is a list of things I'm currently working on, within a timescale around a month.
 
-1. Working on the multiband paper (analysis of long signals in the SSB frame)
-1. Peer review
-1. Collaborating on a couple papers
-1. Writing the thesis
-1. Finishing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/dnd/wa/frozen-sick#FrozenSick) with Padova people (december 2025)
-1. Working on a musical / dance outreach show about black holes
+1. Working to improve `mlgw_bns`
+   1. including higher order modes
+   1. aligning the timing of the waveforms and phasing of the modes
+   1. including precession
+   1. improving the evaluation time through an architecture change
+1. Trying to improve the efficiency of `nessai`
 1. Applying to postdocs
 1. Training:
    1. trail running and cycling
@@ -88,90 +88,25 @@ This is a list of things I'm currently working on, within a timescale around a m
 
 This is a list of tasks that I hope to get to in the future.
 
+
+1. Improve the visualizations for EOB orbits with [`eob-visualizer`](https://github.com/jacopok/eob-visualizer): with blender, a "cloud of points" for the BH orbits corresponding to the posteriors.
+1. Building a surrogate model for xkn (?)
+1. applying time-domain relative binning to weird hyperbolic encounters
+1. Working on a musical / dance outreach show about black holes
+1. Finishing a D&D campaign based on [Frozen Sick](https://www.dndbeyond.com/sources/dnd/wa/frozen-sick#FrozenSick) with Padova people (december 2025)
 1. Working on the inclination angle posterior feature and paper for BAYESTAR
-1. Helping in the supervision of master's students about:
-   1. [upgrades to `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/8)
-1. [rehear](/rehear): injection studies with ASTRI + SWIFT
-   1. Paper draft
-   1. Implementing a simplified model for the IRF of ASTRI
-   1. Testing it with a simple emission model
-   1. Then, moving towards the full injection, yielding percentages of sources pre-localized well enough
-   1. Running the same tests with the O3 replay MDC
-1. Helping as a reviewee of TEOBResumS-DALI
-1. Maintaining [`GWFish`](https://github.com/janosch314/GWFish)
-   1. Making the small interface fixes requested
-   1. Updating the `pypi` release of the code
 1. Cosmological coupling of Black Holes
-1. Working on some weird statistical methods for the BOAT
-1. O4 [Virgo](/projects/Virgo): participating in the Rapid Response Team
-1. Helping standardize waveform review tests for the LVK
-1. Improving the NWI's approach to parameter checking
-1. Organizing sessions on data visualization for the Fellowship of Clean Code
-   <!-- 1. Consistent ephemeris computation for all detectors - time shift to implement from the atom interferometry paper, or from Wen+Chen 2010
-   1. Enable simulation of DWD and other low-frequency-derivative signals -->
-1. Contributing to the [LGWA](/projects/LGWA) whitepaper (deadline: **end of November**)
-   1. Writing some preliminary info about localization
-   1. Doing some Fisher runs on massive BBH, multiband
-   1. Doing a full PE run for a BNS as seen by LGWA
-1. Improving the way early-warning signals are handled and sent to observatories ([rehear](/_projects/rehear))
-   1. Comparing CTA slewing strategies with divergent pointing
-1. Working on NWI tests
-   1. Implementing more of the v5 review tests as well as [these ones](https://git.ligo.org/waveforms/1-main/-/issues/10#note_851322)
-1. Making a study about how Fisher matrix sky localization compares to BAYESTAR localization (for full signals and pre-alerts)
-1. Checking whether the placement of templates according to a greedy algorithm is a good choice for NR informativeness
-1. Checking how fast we can make a truncated template bank for updating inference ([rehear](/_projects/rehear))
-1. GWFish long-term things
-   1. Making a PR with horizon-finding improvements
-      1. Horizon-finding in the case of long-lived signals: when is the optimal time to detect them?
-   1. New documentation for waveform generation
-   1. Implementing antenna patterns (make tests with comparison to pycbc!)
-   1. Implementing Markov chain network duty factor
-1. Making a fit for the phenomenology of hyperbolic encounters as a function of energy and angular momentum
 1. Writing a simple article detailing the science case for multimessenger observations;
    specifically focusing on what we can get from a combined PE
 1. DWD and NS-WD detectability studies with [decihertz GW detectors](/_projects/LGWA)
-1. Including higher order modes in BAYESTAR for [Einstein Telescope](/_projects/ET)
-1. Improving [timing in `mlgw_bns`](https://github.com/jacopok/mlgw_bns/issues/47)
-1. Working on cosmology with GWs
-1. Measuring $H(z)$
-1. Tracing small-scale $P(k)$ with BBH
-1. GRB intensity mapping classification
 1. Making a systematic study of the effect of the inclusion of high-order parameters
    in (BNS) waveforms
-1. Seeing whether the upgraded version of RES-NOVA can measure neutrino mass through delays with failed SNe
 1. Can we build a time-domain evidence integrand for GW inference?
    1. Is it somehow computable from to the SNR TD integrand with the waveform reconstruction?
    1. Can the methodology [here](https://arxiv.org/abs/2310.01544) be also applied to the hyperbolic analyses of GW190521?
 1. Learning to play bass
 1. Secret project with Filippo
-1. Make a page on this website with matplotlib tips and tricks
-1. Can we include the full-relativistic eleastic medium treatment from Belgacem+24 in a seismic simulation code?
-
-##### Questions
-
-1. Can we incorporate modelling uncertainties in GW PE?
-1. What are the localization capabilities for a lunar detector? can we do a PE run for LGWA?
-1. How can we include the Earth's motion in PE?
-   1. Justin Janquart did it based on how it's done in Iacovelli+22, but only for the 22 mode
-1. How can we train "instant-posterior" models (e.g. DINGO) on longer signals
-   such as BNS ones?
-1. How does [`jax`](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) work?
-1. How does multi-task gaussian process regression work ([Harisdau+2018](http://arxiv.org/abs/1805.03595))?
-1. How does DINGO-IS work exactly?
-1. How do the burst search efficiencies compare to matched-filtering SNRs?
-1. What causes the [Virgo $1 / \sqrt{f}$ noise](https://wiki.virgo-gw.eu/Commissioning/MysteryOneOverSqrtFnoise)?
-1. How does one do injections with BAYESTAR?
-1. Does updating the prior each time fix the Bayes factor multiplication bias described by Isi, Farr and Chatziiannou?
-1. How does the center of the skymap move with time?
-
-1. How do we do Fisher matrix forecasting with coordinates in the SSB?
-1. What are the necessary improvements to the computing infrastructure
-   to implement `rehear`?
-1. Real-time reanalysis,
-1. more EW frequency thresholds,
-1. a fast communication system for updates without "polluting" the environment with
-   too many GCNs?
-1. timings
+1. Do an LVK-style "population fit" of my run lengths, since 1Msun is a bit more than a km
 
 #### Already did
 
